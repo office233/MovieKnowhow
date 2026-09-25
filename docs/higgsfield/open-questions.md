@@ -7,7 +7,7 @@
 - **New:** 22 explainer styles and the only Marketplace app (Match Cut + Tracelab): `presets/explainer-and-apps.md`.
 
 ## Still open after the second pass
-- **Community projects' prompts (Hell Grind etc.):** the MCP does **not** expose them. `get_presets(query:'hell grind')` and `apps_search` return nothing. `show_generations` and `list_websites` only show the account's own content. They remain reachable only through a headless browser on higgsfield.ai.
+- **Community projects' prompts (Hell Grind etc.):** the MCP does **not** expose them (`get_presets(query:'hell grind')` and `apps_search` return nothing; `show_generations`/`list_websites` only show the account's own content). On the third attempt (2026-09-25) higgsfield.ai answers 200, but: (1) Playwright Chromium fails with `ERR_CERT_AUTHORITY_INVALID` behind the session proxy, even with the proxy set explicitly; (2) direct calls to Higgsfield's API for the project data were blocked by the session's permission classifier. It needs the user's decision: a permission rule for these requests, or a manual export from the account.
 - **Exact verbatim check for the recipes:** the text was copied from the tool responses. There is no automatic byte comparison against the server; `hero-shot`, `luxury` (image) and `whip-pan` (video) were checked against the live response and match. The workflow bundles *were* size-checked against `size_bytes`.
 - **Viral Hub:** the internal model/prompt behind the 87 chain presets is still not exposed.
 - **Not re-attempted:** 3D animation actions (300/678), voices, own generations, balance.
