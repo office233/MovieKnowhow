@@ -43,6 +43,7 @@
 
 - Model / settings: Cinema Studio 3.5 (15 s max)
 - Use-case: cinematic film scene
+- Settings (from article): Settings: Genre: Action, Color Palette: Bleach Bypass, Camera MoveSet Style: Raw Chaos, Lighting: Practicals, Camera: Fine Film, Lens: Clinical Sharp, Focal Length: 14mm, Aperture: f/4 Moderate.
 - Context: Why these settings: Action brings kinetic visual logic and the compressed framing of combat cinema. Bleach Bypass delivers hard contrast, blown highlights, and the silvery metallic desaturation of war footage: cold greys, muddy blacks, hot explosion-flash accents. Raw Chaos puts the camera at ground zero with aggressive shake and reactive reframes …
 
 ~~~~text
@@ -53,6 +54,7 @@ Style: 8K visceral, photoreal WAR-DRAMA cinema — soldiers crossing the sea to 
 
 - Model / settings: Cinema Studio 3.5 (15 s max)
 - Use-case: cinematic film scene
+- Settings (from article): Settings: Genre: Action, Color Palette: Cold Steel, Camera MoveSet Style: Raw Chaos, Lighting: Practicals, Camera: Fine Film, Lens: Anamorphic, Focal Length: 14mm, Aperture: f/4 Moderate.
 - Context: Why these settings: Action brings kinetic frame construction and the compressed timing of multi-shot editorial sequences. Cold Steel drapes the entire frame in cold steel-blue, which is exactly the dusk palette the sequence calls for, warmth absent everywhere except the four pod lights burning through it. Raw Chaos puts the camera at ground level …
 
 ~~~~text
@@ -63,6 +65,7 @@ Montage, multi-shot action Hollywood movie, don't use one camera angle or single
 
 - Model / settings: Cinema Studio 3.5 (15 s max)
 - Use-case: cinematic film scene
+- Settings (from article): Settings: Genre: Epic, Color Palette: Teal & Orange Epic, Camera MoveSet Style: Epic Scale, Lighting: Contre-jour, Camera: Fine Film, Lens: Anamorphic, Focal Length: 35mm, Aperture: f/4 Moderate.
 - Context: Why these settings: Epic is scale and environments as protagonists, which is exactly what a titan-beast on a dawn battlefield requires. Teal & Orange Epic gives the specific palette the sequence calls for: cold blue bioluminescent shadow against warm dawn-gold and holy-light accents. Epic Scale uses IMAX-level movements, low-angle orbits and …
 
 ~~~~text

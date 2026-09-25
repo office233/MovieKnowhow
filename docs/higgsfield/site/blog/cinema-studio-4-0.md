@@ -45,6 +45,7 @@ Max resolution 1080p.
 
 - Model / settings: Cinema Studio 4.0 (up to 30 s, up to 1080p)
 - Use-case: music video
+- Settings (from article): Era: 2010s
 - Context: The two examples below show the same scene run through Era selector twice, once set to the 2010s and once to the 1980s. Same characters, same choreography, same rejection beat by beat, different decade.
 
 ~~~~text
@@ -62,6 +63,7 @@ Max resolution 1080p.
 
 - Model / settings: Cinema Studio 4.0 (up to 30 s, up to 1080p)
 - Use-case: music video
+- Settings (from article): Era: 1980s
 - Context: The two examples below show the same scene run through Era selector twice, once set to the 2010s and once to the 1980s. Same characters, same choreography, same rejection beat by beat, different decade.
 
 ~~~~text
