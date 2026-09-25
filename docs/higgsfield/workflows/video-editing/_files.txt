@@ -1,0 +1,25 @@
+# Captured files for workflow: video-editing (read-only via get_workflow_instructions / get_workflow_bundle_file, 2026-09-25)
+SKILL.md
+_manifest.json
+references/animation-contract.md
+references/assembly.md
+references/caption-systems.md
+references/caption-titling.md
+references/clip-geometry.md
+references/compose.md
+references/editor-measured.md
+references/failure-modes.md
+references/motion-language.md
+references/provenance.md
+references/shot-blueprints.md
+references/title-animation.md
+references/workflows.md
+
+# Not fetched / missing: none
+# Notes:
+# - SKILL.md = instructions_markdown from get_workflow_instructions (9265 bytes). The raw bundle SKILL.md
+#   (size_bytes 6308) is identical to its first 6308 bytes; the server appends the shared
+#   "Unlimited generations (use_unlim)" section.
+# - Bundle has no ui.yaml, scripts/, or templates/ (directories: ".", "references").
+# - All 13 reference files matched the server-reported size_bytes; none truncated.
+# - _manifest.json = get_workflow_instructions response minus instructions_markdown.
