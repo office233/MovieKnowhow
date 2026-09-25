@@ -15,3 +15,9 @@ The camera plunges from orbit — through clouds, past the city grid — and lan
 Open with `get_presets(source:'viral', preset_id:'1ac7759b-5b1a-4523-bd77-b6bb5d6df84e')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+## From open-source
+
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
+
+- **Motion preset: Earth Zoom Out** (Camera pulls back from earth's surface — Epic reveal, scale, planet). How to call it: `[scene prompt]. Apply the Earth Zoom Out preset.`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-motion/SKILL.md` (line 152) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-motion/SKILL.md#L152 (related: the Viral Hub chain zooms *in* from orbit)

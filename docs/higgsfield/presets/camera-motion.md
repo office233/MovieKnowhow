@@ -2,7 +2,7 @@
 
 This file collects every named camera-motion preset, camera control and camera enum found in the cloned open-source repos under `../opensource/` (licenses: MIT, CC-BY or ISC; see `../opensource/SOURCES.tsv`). The 87 Viral Hub presets and 63 bundled recipes that were captured from the live MCP are indexed in [INDEX.md](INDEX.md). Where one of those overlaps a camera move, this file links to it.
 
-**Counts:** 42 named camera controls (general generation / DoP), 13 angle presets, 8 shot sizes, 18 + Auto Cinema Studio Director Panel moves, 9 CS 3.5 Camera Moveset Styles, 6 + 7 + 8 speed-ramp modes, 22 precision-phrased moves (higgsfield-skills), 7 hook moves, 12 luxury/faceless moves, 21 implied-motion image moves, 4 DoP API/official templates.
+**Counts:** 63 named camera moves in Table A (the 38 official Higgsfield camera controls from `higgsfield-camera`, plus variants from vocab, recipes, DoP templates, and the hook and precision libraries), 13 angle presets, 8 shot sizes, 18 + Auto Cinema Studio Director Panel moves, 9 CS 3.5 Camera Moveset Styles, 6 + 7 + 8 speed-ramp modes, 22 precision-phrased moves (higgsfield-skills), 7 hook moves, 5 luxury + 13 faceless-channel moves, 20 implied-motion image moves, 3 official DoP prompt templates (Push In, Whip Pan, Crash Zoom).
 
 ## Source legend
 

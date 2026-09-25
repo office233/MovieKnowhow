@@ -15,3 +15,10 @@ High-contrast two-tone style
 Open with `get_presets(source:'viral', preset_id:'928dd98a-20e4-42f8-8772-0cb5c9a758f9')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+## From open-source
+
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
+
+- **Mixed Media preset: Two Color** (Bold two-tone duotone treatment — Graphic, poster, editorial). How to call it: `[scene prompt]` then `Mixed Media preset: Two Color`. To layer two: `Mixed Media presets: Two Color + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 99) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L99
+- **Worked example:** `Mixed Media preset: Two Color — black and vermillion.` Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 139) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L139

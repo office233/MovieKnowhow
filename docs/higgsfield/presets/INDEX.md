@@ -10,6 +10,20 @@ Collected 2026-09-25 via the Higgsfield MCP `get_presets` (read-only browsing) b
 
 Gallery categories: `all` (All), `motion` (Motion), `product-shot` (Product shot), `effects` (Effects)
 
+## Open-source preset knowledge base (added 2026-09-25)
+
+Built from the 20 cloned open-source repos in `../opensource/` (MIT / CC-BY-4.0 / ISC; see `../opensource/SOURCES.tsv`). Every entry cites its repo, relative path and a commit-pinned GitHub URL.
+
+| File | What it covers | Counts |
+|---|---|---|
+| [camera-motion.md](camera-motion.md) | Every camera-motion preset: what it does, best use, models, exact phrasing, pairing tips; Cinema Studio Director Panel; CS 3.5 Camera Moveset Style (CLI slugs); speed ramps; DoP API | 63 named moves · 13 angles · 8 shot sizes · 18+Auto Director Panel · 9 moveset styles · 27 speed-ramp values (UI 6+7, CLI 6+8) · 22 precision-phrased moves · model×camera table · FPV path-drawing template |
+| [cinema-studio.md](cinema-studio.md) | Cinema Studio 2.5 / 3.0 / 3.5: camera bodies, lenses, focal lengths, apertures, genres, color palettes, lighting, Soul Cast, image-mode models, and how to call each (UI / CLI / MCP) | 6+3 bodies · 10+5 lenses · 5 focal · 3 apertures · 8/7/7 genres · 8 color palettes · 6 lighting · 21 intent stacks + 5 CS 3.5 stacks · Soul Cast 14 genres / 12 archetypes / 7 outfits · 19 micro-expressions |
+| [marketing-dtc.md](marketing-dtc.md) | Marketing Studio's 9 video presets (mode slugs + structure), hooks, settings, avatars, params; DTC Ads (`ms_image`); Content Factory's 5 UGC formats; the UGC 3-cut spine; static-ad templates; product apps; hook libraries; ad timing structures | 9 presets · 9 hooks · 14 settings · 3 MS models · 5 UGC formats · 148 named hooks · 5 quick-cut structures · 10 ad-format skills |
+| [effects-and-styles.md](effects-and-styles.md) | Motion/VFX presets, Mixed Media, Photodump, Moodboard + Soul Hex, apps, Vibe Motion, Soul styles (API), Higgsfield viral "formats", stylized styles and hooks; cross-linked to the Viral Hub | 92 motion · 52 Mixed Media · 29 Photodump · 12 moodboards + 6 palettes · 50 apps · 49 rows linked to 39 Viral Hub files |
+| [opensource-prompt-templates.md](opensource-prompt-templates.md) | Every reusable prompt template and worked Higgsfield prompt, verbatim with attribution, grouped by use case | **386** (cinematic 152 · product/DTC 46 · UGC 17 · viral/motion 50 · character consistency 57 · transitions/edits 27 · dialogue/lip-sync 10 · storyboards/stills 27) |
+
+**Enrichment of existing files:** 39 of the 87 `viral/*.md` files and 38 of the 63 `recipes/*.md` files now end with a `## From open-source` section (same-name or related preset, invocation phrasing, model hints, source link). **No open-source repo contains the exact model or prompt template behind any Viral Hub chain preset, any bundled recipe, or any of the 649 Marketing Studio style presets.** Those sections give equivalents, not the originals. The 48 Viral Hub presets with no open-source counterpart are listed in [effects-and-styles.md](effects-and-styles.md#viral-hub-87-live-with-the-open-source-coverage-summary).
+
 ## Viral Hub presets (87)
 
 | # | Name | Kind | Description | Preview |
