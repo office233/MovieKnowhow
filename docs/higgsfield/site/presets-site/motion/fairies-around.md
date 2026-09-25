@@ -43,3 +43,18 @@ Use it as: upload a start image that matches the scene, select motion preset **F
 | 3 | https://higgsfield.ai/motion/94dc9474-0a60-4f19-986d-6d7cac26aa14/82389e9e-49b6-4492-8135-50b0bc45d852 | https://cdn.higgsfield.ai/kling_video_sample/82389e9e-49b6-4492-8135-50b0bc45d852.mp4 | 1660×1244 |
 
 Source pages: https://higgsfield.ai/motion/94dc9474-0a60-4f19-986d-6d7cac26aa14. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `2fe7ef70-176d-495e-8694-0bab6a446554`** (priority 2), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/14fafcc7-85fa-4841-a878-f9dfbaccb3a5.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/2fe7ef70-176d-495e-8694-0bab6a446554.mp4
+  - page: https://higgsfield.ai/motion/94dc9474-0a60-4f19-986d-6d7cac26aa14/2fe7ef70-176d-495e-8694-0bab6a446554
+
+```text
+она слегка улыбается и смотрит на фей 
+
+```

@@ -49,3 +49,26 @@ Use it as: upload a start image that matches the scene, select motion preset **I
 | 9 | https://higgsfield.ai/motion/3891c001-6191-4c33-bcd2-e518736ea923/440fd696-7035-4ce0-9a7c-1c87e17e81c9 | https://cdn.higgsfield.ai/minimax_hailuo_sample/440fd696-7035-4ce0-9a7c-1c87e17e81c9.mp4 | 1438×1080 |
 
 Source pages: https://higgsfield.ai/motion/3891c001-6191-4c33-bcd2-e518736ea923. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+2 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `440fd696-7035-4ce0-9a7c-1c87e17e81c9`** (priority 11), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/846465b0-25bf-41b8-a430-591f6a08bc8c.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/440fd696-7035-4ce0-9a7c-1c87e17e81c9.mp4
+  - page: https://higgsfield.ai/motion/3891c001-6191-4c33-bcd2-e518736ea923/440fd696-7035-4ce0-9a7c-1c87e17e81c9
+
+```text
+A young woman stands at normal speed in an elegantly decorated room with dim warm lighting reflecting softly on the golden ornate frame behind her and textured wallpaper surrounding the scene. She wears a loose blue athletic shirt with large bold white letters on the chest and layered gold chain necklaces featuring cross pendants that catch subtle light reflections. Her dark, slicked-back hair frames a composed and calm expression with smooth, glossy lips and intensely focused eyes. The camera starts front-facing with a medium close-up, slowly pushing in and slightly lifting to emphasize her serene poise and refined details. Gradually, the scene transforms as textures and colors simplify into bold outlines with smooth shading, surfaces shift into flat vibrant color blocks using high contrast and expressive line work, giving everything a stylized illustrative aesthetic while maintaining the original room's intricate patterns and lighting mood.
+```
+
+- **Sample `6d17691e-83fa-4379-92bc-45d7bda292e1`** (priority 10), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/846465b0-25bf-41b8-a430-591f6a08bc8c.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/6d17691e-83fa-4379-92bc-45d7bda292e1.mp4
+  - page: https://higgsfield.ai/motion/3891c001-6191-4c33-bcd2-e518736ea923/6d17691e-83fa-4379-92bc-45d7bda292e1
+
+```text
+A young woman stands indoors framed by an ornate golden mirror and textured wallpaper, her dark wet hair slicked back, wearing a shiny deep blue oversized shirt emblazoned with bold white letters. Two layered gold chains with cross pendants rest against the fabric. She holds a calm, confident gaze, lips slightly parted, face illuminated by warm, soft lighting that casts gentle shadows over her features. She remains still at normal speed. As the scene unfolds, textures and colors simplify progressively into bold, smooth outlines with refined smooth shading, transforming the entire composition into vibrant color blocks with high contrast. The golden wall accents and rich background details adapt into expressive drawn forms, shifting the setting into a stylized artistic interpretation with sleek, flat colors enhancing the atmospheric luxury and poise of the original moment. The camera begins at a medium close-up focused on her expressive face then slowly zooms out, revealing more of the lavish surroundings while maintaining sharp, stylized visual clarity.
+```

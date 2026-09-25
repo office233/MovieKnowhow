@@ -53,3 +53,44 @@ Use it as: upload a start image that matches the scene, select motion preset **N
 | 8 | https://higgsfield.ai/motion/e64ba623-e3dc-4149-95f5-2747c5faba6a/4fb9cc3d-0bac-4d8c-a083-924fa38d6953 | https://cdn.higgsfield.ai/kling_video_sample/4fb9cc3d-0bac-4d8c-a083-924fa38d6953.mp4 | 1244×1660 |
 
 Source pages: https://higgsfield.ai/motion/e64ba623-e3dc-4149-95f5-2747c5faba6a. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+4 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `03c162be-9c48-4138-80a4-f148690ab28c`** (priority 6), output video 1660×1244
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/a9bed072-fdd6-4ee5-ad69-fcbc647191d2.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/03c162be-9c48-4138-80a4-f148690ab28c.mp4
+  - page: https://higgsfield.ai/motion/e64ba623-e3dc-4149-95f5-2747c5faba6a/03c162be-9c48-4138-80a4-f148690ab28c
+
+```text
+time changes to night
+```
+
+- **Sample `af23871e-1886-4687-9ce3-d17ec7952948`** (priority 5), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/3d01683e-7915-4dd2-add3-4a636c7ff1cb.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/af23871e-1886-4687-9ce3-d17ec7952948.mp4
+  - page: https://higgsfield.ai/motion/e64ba623-e3dc-4149-95f5-2747c5faba6a/af23871e-1886-4687-9ce3-d17ec7952948
+
+```text
+woman walks
+```
+
+- **Sample `d82a0e4f-5856-4464-9caf-c0c60e18b8db`** (priority 4), output video 828×1108
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/aa6609a0-df04-4573-86ac-8ade0684b49c.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/d82a0e4f-5856-4464-9caf-c0c60e18b8db.mp4
+  - page: https://higgsfield.ai/motion/e64ba623-e3dc-4149-95f5-2747c5faba6a/d82a0e4f-5856-4464-9caf-c0c60e18b8db
+
+```text
+red 
+```
+
+- **Sample `3e634982-e06b-404b-936a-546d156bee7f`** (priority 2), output video 1660×1244
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/ac1d516a-cd4b-4a69-bbf3-00fb6793746f.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/3e634982-e06b-404b-936a-546d156bee7f.mp4
+  - page: https://higgsfield.ai/motion/e64ba623-e3dc-4149-95f5-2747c5faba6a/3e634982-e06b-404b-936a-546d156bee7f
+
+```text
+woman walks
+```

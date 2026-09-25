@@ -68,3 +68,26 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 9 | https://higgsfield.ai/motion/4c5463f1-7226-4544-b5a6-4e7299a615dd/33762105-72c2-4087-a4c5-f0c986a7801b | https://cdn.higgsfield.ai/minimax_hailuo_sample/33762105-72c2-4087-a4c5-f0c986a7801b.mp4 | 1080×1438 |
 
 Source pages: https://higgsfield.ai/motion/a312e070-ca5f-4471-8ac3-cef8a8ada3bf, https://higgsfield.ai/motion/4c5463f1-7226-4544-b5a6-4e7299a615dd. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+2 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `33762105-72c2-4087-a4c5-f0c986a7801b`** (priority 11), output video 1080×1438
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/bb26ebbf-339c-44c2-a207-f94b549593c2.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/33762105-72c2-4087-a4c5-f0c986a7801b.mp4
+  - page: https://higgsfield.ai/motion/4c5463f1-7226-4544-b5a6-4e7299a615dd/33762105-72c2-4087-a4c5-f0c986a7801b
+
+```text
+A person stands in a smooth teal gradient studio backdrop wearing a shimmering rhinestone encrusted full-face mask with eye and mouth openings. Their eyes glisten with heavy tears streaming uncontrollably, cheeks quivering, and lips trembling behind the sparkling mask. They wear a rich emerald green silky fabric draped around the shoulders, folds catching soft light. The figure's chest rises and falls rapidly with shallow, broken breath, head slightly tilted in agonized silence. The shot is static and centered, capturing intimate rawness beneath the glamorous glitter. Tears trickle down beneath the mask, conveying devastating emotional collapse without sound, the intense pain visible only in their swelling eyes and strained expression.
+```
+
+- **Sample `122aef2c-dc82-4082-9141-09c7ed79997f`** (priority 10), output video 1080×1438
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/bb26ebbf-339c-44c2-a207-f94b549593c2.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/122aef2c-dc82-4082-9141-09c7ed79997f.mp4
+  - page: https://higgsfield.ai/motion/4c5463f1-7226-4544-b5a6-4e7299a615dd/122aef2c-dc82-4082-9141-09c7ed79997f
+
+```text
+A person stands centered, wearing a dazzling rhinestone-encrusted balaclava that covers their head and lower face, their lips visible through the mask opening. Their dark eyes look wide and filled with silent pain, streams of tears glistening under the crystal mask. They wear a smooth, emerald green high-neck garment that contrasts with the glittering mask. The background is a subtle dark teal gradient, isolating the figure in sharp focus. The camera is static, capturing a portrait view of their upper chest and head. The person’s face twists in raw, painful sorrow, breath short and broken, nostrils flared, lips trembling. Silent tears fall freely, their shoulders slightly shuddering as the character breaks down completely, overwhelmed by grief, fully immersed in emotional collapse.
+```

@@ -47,3 +47,17 @@ Use it as: upload a start image that matches the scene, select motion preset **P
 | 7 | https://higgsfield.ai/motion/87057daa-5a36-4517-b782-63387ed55de9/bfe9a6c8-b423-4b34-8728-6d058d83525d | https://cdn.higgsfield.ai/minimax_hailuo_sample/bfe9a6c8-b423-4b34-8728-6d058d83525d.mp4 | 1438×1080 |
 
 Source pages: https://higgsfield.ai/motion/87057daa-5a36-4517-b782-63387ed55de9. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `bfe9a6c8-b423-4b34-8728-6d058d83525d`** (priority 8), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/1abd29a1-6b91-425e-aa36-b8eda185c95f.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/bfe9a6c8-b423-4b34-8728-6d058d83525d.mp4
+  - page: https://higgsfield.ai/motion/87057daa-5a36-4517-b782-63387ed55de9/bfe9a6c8-b423-4b34-8728-6d058d83525d
+
+```text
+The scene starts with a young man in a black bucket hat and black t-shirt holding the camera with one hand from an elevated, exaggerated wide-angle selfie perspective. Behind him glows the vibrant red carousel lights at night, casting a warm, electric ambiance. The man, centered in frame with an enlarged face and upper body, suddenly breaks his posed stillness, launching into a fast run forward toward a pool illuminated nearby. With a joyful, silent laugh, he maintains the handheld selfie as he jumps energetically into the pool, the water splashing around him in dynamic motion while the camera sways slightly, capturing his exhilaration against the vivid carnival backdrop.
+```

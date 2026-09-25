@@ -50,3 +50,35 @@ Use it as: upload a start image that matches the scene, select motion preset **A
 | 6 | https://higgsfield.ai/motion/a5aad83f-c66b-44eb-a781-85132636253f/a9a74983-29ef-41e0-b536-d99dcfa1f2cb | https://cdn.higgsfield.ai/kling_video_sample/a9a74983-29ef-41e0-b536-d99dcfa1f2cb.mp4 | 1176×1764 |
 
 Source pages: https://higgsfield.ai/motion/a5aad83f-c66b-44eb-a781-85132636253f. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+3 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `a9a74983-29ef-41e0-b536-d99dcfa1f2cb`** (priority 6), output video 1176×1764
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/4cc22e00-4b0e-47e4-a15e-9bc063e5cf7d.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/a9a74983-29ef-41e0-b536-d99dcfa1f2cb.mp4
+  - page: https://higgsfield.ai/motion/a5aad83f-c66b-44eb-a781-85132636253f/a9a74983-29ef-41e0-b536-d99dcfa1f2cb
+
+```text
+Handheld camera technique. A young woman with blonde hair under a beige cap, wearing a loose green sweater and gray pants, stands motionless in an elevator, holding her phone for a mirror selfie. Suddenly, the entire space around her begins to flood rapidly with water. Clear, reflective water gushes in from the elevator doors and floor seams, filling the metallic cabin. The reflections of lights and steel walls distort through the rising water, bubbles swirling upward as the level climbs higher. Despite the surreal, claustrophobic flood, she stays completely still, frozen in her pose, staring into the phone camera.
+```
+
+- **Sample `2fc59945-5b33-4ea6-bcbd-47633910fb1b`** (priority 5), output video 1176×1764
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/fafb821e-624a-4e5e-84a2-cb3b3fbb1d5d.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/2fc59945-5b33-4ea6-bcbd-47633910fb1b.mp4
+  - page: https://higgsfield.ai/motion/a5aad83f-c66b-44eb-a781-85132636253f/2fc59945-5b33-4ea6-bcbd-47633910fb1b
+
+```text
+Handheld camera technique. A young woman with curly hair in a messy bun, wearing a black vest over a white shirt and ripped blue jeans, squats in front of a mirror holding her phone. She stays motionless, smiling slightly. Suddenly, the entire space around her rapidly fills with water as if a flood is rushing into the room. The water level climbs quickly, submerging the bed, bookshelf, and plants. Clear, reflective water distorts the environment with ripples and bubbles, while light bends and flickers across the scene. Despite the surreal chaos, she remains perfectly still in her pose, frozen in the handheld frame.
+```
+
+- **Sample `d6634038-38c0-4010-882a-7b68de96e4fb`** (priority 4), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/0bf3efbc-2b48-45d2-b4c0-42e05ddf666f.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/d6634038-38c0-4010-882a-7b68de96e4fb.mp4
+  - page: https://higgsfield.ai/motion/a5aad83f-c66b-44eb-a781-85132636253f/d6634038-38c0-4010-882a-7b68de96e4fb
+
+```text
+Handheld camera style. A young woman with blonde hair in a sleek bun, wearing sunglasses, a black dress, and black boots, sits calmly at a wooden café table with an iced coffee. She stays perfectly still and relaxed. Suddenly, the entire space around her fills rapidly with water as if a flood is rushing in. The water level rises quickly, submerging chairs, tables, and plants. 
+```

@@ -46,3 +46,44 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 6 | https://higgsfield.ai/motion/bb08555e-8641-4b56-a97f-faccd1a8f615/d5ef40a7-2ae3-4a07-abd1-9c08b1aa87d5 | https://cdn.higgsfield.ai/minimax_hailuo_sample/d5ef40a7-2ae3-4a07-abd1-9c08b1aa87d5.mp4 | 1438×1080 |
 
 Source pages: https://higgsfield.ai/motion/bb08555e-8641-4b56-a97f-faccd1a8f615. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+4 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `d5ef40a7-2ae3-4a07-abd1-9c08b1aa87d5`** (priority 6), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/6ff666d6-ee63-4119-ac9d-2c7127e101b4.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/d5ef40a7-2ae3-4a07-abd1-9c08b1aa87d5.mp4
+  - page: https://higgsfield.ai/motion/bb08555e-8641-4b56-a97f-faccd1a8f615/d5ef40a7-2ae3-4a07-abd1-9c08b1aa87d5
+
+```text
+A mature woman with neatly styled hair and a warm brown coat sits behind the wheel of a classic car. The windshield shows droplets from recent rain, capturing soft city light glimmers and neon sign reflections outside. The car speeds forward into twilight, blurring the urban environment beyond the glass. Inside, her focused expression is bathed in amber dashboard light as she holds the steering wheel calmly. The camera is fixed firmly to the car’s dashboard, steady and unshaken, emphasizing the illusion of fast motion through shimmering raindrops and tinted glass smudges, with ambient sounds of rushing wind and tires on wet pavement.
+```
+
+- **Sample `7e4ff0cf-5bf3-40e0-bfb3-2cfb6b56a460`** (priority 4), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/a9744823-8d3f-4d3b-9484-741f2b5f70fd.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/7e4ff0cf-5bf3-40e0-bfb3-2cfb6b56a460.mp4
+  - page: https://higgsfield.ai/motion/bb08555e-8641-4b56-a97f-faccd1a8f615/7e4ff0cf-5bf3-40e0-bfb3-2cfb6b56a460
+
+```text
+A man with short hair and a calm, contemplative expression sits behind the wheel of a vintage black car. Warm late afternoon sunlight casts long shadows across his face through the side window, highlighting the car's polished chrome trim and beige leather interior. The camera is fixed on the car's exterior, steady on the door frame and side mirror, capturing the stillness as the car moves slowly along a quiet, open road under a cloudy sky. Light reflections shimmer softly on the window, blending with the natural ambient light. The mood is thoughtful, quiet, and intimate.
+```
+
+- **Sample `d87baf9b-eac0-457a-88ac-b31f86886df9`** (priority 3), output video 1080×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/e70b47d0-d653-4c1a-957f-d80a124a9257.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/d87baf9b-eac0-457a-88ac-b31f86886df9.mp4
+  - page: https://higgsfield.ai/motion/bb08555e-8641-4b56-a97f-faccd1a8f615/d87baf9b-eac0-457a-88ac-b31f86886df9
+
+```text
+Inside a car cruising down a sunlit road, a young Black man with short hair and a faint mustache grips the steering wheel firmly. He wears a brown jacket over an olive shirt and a silver chain, his face tense and concentrated under the golden afternoon light filtering through the windshield. The car's beige leather interior glows warmly, with soft shadows falling across the driver’s features. Outside, a slightly blurred suburban landscape stretches under a clear blue sky, the vehicle steady despite subtle road vibrations caught through the windshield's slight smudges and reflections.
+```
+
+- **Sample `5ca92d5e-c994-4536-8832-981e7d96938c`** (priority 2), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/92df3a9e-f95f-45e6-92cf-44f5ff5fbd40.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/5ca92d5e-c994-4536-8832-981e7d96938c.mp4
+  - page: https://higgsfield.ai/motion/bb08555e-8641-4b56-a97f-faccd1a8f615/5ca92d5e-c994-4536-8832-981e7d96938c
+
+```text
+From a fixed interior mount on a classic car's dashboard, a young man drives with a focused, serious expression, his right hand gripping the vintage white steering wheel, left arm raised shielding his eyes from bright daylight. Beside him, a young woman in an embroidered white blouse sits quietly, gazing slightly left, her curly hair softly illuminated by natural light filtering through the windows. The car's leather seats frame them tightly. Outside, a blurred urban road scene unfolds under a bright, hazy sky. Reflections and windshield smudges add textured realism. The ambient hum of the engine and distant city sounds underscore their silent, tense atmosphere.
+```

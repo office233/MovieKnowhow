@@ -55,3 +55,17 @@ Use it as: upload a start image that matches the scene, select motion preset **B
 | 10 | https://higgsfield.ai/motion/41932502-40a0-4637-b392-1d9df097d089/5a706eba-8b54-42cb-86f4-4f315f30648f | https://cdn.higgsfield.ai/minimax_hailuo_sample/5a706eba-8b54-42cb-86f4-4f315f30648f.mp4 | 1620×1080 |
 
 Source pages: https://higgsfield.ai/motion/41932502-40a0-4637-b392-1d9df097d089. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `5a706eba-8b54-42cb-86f4-4f315f30648f`** (priority 11), output video 1620×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/26a933b7-eff6-460c-a238-8811092c0d88.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/5a706eba-8b54-42cb-86f4-4f315f30648f.mp4
+  - page: https://higgsfield.ai/motion/41932502-40a0-4637-b392-1d9df097d089/5a706eba-8b54-42cb-86f4-4f315f30648f
+
+```text
+At a dimly lit gas station under a sharply focused roof canopy adorned with sporadic rectangular lights, a young woman stands firmly at the center. Her vibrant red racing-style jacket is filled with air, ballooning outward with bold, rounded curves that amplify every stitched patch and embroidered logo. The supple leather texture bulges while the silver chains cascading from the jacket hang with enhanced weight and clarity. Beneath, her crisp white ribbed tank top is similarly puffed, puffing out smoothly around her torso, the fabric stretched softly but still textured with its fine knit pattern. Her loose denim jeans are expanded with air, the iconic blue fabric puffed upward and outward, pockets and seams pronounced and slightly raised, while the waistband holds snug around her hips, contrasting with the swallowtail puff of the legs. Dark sunglasses obscure her eyes, her slightly open lips clutching a small object, framing an expression of cool confidence set against the neon-lit station. The bright green and black fuel pumps positioned to her side gleam faintly, and the distant red and white signage glows vividly against the night sky. Every detail of her inflated clothes remains distinct, with the authentic materials and colors vividly preserved as the fullness enhances this striking, self-assured moment under artificial light.
+```

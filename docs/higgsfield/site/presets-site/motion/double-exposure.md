@@ -50,3 +50,35 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 10 | https://higgsfield.ai/motion/19944586-7fa0-45da-a4bc-1ee51f7832fd/e5b13d99-cb1e-42d1-9b2d-bf9b3c1d92c1 | https://cdn.higgsfield.ai/minimax_hailuo_sample/e5b13d99-cb1e-42d1-9b2d-bf9b3c1d92c1.mp4 | 1080×1918 |
 
 Source pages: https://higgsfield.ai/motion/19944586-7fa0-45da-a4bc-1ee51f7832fd. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+3 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `e5b13d99-cb1e-42d1-9b2d-bf9b3c1d92c1`** (priority 14), output video 1080×1918
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/550de726-b07f-41f5-8844-4ea1c495ff04.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/e5b13d99-cb1e-42d1-9b2d-bf9b3c1d92c1.mp4
+  - page: https://higgsfield.ai/motion/19944586-7fa0-45da-a4bc-1ee51f7832fd/e5b13d99-cb1e-42d1-9b2d-bf9b3c1d92c1
+
+```text
+the scene shifts to double exposure, blending the woman's silhouette with the scary scene
+```
+
+- **Sample `8540052d-778a-4454-8d11-d9a0df6d7ea7`** (priority 12), output video 1080×1918
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/fd754f55-4ac7-4cd1-8970-6b362b921051.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/8540052d-778a-4454-8d11-d9a0df6d7ea7.mp4
+  - page: https://higgsfield.ai/motion/19944586-7fa0-45da-a4bc-1ee51f7832fd/8540052d-778a-4454-8d11-d9a0df6d7ea7
+
+```text
+A dramatic portrait of a racing driver standing resolutely in full gear, the black background softly transitioning to a deep charcoal gray that embraces the scene with quiet solemnity. Within the sharp silhouette of their helmet and racing suit, a tranquil desert night landscape is revealed: luminous stars shimmer across the clear sky, casting a gentle glow that integrates with the reflective surfaces of the helmet and suit. Rolling sand dunes ripple gently across their torso and arms, merging with the creases and folds of their racing gear. Subtle, slow breathing causes the faintest movement in the dunes, while the soft shimmer of stars flickers across the visor. The cold interplay of artificial suit lighting blends with the warm, natural hues of the desert night inside the silhouette, creating a surreal yet calm tension. Camera slowly sways side to side, enhancing the dreamlike atmosphere and contemplative solitude of this fusion between human determination and vast, silent nature.
+```
+
+- **Sample `cdc81d90-225b-4387-a526-168c410a668a`** (priority 11), output video 1080×1620
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/8e0aa415-87d1-4209-bc5e-160d6f9cf798.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/cdc81d90-225b-4387-a526-168c410a668a.mp4
+  - page: https://higgsfield.ai/motion/19944586-7fa0-45da-a4bc-1ee51f7832fd/cdc81d90-225b-4387-a526-168c410a668a
+
+```text
+the scene shifts to double exposure, blending the man's silhouette with the scary war scene
+```

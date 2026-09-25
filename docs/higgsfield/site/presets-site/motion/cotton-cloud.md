@@ -52,3 +52,17 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 8 | https://higgsfield.ai/motion/588486b6-f303-4e2a-b8b0-2b74b01a5f50/6f64488d-8d97-4035-a486-4d5988884662 | https://cdn.higgsfield.ai/kling_video_sample/6f64488d-8d97-4035-a486-4d5988884662.mp4 | 1660×1244 |
 
 Source pages: https://higgsfield.ai/motion/588486b6-f303-4e2a-b8b0-2b74b01a5f50. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `c127188b-de36-4fc6-a015-b32b85a1dc11`** (priority 5), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/87c2c3ef-c84a-4eb6-a78e-ae125e44e55a.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/c127188b-de36-4fc6-a015-b32b85a1dc11.mp4
+  - page: https://higgsfield.ai/motion/588486b6-f303-4e2a-b8b0-2b74b01a5f50/c127188b-de36-4fc6-a015-b32b85a1dc11
+
+```text
+вата должна быть желтого цвета
+```

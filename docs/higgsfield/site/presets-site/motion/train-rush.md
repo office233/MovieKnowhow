@@ -56,3 +56,17 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 12 | https://higgsfield.ai/motion/de601c08-c4cf-4eac-b1c5-a1d4040b57a6/64975744-231c-4c8c-bca4-614cb926d90e | https://cdn.higgsfield.ai/minimax_hailuo_sample/64975744-231c-4c8c-bca4-614cb926d90e.mp4 | 1080×1438 |
 
 Source pages: https://higgsfield.ai/motion/de601c08-c4cf-4eac-b1c5-a1d4040b57a6. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `f7a6a74e-9d7b-47ec-8604-2f8862f71139`** (priority 14), output video 1080×1438
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/6e1d917b-6e04-41d9-96db-d978204d4f92.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/f7a6a74e-9d7b-47ec-8604-2f8862f71139.mp4
+  - page: https://higgsfield.ai/motion/de601c08-c4cf-4eac-b1c5-a1d4040b57a6/f7a6a74e-9d7b-47ec-8604-2f8862f71139
+
+```text
+A sharply dressed Black man stands against a dark, indistinct background, wearing an elegant double-breasted deep red suit with a crisp white shirt and matching red tie. His hair is styled in neat cornrows, glistening subtly under a focused, soft overhead light that casts deep shadows on his serious, composed face. His hands are clasped calmly in front of him. Suddenly, from the background behind him, a subway train rushes by at high speed, bursting out of the darkness with glowing windows and roaring mechanical sounds. The sudden movement sends a gust of wind that lifts strands of his braided hair and ripples the fabric of his suit jacket. The lighting flares slightly as the train blurs past, creating vivid contrasts of light and shadow across the scene. The camera remains static, capturing the intense, silent stillness of the man contrasted by the explosive energy of the passing train, evoking a cinematic moment of poised strength and dynamic urban life.
+```

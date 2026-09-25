@@ -48,3 +48,17 @@ Use it as: upload a start image that matches the scene, select motion preset **R
 | 8 | https://higgsfield.ai/motion/c9c68a56-1f59-46d9-90f2-ee8535f0511d/41c25e0a-964e-41f1-9b29-d8734660f101 | https://cdn.higgsfield.ai/minimax_hailuo_sample/41c25e0a-964e-41f1-9b29-d8734660f101.mp4 | 1918×1080 |
 
 Source pages: https://higgsfield.ai/motion/c9c68a56-1f59-46d9-90f2-ee8535f0511d. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `41c25e0a-964e-41f1-9b29-d8734660f101`** (priority 9), output video 1918×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/285dc59c-5f6b-4fa4-b1a2-e7a4c2c7ad5d.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/41c25e0a-964e-41f1-9b29-d8734660f101.mp4
+  - page: https://higgsfield.ai/motion/c9c68a56-1f59-46d9-90f2-ee8535f0511d/41c25e0a-964e-41f1-9b29-d8734660f101
+
+```text
+A front-side view of a glossy black Honda NSX speeding down a sunlit desert highway, the sleek sports car showing subtle reflections and polished curves. The camera tracks dynamically, shifting from a low angle near the spinning front wheel, sweeping up to catch the windshield and roofline, then sliding laterally to reveal a dark Dodge Challenger racing parallel, slightly blurred with rapid motion. The cracked asphalt highway stretches ahead with distinct yellow lane markers and scattered salt flats and sparse desert shrubs on either side under a clear blue sky. The NSX's headlights are off but reflecting sunlight, its body leaning slightly with the high velocity, tires gripping the road with visible rapid spin. Shadows fall sharply, emphasizing the intense midday brightness and the cars’ speed. Further back, occasional vehicles blur into the distance on this two-lane highway, adding depth and realism. The overall tone is crisp and clear with natural lens flares and ground-level perspective shifts that enhance the kinetic feel of a high-stakes, fast-paced chase across the arid landscape.
+```

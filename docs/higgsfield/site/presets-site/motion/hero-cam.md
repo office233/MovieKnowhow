@@ -48,3 +48,17 @@ Use it as: upload a start image that matches the scene, select motion preset **H
 | 8 | https://higgsfield.ai/motion/a8c54413-c991-416a-8ac8-32c6a42caa6c/18c61ab3-230c-47e9-af1b-08d36c730826 | https://cdn.higgsfield.ai/minimax_hailuo_sample/18c61ab3-230c-47e9-af1b-08d36c730826.mp4 | 1080×1620 |
 
 Source pages: https://higgsfield.ai/motion/a8c54413-c991-416a-8ac8-32c6a42caa6c. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `18c61ab3-230c-47e9-af1b-08d36c730826`** (priority 9), output video 1080×1620
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/f276f417-1c55-4bdf-8dc8-6667085a630e.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/18c61ab3-230c-47e9-af1b-08d36c730826.mp4
+  - page: https://higgsfield.ai/motion/a8c54413-c991-416a-8ac8-32c6a42caa6c/18c61ab3-230c-47e9-af1b-08d36c730826
+
+```text
+The camera makes a fast entrance into a shadowy attic bedroom bathed in the warm glow of sunset filtering through orange wooden blinds. Instantly fast locking onto a young woman seated cross-legged at the edge of a dark bed, her silky pink pajama pants shining softly against the deep blue bedding. It fast glides at her head level, tracing the outline of her serene face framed by loose hair catching stray light, fast orbiting to reveal the cozy rumpled blankets and the soft, moody lamps standing silently on either side. The camera fast circles tightly, amplifying the quiet intimacy and the glow haloing her silhouette, emphasizing her calm gaze and the peaceful stillness surrounding her. Fast swinging in close, the lens captures the gentle crease of her folded arms and the relaxed weight of her bare feet, holding every frame alive with the subtle warmth and introspective solitude of this glowing twilight retreat.
+```

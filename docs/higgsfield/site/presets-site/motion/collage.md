@@ -50,3 +50,17 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 6 | https://higgsfield.ai/motion/0d9830d2-4510-4472-9c70-98e1e314a86d/0c7f8f48-2bda-4bf6-8233-4e02b8c5c412 | https://cdn.higgsfield.ai/minimax_hailuo_sample/0c7f8f48-2bda-4bf6-8233-4e02b8c5c412.mp4 | 1620×1080 |
 
 Source pages: https://higgsfield.ai/motion/0d9830d2-4510-4472-9c70-98e1e314a86d. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `0c7f8f48-2bda-4bf6-8233-4e02b8c5c412`** (priority 7), output video 1620×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/3f5ffb92-e898-4881-a830-033450a12bbf.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/0c7f8f48-2bda-4bf6-8233-4e02b8c5c412.mp4
+  - page: https://higgsfield.ai/motion/0d9830d2-4510-4472-9c70-98e1e314a86d/0c7f8f48-2bda-4bf6-8233-4e02b8c5c412
+
+```text
+A bold woman with a shaved head and glossy makeup poses confidently in a vibrant green suit and lime top, leaning forward toward the camera at normal speed. Her large statement earrings shimmer as her hand reaches out, fingers curving naturally. The oversaturated yellow room with a grid ceiling transforms into an animated collage of torn paper edges and halftone dots that ripple and shift across her jacket and pants, creating scattered cutout fragments that integrate with her clothing seams. Sticker-like bold shapes and masking tape strips slide across the shiny floor while xerox-style grain overlays wash subtly over her smooth skin and the wall behind. The camera glides from an ultra-tight upward angle, catching her fierce expression and hand movement while emphasizing the disruptions of paper textures that fold and peel dynamically from the room's contours, merging analog roughness with her modern silhouette in a flattened, layered zine aesthetic.
+```

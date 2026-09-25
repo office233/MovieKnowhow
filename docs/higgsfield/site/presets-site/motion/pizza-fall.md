@@ -47,3 +47,17 @@ Use it as: upload a start image that matches the scene, select motion preset **P
 | 7 | https://higgsfield.ai/motion/3c3a1331-3524-47da-b956-688595c295b7/61be719c-8801-4bd7-a455-2d23beeac5c1 | https://cdn.higgsfield.ai/kling_video_sample/61be719c-8801-4bd7-a455-2d23beeac5c1.mp4 | 1244×1660 |
 
 Source pages: https://higgsfield.ai/motion/3c3a1331-3524-47da-b956-688595c295b7. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `1d318b4e-9469-4ae0-82e5-16094f47ff99`** (priority 5), output video 1920×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/a61cfd09-41ba-4aa1-936c-7dc7027a7e16.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/1d318b4e-9469-4ae0-82e5-16094f47ff99.mp4
+  - page: https://higgsfield.ai/motion/3c3a1331-3524-47da-b956-688595c295b7/1d318b4e-9469-4ae0-82e5-16094f47ff99
+
+```text
+she eating blue pill and going bad trip
+```

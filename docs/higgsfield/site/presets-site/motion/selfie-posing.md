@@ -47,3 +47,17 @@ Use it as: upload a start image that matches the scene, select motion preset **S
 | 7 | https://higgsfield.ai/motion/ecf0b2dd-4d97-4e5c-8e81-c384836c7233/0e4eefe2-bc7f-442b-a5c3-923219832597 | https://cdn.higgsfield.ai/minimax_hailuo_sample/0e4eefe2-bc7f-442b-a5c3-923219832597.mp4 | 1080×1438 |
 
 Source pages: https://higgsfield.ai/motion/ecf0b2dd-4d97-4e5c-8e81-c384836c7233. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `0e4eefe2-bc7f-442b-a5c3-923219832597`** (priority 8), output video 1080×1438
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/78182fc7-3e13-4ef8-91cc-99ee4f5e1429.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/0e4eefe2-bc7f-442b-a5c3-923219832597.mp4
+  - page: https://higgsfield.ai/motion/ecf0b2dd-4d97-4e5c-8e81-c384836c7233/0e4eefe2-bc7f-442b-a5c3-923219832597
+
+```text
+A handheld selfie video from a high, exaggerated wide-angle viewpoint showing a young woman with dark hair tied back, wearing glasses and a sleeveless black top. She starts holding her phone with both hands, then smoothly takes her left hand off the camera to strike a playful duck-face pose with a slight head tilt. The background reveals an indoor living space with wooden chairs, a table, and a cabinet. The video captures her fast, dynamic motions as she switches to a peace sign, smiling mischievously at the camera. The composition highlights her enlarged face and upper body in the center, reflecting a natural, warm indoor lighting style. The handheld camera sways slightly for an authentic UGC selfie effect.
+```

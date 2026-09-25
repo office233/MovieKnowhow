@@ -52,3 +52,73 @@ Use it as: upload a start image that matches the scene, select motion preset **B
 | 12 | https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/79f0a65d-a222-44b8-9a12-83950d21c4b7 | https://cdn.higgsfield.ai/kling_video_sample/79f0a65d-a222-44b8-9a12-83950d21c4b7.mp4 | 1244×1660 |
 
 Source pages: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+7 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `79f0a65d-a222-44b8-9a12-83950d21c4b7`** (priority 12), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/503c0619-dcdc-4ec9-ab8b-6016f5707b19.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/79f0a65d-a222-44b8-9a12-83950d21c4b7.mp4
+  - page: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/79f0a65d-a222-44b8-9a12-83950d21c4b7
+
+```text
+пусть из воды выйдет тюлень 
+```
+
+- **Sample `10a2efde-9b06-4813-8093-08b984e7ecad`** (priority 11), output video 1660×1244
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/922a14a5-b14c-4b68-904a-c434ea319e1a.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/10a2efde-9b06-4813-8093-08b984e7ecad.mp4
+  - page: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/10a2efde-9b06-4813-8093-08b984e7ecad
+
+```text
+panda
+```
+
+- **Sample `b447a5a0-a0f3-4d8f-bdb2-84aa6c5e2826`** (priority 10), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/6e5acbfe-6454-49e0-9923-359e53a9d0e6.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/b447a5a0-a0f3-4d8f-bdb2-84aa6c5e2826.mp4
+  - page: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/b447a5a0-a0f3-4d8f-bdb2-84aa6c5e2826
+
+```text
+пусть появляется панда и смотрит на парня 
+
+```
+
+- **Sample `b3b37dad-8249-4994-b08b-023a3741edb0`** (priority 9), output video 1108×828
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/de337f3c-6870-499c-a674-d930c9dd7a25.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/b3b37dad-8249-4994-b08b-023a3741edb0.mp4
+  - page: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/b3b37dad-8249-4994-b08b-023a3741edb0
+
+```text
+panda
+```
+
+- **Sample `fdd45566-bf56-4da7-9829-aa997cc3a101`** (priority 7), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/f3098aaf-e13f-433f-8923-968826cdef52.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/fdd45566-bf56-4da7-9829-aa997cc3a101.mp4
+  - page: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/fdd45566-bf56-4da7-9829-aa997cc3a101
+
+```text
+Должен войти медвежонок и стукаться об ногу девушки 
+девушка умиляется пытается погладить его. 
+```
+
+- **Sample `ae709a0a-6a4f-4116-a4d0-f193d1ae819e`** (priority 5), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/c5e0f1ef-1e78-4e4c-94c7-f31c608275be.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/ae709a0a-6a4f-4116-a4d0-f193d1ae819e.mp4
+  - page: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/ae709a0a-6a4f-4116-a4d0-f193d1ae819e
+
+```text
+Должны войти два волка и сесть рядом перед парнями смотреть в камеру 
+```
+
+- **Sample `7c7ee299-3129-4f3f-906b-a3cdec47a0a8`** (priority 1), output video 1244×1660
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/7775568c-0cb3-4225-8d35-9457aef4546f.jpg
+  - output: https://cdn.higgsfield.ai/kling_video_sample/7c7ee299-3129-4f3f-906b-a3cdec47a0a8.mp4
+  - page: https://higgsfield.ai/motion/53f9cea8-9195-45a0-accd-36d6c6454a01/7c7ee299-3129-4f3f-906b-a3cdec47a0a8
+
+```text
+panda
+```

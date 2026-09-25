@@ -49,3 +49,26 @@ Use it as: upload a start image that matches the scene, select motion preset **A
 | 9 | https://higgsfield.ai/motion/464983d8-1a37-467f-b7f7-2bde2d31c495/48783710-7353-4e4a-a795-875781d48a55 | https://cdn.higgsfield.ai/minimax_hailuo_sample/48783710-7353-4e4a-a795-875781d48a55.mp4 | 1438×1080 |
 
 Source pages: https://higgsfield.ai/motion/464983d8-1a37-467f-b7f7-2bde2d31c495. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+2 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `48783710-7353-4e4a-a795-875781d48a55`** (priority 11), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/2e37e9a4-477a-4a4c-9b98-dfaade6e6342.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/48783710-7353-4e4a-a795-875781d48a55.mp4
+  - page: https://higgsfield.ai/motion/464983d8-1a37-467f-b7f7-2bde2d31c495/48783710-7353-4e4a-a795-875781d48a55
+
+```text
+A young woman leans out the open window of a dark car on a bustling city street at night, warm amber and red lights from traffic signals illuminating her face and long hair. Behind her, streets glow with brake lights and street lamps, urban buildings framing the scene. She slams one arm forward through the window with fierce, primal energy, eyes blazing with uncontrollable rage, brows furrowed deep, nostrils flared, mouth wide open in a voiceless, silent scream that vibrates with furious intensity. The camera is steady, close on her face and upper body, capturing the silent explosion of raw fury against the calm nighttime chaos. Her expression embodies a violent outburst, every muscle taut, dominating the vibrant, restless city backdrop, the scene silent but charged with explosive emotion.
+```
+
+- **Sample `acc22035-144f-404c-a9d9-f24581ccbe5b`** (priority 10), output video 1620×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/e3d488ae-efff-4574-8e6f-417226c5e2e2.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/acc22035-144f-404c-a9d9-f24581ccbe5b.mp4
+  - page: https://higgsfield.ai/motion/464983d8-1a37-467f-b7f7-2bde2d31c495/acc22035-144f-404c-a9d9-f24581ccbe5b
+
+```text
+A young woman in black tennis attire with red accents sits firmly on a wooden chair placed on a sunlit clay tennis court, a blue and white tennis racket held vertically resting between her legs. Her slicked-back hair contrasts against dark sunglasses shielding her eyes. She ignites with uncontrollable rage, jaw dropping wide in a silent scream, brows furrowed deeply, nostrils flaring as her entire body tenses. Her free hand slams violently on her knee, while the other grips the racket handle with fierce conviction. The background's lush green hedge blurs softly, focusing all energy on her primal emotional eruption. The scene holds absolute silent tension, rage bursting from quiet physicality alone.
+```

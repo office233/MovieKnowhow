@@ -56,3 +56,26 @@ Use it as: upload a start image that matches the scene, select motion preset **F
 | 12 | https://higgsfield.ai/motion/5023b9bb-d528-48cd-add8-622e2999d7c6/c4eba2ba-5f4a-4bfe-ae1a-a2615d9c2a79 | https://cdn.higgsfield.ai/minimax_hailuo_sample/c4eba2ba-5f4a-4bfe-ae1a-a2615d9c2a79.mp4 | 1080×1620 |
 
 Source pages: https://higgsfield.ai/motion/5023b9bb-d528-48cd-add8-622e2999d7c6. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+2 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `c4eba2ba-5f4a-4bfe-ae1a-a2615d9c2a79`** (priority 14), output video 1080×1620
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/0ae2b3d2-bd3d-4228-a671-aa536aedd5bd.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/c4eba2ba-5f4a-4bfe-ae1a-a2615d9c2a79.mp4
+  - page: https://higgsfield.ai/motion/5023b9bb-d528-48cd-add8-622e2999d7c6/c4eba2ba-5f4a-4bfe-ae1a-a2615d9c2a79
+
+```text
+A young woman stands on a sunlit city sidewalk, dressed in an oversized black blazer, white shirt, beige tie, and a black skirt, her long wavy blonde hair flowing freely. Green gloves cover her hands, one holding a black handbag, while large black headphones cover her ears. In an instant, she sharply bends her knees and leans her torso forward, positioning her arms in a powerful running stance. Her face tightens with focus despite eyes remaining closed, anticipation clear in her expression. Suddenly, she explodes into a high-speed sprint directly toward the camera, her hair and blazer pockets whipping fiercely behind her. Vivid beige and black speed trails echo the colors of her outfit, trailing especially behind her limbs and hair. The bustling street, cars, and buildings behind her distort naturally into elongated motion blur, the evening light casting warm, golden tones over the scene. The camera holds a crisp frontal view, capturing her dynamic form sharply contrasted with the stretching, blurred urban environment. Footsteps pound and wind roars as she moves swiftly, a surge of kinetic energy and determined momentum filling every frame.
+```
+
+- **Sample `fab05a93-c4dd-4a3f-86fe-9546849009b2`** (priority 13), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/2e53cbcb-c930-4873-9e04-d33f33d525c1.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/fab05a93-c4dd-4a3f-86fe-9546849009b2.mp4
+  - page: https://higgsfield.ai/motion/5023b9bb-d528-48cd-add8-622e2999d7c6/fab05a93-c4dd-4a3f-86fe-9546849009b2
+
+```text
+A man stands centered in a dimly lit, wet parking lot at night, wearing a forest green hoodie with the hood up and light gray sweatpants, black running shoes gripping the glistening asphalt. In an instant, he sharply bends his knees, leans his torso forward, and positions his arms with purpose, his focused, determined expression intensifying beneath the hood. Then, he surges forward explosively, breaking into a vigorous sprint directly toward the camera, his limbs pumping powerfully and feet striking the wet ground with resolved force. The fabric of his hoodie and sweatpants whips back fiercely, trailing vivid dark green and soft gray speed trails that echo his attire’s hues. The street lamps cast warm yellow-orange reflections that stretch and smear into smooth, elongated streaks across the slick pavement, while the shadowy buildings and dark blue-gray sky blur gently in motion behind him. The camera captures the entire dynamic moment frontally, keeping the runner sharply in focus amid the immersive background rush. The sound of pounding footsteps and the rush of night air almost fill the scene, fully immersing the viewer in this swift, fluid burst of speed through the quiet, rain-moistened night.
+```

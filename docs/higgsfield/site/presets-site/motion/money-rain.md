@@ -51,3 +51,35 @@ Use it as: upload a start image that matches the scene, select motion preset **M
 | 7 | https://higgsfield.ai/motion/40a465df-3484-4130-bfd2-54f5cdcaf3bf/8edd5a29-b134-4ae7-a9c2-29fa28983d26 | https://cdn.higgsfield.ai/minimax_hailuo_sample/8edd5a29-b134-4ae7-a9c2-29fa28983d26.mp4 | 1080×1620 |
 
 Source pages: https://higgsfield.ai/motion/40a465df-3484-4130-bfd2-54f5cdcaf3bf. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+3 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `8edd5a29-b134-4ae7-a9c2-29fa28983d26`** (priority 7), output video 1080×1620
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/0b92cde1-4518-42a8-afe1-6d69da0b876d.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/8edd5a29-b134-4ae7-a9c2-29fa28983d26.mp4
+  - page: https://higgsfield.ai/motion/40a465df-3484-4130-bfd2-54f5cdcaf3bf/8edd5a29-b134-4ae7-a9c2-29fa28983d26
+
+```text
+An elderly man with a weathered face and white mustache strides confidently across a sunlit urban sidewalk, wearing a blue bucket hat and a loose checkered shirt tucked into beige pants secured by a brown belt. He carries an assault rifle firmly in his left hand while gripping a black plastic bag in his right, moving at normal speed. The camera tracks him in a steady medium shot from slightly below eye level, capturing the resolve in his expression and the purposeful swing of his arms. All around him, a cascade of crisp banknotes flutters through the bright daylight, swirling in the warm breeze as if caught in a money rain, adding an electrifying surreal energy to the otherwise ordinary street scene. The background features a beige stone building with reflective glass doors, shadowed yet clearly detailed under the clear sky, emphasizing the contrast between calm urban life and impending tension.
+```
+
+- **Sample `6f17469c-25db-4b58-9f8c-1a449d291738`** (priority 6), output video 1080×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/0c54a68a-7eef-43a1-8816-ea0ada898d29.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/6f17469c-25db-4b58-9f8c-1a449d291738.mp4
+  - page: https://higgsfield.ai/motion/40a465df-3484-4130-bfd2-54f5cdcaf3bf/6f17469c-25db-4b58-9f8c-1a449d291738
+
+```text
+A young woman wearing wide-leg black pants and a black jacket with white stitching sits on cobblestone street stones, behind her two iced coffees and a burgundy handbag resting nearby, her short hair tucked under a black flat cap while round glasses reflect light and she puckers lips blowing a playful kiss, she moves at normal speed, an energetic rain of money swirls around her enhancing the vibrant outdoor setting, the camera starts medium close-up framing her face then pulls back smoothly to reveal the full scene, sunlight casts soft shadows emphasizing textured stonework and clothing fabric, a gentle breeze animates the falling bills and subtly rustles her striped shirt creating a lively, immersive atmosphere.
+```
+
+- **Sample `c970f700-ba79-4923-afa8-042e1907348f`** (priority 5), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/4f084365-bf0f-4139-9f50-f6edfb9a70e6.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/c970f700-ba79-4923-afa8-042e1907348f.mp4
+  - page: https://higgsfield.ai/motion/40a465df-3484-4130-bfd2-54f5cdcaf3bf/c970f700-ba79-4923-afa8-042e1907348f
+
+```text
+A young woman with long wavy hair and striking features, dressed in a glossy black leather jacket, stands outdoors at night under a dark sky scattered with distant city lights. She holds a cigarette between her lips as a hand extends toward her with a red lighter, its flame illuminating her face with warm orange light. The woman remains still at normal speed, eyes half-closed, lips parted gently as the cigarette catches fire. The camera starts with a close-up low-angle medium shot focused on her face and the lighter, then slowly pulls back while shifting to a subtle tracking shot that reveals faint outlines of distant lampposts and urban structures framing the scene. Around her, numerous crisp money bills flutter and spiral lightly through the cool night air, reflecting soft light and adding kinetic energy to the scene. The aesthetic atmosphere contrasts the warm glow on the subject and the cooler, deep blue-black night sky with minute details on the textured leather and subtle skin highlights, combined with gentle ambient breeze animating the falling money, creating a moody, vivid metropolitan tableau.
+```

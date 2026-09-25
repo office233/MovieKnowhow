@@ -55,3 +55,17 @@ Use it as: upload a start image that matches the scene, select motion preset **G
 | 9 | https://higgsfield.ai/motion/519e724e-760f-4703-b6cd-d38223f27e53/2fa6af8e-7fd0-4bf3-a750-4489f0304933 | https://cdn.higgsfield.ai/minimax_hailuo_sample/2fa6af8e-7fd0-4bf3-a750-4489f0304933.mp4 | 1438×1080 |
 
 Source pages: https://higgsfield.ai/motion/519e724e-760f-4703-b6cd-d38223f27e53. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `2fa6af8e-7fd0-4bf3-a750-4489f0304933`** (priority 9), output video 1438×1080
+  - input image: https://d20rwh69pn04qo.cloudfront.net/anon_user_id/b4bac0ce-9e39-4bb8-93bc-f5feffcfd1d0.jpg
+  - output: https://cdn.higgsfield.ai/minimax_hailuo_sample/2fa6af8e-7fd0-4bf3-a750-4489f0304933.mp4
+  - page: https://higgsfield.ai/motion/519e724e-760f-4703-b6cd-d38223f27e53/2fa6af8e-7fd0-4bf3-a750-4489f0304933
+
+```text
+A male race car driver with tousled dark hair and a focused expression wears a vibrant blue and red racing suit adorned with patches and logos, gripping the black steering wheel of a sleek, red vintage race car with intricate dashboard dials and glossy bodywork as he drives through a tunnel illuminated by linear overhead lights casting soft reflections on the car's polished surface. The driver moves his hands smoothly and navigates the steering wheel at normal speed, his profile sharp and determined while the blurred tunnel walls streak past outside, enhancing the sense of speed. The camera stays close, capturing a tight medium shot from behind and slightly to the side, tracking the driver's controlled, fluid motions and the dynamic interplay of light on the car's curves and dashboard gauges. The atmosphere is vibrant and intense, with warm and cool tones contrasting the glowing red vehicle and cool ambient tunnel lights, enriching the scene with immersive motion and texture.
+```
