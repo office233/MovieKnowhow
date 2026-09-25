@@ -51,3 +51,62 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 8 | https://higgsfield.ai/motion/8abe6573-591e-446a-9278-1f9bd274c03e/faf73406-98d3-4ee5-9f40-1c29da670e63 | https://static.higgsfield.ai/faf73406-98d3-4ee5-9f40-1c29da670e63.mp4 | https://static.higgsfield.ai/faf73406-98d3-4ee5-9f40-1c29da670e63.webp | https://d1xarpci4ikg0w.cloudfront.net/f4f9c043-4192-4f3d-b3bf-d61afb908473.webp (320×182) |
 
 Source pages: https://higgsfield.ai/motion/8abe6573-591e-446a-9278-1f9bd274c03e. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+6 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `1fec9f17-949e-4fe0-92b0-6a1af5c7556b`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/81628265-b2c6-41ea-886f-25f088d00892.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/badea866-fa6f-4af0-b1b0-df79465a4e8d.mp4
+  - page: https://higgsfield.ai/motion/b03ec615-8f3b-4058-a1b6-508ecaa27cb3/1fec9f17-949e-4fe0-92b0-6a1af5c7556b
+
+```text
+Suddenly, the woman begins to levitate slowly. Her body rises in a perfectly horizontal position, limbs relaxed, hair gently flowing as if caught in a low-gravity drift. Debris — bills, papers, a glove — lift and swirl subtly around her. The camera moves in a slow circular orbit around the floating woman, capturing the surreal calm and gravity-defying motion.
+```
+
+- **Sample `7407dfc6-c1cf-41db-a0d5-a02dd122b6ab`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2e8a3a85-ffbc-4f01-a7b4-90c02b9bcfc5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/70912dac-c34b-4227-a59a-937634b32856.mp4
+  - page: https://higgsfield.ai/motion/52aa7be6-854f-45cb-930c-b98d64eb593c/7407dfc6-c1cf-41db-a0d5-a02dd122b6ab
+
+```text
+A boy rides his bicycle down a quiet, dimly lit street, the low-angle shot accentuating his playful determination as he leans forward. The night sky envelops the scene, illuminated by streetlights that cast a gentle glow on the smooth asphalt. Suddenly, he begins to levitate, lifting off the ground with effortless grace, his expression one of pure joy and amazement. The movement is fluid, capturing the thrill of flight against the backdrop of homes shrouded in darkness. Shadows dance beneath him, evoking a feeling of freedom and boundless possibility.
+```
+
+- **Sample `e86fc2cb-8851-41e0-8934-3052cba22416`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2ed55240-066b-4de9-b2f3-1e45b518e19a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4f044d5e-7318-4b84-bcbe-f04f25dac9ae.mp4
+  - page: https://higgsfield.ai/motion/b03ec615-8f3b-4058-a1b6-508ecaa27cb3/e86fc2cb-8851-41e0-8934-3052cba22416
+
+```text
+A cow stands in a dimly lit field, its expression a mix of bewilderment and calm, as a beam of light envelops it from a hovering UFO above. The night sky is a deep indigo, dotted with stars that twinkle like distant gems, enhancing the atmosphere of mystery. The beam glows with an ethereal blue light, casting soft shadows on the grass, while the UFO, sleek and metallic, hovers ominously yet captivatingly. As the cow begins to levitate, tension builds, revealing the blending of rural life with otherworldly phenomena. The entire scene emanates an aura of surrealism, drawing the viewer into this bizarre and enchanting encounter.
+```
+
+- **Sample `d6153cac-7aa6-4783-841c-457ca362db6c`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 0×0
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/bbe78d73-7162-4fa3-ab1a-1fa7c20f08af.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/ed7a6b4a-0390-4e7b-94a7-cbf906a9223f.mp4
+  - page: https://higgsfield.ai/motion/52aa7be6-854f-45cb-930c-b98d64eb593c/d6153cac-7aa6-4783-841c-457ca362db6c
+
+```text
+The camera begins with a close-up on Superman's vibrant red boots, planted firmly on the rough pavement. As the camera slowly shifts to a low-angle perspective, his feet begin to levitate, surrounded by a soft, golden light that bathes the area in warmth. The skyline of a bustling city peeks into the frame, symbolizing the challenges he faces. The air is charged with anticipation, conveying a sense of impending action and heroism. Superman's posture is confident and ready, his cape billowing gently behind him, adding to the dramatic effect.
+```
+
+- **Sample `b2aee1cd-3890-43fe-b1ab-26ddd5405c81`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/bb9e5453-8812-458c-875c-f535987a0c4a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/ca2d6ba4-f2ef-41bb-b4ff-52f6676cb038.mp4
+  - page: https://higgsfield.ai/motion/b03ec615-8f3b-4058-a1b6-508ecaa27cb3/b2aee1cd-3890-43fe-b1ab-26ddd5405c81
+
+```text
+A girl levitates serenely against a backdrop of tall, vibrant grass, her long, dark hair flowing gently around her. She lies poised, eyes closed, exuding peace, as the camera orbits gracefully around her, capturing the ethereal moment. The sunlight bathes the scene in a warm, golden hue, highlighting the delicate textures of her flowing dress and the soft blades of grass. The surrounding environment shifts subtly in the camera's movement, evoking a sense of magic and tranquility. As she rises higher, a gentle breeze whispers through the air, enhancing the enchanting atmosphere of transformation.
+```
+
+- **Sample `6223c991-f3ab-4a60-9019-e185d39b11b8`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4c6ce709-cfd4-4c24-a4fd-8a0638610a6b.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0bb2af79-3edc-4a5e-bb6e-58b2ba657e10.mp4
+  - page: https://higgsfield.ai/motion/b03ec615-8f3b-4058-a1b6-508ecaa27cb3/6223c991-f3ab-4a60-9019-e185d39b11b8
+
+```text
+Create an atmospheric, surreal animation depicting a Travis Scott-inspired figure slowly falling upside-down through a vibrant, futuristic cityscape at dusk. Begin the animation with a tight close-up highlighting the character's silhouette, dreadlocks drifting upward, and gradually dolly out to reveal the expansive neon-lit urban environment below. Enhance the dreamlike quality with subtle cloud movements, flickering neon lights, and a gentle rotation or shift of perspective, creating a sense of endless descent into an ethereal metropolis.
+```

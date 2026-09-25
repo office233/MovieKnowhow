@@ -41,3 +41,17 @@ Use it as: upload a start image that matches the scene, select motion preset **F
 | 1 | https://higgsfield.ai/motion/15f877f1-ccf8-4cc3-8269-6c7cfb028259/3ba1b44e-30bd-4b51-a490-3d0d6c1f9df0 | https://static.higgsfield.ai/3ba1b44e-30bd-4b51-a490-3d0d6c1f9df0.mp4 | https://static.higgsfield.ai/3ba1b44e-30bd-4b51-a490-3d0d6c1f9df0.webp | https://d1xarpci4ikg0w.cloudfront.net/81e3d189-da7a-4078-aef4-1bf1c972df91.webp (320×486) |
 
 Source pages: https://higgsfield.ai/motion/15f877f1-ccf8-4cc3-8269-6c7cfb028259. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `3ba1b44e-30bd-4b51-a490-3d0d6c1f9df0`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ff8b47df-ecdb-428a-952d-662fb949632f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a4f2883d-6aff-4b1b-bbd0-d19c4401c99e.mp4
+  - page: https://higgsfield.ai/motion/15f877f1-ccf8-4cc3-8269-6c7cfb028259/3ba1b44e-30bd-4b51-a490-3d0d6c1f9df0
+
+```text
+A cinematic close-up frames a young woman bathed in warm, intimate lighting, showcasing her vivid yellow eyeshadow and glossy lips. Her gaze, thoughtful and intriguing, fills the frame. Gradually, a captivating transformation begins: her eyelashes elegantly lengthen and transform into luxurious orchid petals. The large, velvety petals slowly bloom outward from her eyes, exhibiting rich textures and captivating shades of soft purples, creamy whites, and delicate hints of yellow. These expansive blossoms gently frame her eyes, enhancing the surreal beauty and poetic intensity of the scene, accentuated by moody cinematic lighting and bold, saturated colors.
+```

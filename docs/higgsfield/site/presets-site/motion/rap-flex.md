@@ -58,3 +58,116 @@ Use it as: upload a start image that matches the scene, select motion preset **R
 | 12 | https://higgsfield.ai/motion/809c1acb-6be5-4eb7-afde-dd08910f1e90/7e2342d3-600a-4000-bee7-a36fac8e909c | https://static.higgsfield.ai/7e2342d3-600a-4000-bee7-a36fac8e909c.mp4 | https://static.higgsfield.ai/7e2342d3-600a-4000-bee7-a36fac8e909c.webp | https://d1xarpci4ikg0w.cloudfront.net/087c11e3-ea78-44c9-b0dd-823298fb0d95.webp (320×182) |
 
 Source pages: https://higgsfield.ai/motion/809c1acb-6be5-4eb7-afde-dd08910f1e90, https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+12 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `7e2342d3-600a-4000-bee7-a36fac8e909c`** (priority 11) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3ec5176e-bff7-44b8-b017-1f03e61df60f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1441adf3-8f8f-46e8-b6a7-71f777ab0cd4.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/7e2342d3-600a-4000-bee7-a36fac8e909c
+
+```text
+an elderly asian man raps and flexes under the streams of water, camera moves chaotically
+```
+
+- **Sample `1a46c718-a2e0-4f21-9726-b12e35f55723`** (priority 10) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/69e1c0ad-93f0-46d8-b62a-5a79824884dc.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/daa1b9f5-b292-4f5f-bdfb-46e053a8f3e0.mp4
+  - page: https://higgsfield.ai/motion/809c1acb-6be5-4eb7-afde-dd08910f1e90/1a46c718-a2e0-4f21-9726-b12e35f55723
+
+```text
+a group of rappers as the rap and flex with smoke and lights on the background
+```
+
+- **Sample `d6065663-49a1-4294-b3ce-928e64eae25e`** (priority 9) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/8e56dee6-22e7-46e6-b3bc-581d81b057ac.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c558dc65-9dcd-45f5-a0c1-9e781a87e4a0.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/d6065663-49a1-4294-b3ce-928e64eae25e
+
+```text
+camera moves chaotically as the man raps and flexes looking
+```
+
+- **Sample `33bf2b00-eb27-4c65-ae4e-54f9f7080bdb`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/aae93c23-7cbc-44e4-b489-9e7875bbaebf.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c6d7d18b-f5b6-4084-9463-f7f9ef772713.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/33bf2b00-eb27-4c65-ae4e-54f9f7080bdb
+
+```text
+camera slowly zooms in on an asian man's face as he raps and flexes, handheld camera shot
+```
+
+- **Sample `a3315f66-b0b8-4f6f-813b-b48483a3d582`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e25558d1-fd9e-4c06-86fb-5c96f0f0c131.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/748db7a6-4c6f-40b1-a6c9-c070cba0b824.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/a3315f66-b0b8-4f6f-813b-b48483a3d582
+
+```text
+two african american rappers ride jetski and rap, the camera fixed on the jetski
+```
+
+- **Sample `f82117ab-bb4e-4a90-b427-9dfc859de188`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/a481684d-6444-4814-b09a-8fb9f089d5dd.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/9795182b-8599-407b-a776-67fd500cdba6.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/f82117ab-bb4e-4a90-b427-9dfc859de188
+
+```text
+girl raps turning her head into camera as it moves and shakes
+```
+
+- **Sample `091f8069-7fa9-4773-b919-3e8a48aa9597`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4a6aabec-396a-430b-9b4f-08f1d2c9d359.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/00d35640-a620-4167-aa23-51b39e225b48.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/091f8069-7fa9-4773-b919-3e8a48aa9597
+
+```text
+asian girl raps into microphone holding an acrylic cube in her hand
+```
+
+- **Sample `7fce68dd-9b0f-4c83-9581-0f046ae8ebab`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/96fc2c07-dc16-4e06-becf-bcfb56a20e99.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4322c536-c0fc-42de-93b2-17650da35151.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/7fce68dd-9b0f-4c83-9581-0f046ae8ebab
+
+```text
+man raps on the stage with luxury cars  behind him, camera rotates around him
+```
+
+- **Sample `a021c3a1-ccd2-4b79-a9ab-e1e80a98cac1`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ae8c1aed-021e-4fde-98f8-b75182e4b6f7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d3e636be-a63d-4c5f-bc2d-ca37b19e4804.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/a021c3a1-ccd2-4b79-a9ab-e1e80a98cac1
+
+```text
+camera zooms out and then zooms in as a man behind the bars as he raps and flexes
+```
+
+- **Sample `32ea2ee6-f22a-494d-a696-277c87014ad9`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d335c5c4-d6cb-49dc-95c4-1265856b83a1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/98ea61ca-90f9-455f-88d7-33de0656399d.mp4
+  - page: https://higgsfield.ai/motion/809c1acb-6be5-4eb7-afde-dd08910f1e90/32ea2ee6-f22a-494d-a696-277c87014ad9
+
+```text
+Stylish rapper in a black suit and dark sunglasses stands in the center of a retro office filled with old-school monitors, confidently rapping straight to the camera. He moves with cool precision, gesturing to the beat with effortless swagger, while the other men in similar suits stand around him, silently nodding their heads in approval. Their matching silver hair spikes and stoic expressions add a surreal edge to the scene. The vibe is sharp, vintage-corporate mixed with underground hip-hop attitude.
+```
+
+- **Sample `be843dce-72e9-4717-a219-673a32bb53cb`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/6156321f-181e-40ee-a0dd-6d6bc7e52014.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/cc8726b6-81a0-44f0-9421-e826f338e844.mp4
+  - page: https://higgsfield.ai/motion/809c1acb-6be5-4eb7-afde-dd08910f1e90/be843dce-72e9-4717-a219-673a32bb53cb
+
+```text
+Man look to the camera and rapping.
+```
+
+- **Sample `c48e57bd-41ba-414f-9311-9c56cdba8b45`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/38f0a0f0-3853-4fba-8f38-edda82b102f2.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/75bc68ab-9888-4284-a20b-85f9a20a4602.mp4
+  - page: https://higgsfield.ai/motion/dc292dd4-12aa-431a-a576-48adb132dd55/c48e57bd-41ba-414f-9311-9c56cdba8b45
+
+```text
+Stylish female rapper in bold sunglasses and a lilac puffer jacket raps energetically to the camera under a soft pink and purple sky. Her flow is confident and expressive, with crisp gestures and rhythmic movement. The fisheye lens creates a fun, distorted perspective, adding a dynamic edge. The background is dreamy and futuristic, enhancing the high-fashion hip-hop vibe.
+```

@@ -47,3 +47,44 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 4 | https://higgsfield.ai/motion/7e7d313e-1fb1-44a4-bd89-ec66e1f17ec9/e6c77451-b009-4793-a3a1-708d9efe76ce | https://static.higgsfield.ai/e6c77451-b009-4793-a3a1-708d9efe76ce.mp4 | https://static.higgsfield.ai/e6c77451-b009-4793-a3a1-708d9efe76ce.webp | https://d1xarpci4ikg0w.cloudfront.net/82146a21-f8e0-4f58-b95f-325055bcfadb.webp (320×562) |
 
 Source pages: https://higgsfield.ai/motion/7e7d313e-1fb1-44a4-bd89-ec66e1f17ec9. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+4 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `8f1e1b35-4a76-418f-93ae-0b7cf6c4afb6`** (priority 0) — Wan 2.5 motion preset, steps=70, frames=81, strength=, guide_scale=, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/1d80e575-6176-4287-beef-816f4f8d4b25.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/272108dd-d5af-4cbd-9f32-90d5e4b1f7b3.mp4
+  - page: https://higgsfield.ai/motion/7e7d313e-1fb1-44a4-bd89-ec66e1f17ec9/8f1e1b35-4a76-418f-93ae-0b7cf6c4afb6
+
+```text
+The scene opens in a lavishly decorated room, its walls clad in rich scarlet hues, with opulent chandeliers softly illuminating the space. A camera slowly approaches the subject’s eyes, creating an intense focus on his calm yet piercing gaze, drawing viewers into a moment of quiet confidence. As the tension builds, the camera shifts perspective slightly, revealing the intricacy of his vibrant yellow and white patterned suit against the deep red of the plush sofa. Gradually, his skin starts to glisten with an ethereal sheen, transforming into a gleaming gold surface that merges fashion with an otherworldly twist. His suit and even his lips tighten into sculpted metallic forms, each fold and contour catching the chandelier’s glow. The rich antiquity of the room contrasts beautifully with his contemporary style, heightening the sense of surrealism as the golden transformation completes. The elegant reflections of the chandeliers and surrounding artwork dance across his metallic form, casting a mesmerizing glow. At the climax, the camera surges forward into his eye, now sheathed entirely in polished gold, capturing every reflective facet in an extreme close-up of pure, radiant intensity.
+```
+
+- **Sample `788b578b-026d-4415-910a-73e233708b49`** (priority 0) — Wan 2.5 motion preset, steps=40, frames=81, strength=, guide_scale=, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/9a43e4be-740f-44cb-8164-2cc499763fe5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/6fe0b5f9-5c95-46e5-9eee-7128100c8cdf.mp4
+  - page: https://higgsfield.ai/motion/7e7d313e-1fb1-44a4-bd89-ec66e1f17ec9/788b578b-026d-4415-910a-73e233708b49
+
+```text
+In a sunlit meadow, verdant stalks sway gently, and a smooth dolly in glides toward the reclined figure’s piercing eye. The subject, adorned with sharply braided hair and gleaming clips, contrasts effortlessly against a crisp white shirt, paisley blue tie, and a beige trenchcoat. As the camera inches closer, sunlight dapples over the soft textures of their attire, casting intricate shadows that dance in the warm light. Suddenly, their skin and clothing shimmer into a seamless metallic finish, brilliant and reflective, capturing the sunlight in mesmerizing play. The camera lunges forward into an extreme close-up that locks on the eye, now transformed into a glistening orb of metal, evoking deep emotional intensity. This fluid progression unfolds in photorealistic detail, revealing layers of high-contrast reflections that deepen the dreamlike atmosphere. In the final frame, the metallic gaze radiates with surreal energy, surrounded by the organic meadow, a vivid clash of the natural and the extraordinary.
+```
+
+- **Sample `e6c77451-b009-4793-a3a1-708d9efe76ce`** (priority 0) — Wan 2.5 motion preset, steps=40, frames=81, strength=, guide_scale=, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/c7a8d3fa-14bc-4762-bc0b-d83591e1fe9b.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d82df419-f8ea-49d8-8876-19ff50eea113.mp4
+  - page: https://higgsfield.ai/motion/7e7d313e-1fb1-44a4-bd89-ec66e1f17ec9/e6c77451-b009-4793-a3a1-708d9efe76ce
+
+```text
+A swift dolly in glides toward a woman whose slicked-back hair, almond-shaped eyes and lithe form gradually shift into gleaming silver. She poses against a pristine white studio backdrop punctuated by smooth, curved metal sculptures bathed in soft ambient light. A liquid wave of molten silver flows across her hair, skin and eyes until her entire silhouette shines like polished chrome. The lens moves into an extreme close-up of her left eye, using a shallow depth of field to amplify every reflective glints of her eyes while moves forward. A cool, futuristic serenity fills the frame, rendered in sharp, photorealistic detail with high-contrast metallic highlights.
+```
+
+- **Sample `898e877d-3aa9-4e92-b9b3-c3d63e4a9a05`** (priority 0) — Wan 2.5 motion preset, steps=70, frames=81, strength=, guide_scale=, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/6ea7950d-ecf3-4ceb-80e2-5218a1ec5bc5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/86661694-0b92-4f16-9e24-7aa16cafc374.mp4
+  - page: https://higgsfield.ai/motion/7e7d313e-1fb1-44a4-bd89-ec66e1f17ec9/898e877d-3aa9-4e92-b9b3-c3d63e4a9a05
+
+```text
+A dolly-in shot glides toward a young woman with a sleek black bob, intricate tattoos and a monochrome futuristic jacket. She stands in a narrow corridor lit by vivid green neon strips casting reflective highlights on the metal walls. Beginning at her outstretched hand, a molten metal wave surges across her skin, hair and tattoos until her entire form becomes gleaming chrome. The frame transitions from medium close-up to extreme close-up at eye level with shallow depth of field isolating her features. A charged, futuristic tension hums in the scene under stark neon glow. The camera then plunges into her right eye, capturing every reflective detail in crisp, photorealistic clarity.
+```

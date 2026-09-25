@@ -62,3 +62,155 @@ Use it as: upload a start image that matches the scene, select motion preset **M
 | 16 | https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/1b129bdb-9808-4941-ad9c-a84dcbc2f817 | https://static.higgsfield.ai/1b129bdb-9808-4941-ad9c-a84dcbc2f817.mp4 | https://static.higgsfield.ai/1b129bdb-9808-4941-ad9c-a84dcbc2f817.webp | https://d1xarpci4ikg0w.cloudfront.net/b827cc34-844e-45e4-8c22-5887f266ec8e.webp (320×210) |
 
 Source pages: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588, https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+16 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `1b129bdb-9808-4941-ad9c-a84dcbc2f817`** (priority 15) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/c9f41b2a-0413-4568-b046-733a809e943f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/b63c9249-40ed-4fae-8bcd-4bfc083d9a87.mp4
+  - page: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/1b129bdb-9808-4941-ad9c-a84dcbc2f817
+
+```text
+A vibrant fashion-editorial close-up captures a striking woman against a vivid pink background, wearing oversized transparent sunglasses with pink frames and yellow lenses, bold glossy red lipstick, sleek hair, and dramatic golden earrings. She open her mouth. The camera swiftly moves forward, smoothly entering through her opened lips, dynamically transitioning to reveal a surreal, dreamlike garden landscape with lush rolling grass, metallic spheres, whimsical white fences, and a gleaming stepladder set against an intense magenta sky, creating an imaginative and captivating visual shift.
+```
+
+- **Sample `3b3fae5b-d811-4d1d-b980-9e630487e187`** (priority 14) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1920×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ed8251cb-7b77-4faa-9024-72ae187dc6b7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/04ea4ab1-1713-41e3-8c8c-bff7dec8e393.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/3b3fae5b-d811-4d1d-b980-9e630487e187
+
+```text
+Create a dynamic, cinematic portrait animation of this subject. Begin with the subject's mouth closed and transition it smoothly into a natural speaking or singing movement. Synchronize subtle facial expressions and lip movements to imply realistic speech or song, while keeping the dramatic fiery background softly animated with moving flames and subtle flickering light. Maintain the vibrant warm tones, cinematic lighting, and intense mood.
+```
+
+- **Sample `b24d169d-520f-4fd1-868f-fdb23d124f96`** (priority 13) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1920×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/aa094fab-61a1-4043-ae2f-65d8180f7384.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/385531aa-4195-42b1-b8d7-dc7fb264eb4e.mp4
+  - page: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/b24d169d-520f-4fd1-868f-fdb23d124f96
+
+```text
+A giant shark, camera transitions in it's mouth. .
+```
+
+- **Sample `1ad33cbc-c85a-498c-bf5d-8f468dd2d3dc`** (priority 12) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1642×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/1aaf0ef5-a3ac-44d8-83b5-dbf0d53f8d5e.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/badb86b0-2bd1-484d-8996-20da1dab5808.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/1ad33cbc-c85a-498c-bf5d-8f468dd2d3dc
+
+```text
+A black man, camera transitions in his mouth. .
+
+```
+
+- **Sample `6ece4b23-2882-4de1-9d19-9139d7fcc0d1`** (priority 11) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1896×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e0c451c8-0e6c-487d-97ff-a895cadb27ab.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c43f0780-a64d-43f9-9de1-a02c0a4f0122.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/6ece4b23-2882-4de1-9d19-9139d7fcc0d1
+
+```text
+Futuristic girl wearing a sculptural black latex, camera transitions in her mouth. .
+
+```
+
+- **Sample `9854fbdb-f6f6-4a77-b78a-49feece23ba5`** (priority 10) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1896×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/131777da-667e-43b9-ac8c-afa5914d01cf.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1d7dc564-6659-4127-8f0f-e6a052cc2cfb.mp4
+  - page: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/9854fbdb-f6f6-4a77-b78a-49feece23ba5
+
+```text
+A cute little purple monster in forest, camera transitions in his mouth. .
+```
+
+- **Sample `0ac43706-28aa-4fcc-969c-ac15c65be948`** (priority 9) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1920×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/b628a1da-ee9b-4b9f-8ccf-5cf5cb3e2180.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a9b77def-be98-48fe-b1be-3987e076ce04.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/0ac43706-28aa-4fcc-969c-ac15c65be948
+
+```text
+Futuristic girl wearing a black latex, camera transitions in her mouth. .
+
+```
+
+- **Sample `84d55299-2114-409b-a0de-dfe3bdef0e64`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1896×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/914ea601-f29f-48b2-a7ea-66d8dcb32948.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/62791d9e-bd70-4d05-9007-729b802a124a.mp4
+  - page: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/84d55299-2114-409b-a0de-dfe3bdef0e64
+
+```text
+Girl with golden teeth. Camera transitions in her mouth. 
+```
+
+- **Sample `6aaca960-f6eb-4c33-a2c7-be93275ee13f`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1920×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/68adf139-83a7-433f-a132-ff3909f05464.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a2416ed6-6b2d-48f3-9d67-cafcab47fdda.mp4
+  - page: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/6aaca960-f6eb-4c33-a2c7-be93275ee13f
+
+```text
+A fox, camera transitions in it's mouth. .
+```
+
+- **Sample `8bb8d3f2-bc5e-4522-a8da-16902eadbaa0`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1920×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e65dc88f-bd98-40df-a145-7970a6a5724f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/71687a03-fe92-46ca-8858-59882a2b69e1.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/8bb8d3f2-bc5e-4522-a8da-16902eadbaa0
+
+```text
+Anime guy. Camera transitions in his mouth. 
+```
+
+- **Sample `807c5bb8-0585-4ea7-a1cf-21d82e3e350f`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1920×1080
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/50ddf60b-5b31-4afe-a4c7-dcfebfa10ba5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/726f3423-a487-4054-bd7a-c21a62049731.mp4
+  - page: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/807c5bb8-0585-4ea7-a1cf-21d82e3e350f
+
+```text
+Girl covered in blood smokes. Camera transitions in her mouth. 
+```
+
+- **Sample `8f0c12ad-22a2-4467-8e55-84c2d043cc51`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/8f52fac9-fc3f-4a00-a4d5-c0c9169a4684.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/6d3dbb50-0f47-425c-a726-75ca7a683643.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/8f0c12ad-22a2-4467-8e55-84c2d043cc51
+
+```text
+A creature makes an evil laugh, the camera transitions into its mouth, 
+```
+
+- **Sample `b7127883-555d-4605-b6cd-4c29cd5987f0`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1280×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/618f70f8-7ba4-4e05-b72b-5e5facef0ba7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4cb151e4-989b-4e3c-b9fc-c878948f5095.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/b7127883-555d-4605-b6cd-4c29cd5987f0
+
+```text
+the creature turns to the camera and opens its mouth to reveal two rows of razor-sharp teeth,  
+```
+
+- **Sample `48d540fc-44e1-4133-8da4-0e257959f29d`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/95da5496-6399-4031-be0f-2720741fcbe8.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d537d17b-348a-4c06-95c2-d39ab183d04b.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/48d540fc-44e1-4133-8da4-0e257959f29d
+
+```text
+Bee flies up, camea transitions into its mouth, 
+```
+
+- **Sample `328126ff-e914-46cb-bc10-13ffc21f93dc`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1152×784
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/09c1a129-0f6d-4a0d-a6cf-4aa538ae2ca1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/07dd9363-f68e-4225-95da-512ef97b2ab3.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/328126ff-e914-46cb-bc10-13ffc21f93dc
+
+```text
+a frontal close-up shot of a donkey calmly looking directly into the camera against a clear, expansive sky. Gradually push the camera forward in a smooth, steady movement, zooming directly into the donkey's slightly open mouth to create a playful, surreal transition into the next scene. Maintain vibrant, natural colors and soft lighting, ensuring clarity and visual continuity through the mouth-camera transition.
+```
+
+- **Sample `70bd5764-9faa-4032-9ed5-9819ba27bd05`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1296×704
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/f80fde54-6f16-426f-9461-5b580c85a98a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/caf7b08d-562e-4c2c-bb57-d371c2e501cf.mp4
+  - page: https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2/70bd5764-9faa-4032-9ed5-9819ba27bd05
+
+```text
+Dynamic frontal shot of a lively character with expressive gestures and an open mouth. Smoothly move the camera forward into the character's mouth, seamlessly transitioning into the next scene through this creative entry point. Maintain vibrant colors, playful lighting, and an engaging atmosphere, highlighting the whimsical, energetic nature of the character.
+```

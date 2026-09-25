@@ -53,3 +53,71 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 7 | https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/fa658788-d7d1-442d-9afb-ffd3222bfad0 | https://static.higgsfield.ai/fa658788-d7d1-442d-9afb-ffd3222bfad0.mp4 | https://static.higgsfield.ai/fa658788-d7d1-442d-9afb-ffd3222bfad0.webp | https://d1xarpci4ikg0w.cloudfront.net/81fe7c1f-b607-4924-8dff-5636a1f12402.webp (320×242) |
 
 Source pages: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3, https://higgsfield.ai/motion/8d582076-10e2-40f7-bbef-6384532147c2. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+7 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `fa658788-d7d1-442d-9afb-ffd3222bfad0`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/973eb03c-7868-4ce0-a035-8edb2ca4d5ad.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/3911efd1-acbb-4e8a-ab6b-5a0a51f0862d.mp4
+  - page: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/fa658788-d7d1-442d-9afb-ffd3222bfad0
+
+```text
+As twilight descends over a Soviet-era apartment block skyline, the camera begins a slow dolly in on a young woman standing on a narrow balcony. She wears a black leather jacket over a sheer bodysuit, her hands confidently gripping the railing. Her blonde hair tousles gently in the evening breeze, her gaze fixed calmly forward. Neon reflections from car headlights shimmer on the wet street far below. The camera moves closer, emphasizing her defiant pose against the cool-toned cityscape, building an atmosphere of quiet strength and urban solitude. Shot in rich Ektachrome-style hues, with soft cinematic grain and shallow depth of field.
+```
+
+- **Sample `88fd0e5e-2e8d-4bb8-9456-a2f51e6243e6`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/41fcef48-e0aa-4182-a596-61b8d4d22154.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/3178bbb1-0241-4b7c-9252-877c68dc6a32.mp4
+  - page: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/88fd0e5e-2e8d-4bb8-9456-a2f51e6243e6
+
+```text
+Slow dolly in on two identical young blonde girls standing hand in hand in front of a faded green vintage car and retro bumper cars. They wear matching red polka-dot dresses and green sandals, their solemn expressions fixed forward. The camera pushes steadily closer, capturing the subtle twitch of their fingers and the blinking reflection in their eyes. In the background, the geometric facade of a beige apartment building towers over them. Harsh sunlight creates sharp shadows across the ground, while children’s rides and playground equipment fade slightly out of focus. Tension builds as the camera nears their faces, amplifying the uncanny symmetry. 
+```
+
+- **Sample `12c7d2f7-c95f-43ed-b159-cc74ee25a1ba`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/66379854-14b7-46d1-9e28-fb3575a72474.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a88a03c2-46f5-4da3-a17a-7fec6f34f301.mp4
+  - page: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/12c7d2f7-c95f-43ed-b159-cc74ee25a1ba
+
+```text
+A bright, cinematic animation of a young girl in a pink dress standing at the top of a small lighthouse, looking through binoculars out over the calm ocean. The camera begins a steady, realistic dolly-in movement—gliding smoothly closer toward the girl while maintaining perfect horizontal alignment. The sea sparkles in the background and the sky is dotted with soft clouds. The girl remains focused, shifting slightly as she scans the horizon. Her hair and dress gently move in the breeze. The tone is curious and serene, evoking a sense of wonder and adventure without fantasy or slow-motion exaggeration.
+```
+
+- **Sample `5eb4d2a3-ec59-447b-a107-2c09deb5a94d`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ec5ffb94-2572-4fa2-a521-0c0dfc08c1bd.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/17eac430-fcbd-4645-940d-840ebed6ff91.mp4
+  - page: https://higgsfield.ai/motion/8d582076-10e2-40f7-bbef-6384532147c2/5eb4d2a3-ec59-447b-a107-2c09deb5a94d
+
+```text
+A realistic, cinematic animation of a group of horse-mounted riders standing motionless in a wide open field under a clear sky. The camera performs a steady dolly-in movement toward the group, closing the distance with natural pacing—like a camera mounted on tracks or a vehicle approaching. As the camera glides forward, dust gently stirs in the grass, the horses flick their ears or tails slightly, and clothing subtly rustles in the breeze. The characters maintain their poses, exuding stoic presence and anticipation. The mood is tense yet grounded, like a prelude to a standoff or declaration. Lighting stays warm and golden, casting long shadows behind the riders.
+```
+
+- **Sample `262b6919-5b32-4cf4-92c9-34d7a2eb7f69`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/b46b6825-bfaa-4fe3-9365-41f564664645.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/e0a024b1-87e3-416a-902f-01f59fe4147f.mp4
+  - page: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/262b6919-5b32-4cf4-92c9-34d7a2eb7f69
+
+```text
+As the camera steadily zooms in, an array of vintage televisions flicker with a stark, electrifying question mark, casting shadows across the dimly lit room. The environment is cloaked in darkness, enhanced by the harsh white glow from overhead fluorescent lights, creating a surreal contrast. Each screen comes alive in sync, radiating a sense of urgency and mystery, as static crackles around them. A polished, reflective floor captures the luminous display, amplifying the drama of this enigmatic moment. The air is thick with anticipation, drawing viewers into an unfolding narrative that hints at unanswered queries and hidden truths.
+```
+
+- **Sample `1c01e3e6-0731-4c02-a3dd-dab870d54adb`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/a28179dc-3abd-4315-a81c-f46f674b2a1d.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/6546be27-ebdb-4727-bd91-c7717f7ce37e.mp4
+  - page: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/1c01e3e6-0731-4c02-a3dd-dab870d54adb
+
+```text
+A young man lounges confidently on a striking orange couch, stylishly gazing at the camera. The sun shines brightly, illuminating his sporty outfit consisting of a light beige shirt, black shorts, and sleek sneakers. he takes a can of soda and drinks it. Fast motion, dynamic motion
+```
+
+- **Sample `3231174f-61a3-4218-b6a9-b2d863507d48`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/c032f228-64f2-40fb-b4d0-fea054f796d1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d3760bd1-4134-485a-a492-bc06749f151f.mp4
+  - page: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/3231174f-61a3-4218-b6a9-b2d863507d48
+
+```text
+A mysterious armored figure stands motionless against a deep red background, cloaked in a regal red robe with golden embroidery. The camera slowly dollies in toward the figure, creating a sense of suspense and intensity. As the camera approaches, subtle movements in the fabric of the robe and gentle flickers of light on the ornate metallic mask and shoulder armor bring the character to life. The figure's breathing is slow and controlled, adding tension. Faint ambient sound or distant chanting echoes in the background. The hat’s intricate tower design catches the light as shadows shift dramatically across the face, enhancing the aura of secrecy and power.
+```

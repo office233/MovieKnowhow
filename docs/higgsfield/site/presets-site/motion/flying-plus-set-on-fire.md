@@ -49,3 +49,80 @@ Use it as: upload a start image that matches the scene, select motion preset **F
 | 6 | https://higgsfield.ai/motion/33a41f25-ef9d-4340-8d2d-be3e169e77d9/e61f20ef-e7a5-495c-add2-8b0bc390c612 | https://static.higgsfield.ai/e61f20ef-e7a5-495c-add2-8b0bc390c612.mp4 | https://static.higgsfield.ai/e61f20ef-e7a5-495c-add2-8b0bc390c612.webp | https://d1xarpci4ikg0w.cloudfront.net/9358bdd0-9c4b-4167-9546-819c0d4000f0.webp (320×210) |
 
 Source pages: https://higgsfield.ai/motion/33a41f25-ef9d-4340-8d2d-be3e169e77d9. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+8 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `da4890a9-fbe7-4f3d-9bb0-1df852fff802`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/596aa8a8-1454-41aa-b991-beba2f96d8e7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/927573a9-31a4-4cc1-973d-c4165cbd2811.mp4
+  - page: https://higgsfield.ai/motion/d5ec4a6e-d982-4245-92eb-971c74505c9a/da4890a9-fbe7-4f3d-9bb0-1df852fff802
+
+```text
+A girl with a determined expression accelerates on her broomstick, her hair flowing wildly behind her. She dives down through dark clouds, where the soft light of sunset breaks through, casting a warm glow. Below her, a clear lake emerges, cradled by lush green forests that stretch endlessly on either side. The atmosphere is electrifying, filled with a sense of freedom and adventure. The contrasting colors of the deep blue sky and vibrant forest create a rich tapestry of nature. As she descends, the wind whispers around her, enhancing her exhilaration.
+```
+
+- **Sample `1ee7f632-056b-488f-ac6d-b5292b802b8d`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/290e953f-8bbb-4967-9c6b-723441937edb.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/dbe3590d-cf4b-4f19-8b49-ceb0988e461f.mp4
+  - page: https://higgsfield.ai/motion/3b83bad3-64bd-4baa-bf73-be886f19a10c/1ee7f632-056b-488f-ac6d-b5292b802b8d
+
+```text
+A determined girl with wind-swept hair is diving rapidly downward, arms extended wide, exuding confidence and exhilaration. The sky around her bursts with vibrant blues and brilliant white rays of light, creating a sense of speed and freedom. Fluffy clouds billow beneath her, their textures contrasting with the sleek lines of her form, enhancing the feeling of motion. The sun shines intensely behind her, casting a radiant glow that frames her silhouette, amplifying the rush of the descent. As she flies, a sense of courage and adventure permeates the scene, engaging the viewer with her bold expression and the joyous thrill of flight.
+```
+
+- **Sample `d15cdde5-022a-4360-9f65-86da7a8cf591`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/99bf0004-fe71-40e3-920f-dcd197562c28.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/90f4507d-75ef-4ac0-863a-c4a5769d7678.mp4
+  - page: https://higgsfield.ai/motion/3b83bad3-64bd-4baa-bf73-be886f19a10c/d15cdde5-022a-4360-9f65-86da7a8cf591
+
+```text
+A young man flies straight toward the viewer, his fist extended and expression fierce with determination. The vast blue sky envelops him, punctuated by bright sunlight illuminating the fluffy white clouds beneath. Each strand of his wind-swept hair catches the light, illustrating a sense of freedom and exhilaration. The atmosphere is charged with excitement, amplifying the dramatic tension as he descends through the open air. The scene pulses with energy, exaggerating his motion against the tranquil yet dynamic backdrop, embodying the thrill of breaking through the ordinary.
+```
+
+- **Sample `aee5064e-fc66-403f-9577-64cf38d993c3`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/c75fc3b4-e5de-4587-8641-712c1c18637a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/5908b562-5cff-4cb2-94d5-87cf7aadb2ab.mp4
+  - page: https://higgsfield.ai/motion/3b83bad3-64bd-4baa-bf73-be886f19a10c/aee5064e-fc66-403f-9577-64cf38d993c3
+
+```text
+a girl flies over the city terrified
+```
+
+- **Sample `41a60a0d-c65b-449b-9177-3fef34086cc3`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/fea592bb-a60c-40ea-aeb8-af3e0f9904e3.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/fb28a239-1f7b-4901-a125-eb4a0a3975aa.mp4
+  - page: https://higgsfield.ai/motion/d5ec4a6e-d982-4245-92eb-971c74505c9a/41a60a0d-c65b-449b-9177-3fef34086cc3
+
+```text
+A man wearing sleek black sunglasses and a long, flowing coat flies to the left through a futuristic cityscape, his expression serene yet determined. The environment is bathed in soft daylight, with towering skyscrapers fading into a misty background. As he accelerates, the buildings blur in a rush, creating a dynamic foreground contrast. Light glints off his sleek attire, while the distant horizon shimmers with a muted sheen, amplifying the sense of height and speed. The atmosphere feels electric, filled with an exhilarating sense of freedom and power.
+```
+
+- **Sample `c8aafb69-f77d-40b4-b458-3cf35c69d0dc`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e28e528e-460b-460a-a027-8ac68e53f565.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/8c684ec6-860d-4e24-8ae3-5a9e302532f9.mp4
+  - page: https://higgsfield.ai/motion/3b83bad3-64bd-4baa-bf73-be886f19a10c/c8aafb69-f77d-40b4-b458-3cf35c69d0dc
+
+```text
+A teenage boy soars through a tumultuous, rainy sky, his expression a mix of exhilaration and determination as sheets of rain blur past him. Dark, swirling clouds envelop him, illuminated by sudden flashes of lightning that pierce the gloom, casting a stark blue glow around him. He stretches his arms outward, embracing both the freedom and danger of his flight, his hair whipping wildly in the fierce winds. The atmosphere is electric, charged with energy and emotion that intensifies with every heartbeat. Each bolt of lightning seems to amplify his resolve, as if the storm itself is urging him onward. His swift movement creates a dynamic sense of speed, capturing the raw power of nature and the boy’s relentless spirit.
+```
+
+- **Sample `c9dc0369-bff4-41dc-8aec-1e6569965ed0`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/a5d71164-7193-4981-92d5-6b80c980b6b4.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4c9b6ba1-02a5-4776-a243-e76d28d02f94.mp4
+  - page: https://higgsfield.ai/motion/d5ec4a6e-d982-4245-92eb-971c74505c9a/c9dc0369-bff4-41dc-8aec-1e6569965ed0
+
+```text
+A man soars towards the camera at high speed, arms stretched wide as if embracing the open sky. His intense gaze reveals determination, framed by a backdrop of bright blue with wispy clouds drifting lazily. Seagulls glide nearby, flickering shadows against the sunlit landscape, enhancing the thrill of the moment. The texture of his worn-out denim shirt ripples in the wind, reflecting a rugged spirit. The scene pulses with energy and urgency, as the sunlight dances upon his form, capturing the sheer exhilaration of flight.
+```
+
+- **Sample `2d2f33ec-e943-4af9-ba45-5d93f0c256a7`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ca9b575f-058a-4bc6-9fef-001b9aaddace.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f9bb0462-407d-4b7c-8bf8-a05aafbf95c9.mp4
+  - page: https://higgsfield.ai/motion/3b83bad3-64bd-4baa-bf73-be886f19a10c/2d2f33ec-e943-4af9-ba45-5d93f0c256a7
+
+```text
+A person ascends rapidly into the sky, captured in a low angle shot that emphasizes their thrust against the backdrop of towering skyscrapers. The city looms around them, glass facades reflecting the dim hues of twilight, creating an atmosphere of exhilaration and freedom. As they rise, the cool blues of the evening sky contrast with the glistening city lights, intensifying the sense of motion and height. The character's body is poised, arms slightly extended, embodying both determination and liberation against the urban landscape. This scene unfolds in a dynamic rush, with clouds drifting above, suggesting an impending journey into the unknown.
+```

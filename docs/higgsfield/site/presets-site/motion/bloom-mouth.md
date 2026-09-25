@@ -41,3 +41,17 @@ Use it as: upload a start image that matches the scene, select motion preset **B
 | 1 | https://higgsfield.ai/motion/32332330-5b5c-4dd1-913c-e39ed6dd4c43/48418c27-2d94-4430-bfbd-32f62bb40367 | https://static.higgsfield.ai/48418c27-2d94-4430-bfbd-32f62bb40367.mp4 | https://static.higgsfield.ai/48418c27-2d94-4430-bfbd-32f62bb40367.webp | https://d1xarpci4ikg0w.cloudfront.net/f5963af2-ea8d-4cce-8f39-c696cce04354.webp (320×486) |
 
 Source pages: https://higgsfield.ai/motion/32332330-5b5c-4dd1-913c-e39ed6dd4c43. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `48418c27-2d94-4430-bfbd-32f62bb40367`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/7446a2a4-e6da-4b3f-9c43-9fff1c46c7e8.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/19cb08e0-e8c2-481f-8f99-283033210c4d.mp4
+  - page: https://higgsfield.ai/motion/32332330-5b5c-4dd1-913c-e39ed6dd4c43/48418c27-2d94-4430-bfbd-32f62bb40367
+
+```text
+Sitting casually at an outdoor café, the woman opens her mouth gently, revealing soft, delicate petals in place of her tongue. The petals are vividly colored in shades of rose-pink, lavender, and subtle ivory, creating a mesmerizing, surreal contrast with her urban-chic outfit. Her calm and unbothered expression accentuates the intriguing and dreamy atmosphere of this fantastical detail, merging effortlessly with the realistic city background.
+```

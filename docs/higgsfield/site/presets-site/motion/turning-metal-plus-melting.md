@@ -50,3 +50,73 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 7 | https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/6f5ba1db-61ff-47fc-8c3c-99d3ce2c4112 | https://static.higgsfield.ai/6f5ba1db-61ff-47fc-8c3c-99d3ce2c4112.mp4 | https://static.higgsfield.ai/6f5ba1db-61ff-47fc-8c3c-99d3ce2c4112.webp | https://d1xarpci4ikg0w.cloudfront.net/3ce95a79-45b0-494e-9b9f-938beb7fc19f.webp (320×182) |
 
 Source pages: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+7 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `6f5ba1db-61ff-47fc-8c3c-99d3ce2c4112`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=, guide_scale=, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/1831954b-e001-4961-85c1-7a5779459448.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/2279272c-497f-435c-84b1-ec0ae0662a43.mp4
+  - page: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/6f5ba1db-61ff-47fc-8c3c-99d3ce2c4112
+
+```text
+In a hyper-stylized pink studio, a woman lies on the floor in a shimmering metallic bodysuit. Her face is soft but unreadable, and everything around her is drenched in pastel. Slowly, her skin begins to reflect — becoming sleek, mirror-like pink chrome. The surface catches every shade of the pink set, like a sculpture made of melted lipstick. Her fingers, cheekbones, and lips shine with liquid elegance. Then, without a sound, the chrome begins to drip. The flawless pink layer slides off her face and hands in slow streams, revealing skin flushed beneath. As it melts, the floor reflects back her distorted chrome self. She remains calm, melting back into softness.
+```
+
+- **Sample `285513f2-d036-4741-894d-f8abaac3d6c7`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=, guide_scale=, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4d188f02-297e-441c-85d7-5683acb7699e.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a0c1b36c-55f8-4108-8bbf-efd9fc44c6a7.mp4
+  - page: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/285513f2-d036-4741-894d-f8abaac3d6c7
+
+```text
+Inside a shadowy wooden barn lit by harsh red light, a young man stands still against a wooden beam. His dark blue coat absorbs the red glow while his expression stays calm and unreadable. Suddenly, a transformation begins — his skin turns pale and reflective, hardening into smooth, white metal. His features are now cold and polished, like a statue cast from chrome. The red light reflects sharply off the silver-white surface of his face and neck. Then, without warning, the metal starts to melt. The pristine surface softens, deforms, and begins to drip — long, molten streams of white-hot alloy slide down his face and collarbone, soaking into the fabric of his coat. He doesn’t flinch. His metallic shell continues to collapse in slow, elegant destruction. The red-lit barn remains frozen. He stands. He melts.
+```
+
+- **Sample `ab8795ae-c9a3-4d88-a54b-0513dcfb8727`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=, guide_scale=, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/887e5f1d-8f72-4bca-ab88-3b94a7435d80.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/80baa31e-1fde-47c1-814f-fd527c694d0b.mp4
+  - page: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/ab8795ae-c9a3-4d88-a54b-0513dcfb8727
+
+```text
+Under the neon lights outside a luxury boutique, a tall woman in a silky pink dress stands, her posture confident and stately. The glass and chrome behind her shimmer with retail glamour. Suddenly, her skin begins to transform – smooth and seamless, it turns into shining gold. Now her entire body glows like molten treasure, reflecting the green and pink lights of the city night. The fabric of her dress remains intact as the transformation spreads from head to toe. Then, slowly, the gold begins to melt. Drops of shining metal slide down her collarbones, arms, and thighs. As the golden shell melts, the skin beneath becomes visible. She stands radiant, dissolving into elegance and decadence.
+
+
+```
+
+- **Sample `1c4dd8a9-0a4f-494f-ae6c-c118400b58de`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=, guide_scale=, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/227c6769-f1ef-4bab-be0a-fc6c211239bf.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/ed2a85a3-8865-4155-9483-f5ec214524f7.mp4
+  - page: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/1c4dd8a9-0a4f-494f-ae6c-c118400b58de
+
+```text
+In the middle of a quiet New York street, a man in white stands alone on the sidewalk, dwarfed by the row of old buildings behind him. Suddenly, the transformation begins. The red bricks, turquoise walls, and rusty fire escapes start to shimmer — their surfaces turning into smooth, reflective silver metal. The entire façade of the block slowly transforms, glinting like a futuristic sculpture. But then, the metal begins to melt. The silver drips downward in thick, molten streams — window frames collapse, stair rails bend and sag, signs distort and slump as if liquefying in extreme heat. The sky remains gray and motionless. The man doesn’t move. Around him, the city crumbles not into rubble — but into liquid metal.
+```
+
+- **Sample `718f5c7c-3826-4cf3-afd9-cdc5f70d6a11`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=, guide_scale=, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4a9b878e-1578-4de9-8c29-f240f404677f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1a55ca83-f54a-4575-9630-f8c987828f8e.mp4
+  - page: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/718f5c7c-3826-4cf3-afd9-cdc5f70d6a11
+
+```text
+Under a stormy sky in an open field, a woman stands tall and perfectly still. She wears a deep blue embroidered coat and a white headscarf tied neatly beneath her chin. Her striking blue eye makeup intensifies the solemnity of her gaze. Suddenly, her skin and coat begin to shimmer and shift — transforming into a smooth, reflective blue metal. The surface ripples with delicate floral scales, echoing the embroidery. Her posture remains unbroken. Then, with an eerie silence, the metallic shell begins to melt. Thick silver-blue liquid drips from her sleeves, face, and headscarf. The molten metal flows steadily, soaking into the grass around her feet. The bull beside her does not react, standing motionless in the fading light. Her expression remains regal and untouched, even as her form collapses. She stands. But she dissolves.
+```
+
+- **Sample `fea4b45e-9056-4181-be47-d85c37780a25`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=, guide_scale=, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/cb4c93b3-5f72-4fc2-b95f-0a65b1490583.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d2f0c920-d2b3-486a-bb4d-f8e27c577cd3.mp4
+  - page: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/fea4b45e-9056-4181-be47-d85c37780a25
+
+```text
+Under the blazing sun of a high street paved with skyscrapers and palm trees, a stylish man stands confidently, his diamond grille glittering in the light. His pose is frozen in pride, his hand clutching his shimmering collar. Suddenly his entire body begins to transform into smooth, pure gold. The texture is seamless, metallic, shining like polished treasure. But then, as he becomes completely golden, its surface begins to drip. Slowly it melts and disintegrates – first around his jawline, then down his fingers and collar. As the metal liquefies, it reveals the raw skin beneath. Flecks of gold slide off his face like hot wax, revealing muscle and bone glinting through the cracks. His eye socket shimmers faintly beneath the molten layer. The transformation is majestic but terrifying – the king dissolving before the city. He remains proud. But he is melting to the core.
+```
+
+- **Sample `81487814-2462-451b-83fb-4ea4f1b3ca91`** (priority 0) — Wan 2.5 motion preset, steps=31, frames=81, strength=, guide_scale=, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3e03ea7b-2d2d-4b4b-8717-818c25851a40.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/b658b8f8-257d-48dd-a809-4be17275f0d1.mp4
+  - page: https://higgsfield.ai/motion/017ae2b7-bcff-42ef-863e-6e198f96c3ec/81487814-2462-451b-83fb-4ea4f1b3ca91
+
+```text
+man's skin melts revealing metal skin under the artificial skin
+```

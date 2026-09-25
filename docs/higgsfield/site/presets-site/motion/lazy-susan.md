@@ -53,3 +53,67 @@ Use it as: upload a start image that matches the scene, select motion preset **L
 | 6 | https://higgsfield.ai/motion/025866ff-677c-4af2-92ef-52d6ec3b035e/4ade1025-9300-4def-b79b-5bbd0e5f8d43 | https://static.higgsfield.ai/4ade1025-9300-4def-b79b-5bbd0e5f8d43.mp4 | https://static.higgsfield.ai/4ade1025-9300-4def-b79b-5bbd0e5f8d43.webp | https://d1xarpci4ikg0w.cloudfront.net/65456ad0-bc92-4005-b3c1-90e5496eba32.webp (320×182) |
 
 Source pages: https://higgsfield.ai/motion/025866ff-677c-4af2-92ef-52d6ec3b035e, https://higgsfield.ai/motion/692c5527-3580-4c65-adfd-c47c6dc1f975. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+6 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `4ade1025-9300-4def-b79b-5bbd0e5f8d43`** (priority 5) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e0c9e604-c39d-423f-a4a2-8874bf2180d9.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d9fb3a01-c7c7-415c-82dd-133e3730e7ce.mp4
+  - page: https://higgsfield.ai/motion/692c5527-3580-4c65-adfd-c47c6dc1f975/4ade1025-9300-4def-b79b-5bbd0e5f8d43
+
+```text
+A heavily tattooed man stands confidently at the center of a pulsing nightclub, oversized sunglasses framing his face as he throws his head back with laughter. Neon pink and turquoise lights bathe him in a surreal glow, highlighting his plaid jacket while the background blurs with the ecstatic movements of the crowd. The camera, mounted on a Lazy Susan-style platform, smoothly rotates around him, capturing the energy of people raising their hands in sync with the beat, their movements a kaleidoscopic blend of light and motion. The atmosphere pulses with euphoria, reflecting music video surrealism fused with fashion-forward aesthetics. Soft lens flares accentuate the saturated color palette, while the hypnotic camera rotation immerses the viewer in an electrified sensation of joy and freedom.
+```
+
+- **Sample `25cbf105-a66b-4f6f-8ed9-e837d10ca02a`** (priority 4) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/002ec8d4-fbc8-4538-968c-e795a39c340e.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/bbbe1256-d440-4549-8545-c1b537d1ad95.mp4
+  - page: https://higgsfield.ai/motion/025866ff-677c-4af2-92ef-52d6ec3b035e/25cbf105-a66b-4f6f-8ed9-e837d10ca02a
+
+```text
+A man sits at a round table, his blue shirt contrasting with the fire-red lanterns overhead. His wide grin and gleaming expression radiate sheer excitement as he gestures toward an impressive spread of vibrant dishes. The warm glow from overhead lights creates an inviting atmosphere, highlighting the intricate details of the food. Surrounding him, the spacious restaurant buzzes with a sense of celebration, the tables adorned with rich colors and elegant décor. The angle captures the luxurious textures of the meal, while the upbeat energy of the scene invites viewers into this joyful dining experience.
+```
+
+- **Sample `a3eaf904-d218-48ef-812a-aecc971a8c33`** (priority 3) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d8eb5caa-3462-4850-9abe-381da4c4207d.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f268f260-31e1-47b4-a0d5-8f4342418405.mp4
+  - page: https://higgsfield.ai/motion/025866ff-677c-4af2-92ef-52d6ec3b035e/a3eaf904-d218-48ef-812a-aecc971a8c33
+
+```text
+A young man with tousled hair plays passionately at his drum set, his shirt unbuttoned and patterned, revealing an expressive mood of joy and concentration. The room is softly lit, with golden light streaming from a skylight, creating warm highlights on the polished surfaces of the drums. As he strikes the cymbals, the sound reverberates, echoing off the minimalist walls, amplifying the pulse of his rhythm. There’s a sense of euphoria in the air, each beat translating his inner world into sound. The camera captures close-ups of his focused expression and the dynamic movement of his arms, intertwining motion and emotion amidst the tranquil yet electric environment.
+```
+
+- **Sample `e9bfa433-f330-46ed-b7ab-ffb944f1e601`** (priority 2) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/7f24a410-9953-4ac3-bba5-79bacaf3b43f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0f969c83-db0c-478a-b4c8-deb753062f49.mp4
+  - page: https://higgsfield.ai/motion/692c5527-3580-4c65-adfd-c47c6dc1f975/e9bfa433-f330-46ed-b7ab-ffb944f1e601
+
+```text
+A man in a shimmering rhinestone suit and wide white cowboy hat crouches in the middle of a sun-scorched desert, golden sand stretching endlessly. He sits on a vintage CRT television half-buried in the sand — its screen glows with a deep cyan static, displaying a black silhouette of a galloping horse in looping animation. The man slowly straightens, lifting the TV with reverence, dust swirling gently around his boots.
+Spin begins, the camera rotates around him in a steady, hypnotic motion. The background blue sky, infinite ring of vintage televisions all broadcasting the same horse silhouette, flickering like a ritual. The colors become more saturated: cobalt shadows, burnt sienna sand, electric cyan glows from the TV screens.
+```
+
+- **Sample `d09dd399-9714-4443-baf6-724a6569b2b5`** (priority 1) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d44fd019-cb6e-40e9-bccd-78032bf348f3.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/25e0c32f-789d-44b1-97b1-c3b8cc247d71.mp4
+  - page: https://higgsfield.ai/motion/692c5527-3580-4c65-adfd-c47c6dc1f975/d09dd399-9714-4443-baf6-724a6569b2b5
+
+```text
+A boy in a school uniform sits cross-legged at the center of a ruined cathedral, surrounded by tall white candles that flicker gently in a perfect circle. He holds a silver statuette in his lap like a sacred relic. As the camera begins its Lazy Suzan rotation, shafts of sunlight pour through the broken dome above, illuminating dust particles that float like falling ash.
+
+Behind him, a delicate wire halo holds rotating icons of saints and martyrs, each turning slowly in orbit. The candle flames bend as if drawn by gravity toward the boy. His eyes remain locked on the viewer, serene and unnervingly still, while the cathedral spins behind him
+```
+
+- **Sample `154db783-8d22-431a-9cb4-5fa4e7b32249`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/31ad2890-4728-4093-8e1b-694a540b49e4.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/14894c78-01c6-4166-88b0-2398752ee203.mp4
+  - page: https://higgsfield.ai/motion/025866ff-677c-4af2-92ef-52d6ec3b035e/154db783-8d22-431a-9cb4-5fa4e7b32249
+
+```text
+A young woman in crimson-stained chainmail kneels at the center of a blood-drenched battlefield. Her hands are open, trembling, as blood runs down her arms like ribbons. A blade pierces her chest — not deep enough to kill, but enough to silence. Around her, the bodies of knights lay motionless, armor glinting in the cold, wet dirt.
+
+The camera begins its Lazy Suzan rotation — slow, solemn. Arrows are frozen mid-air, spears locked in place, raindrops suspended like glass beads. The world turns around her as if time itself hesitates. Her breathing slows. Her eyes close.
+```

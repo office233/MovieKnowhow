@@ -54,3 +54,62 @@ Use it as: upload a start image that matches the scene, select motion preset **3
 | 8 | https://higgsfield.ai/motion/866a58b8-46e2-4a09-bcd8-1aaaa489730c/4eaf38d6-1ce5-4eac-a284-78b3ebe459ec | https://static.higgsfield.ai/4eaf38d6-1ce5-4eac-a284-78b3ebe459ec.mp4 | https://static.higgsfield.ai/4eaf38d6-1ce5-4eac-a284-78b3ebe459ec.webp | https://d1xarpci4ikg0w.cloudfront.net/e8eea1f7-866d-409d-ac52-c305efb2ae87.webp (320×424) |
 
 Source pages: https://higgsfield.ai/motion/866a58b8-46e2-4a09-bcd8-1aaaa489730c, https://higgsfield.ai/motion/d7c180bc-793c-4d29-83ba-c2d5e84e53d4. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+6 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `4eaf38d6-1ce5-4eac-a284-78b3ebe459ec`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/558b2558-fee3-4354-9269-e058dd933051.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/ae12a51d-e571-4eb5-af89-66ba14c8115e.mp4
+  - page: https://higgsfield.ai/motion/866a58b8-46e2-4a09-bcd8-1aaaa489730c/4eaf38d6-1ce5-4eac-a284-78b3ebe459ec
+
+```text
+The camera orbits smoothly in a 360-degree motion around two figures standing still in a white void. One is clad in a white cloak with a luminous Omega symbol, exuding a calm and otherworldly presence, while the other, dressed in a skin-tight suit adorned with a swirling galaxy, suggests a connection to the cosmos. The atmosphere is thick with ethereal fog, lending an enigmatic quality to the scene. With each rotation, the interplay of light reflects off their distinct textures, creating highlights that accentuate their contrasting forms. A sense of tension builds as the viewer witnesses the silent communication between the two, leaving a lingering aura of mystery in this surreal environment.
+```
+
+- **Sample `c7138a1d-933a-4533-93f5-f4de86cf933d`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/216f5aa2-f48f-4816-a042-0ae5bca9d5e1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/809afda4-5dcb-46a0-b2fb-9aea6d601bb7.mp4
+  - page: https://higgsfield.ai/motion/866a58b8-46e2-4a09-bcd8-1aaaa489730c/c7138a1d-933a-4533-93f5-f4de86cf933d
+
+```text
+camera making a fast smooth 360 degree orbit around her head as she opens her beautiful blue eyes 
+```
+
+- **Sample `b68804af-c9c4-4e89-a768-7bbb38342504`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/34928a59-2b07-46be-b800-643e01a28e52.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4307351e-8799-4093-b8b9-e04d1ff66454.mp4
+  - page: https://higgsfield.ai/motion/d7c180bc-793c-4d29-83ba-c2d5e84e53d4/b68804af-c9c4-4e89-a768-7bbb38342504
+
+```text
+A man stands confidently with his arms crossed, wearing a vibrant red athletic jacket adorned with white stripes, juxtaposed against a backdrop of colorful graffiti. As the camera executes a smooth 360-degree orbit around him, his piercing gaze reveals an unwavering resolve and strength. The urban environment buzzes with energy, casting dynamic shadows that dance along his figure, while the bright colors of the graffiti create an intriguing contrast to his solemn expression. With each pass, the lighting shifts, accentuating the texture of his jacket and the depth in his eyes, capturing the tension between tradition and modernity.
+```
+
+- **Sample `b9be742b-6038-4637-ba20-0a9d68563d66`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/eba4f21c-77f2-405c-a67b-3ed21219bcb7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0299ff01-88e9-4647-b2fd-7363d9ae3956.mp4
+  - page: https://higgsfield.ai/motion/d7c180bc-793c-4d29-83ba-c2d5e84e53d4/b9be742b-6038-4637-ba20-0a9d68563d66
+
+```text
+Camera orbits 360° around the man, maintaining a close-medium shot. As it circles, shadows from the neon light shift across his face and body, revealing the tense veins in his arm, the glint of metal, and subtle movement in his expression — resolve wavering into vulnerability. Posters blur and reappear behind him, frozen moments of cultural icons. The room feels heavy, timeless.
+```
+
+- **Sample `33943184-c234-4f4b-8d18-2d1cd00731d3`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d5de7e7a-c704-40c6-836d-6a3bd57ebaf6.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f75ee5d8-3648-453c-a5c0-081c00aa193f.mp4
+  - page: https://higgsfield.ai/motion/866a58b8-46e2-4a09-bcd8-1aaaa489730c/33943184-c234-4f4b-8d18-2d1cd00731d3
+
+```text
+A barefoot young woman in a yellow blouse and navy skirt walks slowly along a seaside stone ledge at golden hour. She holds her sandals loosely in one hand, the breeze gently tousling her hair. The camera orbits around her in a smooth 360-degree motion, capturing her serene expression and the soft, rippling sea to her left. Distant mountains rise behind the ocean under a dreamy orange-pink sky. The mood is contemplative, with subtle film grain and nostalgic warmth. 
+```
+
+- **Sample `15cc174f-348c-430f-9395-5cb0fae95da6`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/56584a5b-5ccd-4b32-afa8-feec47dae60f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0e05ff21-8fb1-403c-9a86-6136a62ee4e2.mp4
+  - page: https://higgsfield.ai/motion/866a58b8-46e2-4a09-bcd8-1aaaa489730c/15cc174f-348c-430f-9395-5cb0fae95da6
+
+```text
+360 orbit shot around a old woman with platinum curls and heart-shaped red sunglasses, seated alone on a dimly lit subway train. She lights a cigarette with a wooden match as she reads a paperback book on her lap. The camera smoothly circles her, capturing flickers of flame and her composed expression from all angles. Fluorescent lights streak in the background, blending warm firelight with cool subway tones. The smoke curls upward as the orbit completes.
+```

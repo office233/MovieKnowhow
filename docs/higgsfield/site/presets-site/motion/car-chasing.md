@@ -61,3 +61,141 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 14 | https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/ca38cfeb-76b9-4f8e-98a9-3ca09b365f8b | https://static.higgsfield.ai/ca38cfeb-76b9-4f8e-98a9-3ca09b365f8b.mp4 | https://static.higgsfield.ai/ca38cfeb-76b9-4f8e-98a9-3ca09b365f8b.webp | https://d1xarpci4ikg0w.cloudfront.net/d99c9c06-69a8-478c-9d39-9821973753bc.webp (320×182) |
 
 Source pages: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae, https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+14 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `ca38cfeb-76b9-4f8e-98a9-3ca09b365f8b`** (priority 13) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2e6b1787-7046-433b-9a91-689dc1153e42.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1348911e-8498-4b45-b65a-f9c64aca9dcb.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/ca38cfeb-76b9-4f8e-98a9-3ca09b365f8b
+
+```text
+The scene begins tight on the man’s face—rain streaking down the windshield, neon reflections flickering across his eyes, muscles tense on the wheel. Sirens howl behind him, red and blue light pulsing against the soaked pavement.
+
+Suddenly, the camera zooms out fast, revealing the police car right on his tail, tires skidding in the wet. The police car rushes ahead of the red car.
+```
+
+- **Sample `3f02ca5e-6296-49a2-87ec-e46d148c25e6`** (priority 12) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/02282ae2-cb06-4b96-aac0-4417e2d76138.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0bc9ec2c-99e1-4e48-a393-eab4a82e74ce.mp4
+  - page: https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf/3f02ca5e-6296-49a2-87ec-e46d148c25e6
+
+```text
+Two sport bikers, fully geared in sleek black outfits and dark helmets, race fiercely on an illuminated urban highway at night. The rider on the left initially falls slightly behind, then quickly accelerates, skillfully maneuvering behind the competitor on the right. With impressive control, he swings around from the opposite side, lifting the front wheel of his motorcycle off the ground in an exhilarating wheelie as he overtakes his opponent. The atmosphere is charged with adrenaline, vividly styled through dynamic motion blur, dramatic city lighting, and cinematic realism.
+```
+
+- **Sample `34883e35-9921-4503-a4fe-680cf0dfc1c2`** (priority 11) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4e36527b-94b4-4a2d-802f-8bd82a737994.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a2f0e08a-ce33-41c6-b38c-76d72df7ac50.mp4
+  - page: https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf/34883e35-9921-4503-a4fe-680cf0dfc1c2
+
+```text
+an intense cinematic car chase scene. Yellow BMW races though the street at night in high speed, behind it a sleek silver mercedes GTR appears and overtakes it, camera captures the intense motion and splashes of water coming from the cars' wheels. ohwx tchnq
+```
+
+- **Sample `ac3d647f-6530-4343-b6f4-8492fb8bf9d9`** (priority 10) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ad3025ff-76ed-4090-8512-db64eceed5f6.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/3eefe9c6-c80e-4744-940b-9c0defbb1aaa.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/ac3d647f-6530-4343-b6f4-8492fb8bf9d9
+
+```text
+an intense high speed car chase scene.  The green soviet car tries to escape the police car. ohwx tchnq
+```
+
+- **Sample `948a9398-ec6f-41ba-841c-2e7349d08c96`** (priority 9) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/f67fe2ab-cb89-4ea7-bedf-c205de23ef6a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/5bac99d5-5c9f-45d6-bee7-481cc273cf0e.mp4
+  - page: https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf/948a9398-ec6f-41ba-841c-2e7349d08c96
+
+```text
+A tense front-view action shot: a classic silver Porsche 911 barrels down a suburban street. Behind it, two police cars surge forward, red-and-blue lights flashing, sirens wailing, and tires screeching as they close in.
+
+Dust kicks up from the road as the driver, focused and unflinching, punches the gas.
+
+ohwx tchnq
+```
+
+- **Sample `4fe8aecd-ba72-49db-bc8c-de24334f5ca5`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3f69e3f9-cd7a-4727-80d1-ee4d44045574.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/fefbc2c1-d0ce-4ec7-a117-76b224f4a1ce.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/4fe8aecd-ba72-49db-bc8c-de24334f5ca5
+
+```text
+A vibrant magenta Cadillac Eldorado lowrider with gold accents cruises confidently down a palm-lined boulevard at sunset, its hydraulics bouncing softly as it accelerates. Just ahead, a sleek black Chevrolet Impala glides in the same direction, but the Cadillac surges forward, beginning to overtake it with smooth dominance. Tracking shot from a low front-left angle, slowly dollying forward to capture the Cadillac as it pulls alongside and begins to pass the Impala. Neon signs and retro diners blur behind in glowing motion trails. The atmosphere is euphoric and bold, bathed in warm sunset tones of violet, pink, and orange. Styling evokes retro West Coast street cruising with glossy chrome reflections, motion blur, and soft bokeh from streetlights.
+
+```
+
+- **Sample `0b93fedd-e622-4f24-acbe-4f402fa2bd31`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/96c7ee27-b8d2-4c19-b64a-ed8195cbf386.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c9c056d1-e372-448b-9802-36307294887a.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/0b93fedd-e622-4f24-acbe-4f402fa2bd31
+
+```text
+A tense street chase scene, caught in a narrow European alley. A yellow taxi blurs past the camera, rushing after a sleek black SUV. 
+```
+
+- **Sample `01cb21b2-c935-4ead-be0b-b5d6b0714dbb`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d2ce4457-f556-46ae-9dd0-6a5e94cac8d7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/255d129a-d304-4c56-8cbe-7ee6f1cb258e.mp4
+  - page: https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf/01cb21b2-c935-4ead-be0b-b5d6b0714dbb
+
+```text
+A silver Nissan GT-R R34 with blue racing stripes roars down a neon-lit city street at night, engine growling with intensity. The car surges forward, coming aggressively close to the camera, its headlights flaring and grille filling the frame in a split-second burst of speed. It then pulls back smoothly, revealing the full silhouette of the car as it maintains its momentum. Behind it, another high-performance vehicle emerges into view, locked in a relentless pursuit. The scene is electric and fast-paced, pulsing with cinematic energy, sharp reflections, motion blur, and the adrenaline of an urban street chase.
+```
+
+- **Sample `3bf630f3-eb02-4bf3-9fc9-78cbdf5e70c0`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/acf9bb30-8d1b-438e-93a6-bacc606e84c3.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/bb99e70d-7103-46dd-ad99-662872445226.mp4
+  - page: https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf/3bf630f3-eb02-4bf3-9fc9-78cbdf5e70c0
+
+```text
+lowrider car rides forward, another red lowrider appears from the back 
+```
+
+- **Sample `0338f787-0b28-4d03-9a4f-c5504a2939c7`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/79a29ff4-801f-486d-80a0-fdf25644002a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0a9d9fee-88c8-41ff-9737-1f15d96d6fd9.mp4
+  - page: https://higgsfield.ai/motion/a76f2e99-0a41-4fdf-934d-9c95b0ee85bf/0338f787-0b28-4d03-9a4f-c5504a2939c7
+
+```text
+Two muscular men wearing flashy chains and stylish streetwear ride jet skis aggressively across the open water during sunset, with a glowing city skyline in the background. One leaps over a wave, the other turns sharply, creating high splashes. The camera follows in a smooth tracking motion, intercut with crash zooms and slow-motion water sprays synced to heavy bass beats. The atmosphere is vibrant and energetic. Styling is glossy music video aesthetic with cinematic color grading, motion blur, and rhythmic camera cuts.
+```
+
+- **Sample `2c907ba5-9426-4e36-9007-3226f859f391`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/df51d1db-0aae-4638-88e6-540fd626d3d0.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/64e20420-9795-4d91-a919-808ce54d8310.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/2c907ba5-9426-4e36-9007-3226f859f391
+
+```text
+high stakes formula 1 scene, the cars compete with each other for the first place, overtaking each other in high speed. Dynamic motion, fast motion, camera shaking
+```
+
+- **Sample `a7a375dd-8040-4b65-8575-ecec9fca6120`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/db187b11-4560-4732-b7b8-ecf7510232c9.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/544abdf2-825a-4897-b86c-27dae9414a79.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/a7a375dd-8040-4b65-8575-ecec9fca6120
+
+```text
+the car drives forward with a girl's half body out of the window, as the car turns left, another car drifts in the back from left to right
+```
+
+- **Sample `5fdba71e-81a8-483c-807a-02e7c672e103`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/1e62f048-0366-474b-aa25-24fcd60765f1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/914d2dde-e2a5-4848-ba5c-4c091924bc15.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/5fdba71e-81a8-483c-807a-02e7c672e103
+
+```text
+akira inspired anime scene of two bikers racing against each other, the bike on the right overtakes the red haired biker and turns his head at her. Fast motion, dynamic motion, fast speed.
+```
+
+- **Sample `a6c2ef1b-8490-40a4-ae6c-3e3f6d22e158`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/20b67202-88ee-4bd6-b079-5c6da7fb0ed5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/92e1012f-f221-41b1-9404-456c274d6368.mp4
+  - page: https://higgsfield.ai/motion/2f2a541b-6ce5-4115-92fb-4d6473d8e3ae/a6c2ef1b-8490-40a4-ae6c-3e3f6d22e158
+
+```text
+high speed car chase scene in black and white style, the car in the back tries to overtake the car in the front. The helicopter flies high above. fast motion, dynamic motion, sense of speed.
+```

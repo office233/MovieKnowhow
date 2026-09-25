@@ -60,3 +60,151 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 14 | https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/a291cb02-85f0-4ddf-b694-8dc37610a600 | https://static.higgsfield.ai/a291cb02-85f0-4ddf-b694-8dc37610a600.mp4 | https://static.higgsfield.ai/a291cb02-85f0-4ddf-b694-8dc37610a600.webp | https://d1xarpci4ikg0w.cloudfront.net/80f9131f-0b6c-45b7-a3df-1b113aea5460.webp (320×424) |
 
 Source pages: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16, https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+14 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `a291cb02-85f0-4ddf-b694-8dc37610a600`** (priority 13) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/48485b3e-cb6b-47a3-8701-bfde7ee69806.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/3fd04c21-f3b9-49ff-977a-1ec1ec792da6.mp4
+  - page: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/a291cb02-85f0-4ddf-b694-8dc37610a600
+
+```text
+A confident man leans out of the back window of a sleek white car cruising through a vibrant city at night. Neon signs and blurred lights reflect off the car’s surface as it speeds down the boulevard. The man aggressively raps into the camera, his hands moving with sharp, expressive gestures. He’s dressed in a bold mesh shirt, layered chains, and a luxury watch, exuding style and swagger. The energy is raw and intense, like a scene straight out of a high-budget hip-hop music video shot in downtown NYC or Tokyo.
+```
+
+- **Sample `d0678d84-a410-43a7-9be6-f78d1b7fd675`** (priority 12) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/49884ae9-c975-451e-9494-ec0bc6b38399.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/e63518af-9a6f-4a14-96ef-b209cc4c5160.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/d0678d84-a410-43a7-9be6-f78d1b7fd675
+
+```text
+A high-fashion man sits in the backseat of a classic yellow taxi in the heart of Tokyo, rapping with confident energy. Neon lights from the bustling city blur and reflect across the tinted window, casting vibrant streaks of blue, red, and pink over his face and leather jacket. He wears dark sunglasses, diamond jewelry, and a luxury watch, exuding charisma and urban swagger. His hand gestures are expressive, captured mid-motion as he performs, locked into the rhythm. The background buzzes with city life — glowing signs, passing cars, and the surreal beauty of a neon-drenched night. The shallow depth of field and cinematic framing give the image a stylish music video feel, blending Tokyo street culture with modern hip-hop elegance.
+```
+
+- **Sample `c3ba19b8-b113-4fc2-8290-08c40beebf5e`** (priority 11) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/b780f651-ed12-4456-b03a-8038cbccdd4c.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f75ccc52-3a6f-4cf6-ba74-d9e2254a9ae8.mp4
+  - page: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/c3ba19b8-b113-4fc2-8290-08c40beebf5e
+
+```text
+Green car drives very fast through tunnel.
+```
+
+- **Sample `cc7cc0de-90eb-4ca6-b896-49a4aca1a2d5`** (priority 10) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/39ba4e74-edd6-4b7d-af0c-d21adbf4c3aa.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/5b3015bb-4c6a-479c-917c-f19b3afe01f7.mp4
+  - page: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/cc7cc0de-90eb-4ca6-b896-49a4aca1a2d5
+
+```text
+The car is driving off-road and shaking in different directions, the camera is fixed near the bullets. two soldiers in red berets are looking around and talking to each other
+```
+
+- **Sample `28465d2b-122e-4666-8fe6-f730bc43d0a2`** (priority 9) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ba1ac94b-c553-4a11-abac-e64ab091b7c2.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/7967d7be-ec6a-4703-822f-b840a990a0f2.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/28465d2b-122e-4666-8fe6-f730bc43d0a2
+
+```text
+A young woman drives a vintage convertible through the glowing streets of Las Vegas at night. Her hair flows freely in the wind, illuminated by the vivid neon lights reflecting off the car’s polished red interior. The camera captures the scene from behind and slightly above, showing her confident grip on the steering wheel as the city’s chaotic beauty blurs around her. The energy of Las Vegas pulses in every direction—casino signs, streetlamps, and late-night crowds—creating a dreamy, cinematic moment of freedom and motion.
+
+Style: 90s retro cinematic, neon glow
+Mood: Liberated, electric, stylish
+Motion: Subtle camera sway with hair moving naturally in the wind
+Lighting: Neon reflections, warm red interiors, night city palette
+Angle: Rear over-the-shoulder tracking shot
+Scene: Center of Las Vegas, cruising through nightlife
+```
+
+- **Sample `c979344c-7511-49ed-abc4-fdf7c3989ed5`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/51134688-0561-406b-b960-dcdf02a9f1f1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/cb607e84-4457-4430-aca9-dfbc237e09b9.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/c979344c-7511-49ed-abc4-fdf7c3989ed5
+
+```text
+A group of men rides through the city at night in a sleek car, lit by neon reflections and streetlights. The stylish driver, wearing dark sunglasses, keeps his cool as he grips the wheel, cruising with confidence. In the back seat, the man on the right stares directly at the camera, breaking the fourth wall with an intense gaze. All of them subtly nod their heads in sync to the beat of a heavy hip-hop track, creating a hypnotic, rhythmic motion. Each passenger is dressed in a unique outfit—from regal robes to fur-lined hoods—adding surreal contrast and character to the cinematic vibe.
+Style: Hip-hop music video, modern street fashion meets fantasy
+Camera angle: Side view, medium close-up through the passenger window
+Mood: Confident, stylish, surreal
+Lighting: Flash-lit interior, glowing city blur outside
+Atmosphere: Nighttime cruise, synchronized energy, cool under pressure
+```
+
+- **Sample `af8f4960-1825-46af-9efe-554aebea223e`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/6f24a596-eaca-4e84-bc8a-8de972a43e5b.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/15758980-760f-4e4b-a620-88a6fa6ec380.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/af8f4960-1825-46af-9efe-554aebea223e
+
+```text
+a car is driving through the city, there are two men in the back seat, the man by the window is smoking cigarettes, the man on the right is drinking soda from a can
+```
+
+- **Sample `24d5487e-affb-40e2-b59b-ff180f59ccf4`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/89471e70-1990-4765-8638-b011075e55db.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/881802fe-2c32-4420-b912-02dc504bf7a3.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/24d5487e-affb-40e2-b59b-ff180f59ccf4
+
+```text
+a man is riding in the back seat of a car, rapping and looking around, movement and emotion, enhancing the dynamic tension of the scene. grainy texture add to the visceral, documentary-like feel, making the image feel both cinematic and deeply personal
+```
+
+- **Sample `3a87df55-b7a6-4e92-9953-f511a8b29fec`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/256ea029-9806-49fb-a4ca-e47cbbb7a150.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/b0f2d997-7037-4292-8d0b-91c11176e5ef.mp4
+  - page: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/3a87df55-b7a6-4e92-9953-f511a8b29fec
+
+```text
+A black-and-white close-up shot of the front headlight of a vintage car, covered in raindrops, parked in an industrial setting. The wet pavement reflects the overcast sky, adding depth and texture to the image. The car’s sleek chrome details contrast with the rough surroundings, evoking a nostalgic, cinematic mood. The shallow depth of field emphasizes the headlight, while the blurred background of warehouses and parked cars adds a sense of timelessness and quiet solitude.
+```
+
+- **Sample `de83f422-d009-43ab-a39e-efefd3a4c7b8`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1472×608
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2c0298d0-cdc4-47ad-86d5-e49dc3b749ca.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/878dbebf-f07f-4f3a-8b16-e05b1b71c22d.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/de83f422-d009-43ab-a39e-efefd3a4c7b8
+
+```text
+A red vintage car cruises along a rural road at sunset, its rear window framing two individuals engaged in quiet conversation. The warm hues of the setting sun reflect on the car’s glossy surface, blending with the soft pastels of the sky. The surrounding landscape, lined with tall trees and open fields, stretches into the horizon, evoking a nostalgic and cinematic atmosphere. The subtle movement of the vehicle and the tranquil ambiance of the countryside suggest a journey filled with contemplation and an unspoken bond between the passengers.
+```
+
+- **Sample `a467b59f-1581-4762-b9da-2e85e50e6742`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/703760ee-736d-42ea-93ec-6b0be0c1ba64.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/2d4b1c70-51af-4fb0-892b-0fe01446242b.mp4
+  - page: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/a467b59f-1581-4762-b9da-2e85e50e6742
+
+```text
+A man and a woman drive down a quiet, dimly lit road at night, their silhouettes softly illuminated by the warm glow of distant streetlights. The man’s hands grip the steering wheel as the woman, with blonde hair tied in a ponytail, gazes ahead, the faint reflections of passing lights flickering on the car’s interior. The atmosphere is one of quiet intimacy and contemplation, with the vast, dark road stretching endlessly before them, evoking a sense of mystery, nostalgia, and an unknown destination ahead.
+```
+
+- **Sample `36919198-e418-4c03-b559-1c7b3c0de514`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/a0395f8c-1abb-4863-ad9a-930a99dd90f4.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c1899c8c-e004-4806-bcd5-464a3c40788e.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/36919198-e418-4c03-b559-1c7b3c0de514
+
+```text
+A black-and-white shot of a man energetically gripping the wheel of an old, rugged car, his mouth open mid-shout, conveying urgency and excitement. He wears a baseball cap and hoodie, adding to his raw, streetwise aesthetic. The cracked window and worn-down interior emphasize a gritty, real-world setting. In the background, slightly out of focus, passengers fill the back seat, their blurred figures hinting at movement and emotion, enhancing the dynamic tension of the scene. The high-contrast lighting and grainy texture add to the visceral, documentary-like feel, making the image feel both cinematic and deeply persona
+```
+
+- **Sample `d690c957-0124-4da1-9565-b2ff3e26bb96`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/f6282c81-63fe-4795-b9fc-5652e1910fba.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a5b856cd-c48b-437e-8193-972d0625284e.mp4
+  - page: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/d690c957-0124-4da1-9565-b2ff3e26bb96
+
+```text
+A sleek neon-green sports car begins to exit a dimly lit garage, the large industrial door slowly lifting open. Overhead fluorescent lights cast sharp, clean reflections along the glossy hood as the car rolls forward. A stylish woman in oversized sunglasses and a white jacket sits confidently behind the wheel, her expression calm and composed. As the car passes the garage threshold, the environment dramatically shifts—now she’s in the vibrant heart of a bustling metropolis at night. Skyscrapers, glowing billboards, and neon signs reflect on the car’s surface, blending the transition from the quiet garage to the electric city.
+
+Style: Cinematic, neon lighting, futuristic to urban transition
+Mood: Cool, powerful, fashion-forward, seamless transformation
+Camera angle: Low front-facing, centered
+Details: Smooth transition in environment, strong contrast between dim garage and vivid city lights, reflections dancing across the windshield and hood, cyberpunk edge
+```
+
+- **Sample `3bb33e88-b357-43b4-8451-2070b635e729`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1472×608
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/1fdf8920-2eb8-4c8c-9681-70d2b759037c.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/dd5597b0-c5ae-4592-873c-fa4926d6807d.mp4
+  - page: https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0/3bb33e88-b357-43b4-8451-2070b635e729
+
+```text
+A young woman with a pensive expression gazes out of the car window at night, her face softly illuminated by passing neon lights. Reflected in the glass, her distant eyes mirror the blur of the cityscape, where glowing signs and streaks of red and blue create a dreamy, melancholic atmosphere. The car moves steadily through the quiet streets, the soft hum of the engine blending with the distant sounds of nightlife, capturing a fleeting moment of introspection and solitude.
+```

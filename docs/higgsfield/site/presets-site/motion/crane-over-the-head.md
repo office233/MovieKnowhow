@@ -57,3 +57,122 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 12 | https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/aecae0f4-1f6b-46b2-8f31-5db4c758b46a | https://static.higgsfield.ai/aecae0f4-1f6b-46b2-8f31-5db4c758b46a.mp4 | https://static.higgsfield.ai/aecae0f4-1f6b-46b2-8f31-5db4c758b46a.webp | https://d1xarpci4ikg0w.cloudfront.net/0324a628-dd30-43c4-9a33-b4205e1aa4c0.webp (320×180) |
 
 Source pages: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+12 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `aecae0f4-1f6b-46b2-8f31-5db4c758b46a`** (priority 11) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1280×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/17e36309-03cf-4f52-88f3-15595b4211c6.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/7100e3dd-469f-4555-b61d-c240860e1b6d.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/aecae0f4-1f6b-46b2-8f31-5db4c758b46a
+
+```text
+A man walking in front of flame, he casually doing rap perfomance, starring at the camera. He fitted in urban black streetwear clothes. Camera movement doing crane over the head technique. Cinematic and vibrant atmosphere.
+```
+
+- **Sample `7d1b34bf-45b2-43ca-8219-c06b67ea8363`** (priority 10) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 2528×1440
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/fc84a695-6940-4705-9114-d8975fca21ba.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/01894adb-7389-4de6-bc0b-184f7f8eb785.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/7d1b34bf-45b2-43ca-8219-c06b67ea8363
+
+```text
+A young couple relaxes next to a vintage olive-green SUV parked in a peaceful open field. The guy leans coolly against the side of the car in casual denim and a tan overshirt, white oval sunglasses giving him a retro edge. The girl sits cross-legged on the hood, wearing a plaid button-up and yellow-tinted sunglasses, her posture relaxed and wind gently brushing through her hair.
+
+They glance at each other with soft smiles, a subtle shift in expression that hints at shared memories or inside jokes. Their energy is effortless, grounded in quiet affection and comfort with one another.
+
+Natural lighting gives the scene a warm, golden softness, with long shadows stretching behind the car. The open field in the background adds to the calm, romantic atmosphere.
+
+The mood is serene, nostalgic, and intimate—like a still frame from a road trip romance. The styling blends vintage Americana with modern ease, creating a cinematic snapshot of youth, love, and freedom.
+```
+
+- **Sample `a26c8727-7868-4734-b854-bbdee45c2f38`** (priority 9) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 2528×1440
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/1d376be4-3fa1-4fed-95dc-883dbf613527.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4be02cab-8160-434a-9e7d-4f7382ab220f.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/a26c8727-7868-4734-b854-bbdee45c2f38
+
+```text
+Crane over the head of a girl as she looks to the camera 
+```
+
+- **Sample `7079d313-48f8-4e6e-9a20-46701338f199`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1664×2208
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/28785434-2c5b-4954-bbeb-48781e1c9367.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/97312620-5980-4668-9c87-728880bf78dd.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/7079d313-48f8-4e6e-9a20-46701338f199
+
+```text
+Crane over the head of a man as he smiles straight to the camera
+```
+
+- **Sample `a28a446a-b96a-4d3f-8c5e-e827beea6ee5`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1664×2208
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/46f15a16-121a-4863-8284-024a772c9ef6.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1c268755-051c-4749-b948-e5ecffe62ffd.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/a28a446a-b96a-4d3f-8c5e-e827beea6ee5
+
+```text
+He slowly drinks from the bottle, leaning against the car
+```
+
+- **Sample `0370526b-6053-4128-bc87-107d8a92677e`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1664×2208
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/29cc3316-6761-44c7-8c74-1612fe69435b.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/117c345c-ce82-4a33-9bf7-4abb4e5cf8fd.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/0370526b-6053-4128-bc87-107d8a92677e
+
+```text
+Crane over the head of a man as he sits confident in his chair
+```
+
+- **Sample `9d5fd172-b4c2-4ffd-8bed-c1a49accffe7`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1920×1920
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/aa591371-9f50-4ea3-9944-7820a88185ac.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f6e1eb2d-9115-4e87-b4c7-5a812820dc4b.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/9d5fd172-b4c2-4ffd-8bed-c1a49accffe7
+
+```text
+Crane over the head of a man as he looks over his shoulder 
+```
+
+- **Sample `5c282e44-62ab-4130-bd99-161c0f232409`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1664×2208
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d7b33d2f-9452-4fc7-b401-b301a6eda9fb.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/cd7f4756-405f-4931-ba21-e201b1957362.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/5c282e44-62ab-4130-bd99-161c0f232409
+
+```text
+Crane over the head of a man as he looks over to the camera 
+```
+
+- **Sample `2f5517f9-a322-4355-b468-a48b79d694f9`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1664×2208
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/fec7a4a9-d2a6-423c-8725-002d9f076ec7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/441428ee-85b5-4d78-ba97-55d679e3159a.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/2f5517f9-a322-4355-b468-a48b79d694f9
+
+```text
+He looks up at the camera and follows it with his gaze
+```
+
+- **Sample `b04c6456-834f-4b91-9e3e-9253b806b894`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 848×1056
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/11e1b7ec-70df-406e-9c4c-08dacbf6f699.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/296dd41b-1856-432f-9fa0-bc3f01a22072.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/b04c6456-834f-4b91-9e3e-9253b806b894
+
+```text
+Crane over the head as girl follows the viewer's eyes with her gaze, carefully adjusting her glasses
+```
+
+- **Sample `85fd2ee1-3422-4ba8-902f-ba0c782fa2bf`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 848×1056
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/f9e2416e-bd13-4bf7-8dc7-bbcfc3ca9d30.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/9fcfb9e8-c746-4e8c-b857-6cd09a491250.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/85fd2ee1-3422-4ba8-902f-ba0c782fa2bf
+
+```text
+Crane over the head as man stands calm. The water behind him moves slowly.
+```
+
+- **Sample `97cf9e35-eda5-4346-953c-b6d15af1b443`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/6c08da3c-689b-4653-9f4b-aea5e143be96.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4cda4ac4-552e-4529-acb6-b736f93be1ca.mp4
+  - page: https://higgsfield.ai/motion/f77584f2-7442-4128-91b5-095829b108c7/97cf9e35-eda5-4346-953c-b6d15af1b443
+
+```text
+Crane over the head as man stands
+```

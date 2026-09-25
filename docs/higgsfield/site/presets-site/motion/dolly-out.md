@@ -55,3 +55,93 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 9 | https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543/5027149a-a009-4d30-bf72-cb46e7006af7 | https://static.higgsfield.ai/5027149a-a009-4d30-bf72-cb46e7006af7.mp4 | https://static.higgsfield.ai/5027149a-a009-4d30-bf72-cb46e7006af7.webp | https://d1xarpci4ikg0w.cloudfront.net/205838b7-f812-4d95-b5ce-8f9c635309ea.webp (320×182) |
 
 Source pages: https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543, https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+9 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `5027149a-a009-4d30-bf72-cb46e7006af7`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/cbda387a-e7f1-4a18-887b-8d60e1419269.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d84b2889-b65e-4fd4-ad10-94d9b9a3c370.mp4
+  - page: https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17/5027149a-a009-4d30-bf72-cb46e7006af7
+
+```text
+The woman throws her head back, laughing uncontrollably, one hand lifting toward her face in delight. The man, seated beside her, leans in with theatrical flair, rapidly fanning her with a delicate lace fan. His movements are exaggerated and playful, teasingly close, as if performing for an audience. She swats gently at the air between them, trying to catch her breath, but her laughter only grows. He grins, undeterred, and fans even faster, tilting his head in mock seriousness.
+```
+
+- **Sample `e9e19d6c-463b-42dd-aa33-e72712e42e95`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/c439f03f-3a3f-4188-b340-885833177e0c.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4e45340b-b03d-4b61-82a1-3e4610e9be63.mp4
+  - page: https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17/e9e19d6c-463b-42dd-aa33-e72712e42e95
+
+```text
+Dynamic motion. Man stands and look down, on the snow covered in blood white and black cow lying, bloodstains around
+```
+
+- **Sample `c826f62e-3223-4448-8360-b04fd0a3a78b`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/05e77b10-281a-4db5-86d7-1a128ba78e03.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c96a91a6-1812-4ad6-ba35-96251072be8b.mp4
+  - page: https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17/c826f62e-3223-4448-8360-b04fd0a3a78b
+
+```text
+A young man in an orange shirt sits curled up in the middle of a vast red poppy field, head resting on his knees. The camera begins close, capturing his quiet stillness and gentle breathing. Slowly, the dolly pulls backward, revealing the endless sea of scarlet flowers stretching to the horizon. The emotional weight grows as his small figure becomes enveloped in the overwhelming beauty and loneliness of the landscape. A distant breeze ripples through the flowers like a silent wave.
+```
+
+- **Sample `8e6280a8-d398-4260-a16e-30ab3be074b6`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3f1d35f8-1832-4e6f-839d-a388aeb16580.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f01120f3-0e71-4cba-82b7-b48af78cdce4.mp4
+  - page: https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17/8e6280a8-d398-4260-a16e-30ab3be074b6
+
+```text
+The girl in a dark green coat slowly slides down the yellow-tiled subway wall, her back pressing against the glossy surface as if the weight of the world is pulling her down. Beside her, a metallic sphere hovers with perfect stillness, mirroring the flickering overhead lights. The camera begins tight on her dazed expression and the glinting orb, then gradually dollies out, expanding the corridor around her — cold, geometric, and endless. Her descent is slow and quiet, emphasized by the emptiness swallowing the frame.
+```
+
+- **Sample `2955748c-1206-403e-8dad-306487359c5f`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e4fbb7be-07b8-4fcd-8297-fbb31a568adc.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0d8830cd-a095-4fa8-bd4a-07f3c2d65426.mp4
+  - page: https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543/2955748c-1206-403e-8dad-306487359c5f
+
+```text
+Two women on a silver scooter, motionless in an alley lit with neon reflections. The red-haired rider leans forward with fierce intensity, her hands gripping the handlebars. Behind her, a woman with an afro and oversized sunglasses sits with relaxed confidence. The camera starts tight, framing their vivid patterned outfits and unshakable expressions. It slowly dollies out, revealing the urban walls, flickering signs, and the quiet night around them—frozen in suspense, as if a chase is about to begin.
+
+Color-drenched, with saturated reds and greens pulsing in moody shadows.
+```
+
+- **Sample `21546381-0368-4424-8647-2c938f7fa7c3`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2212323d-6e31-49a9-8800-e4aa92b4e7ea.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/185359af-8cdd-4f93-a8aa-ea4f85f4bf2d.mp4
+  - page: https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17/21546381-0368-4424-8647-2c938f7fa7c3
+
+```text
+In a dimly lit vintage hotel room, a woman with straight dark bangs stands powerfully in a black bodysuit, her gaze locked on the lens. Kneeling beside her, a platinum blonde with theatrical eye makeup clasps her thigh, expression unreadable. The camera begins tightly framed—intimate and statuesque—then slowly dollies out, revealing velvet chairs, antique lamps, and patterned carpet. The mood is noir and surreal, like a still moment before a performance neither of them signed up for.
+```
+
+- **Sample `279ca788-fa56-410a-bd27-9d1567c73b95`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/0f1b9bd1-f34a-4af9-93dd-f7ced99c6c75.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/10def72d-e1e4-43e6-99e1-b994c74f8435.mp4
+  - page: https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543/279ca788-fa56-410a-bd27-9d1567c73b95
+
+```text
+The camera opens in a full shot, tightly framing her posture and worn texture of the chair’s arms. The soft grit of her skin contrasts the rough fabric, while the distant scraping of metal on concrete echoes like the memory of a storm.
+
+As the camera performs a dolly out, the sense of space warps. The canvases tilt into view — abstract, violent, gestural — surrounding her like silent witnesses. Brushes lie fallen on cracked tile, glistening with drying black paint. Light pours from above, harsh and unfiltered, catching the sheen of skin and metal.
+```
+
+- **Sample `3c4c9e92-873c-4d78-831b-c94642a6e94b`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2545d559-4edd-44f2-b3a6-15b5f49dde46.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/946ae09d-96f5-428c-a3c8-0b5d4b04409e.mp4
+  - page: https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543/3c4c9e92-873c-4d78-831b-c94642a6e94b
+
+```text
+A young man in a sharp emerald-green suit sits wide-legged on a metallic bench, eating a melting vanilla ice cream cone. Behind him, a wall of retro CRT monitors flickers—each screen looping surreal clips: a horse galloping, a family dispute, flames dancing silently. The camera starts in a tight close-up on his impassive face, slowly dolly out to reveal the sterile fluorescent-lit room, then further to show the entire scene is a staged installation in a gallery.
+```
+
+- **Sample `b9df4a77-c6c0-45d0-9e34-bf075c4cd733`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/7d6dfd3b-8579-4fe8-83e5-9bb929548b6f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/aa883ece-4065-46c5-96a3-b89b249f66c4.mp4
+  - page: https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17/b9df4a77-c6c0-45d0-9e34-bf075c4cd733
+
+```text
+A man in a vivid emerald green velvet suit sits elegantly in a vintage chair, expression calm but calculated. Surrounding him are surreal, oversized flowers with hyper-realistic human eyes at their centers, all staring directly at him. The camera begins with a medium close-up on his detached gaze, then performs a dolly out—warping the space as the floral “eyes” multiply in the background. As the shot pulls back further, it’s revealed he’s inside a lavish sunlit parlor, curtains glowing behind him like a surreal greenhouse.
+```

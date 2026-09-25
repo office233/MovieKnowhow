@@ -50,3 +50,80 @@ Use it as: upload a start image that matches the scene, select motion preset **G
 | 8 | https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8/1ff21d5b-6cc7-46e5-8228-91cd6bc725dd | https://static.higgsfield.ai/1ff21d5b-6cc7-46e5-8228-91cd6bc725dd.mp4 | https://static.higgsfield.ai/1ff21d5b-6cc7-46e5-8228-91cd6bc725dd.webp | https://d1xarpci4ikg0w.cloudfront.net/b366ea69-8ca8-42f0-a03c-9e9ac39fe494.webp (320×242) |
 
 Source pages: https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8, https://higgsfield.ai/motion/ae4a319d-a06f-4b30-8b67-55a35a22f24a. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+8 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `1ff21d5b-6cc7-46e5-8228-91cd6bc725dd`** (priority 8) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3ac0bd86-7adf-46b4-b779-502162b3e657.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/529cad53-85f5-45b1-88b7-e6d67c43aebb.mp4
+  - page: https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8/1ff21d5b-6cc7-46e5-8228-91cd6bc725dd
+
+```text
+A sudden camera push-in on the face and she change pose
+```
+
+- **Sample `7cb8c248-c631-4e4a-8338-3399b1fdd177`** (priority 7) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/bced665a-96cb-4cbd-aa59-fb19de7afc0a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/76306dd8-dba7-4b34-9e12-e54a9cdf13aa.mp4
+  - page: https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8/7cb8c248-c631-4e4a-8338-3399b1fdd177
+
+```text
+A sudden camera push-in on the face and she change pose
+```
+
+- **Sample `c29c18ab-9597-4ba1-a5c2-1f5890d0c149`** (priority 6) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/be5d80a5-d1f1-46c3-b2f3-dbeacebac7ec.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/e00e5752-56f6-4290-b098-dd1d890d60d9.mp4
+  - page: https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8/c29c18ab-9597-4ba1-a5c2-1f5890d0c149
+
+```text
+A sudden camera push-in on the face and she change pose
+```
+
+- **Sample `14b9156c-2cb1-40b4-8a21-1cd7075ba8df`** (priority 5) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/7d776951-adde-469d-a54b-7fdc7fb5aadf.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/cfd0fcb2-696d-417f-8d2b-ca8baf2e9c92.mp4
+  - page: https://higgsfield.ai/motion/ae4a319d-a06f-4b30-8b67-55a35a22f24a/14b9156c-2cb1-40b4-8a21-1cd7075ba8df
+
+```text
+A sudden camera push-in on the face and she change pose
+```
+
+- **Sample `953f3ffc-c3dd-47cd-a353-b4869ed38925`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/46c0ce1e-9887-4267-af64-353f8a244b59.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/6ca319df-9837-44ed-b0a9-3c4c580cb6b2.mp4
+  - page: https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8/953f3ffc-c3dd-47cd-a353-b4869ed38925
+
+```text
+She stands confidently, her dark skin glistening under the rhythmic flashes of the camera. Her gaze is direct, eyes locked onto the lens with a magnetic allure. Wearing a sleek, textured black dress that clings elegantly to her shoulders and chest, the fabric shimmers under the lights, enhancing her striking presence. Her lips curve in a subtle, knowing smile, exuding grace and authority. The flashes of the camera continue to pulse in a steady beat, capturing her poised expression and effortless beauty.
+```
+
+- **Sample `59995ebf-df67-46f2-8600-01c4df9f898d`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3715116a-c8be-439e-8355-761ca8b0cf5d.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/7bfc7551-b8e6-4da2-8821-f34f487253bc.mp4
+  - page: https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8/59995ebf-df67-46f2-8600-01c4df9f898d
+
+```text
+The woman poses confidently with a graceful tilt of her head, her curly hair cascading over one shoulder. She wears a sleek, form-fitting black dress adorned with shimmering beads, each glint catching the light as she moves. Her eyes are half-closed, lips curved into a confident smile. The camera gradually zooms in on her upper body, highlighting the elegant contours of her shoulders and neck. The rhythmic, pulsing flashes from the cameras create a hypnotic effect, accentuating her allure and presence against the minimalist, shadowed backdrop.
+```
+
+- **Sample `ad04ee86-5706-44ce-8f92-70d271fb465f`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e4aaefb7-2d14-4fb0-a14d-00e13e31e2fc.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/39792cc9-bdc0-4547-88a6-284365d31e23.mp4
+  - page: https://higgsfield.ai/motion/ae4a319d-a06f-4b30-8b67-55a35a22f24a/ad04ee86-5706-44ce-8f92-70d271fb465f
+
+```text
+The camera swiftly zooms in to her face as she poses confidently for the camera, her glossy white outfit reflecting the dazzling studio lights. The intense flashes rhythmically illuminate her striking features, accentuating the smooth contours of her face and her poised expression. The light bounces off her attire, enhancing the sleek and polished aesthetic of the scene.
+```
+
+- **Sample `c894871c-6906-40be-8bba-b50652dd7646`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/cd3735a7-c83e-4d0d-8454-e70284589984.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1323f53a-c5fa-4f6a-a409-990467f07abb.mp4
+  - page: https://higgsfield.ai/motion/5763f4ec-ea6b-449d-9509-4596962668a8/c894871c-6906-40be-8bba-b50652dd7646
+
+```text
+The camera zooms in to the man's face as he spreads his hands wide in a welcoming gesture, a warm smile brightening his expression. The intense, rhythmic flashes of cameras reflect off his sharp, tailored suit, highlighting the elegance of his demeanor. His confident presence captivates the audience as the flashes continue to illuminate him, enhancing his composed and charismatic appeal amidst the glamorous surroundings.
+```

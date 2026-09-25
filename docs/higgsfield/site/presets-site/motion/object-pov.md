@@ -46,3 +46,45 @@ Use it as: upload a start image that matches the scene, select motion preset **O
 | 4 | https://higgsfield.ai/motion/76a7036d-2f69-4e0b-82fe-c91f9d7a71aa/7a1d53f7-bac1-4955-bb29-e38d80afdce7 | https://static.higgsfield.ai/7a1d53f7-bac1-4955-bb29-e38d80afdce7.mp4 | https://static.higgsfield.ai/7a1d53f7-bac1-4955-bb29-e38d80afdce7.webp | https://d1xarpci4ikg0w.cloudfront.net/1e456126-4b24-410e-8cdc-75ae444b5d0d.webp (320×180) |
 
 Source pages: https://higgsfield.ai/motion/76a7036d-2f69-4e0b-82fe-c91f9d7a71aa, https://higgsfield.ai/motion/ab14b29d-f23e-449e-a40e-ebdbb4f7437a. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+4 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `7a1d53f7-bac1-4955-bb29-e38d80afdce7`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1280×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d9e3d8a2-0425-40d8-98d2-f3dedd4077f8.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1d22a031-1be3-43f0-802a-930ad7974694.mp4
+  - page: https://higgsfield.ai/motion/76a7036d-2f69-4e0b-82fe-c91f9d7a71aa/7a1d53f7-bac1-4955-bb29-e38d80afdce7
+
+```text
+A high-speed, low-angle POV shot from the perspective of a rollerblade attached to a rider’s foot, weaving through the bustling city streets. The world rushes by in a blur—storefronts, pedestrians, and neon signs streak past as the camera tilts and sways with each precise movement.  The roller pushes himself forward with left foot, lifting it up and putting down, The hum of the pavement vibrates beneath, the friction of rubber wheels slicing smoothly against the asphalt.
+
+```
+
+- **Sample `c2f1946a-005c-4bdf-bbb2-087c2faafdea`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/7b217492-4a79-4e5f-976a-b013097ac9ee.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c0ae0c05-6561-4545-ab66-1a33b7f6b2e9.mp4
+  - page: https://higgsfield.ai/motion/ab14b29d-f23e-449e-a40e-ebdbb4f7437a/c2f1946a-005c-4bdf-bbb2-087c2faafdea
+
+```text
+object POV shot on the bottle of whiskey, pouring the drink into a glass, 
+```
+
+- **Sample `9106df60-f292-481b-a032-c1c1e6ab678c`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1280×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/033df5fe-f34a-425f-a226-7decb53f5ea3.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/48aedd46-947b-44da-b573-ef1123a70730.mp4
+  - page: https://higgsfield.ai/motion/76a7036d-2f69-4e0b-82fe-c91f9d7a71aa/9106df60-f292-481b-a032-c1c1e6ab678c
+
+```text
+Object pov of toothbrush, human put toothpaste on it. 
+```
+
+- **Sample `bc70648a-de4f-44fe-ab9b-434b2c59ef89`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2a80327c-99ca-4f80-9cfb-45ddeef403c7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f438c063-d119-4bf2-8427-c7e657c43e5c.mp4
+  - page: https://higgsfield.ai/motion/ab14b29d-f23e-449e-a40e-ebdbb4f7437a/bc70648a-de4f-44fe-ab9b-434b2c59ef89
+
+```text
+object pov of a pen being put on a paper and written with. 
+```

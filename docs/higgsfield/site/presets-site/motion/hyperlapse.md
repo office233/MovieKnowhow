@@ -48,3 +48,26 @@ Use it as: upload a start image that matches the scene, select motion preset **H
 | 2 | https://higgsfield.ai/motion/2dec4bb0-5d8d-4a2d-bd9f-242ec613a9fb/d4b12954-2ad1-4e0b-bbe6-bb22b3eb9263 | https://static.higgsfield.ai/d4b12954-2ad1-4e0b-bbe6-bb22b3eb9263.mp4 | https://static.higgsfield.ai/d4b12954-2ad1-4e0b-bbe6-bb22b3eb9263.webp | https://d1xarpci4ikg0w.cloudfront.net/5c9cfefc-1134-4a2b-87f2-821ec69fac7d.webp (320×242) |
 
 Source pages: https://higgsfield.ai/motion/2dec4bb0-5d8d-4a2d-bd9f-242ec613a9fb, https://higgsfield.ai/motion/f0f07997-34fe-4bef-84c1-ee9d4da94a1a. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+2 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `d4b12954-2ad1-4e0b-bbe6-bb22b3eb9263`** (priority 1) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/9487b073-dce2-4e7d-85c3-8350d6da72b9.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c78dee5d-c5a6-4cff-beac-6dfe6a528288.mp4
+  - page: https://higgsfield.ai/motion/f0f07997-34fe-4bef-84c1-ee9d4da94a1a/d4b12954-2ad1-4e0b-bbe6-bb22b3eb9263
+
+```text
+Hyperlapse begins with rapid motion through a dimly lit subway tunnel, lights streaking past. The camera dolly out, slowing as it approaches two women seen from behind—one seated in a white hoodie, the other standing in a black dress with sleek blonde hair. Outside the rain-speckled window, neon lights from passing city streets blur into pink and red streams. As the camera floats the outside world continues racing by, casting shifting hues across their still figures. The reflection of the neon softly pulses across the glass and their silhouettes, evoking a melancholic, dreamlike mood.
+```
+
+- **Sample `8e636a63-84e1-4824-9b61-6a23b52bf214`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/41e5b2b6-28ee-41e1-bb85-770de0f2377d.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/84dfe201-f7de-4a98-a37a-394ef17b98de.mp4
+  - page: https://higgsfield.ai/motion/f0f07997-34fe-4bef-84c1-ee9d4da94a1a/8e636a63-84e1-4824-9b61-6a23b52bf214
+
+```text
+Hyperlapse begins with a close-up of the woman lying motionless on a lavish bed, her wrists bound to the headboard with vivid red silk. The deep blue lighting pulses subtly. The window beside her flashes past, revealing streaks of red and white lights from the bustling traffic below. 
+```

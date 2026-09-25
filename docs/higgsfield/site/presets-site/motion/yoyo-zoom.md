@@ -50,3 +50,80 @@ Use it as: upload a start image that matches the scene, select motion preset **Y
 | 8 | https://higgsfield.ai/motion/0da141c0-0d0a-4e70-928b-3f61888f067d/ba16334e-caca-49c9-9204-6e5babdeb036 | https://static.higgsfield.ai/ba16334e-caca-49c9-9204-6e5babdeb036.mp4 | https://static.higgsfield.ai/ba16334e-caca-49c9-9204-6e5babdeb036.webp | https://d1xarpci4ikg0w.cloudfront.net/54618672-32b8-489e-8358-d0ffe7d6beab.webp (320×320) |
 
 Source pages: https://higgsfield.ai/motion/0da141c0-0d0a-4e70-928b-3f61888f067d, https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+8 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `ba16334e-caca-49c9-9204-6e5babdeb036`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/9c946911-0428-4311-9147-deb10341981a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/bd47c7a3-44fa-4054-9ba2-9970140db94a.mp4
+  - page: https://higgsfield.ai/motion/0da141c0-0d0a-4e70-928b-3f61888f067d/ba16334e-caca-49c9-9204-6e5babdeb036
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```
+
+- **Sample `c29f0796-24e0-40c0-aabf-ba84dcc79dc7`** (priority 7) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/df57a4a0-c089-4153-9443-97fce4936658.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c032c50c-1e0d-4f88-9eba-7596897ce326.mp4
+  - page: https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef/c29f0796-24e0-40c0-aabf-ba84dcc79dc7
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```
+
+- **Sample `6f16a731-8ff5-47d9-9dad-547e8ddc8369`** (priority 6) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/159b3661-26fe-4d3f-a67d-e28290df8c50.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/b71a6d87-b808-495b-bfe3-507c99804f69.mp4
+  - page: https://higgsfield.ai/motion/0da141c0-0d0a-4e70-928b-3f61888f067d/6f16a731-8ff5-47d9-9dad-547e8ddc8369
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```
+
+- **Sample `bef6c45f-2431-4622-8e50-84f0b6a3c0b1`** (priority 5) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/47da00f3-177e-40a2-871b-020a9ff98f34.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/3e088e98-caeb-405f-9f28-0315e51713d2.mp4
+  - page: https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef/bef6c45f-2431-4622-8e50-84f0b6a3c0b1
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```
+
+- **Sample `dafdaddf-64e1-45da-8537-2bb1ed1bd78d`** (priority 4) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/0463356a-d9e3-4313-a931-05cdc17703c5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/825ac065-cfef-4f90-b89d-8d4b0dccbd94.mp4
+  - page: https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef/dafdaddf-64e1-45da-8537-2bb1ed1bd78d
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face or body, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```
+
+- **Sample `d6927d12-7022-49f3-b561-1255fe37cf52`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/8112d6fc-862e-49d8-ab8f-1786bcd2c1d6.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c4e8e67e-c46a-451a-8cd5-0a5c741b62c6.mp4
+  - page: https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef/d6927d12-7022-49f3-b561-1255fe37cf52
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face or body, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```
+
+- **Sample `6fd00a00-6fa3-4785-8dd0-35b54c287c75`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3f8924dd-ee6d-458e-925c-20b24d5c6807.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/38244490-8c6d-4494-9b6d-a7410c6f265f.mp4
+  - page: https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef/6fd00a00-6fa3-4785-8dd0-35b54c287c75
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face or body, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```
+
+- **Sample `aa97bd7b-2890-48de-a38e-2cd7fd6c18fd`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/0be68298-a161-4e7d-97c8-c6815e18f9f8.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/9411f6aa-b826-4261-9a6a-669e72ad8673.mp4
+  - page: https://higgsfield.ai/motion/702c6210-9798-4888-b7c9-e794c8fcaaef/aa97bd7b-2890-48de-a38e-2cd7fd6c18fd
+
+```text
+The camera starts with a static wide or overhead shot. It then performs a single, fast crash zoom into the subject’s face or body, followed by one sharp pullback to the original wide frame. The motion is smooth and dramatic, enhancing the surreal stillness of the subject within the scene. All existing elements in the environment maintain their natural movement, while the lighting remains cinematic and shadows consistent. The animation emphasizes the contrast between movement and stillness, drawing attention to the central character.
+```

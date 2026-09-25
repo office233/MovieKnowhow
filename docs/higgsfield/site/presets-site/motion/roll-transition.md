@@ -53,3 +53,75 @@ Use it as: upload a start image that matches the scene, select motion preset **R
 | 7 | https://higgsfield.ai/motion/8c4f184b-bccb-40ea-9c72-24793b8233ab/6111b3af-fa30-4bf0-a592-c32d9b838a63 | https://static.higgsfield.ai/6111b3af-fa30-4bf0-a592-c32d9b838a63.mp4 | https://static.higgsfield.ai/6111b3af-fa30-4bf0-a592-c32d9b838a63.webp | https://d1xarpci4ikg0w.cloudfront.net/f0dadb39-6e6d-45aa-82f3-df673a5d0124.webp (320×210) |
 
 Source pages: https://higgsfield.ai/motion/8c4f184b-bccb-40ea-9c72-24793b8233ab, https://higgsfield.ai/motion/a8e2bc3a-e78e-42aa-a0e6-79bc01141ed3. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+7 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `6111b3af-fa30-4bf0-a592-c32d9b838a63`** (priority 22) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4ab91191-fb32-4385-8607-581b5397e5ca.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/39ea099f-772b-4e84-9b6c-259381620e8b.mp4
+  - page: https://higgsfield.ai/motion/a8e2bc3a-e78e-42aa-a0e6-79bc01141ed3/6111b3af-fa30-4bf0-a592-c32d9b838a63
+
+```text
+Aerial night shot of a glowing futuristic roundabout cityscape with vibrant red and blue lights, viewed from directly above. The camera slowly pulls back, revealing the intricate street layout and traffic patterns. Suddenly, a rapid rolling transition effect is triggered, and the scene seamlessly switches to a close-up shot of a stylish man in a leather jacket and diamond chains, standing under bright neon lights at an intersection. After the transition, the camera continues to pull back slowly, revealing the full ambiance of the street environment behind him.
+```
+
+- **Sample `30fe0b41-ccd5-4628-b1a8-8c2a942d7639`** (priority 21) — Wan 2.5 motion preset, steps=40, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/02977a8a-b167-416d-baa9-ad8cde023925.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/26ab36ca-9ac1-4db5-9282-06cf6a360c3a.mp4
+  - page: https://higgsfield.ai/motion/a8e2bc3a-e78e-42aa-a0e6-79bc01141ed3/30fe0b41-ccd5-4628-b1a8-8c2a942d7639
+
+```text
+A dynamic roll transition sweeps the frame clockwise, seamlessly blending two high-energy fisheye shots of a young man skateboarding through a bustling city intersection. In the first frame, he carves through the street in oversized jeans and a black hoodie, the towering skyscrapers behind him dramatically distorted by the fisheye lens. As the camera rolls, the buildings and figure rotate with a smooth circular motion. The roll completes as the second frame locks into place — the same skater, mid-trick, now captured from a lower angle with sharper lighting and slightly different shoes, continuing his movement in a different part of the city. The distortion from the lens remains consistent, creating a surreal sense of continuity despite the change in scene. The whole moment is rendered in sharp, hyperreal urban street style, with exaggerated perspective and a seamless temporal shift.
+```
+
+- **Sample `fc69ae56-60c1-4533-ad55-7824a8ee4694`** (priority 20) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 816×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/1d9bb5dd-c541-476a-96f8-ecc753f2d972.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/e5f667b3-6fa4-4103-aead-be0318afafd0.mp4
+  - page: https://higgsfield.ai/motion/a8e2bc3a-e78e-42aa-a0e6-79bc01141ed3/fc69ae56-60c1-4533-ad55-7824a8ee4694
+
+```text
+A confident woman in glossy black vinyl pants and a crop top extends her hand dramatically toward the camera, her fingers spread as if casting a spell. She smiles suddenly, blowing an exaggerated kiss. Instantly, a fast, disorienting rolling camera transition begins—spinning clockwise, the world blurs into motion.
+
+As the spin resolves, we crash into the next scene: a bold female DJ bathed in electric blue lighting, hunched over her DJ controller. She's grinning wide, hair flying with the bass, hands moving with infectious energy. The lights pulse as her body sways to the beat, fully immersed in the sound.
+```
+
+- **Sample `1deac532-4ccc-4df1-8dbc-006da45d45e3`** (priority 19) — Wan 2.5 motion preset, steps=50, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/30b16a8c-e3ba-47ca-be24-41739ec9850e.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/42640cde-09dc-4353-8487-2c61476b34fe.mp4
+  - page: https://higgsfield.ai/motion/8c4f184b-bccb-40ea-9c72-24793b8233ab/1deac532-4ccc-4df1-8dbc-006da45d45e3
+
+```text
+The camera slowly dollies backward from a neon-lit futuristic cityscape at night, thick fog rolling through the buildings glowing in pink, blue, and violet hues. Suddenly, a fast rolling transition effect sweeps across the screen, seamlessly changing the scene to a sleek, green Lamborghini in a neon-lit parking garage. The camera continues its backward dolly, while the car starts to move forward slowly through the fog, under dramatic pink lighting.
+
+```
+
+- **Sample `067df180-c287-4711-bea9-aa95d5db94ac`** (priority 16) — Wan 2.5 motion preset, steps=50, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/910e9c2f-5603-46b4-956f-6e7f54529100.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/13dd1114-741b-4caa-909e-6f76dd038c47.mp4
+  - page: https://higgsfield.ai/motion/a8e2bc3a-e78e-42aa-a0e6-79bc01141ed3/067df180-c287-4711-bea9-aa95d5db94ac
+
+```text
+A cinematic roll rotation of the camera reveals a dramatic transformation: at first, a sleek black panther lies majestically inside a glowing red circular alcove. As the roll continues seamlessly, the panther is gradually and imperceptibly replaced by a glamorous woman in a black evening dress, reclined in the exact same position within the red alcove. The transformation is smooth and surreal, with no visible cuts or glitches, only the elegant continuity of form. The red background remains constant, enhancing the illusion. Rendered in ultra-high-definition photorealism with dramatic lighting, deep shadows, and a polished editorial aesthetic.
+```
+
+- **Sample `d04e70ef-281c-4d5a-bb21-ebdf5a4c4ee3`** (priority 13) — Wan 2.5 motion preset, steps=50, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/bd61c10e-abec-48e5-914f-f770b8b7591e.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/f4c1d619-f72c-4149-afaa-2d66dba67859.mp4
+  - page: https://higgsfield.ai/motion/a8e2bc3a-e78e-42aa-a0e6-79bc01141ed3/d04e70ef-281c-4d5a-bb21-ebdf5a4c4ee3
+
+```text
+A cinematic aerial shot of a fog-covered futuristic city skyline at dawn, camera slowly pulling back, the scene bathed in cold bluish tones. Suddenly, the camera performs a fast rolling transition — spinning in place — and cuts sharply to a sleek golden sports car racing through a neon-lit tunnel. The camera continues to pull back smoothly while the car drives forward in slow motion, lights reflecting on the wet ground, creating a surreal and stylish atmosphere.
+```
+
+- **Sample `ccb16971-5b18-47fa-98b1-c060773173e3`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/3c2139c8-5932-42f6-8a7e-7e9aef0ee83c.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/0ef89c44-3acc-4c01-889f-18d97e693d4f.mp4
+  - page: https://higgsfield.ai/motion/8c4f184b-bccb-40ea-9c72-24793b8233ab/ccb16971-5b18-47fa-98b1-c060773173e3
+
+```text
+The red-lit woman exhales a powerful burst of smoke from her mouth, the thick cloud violently swirling and expanding outward. As the smoke erupts, the camera begins a rolling spin, caught in the motion of the smoke itself — disoriented but fluid. The entire frame becomes consumed in the rotating fog.
+Then suddenly, as the swirl reaches its peak, we transition mid-spin to the next scene — now locked onto the girl in the colorful outfit, already crouched with intensity. The smoke from the previous frame seamlessly continues, now billowing from her pink boots. Her eyes meet the camera as if she caused it all. The motion and energy carry perfectly through the cut, giving the illusion that her power triggered the shift. It feels like one giant breath became an explosion — and she’s standing at the heart of it.
+```

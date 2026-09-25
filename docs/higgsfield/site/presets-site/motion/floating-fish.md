@@ -41,3 +41,17 @@ Use it as: upload a start image that matches the scene, select motion preset **F
 | 1 | https://higgsfield.ai/motion/66302844-ab6f-4c45-8171-807b6655148e/5df61def-1143-4df9-8fa0-25113c946ca5 | https://static.higgsfield.ai/5df61def-1143-4df9-8fa0-25113c946ca5.mp4 | https://static.higgsfield.ai/5df61def-1143-4df9-8fa0-25113c946ca5.webp | https://d1xarpci4ikg0w.cloudfront.net/da471a95-cd9e-46d6-b810-135ee5200852.webp (320×568) |
 
 Source pages: https://higgsfield.ai/motion/66302844-ab6f-4c45-8171-807b6655148e. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `5df61def-1143-4df9-8fa0-25113c946ca5`** (priority 1) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 720×1280
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/a66c1ab5-b5ef-45f9-8130-0377329c2e66.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/90bfc863-6e64-4035-a3e4-34d4f1b3c480.mp4
+  - page: https://higgsfield.ai/motion/66302844-ab6f-4c45-8171-807b6655148e/5df61def-1143-4df9-8fa0-25113c946ca5
+
+```text
+In a spacious, modern setting with large windows framing the scene, a young woman sits confidently on a stone ledge. The camera remains stationary, capturing her in stylish attire with a leather jacket and oversized jeans. Three light blue fish swim gracefully into the frame, floating through the air as if in water, swirling around her and creating a surreal atmosphere. The woman reaches out, delicately interacting with the fish, her expression a mix of curiosity and wonder. Soft natural light fills the space, casting gentle shadows and highlighting the vivid colors of her clothing and the whimsical fish.
+```

@@ -52,3 +52,62 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 6 | https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab/00ee75e4-6abc-484c-8ef9-1300789c5f09 | https://static.higgsfield.ai/00ee75e4-6abc-484c-8ef9-1300789c5f09.mp4 | https://static.higgsfield.ai/00ee75e4-6abc-484c-8ef9-1300789c5f09.webp | https://d1xarpci4ikg0w.cloudfront.net/248151b0-bf22-4348-bafa-377e0beee6be.webp (320×424) |
 
 Source pages: https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab, https://higgsfield.ai/motion/b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+6 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `00ee75e4-6abc-484c-8ef9-1300789c5f09`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/b109782b-62d3-418d-868e-7dfd56227e85.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/6c697b87-6198-473b-9308-e6c0285bd496.mp4
+  - page: https://higgsfield.ai/motion/b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba/00ee75e4-6abc-484c-8ef9-1300789c5f09
+
+```text
+A dramatic black-and-white animation of an older man standing solemnly in a narrow, dimly lit hallway, his shadow long against the wall beneath a single overhead light. The camera begins a slow dolly left movement, gliding past the man’s contemplative expression. As the frame shifts, it gradually reveals a 10-year-old version of the man standing a few steps away—dressed in a crisp Japanese school uniform, mirroring the elder’s posture and gaze. The lighting remains stark, casting dual shadows that stretch toward each other. A soft, haunting piano melody plays in the background, underscoring themes of memory, time, and identity. The young and old never speak—but the silence is heavy with meaning.
+```
+
+- **Sample `52d84f61-e6ce-4290-a177-95d1119ada3a`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/c74c5ca5-8a4b-4a4e-8376-20e244a92def.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/d700b48b-9cff-40eb-b8f1-baa0c4653752.mp4
+  - page: https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab/52d84f61-e6ce-4290-a177-95d1119ada3a
+
+```text
+A luxurious, cinematic animation begins with a composed woman in a deep red velvet dress, reclining confidently on a vintage leather sofa in a richly decorated room. The lighting is soft and moody, evoking a timeless elegance. The camera begins a slow dolly left movement, gliding past her calm expression. As it moves, the frame expands to reveal a regal Great Dane sitting beside the sofa. The dog wears a thick golden chain around its neck, exuding quiet power and presence. The woman briefly glances toward the dog with a subtle smile. Classical music or a jazzy noir track plays in the background, reinforcing the atmosphere of sophistication and quiet dominance.
+```
+
+- **Sample `265484cf-a1ad-408a-8b8d-e59e4a818f21`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/43475360-ff98-425c-a366-8e0d14c683cc.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/bcd5ad02-ddb8-4d9d-82e9-53528056322b.mp4
+  - page: https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab/265484cf-a1ad-408a-8b8d-e59e4a818f21
+
+```text
+camera dollies left as the woman turns left and walks away, natural motion, fast motion
+```
+
+- **Sample `d06416b7-751f-426b-8f65-313fb9a4c690`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/06ed5a02-00b0-44e8-843b-6a3fc5dd0755.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/781968f1-abf7-406e-97ab-37ddd82161d2.mp4
+  - page: https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab/d06416b7-751f-426b-8f65-313fb9a4c690
+
+```text
+Salvador Dali leans intently over his canvas, his posture poised and deliberate, a slender paintbrush held delicately between his fingers. The camera dollies left, revealing a softly lit artist's studio, where shadows dance across the wooden easel and the textured surface of the canvas. The atmosphere is charged with creativity, each brushstroke whispering tales of surreal dreams and vibrant emotions. Dali’s carefully groomed mustache curves sharply, accentuating the intense concentration etched on his face. Warm, muted colors envelop the scene, evoking a sense of nostalgia and reverence for the creative process. As the brush glides across the canvas, a subtle tension builds, reflecting the artist's inner world of imagination and innovation.
+```
+
+- **Sample `3a4ba17c-48a5-4a20-863e-93599239066b`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4d8fb26e-0be1-45db-9e6c-41daf8cefe25.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/a2d7fc7f-e849-4e2e-8213-59faa10202f0.mp4
+  - page: https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab/3a4ba17c-48a5-4a20-863e-93599239066b
+
+```text
+A man walks steadily down the street, his posture relaxed yet purposeful, underscored by a serene expression that hints at introspection. The warm, golden light of sunset envelops the scene, casting long shadows and creating a quiet atmosphere amid the urban sprawl. In the foreground, people rush past in a blur, their movements swift and chaotic, heightening the man's stillness and solitude. The warm glow illuminates the textures of the buildings beyond him, enhancing the sense of a bustling world moving at a different pace. As he walks, the play of light and shadow accentuates the contrast between his calm demeanor and the blurred lives of those around him.
+```
+
+- **Sample `dc61d9cb-fec2-4380-99ea-b62e00af079f`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/2d689657-b323-4893-9d15-ec38dcf56be9.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/e2141d6e-a9a1-440b-92f0-2ffdc9f37bd1.mp4
+  - page: https://higgsfield.ai/motion/b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba/dc61d9cb-fec2-4380-99ea-b62e00af079f
+
+```text
+A wide shot of a man in vintage clothing walking toward a crumbling building in the middle of a sun-scorched desert. The camera begins a smooth dolly movement to the left, slowly revealing the parched landscape around him. As the camera glides, a majestic black horse comes into view—standing still just beyond the ruin, framed by the mountains in the distance. The horse's mane flutters gently in the wind, its presence calm yet powerful. Dust swirls lightly around its hooves, and the lighting glints off its coat. The man hasn’t noticed it yet, but the moment feels loaded with meaning—like fate has just entered the scene.
+```

@@ -55,3 +55,102 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 9 | https://higgsfield.ai/motion/6acb0485-93c9-47ed-8320-868837022834/4d94fa0d-929d-4428-9595-2a1e6456ba84 | https://static.higgsfield.ai/4d94fa0d-929d-4428-9595-2a1e6456ba84.mp4 | https://static.higgsfield.ai/4d94fa0d-929d-4428-9595-2a1e6456ba84.webp | https://d1xarpci4ikg0w.cloudfront.net/f44ea430-5340-4853-ae2e-2b0200666120.webp (320×424) |
 
 Source pages: https://higgsfield.ai/motion/6acb0485-93c9-47ed-8320-868837022834, https://higgsfield.ai/motion/8126eea1-263d-4e2a-9e27-da7296638522. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+9 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `4d94fa0d-929d-4428-9595-2a1e6456ba84`** (priority 10) — Wan 2.5 motion preset, steps=40, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/727f5a07-82f5-4586-b76a-1583aca71fa3.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/fe795673-a3f1-4d8f-aea4-11ddcb8b4ea5.mp4
+  - page: https://higgsfield.ai/motion/8126eea1-263d-4e2a-9e27-da7296638522/4d94fa0d-929d-4428-9595-2a1e6456ba84
+
+```text
+A gentle upward dolly rises through a sky dappled with soft clouds, revealing a bare-chested man standing in profile, holding a metal watering can with quiet reverence.
+Clusters of vibrant golden-orange flowers bloom from his waist, their stems swaying gently in the breeze as he slowly turns his torso, casting a serene glance toward the horizon.
+The tranquil setting is bathed in diffused daylight, with the deep turquoise sky acting as a vast, serene canvas behind him.
+Suddenly, sharp peach-colored crystal spikes begin to emerge from his shoulders, arms, and chest — translucent and angular, growing outward like natural armor as sunlight refracts through them, soon spreading downward to encase his pants in large shimmering facets.
+The flowers around his body respond in turn, shimmering with iridescent highlights, as if awakened by the transformation, their petals catching the light in a delicate flicker.
+A medium close-up from a slightly low angle captures the interplay between the glittering flora and the crystalline growth, with a wide-angle lens adding depth and subtle distortion to emphasize the surreal emergence.
+The air feels hushed and sacred, filled with a dreamlike sense of wonder and blooming metamorphosis.
+Rendered in a photorealistic fantasy style with pastel skies and glowing reflections, the scene becomes a lyrical fusion of human, nature, and luminous transformation.
+```
+
+- **Sample `6b3dc2c8-2b9e-41e0-98c8-460a14051073`** (priority 8) — Wan 2.5 motion preset, steps=40, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/9ca683a1-93ce-48b0-8448-e0a75109b186.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/72353b13-6ae2-4dcf-a54b-6935d181a7f3.mp4
+  - page: https://higgsfield.ai/motion/8126eea1-263d-4e2a-9e27-da7296638522/6b3dc2c8-2b9e-41e0-98c8-460a14051073
+
+```text
+A slow, forward-moving handheld shot drifts through a narrow convenience store aisle bathed in electric blue and red neon, closing in on a confident young woman as she leans over the shelf and bites into a cookie.
+She wears a studded denim jacket over layers of gold jewelry, her gaze unapologetic and powerful beneath the cool fluorescent lights and vivid product packaging.
+The tightly packed space flickers with saturated color, reflections bouncing off glossy wrappers and tiled floors.
+Suddenly, a shimmer crawls across her skin — delicate pink crystals begin to form along her jawline, spreading in thin, translucent layers across her face, neck, hands, and even her jacket, like frost kissed with rose light.
+A close-up shot captures the subtle transformation, using a wide-angle lens and shallow depth of field to highlight the glittering crystalline textures forming along her contours as the ambient light fractures softly through them.
+The atmosphere grows dreamlike, blending the synthetic with the surreal, suspended in the hum of flickering bulbs and chilled air.
+Rendered in a hyperreal neon-pop style with pastel crystal overlays and cinematic close-up detailing, the scene becomes a vibrant fusion of glam rebellion and quiet metamorphosis.
+```
+
+- **Sample `4a73f62a-7ca7-4bc2-b0d5-666d71c6a2ba`** (priority 7) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/538f7623-86cf-41e6-810d-b6605c7b3cec.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/57dd4a50-52f2-4d43-bf70-0ab05979776d.mp4
+  - page: https://higgsfield.ai/motion/8126eea1-263d-4e2a-9e27-da7296638522/4a73f62a-7ca7-4bc2-b0d5-666d71c6a2ba
+
+```text
+A stylish woman sitting on a stool, her entire body transforming into radiant crystal diamond textures, with sharp angular facets reflecting light from all directions. Her fur hat, basketball tank top, jeans, and shoes are now sculpted from clear, shimmering diamond material, refracting light with rainbow sparkles. The red background intensifies the shine. Her pose and facial expression remain confident and composed, but her entire figure looks like a flawless living diamond statue — hyper-detailed, cinematic lighting, ultra-realistic textures, no levitation, full-body visible, hard lighting with strong shadows, realistic film look, sharp lens details.
+```
+
+- **Sample `d0bad724-4d28-436f-a327-4757f1f501b2`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/cd62946c-1b3f-4762-9a03-699a5b69257c.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/34a34a7a-2179-4629-bd65-de081cf43168.mp4
+  - page: https://higgsfield.ai/motion/6acb0485-93c9-47ed-8320-868837022834/d0bad724-4d28-436f-a327-4757f1f501b2
+
+```text
+A fierce close-up of a woman licking a red lollipop, her entire face and hand morphing into ultra-polished diamond crystal. Her golden sunglasses are now encrusted with geometric jewel carvings. The red lollipop remains candy-like but refracts through her transparent lips. Diamond patterns swirl faintly across her cheeks like abstract tattoos, while her bob haircut shimmers with blade-like edges. Studio lighting bounces through her glassy features
+```
+
+- **Sample `1bf96ecd-8806-4354-8e69-fc767f6cce53`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/27109035-5081-4e31-89be-b085880ee495.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/6c933b87-6332-46ba-abcb-3076bb7eb79f.mp4
+  - page: https://higgsfield.ai/motion/8126eea1-263d-4e2a-9e27-da7296638522/1bf96ecd-8806-4354-8e69-fc767f6cce53
+
+```text
+A mysterious woman in a sharp black suit and silk headscarf stands in front of a warped green wall. Her body is now sculpted from black diamond with emerald glints, while her scarf morphs into flowing, translucent gem-fabric. Her sunglasses refract like molten glass. Her sleek form bears an elegant grid pattern etched like armor into her diamond skin — a futuristic queen. Controlled lighting enhances every polished curve.
+```
+
+- **Sample `f48442c6-3cc9-4a4a-a37a-da3187ad7a5d`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 816×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/17e8ac76-8bf0-4eea-82b5-a51251bc48d5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c8b28bf1-2db9-408a-833f-2479a2c42955.mp4
+  - page: https://higgsfield.ai/motion/6acb0485-93c9-47ed-8320-868837022834/f48442c6-3cc9-4a4a-a37a-da3187ad7a5d
+
+```text
+A striking woman with blue eyes, freckles, and a red helmet — now her skin is carved from champagne diamond, her freckles transformed into embedded ruby dust. The helmet turns into high-gloss ruby gemstone with reflective sapphire visor. Her icy blue eyes glow faintly. Her shoulders glimmer with sunburst-like patterning across the gem surface. Clean studio lighting creates a flawless, futuristic glam look.
+```
+
+- **Sample `56ff55cd-97d0-4dca-8e66-87f906148b43`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 864×1056
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/c4875448-21c7-46b4-8413-872a444705b9.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/3e43bd07-3b20-46fb-b70d-f8f1ec7a27e0.mp4
+  - page: https://higgsfield.ai/motion/6acb0485-93c9-47ed-8320-868837022834/56ff55cd-97d0-4dca-8e66-87f906148b43
+
+```text
+A laughing man in bold ski goggles and chunky diamond chain, now entirely made of vibrant, champagne-colored diamond with fiery orange flares. His dreads are stylized into elongated gem spikes. The goggles melt into glowing citrine crystal. His teeth — already flashy — are now lit from within. A graffiti-style crack pattern crawls across his chest like comic book energy lines. Neon backlight gives him a radiant aura.
+```
+
+- **Sample `d55d6d6c-5a3c-4303-b7a3-583e5da28f6b`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/b2a35a74-a2dc-4b85-a65e-7be8e1fc2c30.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/bf21e20d-cbe9-4a9f-aa54-c2a3b702f924.mp4
+  - page: https://higgsfield.ai/motion/6acb0485-93c9-47ed-8320-868837022834/d55d6d6c-5a3c-4303-b7a3-583e5da28f6b
+
+```text
+A cowgirl sitting on a diner stool at sunset, now reimagined as an amber-toned diamond being with glowing orange-gold reflections. Her skin turns into golden citrine crystal, her cowboy hat reshaped into a lattice of rose quartz and topaz. The snakeskin boots refract through clear diamond with embossed serpent scale patterns glowing faintly. Her lollipop remains as ruby candy sealed in a crystal jaw. Sunset light glows warmly across her faceted limbs, casting reflections on the diner window.
+```
+
+- **Sample `66f64905-6dcd-449d-9625-e14c37d4f05e`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×816
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/75d676ed-0295-471e-b90c-cf92f2f5d82f.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/baaa60db-92b1-4be4-831a-6365902914bc.mp4
+  - page: https://higgsfield.ai/motion/8126eea1-263d-4e2a-9e27-da7296638522/66f64905-6dcd-449d-9625-e14c37d4f05e
+
+```text
+A mysterious man in a translucent trench coat and geometric diamond mask, now fully rendered as a living dark crystal avatar. His entire outfit transforms into a seamless obsidian diamond texture laced with prismatic veins of purple and cobalt. His mask becomes a multi-angular polished surface with complex reflections like a kaleidoscope, glowing faintly at the edges. His body carries a fractured galaxy pattern deep inside the crystal, like looking into a cracked mirror dimension. The phone booth reflects him with ghostly chromatic aberrations.
+```

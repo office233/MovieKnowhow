@@ -41,3 +41,17 @@ Use it as: upload a start image that matches the scene, select motion preset **F
 | 1 | https://higgsfield.ai/motion/2a731e66-b6c9-472a-aa7b-aa0b90960245/92c32b1b-5c7c-416c-816c-c4ad1f3250b7 | https://static.higgsfield.ai/92c32b1b-5c7c-416c-816c-c4ad1f3250b7.mp4 | https://static.higgsfield.ai/92c32b1b-5c7c-416c-816c-c4ad1f3250b7.webp | https://d1xarpci4ikg0w.cloudfront.net/e662f56e-decf-475d-bc78-29c883e948b1.webp (320×424) |
 
 Source pages: https://higgsfield.ai/motion/2a731e66-b6c9-472a-aa7b-aa0b90960245. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `92c32b1b-5c7c-416c-816c-c4ad1f3250b7`** (priority 1) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 832×1104
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/4621c5e4-d623-4816-a408-ed2d5dfc03ca.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/12158737-b19d-4ece-b7af-ba3f28dd08ff.mp4
+  - page: https://higgsfield.ai/motion/2a731e66-b6c9-472a-aa7b-aa0b90960245/92c32b1b-5c7c-416c-816c-c4ad1f3250b7
+
+```text
+A young woman stands still, eyes wide with fear as the water begins to flood the cobblestone streets around her. She wears a bright red varsity jacket over a school uniform, a stark contrast to the gray, murky water rising at her feet. The lighting shifts dramatically, casting shadows that accentuate her panic, as she instinctively raises her hand in an attempt to signal for help. The backdrop of historic buildings appears surreal as waves lap against their foundations, creating a sense of urgency. Her posture shifts to a tense, ready stance, highlighting the emotional weight of the moment as she prepares to flee into the chaotic cityscape.
+```

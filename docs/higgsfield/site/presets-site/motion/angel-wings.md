@@ -41,3 +41,17 @@ Use it as: upload a start image that matches the scene, select motion preset **A
 | 1 | https://higgsfield.ai/motion/52ee95dd-087a-4f2a-b7e9-58f4d0abbef5/8f26b213-33e9-4f5b-8bd6-036c57f08232 | https://static.higgsfield.ai/8f26b213-33e9-4f5b-8bd6-036c57f08232.mp4 | https://static.higgsfield.ai/8f26b213-33e9-4f5b-8bd6-036c57f08232.webp | https://d1xarpci4ikg0w.cloudfront.net/ff76c4dd-6f18-4f47-a9a5-162e31ff8508.webp (320×568) |
 
 Source pages: https://higgsfield.ai/motion/52ee95dd-087a-4f2a-b7e9-58f4d0abbef5. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+1 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `8f26b213-33e9-4f5b-8bd6-036c57f08232`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 720×1280
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ccb9f544-9eb8-4c72-b5aa-9aa7110859e7.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/799710e6-536c-4b5c-83e2-d1de0b3fae96.mp4
+  - page: https://higgsfield.ai/motion/52ee95dd-087a-4f2a-b7e9-58f4d0abbef5/8f26b213-33e9-4f5b-8bd6-036c57f08232
+
+```text
+In a dynamic and lively pose, the woman dances gracefully. Behind her, immense black wings dramatically spread open, framing her figure and accentuating her energetic movement. The contrast of the bold wings against her vibrant attire creates an arresting visual full of intensity and rhythm.
+```

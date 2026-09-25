@@ -52,3 +52,62 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 6 | https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/2c13bf69-591d-4274-9c0e-f8780fb4bc16 | https://static.higgsfield.ai/2c13bf69-591d-4274-9c0e-f8780fb4bc16.mp4 | https://static.higgsfield.ai/2c13bf69-591d-4274-9c0e-f8780fb4bc16.webp | https://d1xarpci4ikg0w.cloudfront.net/0b1a536a-b532-46ae-b502-f832d5ced5de.webp (320×136) |
 
 Source pages: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db, https://higgsfield.ai/motion/c4ce82e4-1426-46b4-b184-db8f7fe41a5f. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+6 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `2c13bf69-591d-4274-9c0e-f8780fb4bc16`** (priority 5) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1472×624
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/35803a58-9fb0-4a37-a1b2-d3f8a4374f5d.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/45f69f89-0cff-489c-83dc-3f781dc53948.mp4
+  - page: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/2c13bf69-591d-4274-9c0e-f8780fb4bc16
+
+```text
+The woman sitting at the desk is boringly wait for people to come to her. The background is filled with movement of school students in school clothes very quickly walking.
+```
+
+- **Sample `0382dc1a-f2fa-42dd-ae98-0f3d3c00d2de`** (priority 4) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1264×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/7504577b-a730-442a-9aa4-6ead3fb8fda3.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/1361e126-36bf-4211-a0c0-c63062383a81.mp4
+  - page: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/0382dc1a-f2fa-42dd-ae98-0f3d3c00d2de
+
+```text
+A young woman with a contemplative expression walks slowly to the right, her backpack slung casually over one shoulder. The fading light of dawn casts a soft glow over the serene riverside, where a medieval bridge arches gracefully in the background, shrouded in mist. People bustle around her, their movements blurred in contrast to her stillness, creating a sense of solitude amidst the crowd. The air is cool and damp, the gentle ripples of the water mirroring her quiet introspection. The scene is imbued with a muted palette, where soft greens and greys evoke a sense of calmness, reflecting her inner emotional landscape.
+```
+
+- **Sample `de323c82-a54d-44dc-9252-5836b05d98c2`** (priority 3) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/d6df5a87-ddb4-45ae-91fc-7951a4b1d4b1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/24aff200-0411-4cb8-a5b8-a9162144f505.mp4
+  - page: https://higgsfield.ai/motion/c4ce82e4-1426-46b4-b184-db8f7fe41a5f/de323c82-a54d-44dc-9252-5836b05d98c2
+
+```text
+Futuristic subway platform bathed in green and violet neon light.  Camera zoom in on a woman in a reflective angular coat dancing perfectly, staring at the camera as hundreds of distorted human figures blur past in rainbow motion trails. Timelapse accelerates their movement, turning them into spectral silhouettes. The train sits idle behind her, flickering gently.
+```
+
+- **Sample `8be4df25-668f-4de5-a988-a8e51b4dd6e6`** (priority 2) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ac57c7ac-6231-45b1-8b36-0835ba80e22a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/937388dd-f82b-4b07-9b1c-f032690b290f.mp4
+  - page: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/8be4df25-668f-4de5-a988-a8e51b4dd6e6
+
+```text
+Aerial wide shot, fixed angle. A giant beached whale lies motionless on a sandy industrial riverside. Around it, a dozen people in vibrant 70s-style outfits stand frozen. Begin timelapse: over time, people slowly change positions, some kneeling to inspect the whale, others gesturing, taking notes, pacing, or pointing. Bright yellow cranes in the background shift with the light as clouds race across the sky. Day turns to dusk, shadows stretch, then flickering lights appear from distant machinery. Subtle wardrobe changes suggest seasons passing. Emphasis on human activity and scientific curiosity evolving around the silent whale. Stylized like a fashion editorial through a psychedelic lens. Shot in Kodak Ektar 100 for rich saturation and bold color depth.
+```
+
+- **Sample `a069e1d8-756a-473d-af83-14507cbe5400`** (priority 1) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/89fe4075-2f89-4c9b-bc03-cd9598b691cf.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/ca5583a1-a3f9-4aa3-9453-305532740b73.mp4
+  - page: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/a069e1d8-756a-473d-af83-14507cbe5400
+
+```text
+Static top-down shot. Woman’s serene face floats in a white bathtub filled with translucent blue milk water. Dozens of black koi swirl around her in hypnotic, time-lapsed motion—circling, pulsing, then vanishing one by one. Her expression subtly shifts—barely perceptible blinks, breath softening.
+```
+
+- **Sample `ec28fa40-b68e-4fc4-af45-672f71ab5e61`** (priority 0) — Wan 2.5 motion preset, steps=20, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/fbabd409-681d-4af6-9d73-191a6845f89e.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/09677d76-7ee5-4b67-a597-cb3a14f2e58e.mp4
+  - page: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/ec28fa40-b68e-4fc4-af45-672f71ab5e61
+
+```text
+Locked-off street-level shot. Neon-lit alley with layered storefronts, glowing signage, and a lone woman standing still at the center in a white dress and leather jacket. Time accelerates as scooters zip past in streaks, pedestrians blur into smears of motion, and a black cat slowly walks across an overhead ledge. Shadows stretch and shrink, ambient lights pulse.
+```

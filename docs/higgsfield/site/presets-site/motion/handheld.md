@@ -56,3 +56,98 @@ Use it as: upload a start image that matches the scene, select motion preset **H
 | 10 | https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/e6c0a05a-7d4e-4c87-b922-ab24673b29ce | https://static.higgsfield.ai/e6c0a05a-7d4e-4c87-b922-ab24673b29ce.mp4 | https://static.higgsfield.ai/e6c0a05a-7d4e-4c87-b922-ab24673b29ce.webp | https://d1xarpci4ikg0w.cloudfront.net/c0b1196d-4b9e-4de2-8c85-f331faa32421.webp (320×320) |
 
 Source pages: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f, https://higgsfield.ai/motion/36e6e450-52d9-484f-bfbe-f069e06a1530. Crawled 2026-09.
+
+
+## Real sample prompts (site)
+
+10 prompts from the preset's public sample pages. See also [SAMPLE-PROMPTS.md](SAMPLE-PROMPTS.md).
+
+- **Sample `e6c0a05a-7d4e-4c87-b922-ab24673b29ce`** (priority 9) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/37c1c2eb-97ac-44b8-8811-ae434ca0b843.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/bd13ca90-45a5-4df6-9363-986651d6b3b9.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/e6c0a05a-7d4e-4c87-b922-ab24673b29ce
+
+```text
+A person with a television for a head runs frantically to the left, clad in loose-fitting beige clothing that flutters with each determined stride. The street is lined with weathered buildings, their blue shutters casting a stark backdrop against the vibrant yellow curb. Urban chaos unfolds around them, amplifying the figure’s urgency as they navigate the asphalt, their boots striking against the ground with resolve. The harsh midday light glints off the metal surfaces of the television, creating a surreal gleam. As the camera tracks their movement, the air thickens with an anxious energy, a contrast to the static nature of the screens above. There’s a palpable tension in the atmosphere, inviting viewers to question the reason behind this frantic escape.
+```
+
+- **Sample `26ea4fba-245f-4821-9f21-dba38e052527`** (priority 8) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/59125597-1228-4eff-aced-9fb6f46f0f25.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/83dee7c2-7b75-4bf9-bb9c-d1600c8311ec.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/26ea4fba-245f-4821-9f21-dba38e052527
+
+```text
+The man walks purposefully along the winding path, his back turned to the viewer, dressed in a dark jacket that contrasts with the bright, sunlit scenery ahead. The tranquil suburban house, with its green shutters and vibrant red door, stands ominously amidst the chaos, as flames begin to engulf the roof and the surrounding trees crackle with fire. Soft sunlight filters through the leaves, casting a warm, almost surreal glow over the scene, yet the looming threat of destruction hangs heavy in the air. Each step he takes seems to resonate with a mix of determination and resignation, as the tension builds between his calm demeanor and the imminent danger. The ground beneath him is dotted with wildflowers, a stark reminder of what may soon be lost.
+```
+
+- **Sample `bef3d230-d076-4cef-8649-0255cd1c7e12`** (priority 7) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1104×832
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/ca90cd54-1b77-4994-b821-0cd62bb41a6a.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4df2ce08-5a0c-4f3b-9103-5f1d81f592a2.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/bef3d230-d076-4cef-8649-0255cd1c7e12
+
+```text
+A man dressed in a long black coat walks slowly toward a striking yellow boat docked in the calm waters, his posture relaxed yet purposeful. The setting features a deserted beach under a dim, overcast sky, with a slight breeze ruffling the surface of the water and the edges of his coat. Light plays off the wet sand, creating a muted sheen that contrasts with the vibrant yellow of the boat. As the man approaches, his silhouette becomes more defined, revealing a sense of anticipation and quiet contemplation. The gentle sound of lapping waves adds to the scene, enhancing the emotional weight of his solitary journey.
+```
+
+- **Sample `e7eaadb9-7f25-45a3-affe-f8dfc9c92bef`** (priority 6) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1168×768
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/e92bae15-86a3-45ea-a581-71f77b949e20.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/c4d58441-6315-43a1-93c3-f326b71ed813.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/e7eaadb9-7f25-45a3-affe-f8dfc9c92bef
+
+```text
+A man stands defiantly in a leather jacket, gripping a wooden bat tightly, his brow furrowed and mouth animated in a heated argument with a policeman, who leans confidently with the bat resting on his shoulder. They are in a gritty urban street defined by muted gray asphalt that starkly contrasts their intense emotions. Behind them, a group in leather jackets looms, their silent anticipation amplifying the tension in the thick air. The early evening light casts long shadows, revealing the weathered textures of the buildings that surround them. The atmosphere buzzes with unresolved conflict, emotions swirling visibly, creating a vivid tableau of confrontation and underlying power dynamics in a raw urban setting.
+```
+
+- **Sample `f4e1d2f1-4036-483e-a76b-8d8c4dd16a3f`** (priority 5) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 768×1168
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/bf2025cb-3eef-45b3-9bbb-ca572357cd10.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/18d95318-5f9c-4407-8312-eda1662aefb2.mp4
+  - page: https://higgsfield.ai/motion/36e6e450-52d9-484f-bfbe-f069e06a1530/f4e1d2f1-4036-483e-a76b-8d8c4dd16a3f
+
+```text
+A man stands with a bare torso, arms outstretched, walking resolutely toward a line of police officers clad in riot gear, shields raised, creating a palpable tension in the air. The dimly lit street is shrouded in swirling smoke, illuminated by the harsh blue lights of police vehicles parked behind the officers, casting long shadows that emphasize the scene's intensity. The atmosphere hangs heavy with anticipation, the stillness punctuated only by hushed whispers and distant murmurs. The alarmingly clear division between the defiant man and the armored police speaks to a deeper conflict, as emotions surge in this moment of confrontation. The ground beneath him is scattered with debris, representing chaos, and a subtle color palette of blue and gray underscores the gravity of the situation.
+```
+
+- **Sample `4aff77c6-055a-4ff5-9894-d80b03b70191`** (priority 4) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 720×1264
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/688fd068-eb8b-452e-a71a-b46d17cc6cec.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/e5925e41-1079-4539-85f8-efeb87c4ff17.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/4aff77c6-055a-4ff5-9894-d80b03b70191
+
+```text
+A woman in a leather jacket stands confidently on a city street, her posture relaxed yet empowered, as she gazes upward. The scene is set at night, with sleek skyscrapers towering in the background, their glass facades reflecting the neon lights that flicker in vibrant colors. Rain-soaked pavement glistens under the urban glow, enhancing the moody atmosphere around her. As she wanders through this bustling metropolis, a soft breeze ruffles her hair, adding to the sense of motion and freedom. The camera follows her with a handheld perspective, capturing a fleeting moment of connection between her and the dynamic city life, filled with unspoken stories and hidden depths.
+```
+
+- **Sample `41a23f7d-6f61-4578-b97c-e35c83dd6cb1`** (priority 3) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1280×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/7ed134d9-a08d-44df-b71f-bc24728224e1.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/eab71074-cc2a-4bf5-9445-b798067d3c6c.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/41a23f7d-6f61-4578-b97c-e35c83dd6cb1
+
+```text
+A woman strides confidently through a sun-drenched city street, wearing a striking red dress that flows with her every step. She dons sleek sunglasses that reflect the bright midday light, her features illuminated by the warm glow radiating off the historic façades around her. The camera, held in a handheld style, follows closely, capturing the rhythm of her movements against the backdrop of bustling pedestrians and familiar urban sounds. The scene reveals a juxtaposition of her poised demeanor amidst the lively chaos of city life, evoking a sense of independence and purpose. The golden light casts soft shadows, highlighting the architectural details and the subtle textures of the surroundings, enhancing the emotional depth of this vibrant urban tableau.
+```
+
+- **Sample `a3e86c0d-c8da-42d8-a262-e6049ee2ec4d`** (priority 2) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/07e84758-7497-402b-b6fb-4afd14bc21db.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/23a8757f-0c74-42aa-ac5e-a2c80dbdc242.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/a3e86c0d-c8da-42d8-a262-e6049ee2ec4d
+
+```text
+In a pulsating club filled with colorful lights, a woman dances gracefully, her wavy, blonde hair catching glimmers of pink and green hues. She wears a sleek black dress that hugs her figure, exuding confidence yet hinting at a deeper introspection. The atmosphere is electric, with shadows and bursts of light creating a mesmerizing backdrop to her movements. As her expression shifts from contemplative to elated, the camera captures her every sway, the handheld perspective drawing the viewer into her world. The lighting dances around her, each color reflecting her emotions and enhancing the vibrant energy of the night.
+```
+
+- **Sample `f07719b8-0a02-4604-a075-0b355d25bdbd`** (priority 1) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 1280×720
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/633c2996-8e5f-4d42-969a-ac71fb86f3d5.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/77feadde-ec42-4d1b-b1f4-eb0e588064ba.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/f07719b8-0a02-4604-a075-0b355d25bdbd
+
+```text
+A woman exudes confidence as she walks along the railing of a bridge. Clad in a chic black leather jacket and bold, rust-colored pants, her short bob swings softly in the night breeze. The urban landscape behind her is alive with shimmering city lights, contrasting against the deep blue of the twilight sky. The vibrant reflections on the water create a mesmerizing backdrop, as the atmosphere radiates a blend of intensity and allure. 
+```
+
+- **Sample `5577043e-2b02-4be4-a39b-5edaefd37ed2`** (priority 0) — Wan 2.5 motion preset, steps=30, frames=81, strength=1, guide_scale=6, output video 960×960
+  - input image: https://d1xarpci4ikg0w.cloudfront.net/167ce242-727f-4d9e-b214-b224291126c8.webp
+  - output: https://d1xarpci4ikg0w.cloudfront.net/4f4678c3-09aa-44cc-b02f-a6f9db693db0.mp4
+  - page: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/5577043e-2b02-4be4-a39b-5edaefd37ed2
+
+```text
+A young man sits confidently behind a vibrant drum set, his face a mix of concentration and passion as he plays intensely. The scene unfolds in a dimly lit concert venue, punctuated by colorful stage lights casting dynamic hues across the room. His powerful strokes resonate with the music, sweat glistening on his skin, conveying a fervent connection to the rhythm. The camera sways slightly in a handheld style, capturing every nuance of his performance, from the rapid movement of his sticks to the focused fire in his eyes. Each beat reverberates through the atmosphere, pulling the audience into the electric energy of the moment.
+```
