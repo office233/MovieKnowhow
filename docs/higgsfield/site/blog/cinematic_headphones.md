@@ -2,7 +2,7 @@
 
 - Source: https://higgsfield.ai/blog/cinematic_headphones
 - Byline: Mariam Barova · Jun 22, 2026 · 10 minutes · Last updated: 3w ago
-- Prompts extracted: 25
+- Prompts extracted: 26
 
 ## Notes
 
@@ -203,7 +203,17 @@ A stovetop moka pot — eight-sided, high-gloss black base, matte cream top cham
 A ceramic mug with a reddish-orange pinstripe around the rim. Clean studio light, neutral background, centered, product photography.
 ~~~~
 
-### P16. Scene 1 — 1a · Kitchen
+### P16. Stage 2 — The Prompting Framework
+
+- Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
+- Use-case: other
+- Context: Then give Claude the element list, naming each asset so it knows exactly what it's looking at:
+
+~~~~text
+@hero — main character@boss — the boss, side character @headphones — the product, cream with the orange ring @sneakers — prop @bag — prop @skydancer — inflatable tube dancer @kitchen — apartment kitchen, stove + door @stadium — running track @street — Brooklyn corner @office — the boss's office
+~~~~
+
+### P17. Scene 1 — 1a · Kitchen
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -223,7 +233,7 @@ CUT 2 — Medium close at the counter, 50mm, push-in to chest: Hero picks up the
 CUT 3 — Jump-cut coffee montage, 50mm, three hard in-camera jump-cuts, Hero grooving through every stage: STAGE 1 — he sets the stovetop moka pot onto the gas range; a small, low amber flame catches under it, kept minimal, barely licking the base. JUMP CUT. STAGE 2 — closer in: the moka pot now gurgling on the flame, a curl of steam rising, Hero's fingers drumming the counter to the beat. JUMP CUT. STAGE 3 — he pours the fresh coffee into the espresso cup, lifts it and takes an unhurried sip, a soft satisfied smile spreading, head still nodding to the beat.
 ~~~~
 
-### P17. Scene 1 — 1b · The coffee montage
+### P18. Scene 1 — 1b · The coffee montage
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -249,7 +259,7 @@ CUT 4 — Close-up on the mug, 12° FOV tele detail, counter height, static: Tig
 CUT 5 — Medium close-up on Hero, bust framing from mid-chest to the top of his head, 29° FOV, static, eye-level: Hero (@hero) fills the frame from mid-chest up — the dusty-rose shirt over the white tee, the cream headphones (@headphones) on his ears with the orange-ringed cups catching the soft window light, the sage-green kitchen melting soft behind him. A warm easy smile already on his face from the very first frame and held the entire shot; smiling, he lifts the cream mug (@mug_cream) — the thin burnt-orange stripe under the rim crisp in the morning light — and takes an unhurried sip, eyes half-closing for a beat over the rim, then opening bright and pleased, the smile staying on as he lowers the mug, head bobbing gently on the beat.
 ~~~~
 
-### P18. Scene 1 — 1c · The dancing exit
+### P19. Scene 1 — 1c · The dancing exit
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -269,7 +279,7 @@ CUT 2 — Medium, 35mm, slow pan following Hero to the garden doors: Hero swings
 CUT 3 — Tight side close-up of Hero's head, left-side profile, at the open glass French door between the two windows: At the threshold of the glass French door, the bright garden haze just beyond him, Hero raises his right hand to the headphones and taps the orange-ringed ear cup twice — tap, tap — a small knowing smile pulling at his mouth as he steps out into the garden.
 ~~~~
 
-### P19. Scene 2 — 2a · Running
+### P20. Scene 2 — 2a · Running
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -291,7 +301,7 @@ CUT 3 — Tracking side profile, 29° FOV, lateral dolly matching his speed, sha
 CUT 4 — Medium close portrait, framed chest-down to top of head, 29° FOV, static, eye-level (~2s): Hero (@s_hero_wet) fills the frame from mid-chest to the top of his head — sweat-sheened, in his athletic kit only, hands free, the cream headphones (@headphones) on his ears. He stands on the red track, the lane lines and bleachers soft behind him, bright direct sunlight on his face from the front, the sun behind the camera, a small satisfied smirk already on his face from the very first frame and held the entire shot. Smirking, he faces the camera directly and, with his right index finger, simply taps the orange-ringed ear cup once — firm and deliberate — the smirk staying on as it lands.
 ~~~~
 
-### P20. Scene 2 — 2b · Broadcast angles & match-cut
+### P21. Scene 2 — 2b · Broadcast angles & match-cut
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -315,7 +325,7 @@ CUT 4 — Ground-level detail, 12° FOV tele, camera skimming the track surface 
 CUT 5 — Front shot on the track axis, 47° FOV, static, eye-level: Hero (@s_hero_wet) sprints straight at the camera from deep in his lane at full speed, around 25 km/h, growing fast in frame — sweat-sheened, athletic kit only, hands free, the cream headphones (@headphones) locked on his ears. Over the last few metres he decelerates hard: stride shortening step by step, arms dropping, torso rising upright — and comes to a full stop filling the frame from mid-chest to the top of his head, chest heaving, the lane lines and bleachers soft behind him. A small satisfied smirk already on his face through the whole run-up and held the entire shot. Standing still, breathing hard, he raises his right index finger and taps the orange-ringed ear cup once — firm and deliberate — the smirk staying on as it lands. His face lit evenly from the front, the sun behind the camera.
 ~~~~
 
-### P21. Scene 2 — 2c · The body-rig product shot
+### P22. Scene 2 — 2c · The body-rig product shot
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -335,7 +345,7 @@ CUT 2 — BODY-RIG SHOT, one long continuous take, 29° FOV, camera hard-mounted
 CUT 3 — Front shot on the track axis, 47° FOV, static, eye-level: Hero (@s_hero_wet) sprints straight at the camera from deep in his lane at full speed, around 25 km/h, growing fast in frame — sweat-sheened, athletic kit only, hands free, the cream headphones (@headphones) locked on his ears. Over the last few metres he decelerates hard: stride shortening step by step, arms dropping, torso rising upright — and comes to a full stop filling the frame from mid-chest to the top of his head, chest heaving, the lane lines and bleachers soft behind him. A small satisfied smirk already on his face through the whole run-up and held the entire shot. Standing still, breathing hard, he raises his right index finger and taps the orange-ringed ear cup once — firm and deliberate — the smirk staying on as it lands. His face lit evenly from the front, the sun behind the camera.
 ~~~~
 
-### P22. Scene 3 — Street
+### P23. Scene 3 — Street
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -345,7 +355,7 @@ CUT 3 — Front shot on the track axis, 47° FOV, static, eye-level: Hero (@s_he
 make a schematic - mark the fire hydrant, and lock the skydancer to its right, it should be two times a person's height, located on the same line.
 ~~~~
 
-### P23. Scene 3 — Dancing down the block
+### P24. Scene 3 — Dancing down the block
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -373,7 +383,7 @@ CUT 5 — Ground level, frontal, 47° FOV, static (3 sec): Camera locked at stre
 CUT 6 — Low angle tilted up, 107° FOV rectilinear, static (3 sec): Camera dropped low near the sidewalk and tilted steeply upward. @hero stands in the lower-right of frame, head and shoulders against the deep blue midday sky, shot from below so we look up at him. Looming directly behind and over his right shoulder, the @skydancer fills the upper-left of the frame — three times his height, towering up out of the low angle, its teal body thrashing and writhing in the wind, orange-and-white chevrons rippling, arms whipping overhead. It dominates the sky behind him, huge and alive, while @hero stays cool and grounded beneath it. Pedestrians and cars small in the deep background. With a light, unhurried smile: "I'm on my way." Voice easy, not apologetic, not rushed — just a fact. He reaches up with his right index finger and gives the @headphones cup a firm double-tap. Vibration stops. His expression stays easy, the giant inflatable still writhing above and behind him. SFX: two firm taps, vibration cuts clean. ANC hum resumes.
 ~~~~
 
-### P24. Scene 4 — Office
+### P25. Scene 4 — Office
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad
@@ -397,7 +407,7 @@ AUDIO: Diegetic only — the soft tap of a fingertip on the headphone cup, the g
 POSITIVE LOCKS: The backpack strap stays on one shoulder only — Hero's camera-left shoulder in CUT 1. The boss stands beside his desk in every cut, chair pushed back behind him. The boss's skin tone stays even and constant in every frame. Hero holds his rhythm and easy smile in every frame he appears. Headphones (@headphones) keep tan cushions and orange accent ring identical in every cut. Coworkers remain seated throughout. Bright even midday sun from the back-right windows in every shot.
 ~~~~
 
-### P25. Scene 5 — Packshot
+### P26. Scene 5 — Packshot
 
 - Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
 - Use-case: product ad

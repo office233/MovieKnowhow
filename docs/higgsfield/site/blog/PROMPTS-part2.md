@@ -1,8 +1,8 @@
 # Higgsfield Blog — Verbatim Prompts (part 2)
 
-279 prompts copied verbatim from the second half of the Higgsfield blog, grouped by use-case. Each entry links to its source article and the local notes file.
+309 prompts copied verbatim from the second half of the Higgsfield blog, grouped by use-case. Each entry links to its source article and the local notes file.
 
-Contents: cinematic film scene (93) · character/consistency (36) · product ad (66) · UGC (22) · viral effect (7) · transitions (3) · music video (9) · anime/animation (19) · other (24)
+Contents: cinematic film scene (93) · character/consistency (36) · product ad (67) · UGC (34) · viral effect (18) · transitions (3) · music video (9) · anime/animation (19) · other (30)
 
 ## cinematic film scene
 
@@ -3086,6 +3086,15 @@ Audio: diegetic-plus-product sound, the park alive in Segment 1, birds, distant 
 Positive locks: Five segments, hard cuts only. Her identity and the headphones exactly in every frame, never redesigned, no logos. The freeze hits only at her first step and holds, no frozen person ever moves again, the dog never freezes. The color waves come only from her footfalls, repaint permanently, and never strobe the exposure. Nobody speaks, only the dog barks. All text unreadable, everything unbranded.
 ~~~~
 
+### product ad #67 — Building a Cinematic Sequence Step by Step
+
+- Source: https://higgsfield.ai/blog/turn-your-video-into-cinema-using-wan-camera-control ([notes](turn-your-video-into-cinema-using-wan-camera-control.md))
+- Model / settings: WAN 2.6 Camera Control (example perfume promo)
+
+~~~~text
+soft morning light through glass, slow dolly around perfume bottle, golden reflections on surface, subtle haze in the background.
+~~~~
+
 ## UGC
 
 ### UGC #1 — How Claude Writes the Concept and Script
@@ -3378,6 +3387,114 @@ No real brands on her gear or the sunglasses — fictional/illegible markings on
 Vertical 9:16, full-bleed frame, no black bars, no letterboxing
 ~~~~
 
+### UGC #23 — Step 3: Generate the start frame
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Horizontal 16:9 talking-head portrait, chest-up framing, subject centered. Young woman in her mid-20s with long voluminous light-brown curls, fair freckled skin, light blue-grey eyes, strong straight eyebrows, seated in a worn fabric armchair, looking directly into the camera, calm soft expression, lips gently closed. Wearing a cream button-up shirt with a chunky pearl necklace, no jacket, a closed hardcover book resting on the armrest, hands relaxed. A filled wooden bookshelf behind her, soft even window daylight. Authentic phone-camera photo: true-to-life pore-level skin with natural texture and fine vellus hair, no beauty-filter smoothing, no retouching, faint true sensor noise, deep focus. Single frame, one person only, no text, no watermark.
+~~~~
+
+### UGC #24 — Step 5: Generate the avatar's speech
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+I finished four books this month and remember maybe ten pages total. And that's fine. Reading isn't a memory test — it's just a nicer place to put your attention than a feed.
+~~~~
+
+### UGC #25 — Step 6: Render the talking clip
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Static locked-off horizontal talking-head video, camera fixed on a tripod, framing identical to the start frame from first to last frame. The exact woman from the start frame — mid-20s, long light-brown curls, cream shirt, pearl necklace, seated in an armchair with a bookshelf behind her, closed book on the armrest — speaks directly into the lens for the entire clip, lips in precise sync with the spoken words. Performance: on the confession about forgetting pages a self-deprecating half-smile with a light eye-roll upward and back to the lens; on "and that's fine" a calm reassuring micro head-shake, shoulders relaxing; on the closing thought she leans in a few centimeters, voice-matched softening of the eyes, thoughtful warm expression. Hands stay resting, only fingers shifting slightly on the armrest. Natural blinks, gentle breathing. In the final second she settles into a quiet content smile. Background completely static, soft window daylight, authentic phone-video look, true-to-life skin texture, faint sensor noise, deep focus.
+~~~~
+
+### UGC #26 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+New rule at my place: the phone sleeps in the kitchen. First week was rough, not gonna lie. Now my evenings are about forty percent longer. Turns out boredom was the feature, not the bug.
+~~~~
+
+### UGC #27 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Horizontal 16:9 talking-head portrait, chest-up framing, subject centered. Young woman in her mid-20s with long voluminous light-brown curls, fair freckled skin, light blue-grey eyes, strong straight eyebrows, standing at a kitchen counter in the evening, looking directly into the camera, cozy calm expression with a hint of a smile, lips gently closed. Wearing a plain grey knit sweater, a ceramic mug on the counter beside her, no phone anywhere. Warm dim tungsten pendant light from above, quiet muted kitchen behind her. Authentic phone-camera photo: true-to-life pore-level skin with natural texture and fine vellus hair, no beauty-filter smoothing, no retouching, faint true sensor noise, deep focus. Single frame, one person only, no text, no watermark.
+~~~~
+
+### UGC #28 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Static locked-off horizontal talking-head video, camera fixed on a tripod, framing identical to the start frame from first to last frame. The exact woman from the start frame — mid-20s, long light-brown curls, grey knit sweater, evening kitchen with warm pendant light and a ceramic mug on the counter — speaks directly into the lens for the entire clip, lips in precise sync with the spoken words. Performance: on the "new rule" opening a slight conspiratorial lean toward the camera, eyebrows raised; on "rough, not gonna lie" an honest short laugh-exhale with eyes briefly closing; on the closing line a satisfied slow nod and a relaxed settled smile, one hand briefly wrapping the mug on the counter and releasing it. Natural blinks, gentle breathing, cozy unhurried energy throughout. In the final second she settles into a calm closed-mouth smile. Background completely static, warm dim tungsten light, authentic phone-video look, true-to-life skin texture, faint sensor noise, deep focus.
+~~~~
+
+### UGC #29 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+This jacket? Twelve dollars, flea market, smelled like someone's garage. Three years later it's the most complimented thing I own. Moral of the story: the best pieces are the ones nobody else wanted.
+~~~~
+
+### UGC #30 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Horizontal 16:9 talking-head portrait, chest-up framing, subject centered with the room visible on both sides. Young woman in her mid-20s with long voluminous light-brown curls, fair freckled skin, light blue-grey eyes, strong straight eyebrows, looking directly into the camera, relaxed friendly expression, lips gently closed. Wearing a distressed brown leather biker jacket over a cream button-up shirt with a chunky pearl necklace. Behind her a home clothing rack with a few muted vintage pieces on wooden hangers, soft even window daylight from the left. Authentic phone-camera photo: true-to-life pore-level skin with natural texture and fine vellus hair, no beauty-filter smoothing, no retouching, faint true sensor noise, deep focus. Single frame, one person only, no text, no watermark.
+~~~~
+
+### UGC #31 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Static locked-off horizontal talking-head video, camera fixed on a tripod, framing identical to the start frame from first to last frame. The exact woman from the start frame — mid-20s, long light-brown curls, distressed brown leather biker jacket, cream shirt, pearl necklace, home clothing rack behind her — speaks directly into the lens for the entire clip, lips in precise sync with the spoken words. Performance: on the opening line she glances down at her jacket lapel and gives it a light one-hand tug, playful proud look; mid-clip a quick amused nose-wrinkle grimace at the memory of the smell, eyebrows up; on the closing moral a warm easy smile with a small one-shoulder shrug, hand already out of frame. Natural blinks, gentle breathing motion, small head tilts on emphasis. In the final second she settles into a soft closed-mouth smile. Background completely static, soft even daylight, authentic phone-video look, true-to-life skin texture, faint sensor noise, deep focus.
+~~~~
+
+### UGC #32 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Everyone's chasing golden hour. Give me a grey, overcast Tuesday instead — soft light, empty streets, coffee that stays warm in your hands. Cloudy cities are criminally underrated, and I will die on this hill.
+~~~~
+
+### UGC #33 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Horizontal 16:9 talking-head portrait, chest-up framing, subject centered with the city visible on both sides. Young woman in her mid-20s with long voluminous light-brown curls, fair freckled skin, light blue-grey eyes, strong straight eyebrows, standing on an apartment balcony, looking directly into the camera, calm confident expression, lips gently closed, a few curls lifted by light wind. Wearing a distressed brown leather biker jacket over a cream button-up shirt with a chunky pearl necklace. Flat grey overcast sky, muted city rooftops behind her, even shadowless daylight. Authentic phone-camera photo: true-to-life pore-level skin with natural texture and fine vellus hair, no beauty-filter smoothing, no retouching, faint true sensor noise, deep focus. Single frame, one person only, no text, no watermark.
+~~~~
+
+### UGC #34 — Step 7: Reuse the same avatar across multiple videos
+
+- Source: https://higgsfield.ai/blog/talking-ai-avatar-inside-claude ([notes](talking-ai-avatar-inside-claude.md))
+- Model / settings: Claude + Higgsfield MCP: Soul 2.0 (character + 2K start frames), Soul ID, Seed Audio (voice "Delia"), Seedance 2.5 (14 s 720p talking clip, 16:9)
+
+~~~~text
+Static locked-off horizontal talking-head video, camera fixed on a tripod, framing identical to the start frame from first to last frame. The exact woman from the start frame — mid-20s, long light-brown curls, brown leather biker jacket, cream shirt, pearl necklace, balcony with flat grey sky and muted rooftops behind her — speaks directly into the lens for the entire clip, lips in precise sync with the spoken words. Performance: on the golden-hour line a light dismissive flick of one hand rising briefly into frame and dropping out; mid-clip her gaze drifts contentedly a touch off-lens toward the sky while listing the small pleasures, then returns to the lens; on the closing declaration a mock-serious firm slow nod that breaks into a small grin. A few curls move in light wind, everything else static. Natural blinks, gentle breathing, small head tilts on emphasis. In the final second she settles into a soft closed-mouth smile. Even shadowless daylight, authentic phone-video look, true-to-life skin texture, faint sensor noise, deep focus.
+~~~~
+
 ## viral effect
 
 ### viral effect #1 — How to Generate With Gemini Omni Flash: Step by Step
@@ -3572,6 +3689,127 @@ It roars, releasing a freezing shockwave — visible distortion freezing moistur
 SFX: howling wind, ice creak stress, deep glacier cracking, low frequency hum, crystal growth resonance, sharp ice fracture snaps, enemy twitch crack sounds, shard explosion, ice spike eruption, rapid crawling skitter, deep sub-surface rumble, massive breach explosion, leviathan roar (low, hollow, pressure-heavy), freezing shockwave boom, sliding metal hull collapse, slow-motion ice stress groan, core fracture resonance, avalanche roar, debris cascade, heavy impact wind rush
 
 Total: 15s / 1 shot / 16:9
+~~~~
+
+### viral effect #8 — Walking → location swap
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — a young man with curly dark hair and a mustache, in a cream ribbed short-sleeve zip shirt, dark trousers and silver rings, walking toward camera and talking to it with open-handed gestures across a wide stone plaza at golden hour; a bright sunburst flares in the gap of a long modern stone-and-glass office building behind him, and at about 2.2s his right hand snaps up beside his head. Handheld camera tracks and pans right with him; people cross the plaza, a misting fountain runs at the right. Preserve his identity, face, mustache, hair, wardrobe, rings, expression and every gesture, and the exact handheld framing, lens and camera motion, unchanged throughout. For the first beat keep the real plaza (all rooftop signs and LED screens blank and unbranded, no logos or text); on his snap, transform only the world around him into open desert. Photoreal. 16:9. 7s. Warm golden-hour grade, low sun from screen-left, soft long shadows, gentle lens flare. NON-IP — generic landscape, no real brand names, logos or trademarks anywhere. SFX and source dialogue only. One continuous handheld shot, same framing, lens and camera move as the source, tracking and panning right with him as he walks toward camera. Hold the real golden-hour plaza for the first beat. At about 2.2 seconds, on his finger snap with his right hand up beside his head, the backlit sun blooms into a white flare that washes across the frame; as the bloom falls off the city is gone and he is in open desert — the stone underfoot has become rippled wind-sculpted sand, dunes roll unbroken to a far horizon under the same low golden sun, heat shimmer rising off the crests, a thin veil of blown sand streaming past at ground level with the same rightward parallax as the camera move. Keep the sun as the key from screen-left exactly as before so his face and the light on him barely change; add a faint warm sand bounce from below and a touch of the desert's hazy distance over him, match the source lens character, depth of field and grain, and ground him in the sand with a real soft contact shadow so he is not pasted in. He keeps walking toward camera and talking, completely unfazed, performance and timing identical. Face, identity, expression and wardrobe unchanged; the camera move identical to the source — only the world changes on the snap. SFX and source dialogue only: his original speech throughout; quiet plaza ambience and fountain hiss before the snap; a soft airy whoomph as the world flips; then warm desert wind, fine hiss of blowing sand and a wide empty-space tone after.
+~~~~
+
+### viral effect #9 — Driving → world swap
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — same young man driving a white car convertible with the top down, seatbelt on, talking and gesturing to camera, filmed from a cowl-mounted rig looking back at the driver, motion blur as the car moves. Subject, face, car, seatbelt, rig framing, camera position and driving motion — preserve exactly. Replace background environment and time of day. Photoreal. 16:9. 6s. Filmic look — night, neon-lit, wet reflections, magenta-cyan palette, high contrast, deep blacks. Preserve source subject, face, performance, car, seatbelt and camera move; replace only the world and the lighting. SFX only. Continuous shot from the same cowl-mounted rig, same framing and camera position as the source. The man keeps driving and talking to camera, gesturing, seatbelt on. The environment is fully replaced and time shifts to night: the car cruises a rain-wet downtown street walled with dense neon — Japanese signage, glowing storefronts, holographic billboards — all streaking past in long light trails with strong parallax. Wet asphalt mirrors the neon; coloured reflections and bokeh slide across the white paint and windshield. Relight the driver for night — magenta and cyan neon spill washing over his face from the sides, a cool rim edging his hair and shoulder, skin kept readable against the dark. Oncoming headlights and tail-light streaks flare past. Face and identity unchanged. SFX only: open-cockpit wind softened by the city, low engine hum, distant traffic and muffled bass, occasional passing-car whoosh, faint rain hiss on asphalt.
+~~~~
+
+### viral effect #10 — Driving → world swap
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — same young man driving a white car convertible with the top down, seatbelt on, talking and gesturing to camera, filmed from a cowl-mounted rig looking back at the driver, motion blur as the car moves. Subject, face, car, seatbelt, rig framing, camera position and driving motion — preserve exactly. Replace background environment only. Photoreal. 16:9. 6s. Filmic look — volcanic dusk, deep oranges and crushed blacks, warm under-light, heavy ember haze. Preserve source subject, face, performance, car, seatbelt and camera move; replace only the world. SFX only. Continuous shot from the same cowl-mounted rig, same framing and camera position as the source. The man keeps driving and talking to camera, gesturing, seatbelt on. The environment is fully replaced: the car races down a black basalt road across a volcanic plain at dusk. Glowing orange lava fissures crack the ground on both sides, streaming past with strong parallax, their molten light pulsing up onto the underside of his face, the seatbelt and the white paint from below. Embers and sparks drift and whip past the open cockpit. A burning orange glow sits on the horizon under a smoke-darkened sky, with slow heat shimmer and drifting volcanic haze. Blend his original warm low-sun key with the lava under-light so his skin tone holds. Face and identity unchanged. SFX only: open-cockpit wind, deep engine rumble, low volcanic roar and distant rumble, sparks crackling past the cockpit.
+~~~~
+
+### viral effect #11 — Driving → world swap
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — same young man driving a white car convertible with the top down, seatbelt on, talking and gesturing to camera, filmed from a cowl-mounted rig looking back at the driver, motion blur as the car moves. Subject, face, car, seatbelt, rig framing, camera position and driving motion — preserve exactly. Replace background environment only. Photoreal. 16:9. 6s. Filmic look — natural grain, warm above-the-clouds golden light, ethereal, high dynamic range, soft contrast. Preserve source subject, face, performance, car, seatbelt and camera move; replace only the world. SFX only. Continuous shot from the same cowl-mounted rig, same framing and camera position as the source. The man keeps driving and talking to camera, gesturing, seatbelt on, hair moving in the wind. The entire environment is replaced: the car races along a narrow ribbon of asphalt suspended in a boundless sea of golden sunset clouds. Towering cloud banks stream past on both sides and far below with strong parallax, wisps of vapor whipping over the windshield and past his shoulders. The low sun breaks through the cloud tops in warm volumetric god rays, raking his face and the white paint to match the source's golden-hour key exactly. Distant cloud canyons drift slowly for depth. Face and identity unchanged. SFX only: wind rush over the open cockpit, low engine hum, soft airy ambience, faint whoosh of passing cloud.
+~~~~
+
+### viral effect #12 — Head on fire
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — young man with curly dark hair, mustache, light pinstriped short-sleeve zip shirt, forearm tattoo, standing in front of a parked white car convertible on a curved overlook road at golden hour, talking to camera with animated two-handed gestures. Appearance, face, camera, motion and lighting reference — preserve exactly. Photoreal. 16:9. 6s. Filmic look — natural grain, organic color, warm golden-hour grade, soft contrast. Preserve source subject, face, expression, gestures, camera, car and lighting; fire added as VFX. SFX only. Static locked-off ultra-wide, same framing and slight barrel distortion as the source. The man keeps talking to camera and gesturing with both hands, smile unbroken, completely unfazed. In the first beat flames catch at the crown and race outward until his entire head of curls is ablaze — fire wrapping the whole scalp, every curl alight, tongues sheeting up and back off the crown and licking from the sides and back of his head. A full corona of flame haloes his head, flickering and trailing in the light breeze. Embers stream off in a constant shower, glowing orange and dying in the air above him; heat-haze shimmer warps the trees behind him. His whole head now reads as a light source — strong warm firelight rakes down his face, neck and collar and spills onto the white hood and windshield of the car behind him, pulsing on the glossy paint. The hair burns but holds its shape and silhouette, never charring away. Face and identity unchanged. Everything else — pose, delivery, golden-hour key, parked car, road and guardrail — identical to the source. SFX only: a low whoomph as the hair catches and flares up, then a full steady flame roar and crackle, constant ember snaps, faint evening wind, ambient birdsong.
+~~~~
+
+### viral effect #13 — Hand → robot
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original handheld portrait of Adil — curly-haired man with a mustache, wearing a cream-and-pale-grey vertical-striped short-sleeve zip shirt and black trousers, standing on a wide stone staircase in front of a glass-walled modern building with low fountains and a green hedge to screen-right. Warm late-afternoon golden-hour key from screen-right, soft natural skin tones, gentle handheld bob. He delivers a line to camera and gestures with both hands. Preserve identity, face, curls, mustache, the entire shirt and trousers, performance, the tattoo on his other (screen-right) forearm, framing, lens, handheld bob and the entire background exactly. Transform only his right arm — the one on screen-left — into a cybernetic mechanical limb, built stage by stage from the fingertips up to the short-sleeve cuff. The shirt and the cuff itself are not part of the effect and stay exactly as in the source.
+
+Photoreal. 16:9. 12s. Warm golden-hour grade, soft natural contrast, gentle fountain-mist haze in the depth. NON-IP — generic industrial cybernetic prosthetic in matte gunmetal and brushed titanium with dark anodized accents, bare carbon-weave and a few thin cables briefly visible between plates. Explicitly NOT Iron Man: no red enamel, no gold trim, no glowing chest core, no palm repulsor, no faceplate look, no bright emissive glow — at most a faint warm amber edge on a couple of seams as they seal. SFX only.
+
+Continuous handheld shot, same framing and same warm screen-right key as the source. Adil keeps talking to camera and gesturing the same way, completely unfazed. The mechanical build happens in six discrete sequential stages, each one fully completing on his right arm before the next stage begins — no parallel transformation, no smooth fade, no continuous creep. At any moment the arm has a clear boundary: everything below the current stage is finished metal, everything above is still untouched skin.
+
+Stage 1, roughly 0 to 2s — fingertips and fingers: slim bevelled segment caps slide over each nail in sequence, a small actuator clicks into each fingertip joint with a soft metal tap, then thin articulated plates wrap each phalange one finger at a time. By 2s every finger, including the thumb, is fully mechanical up to its base knuckle, and stays that way for the rest of the shot.
+
+Stage 2, roughly 2 to 3.5s — back of the hand and palm: a metacarpal plate assembles across the back of the hand in interlocking tiles, the palm plating snaps closed beneath it. By 3.5s the entire hand below the wrist is finished metal.
+
+Stage 3, roughly 3.5 to 5s — wrist: a thin ring of brushed titanium snaps closed around the wrist, then a heavier locking collar rotates and clicks shut around it with a hydraulic hiss. Sharp clean boundary at the wrist line.
+
+Stage 4, roughly 5 to 8s — forearm: dark anodized armor panels lift from beneath the skin one at a time and slot together along clean seam lines, working from wrist toward elbow — strands of synthetic muscle and thin cables visible for a beat in the gap before each panel pressure-seals flush. By 8s the forearm from wrist to elbow is fully sealed metal.
+
+Stage 5, roughly 8 to 10s — elbow joint: a cluster of small pistons and a ball-pivot joint assemble at the elbow with a heavier mechanical clack and lock into place.
+
+Stage 6, roughly 10 to 12s — lower bicep up to the cuff line: slimmer brushed-metal plating wraps the lower bicep working upward, a mechanical bicep cable bundle briefly visible through a venting slot, and the very last plate locks flush exactly at the existing edge of the short shirt sleeve, terminating with a final crisp click. The build stops there, hard. Nothing above the cuff line is touched, shown, hinted at or transformed.
+
+Hard rules for the shirt and the rest of the body throughout all six stages: the cream-and-pale-grey striped short-sleeve zip shirt does not move, lift, ripple, tear, bulge, wrinkle, glow, change color or change shape in any frame. The short sleeve hangs over the bicep exactly as in the source. No mechanical detail appears on, under, through, beside or behind the fabric at any point. No metal piece pushes the cuff up or extends past it. The shoulder, upper arm above the cuff, torso, and the rest of the shirt are entirely outside the effect and stay 100% identical to the source plate. The hand stays fully articulate and dexterous after Stage 2 — it keeps gesturing in time with his speech, just with crisp servo motion now. Each completed stage stays completed: by the end of the shot, the finished mechanical hand from Stage 1 must still look the same as it did at 2s, not re-rendered.
+
+Warm golden key reads correctly on the new metal — soft warm highlights on the brushed surfaces, cool skylight bounce on the underside, real soft-edged contact shadow from the new arm onto his torso (without disturbing the shirt), same fountain-mist atmospheric depth as the rest of the frame so the limb sits in the plate and never reads as pasted-in CG. Face and identity unchanged; mustache, curls, expression, the cream-and-pale-grey striped zip shirt and every detail of it including the unchanged short sleeve, trousers, the other arm and its tattoo, framing, lens, handheld bob and background all identical to the source.
+
+SFX only: Stage 1 — soft micro-servo whirs and light metal taps as each fingertip cap and finger plate seats. Stage 2 — crisp click-locks as the hand plates close. Stage 3 — a low hydraulic hiss as the wrist collar rotates and locks. Stage 4 — a series of muted metallic snaps and faint pressure-release sighs as forearm panels seal one by one. Stage 5 — a heavier mechanical clack at the elbow. Stage 6 — slimmer plate clicks finishing with one final firm lock at the cuff line. No fabric rustle, no torn-cloth sound, no music, no heroic stinger, no source dialogue.
+~~~~
+
+### viral effect #14 — Lizard on a building
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — young man with curly dark hair and a moustache, rings on his fingers, wearing an open light grey pinstriped short-sleeve shirt over a black tee, standing in a sunlit rooftop parking lot in Almaty, gesturing and talking directly to camera; behind him the beige Hotel Kazakhstan tower with its crown-shaped top, a Soviet apartment block at left, parked cars and green trees, low handheld angle with a slow push-in, warm low-sun daylight. Preserve the man's identity, face, moustache, wardrobe, rings, performance and exact lip-sync, plus the framing, lens character and handheld motion of the original take exactly. Change only the background behind him: add many large reptiles climbing the hotel tower, and prepend a 1-second telephoto opening that snaps out to the original composition. @LIZARD: Reference of a real large monitor lizard — pebbled scaly skin, long claws, heavy tail, true reptile anatomy. Appearance, scale-texture and color reference only; ignore the photo's background and lighting, do not use it for the environment. Photoreal. 16:9. 8s. Warm low-sun evening daylight, soft long shadows, gentle film grain — grade matched to the source plate. NON-IP — generic large monitor lizards, not based on any brand or character. SFX and source dialogue only. One continuous shot, no cuts. For the first 1 second hold on a long telephoto lens (~300mm look, compressed perspective) framed tight on the upper facade of the beige Hotel Kazakhstan tower: dozens of large photoreal monitor lizards, each roughly car-sized, swarming up the building en masse — claws hooking window ledges and concrete, heavy tails dragging, pebbled scales catching the low sun, bodies overlapping as they crawl higher, real soft-edged contact shadows on the facade. At the 1-second mark the camera snaps a hard, fast zoom-out / quick pull-back, decompressing perspective and craning down to land exactly on the source composition — a 100% match of the original framing: the low handheld angle with the man in the foreground, tower behind, same headroom and horizon. From 1 second onward play the man's preserved take: he speaks directly to camera, lips matching the source exactly, saying clearly: "I can put something behind me that definitely shouldn't be there. Insane right?" — keep his performance, gestures, timing and lip-sync precisely as in the source, smiling and completely unfazed and oblivious to the creatures, while the source's own slow handheld push-in continues. Behind him the lizards keep steadily climbing the tower for the rest of the shot, more of them crawling into frame on the facade. Keep the lizards integrated into the plate: same warm key from screen-right and same color temperature as the man, real contact shadows where claws grip, matching atmospheric haze and depth of field so they sit at true distance, fully photoreal real scale detail and true reptile anatomy, never CG, plastic or cartoonish. Lock-down: the man's face, identity, moustache, wardrobe, rings, expression, gestures and lip-sync are unchanged; from 1s onward the framing, lens and handheld push-in are a 100% exact match of the source — only the lizards on the tower are added. SFX and source dialogue only: open with a quick burst of distant claw scrapes and scuffs on concrete and glass and scattered low reptilian hisses over faint city ambience; at the 1s zoom-out the man's preserved voice comes in and stays dominant — "I can put something behind me that definitely shouldn't be there. Insane right?" — the scrapes and hisses continuing softly underneath, a low structural rumble far in the background.
+~~~~
+
+### viral effect #15 — Wing-walker on a biplane
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — the same man (curly dark hair, mustache, hoop earring, forearm tattoo) performing his action, shot with a moving camera. Preserve his action, body stance, movement, timing, facial expression and mimicry exactly, and the camera exactly: its starting position and full movement. Change only the wardrobe, his placement, the aircraft, the environment, the grade and the audio. Do not reinterpret or re-describe any of it — transfer it 1:1 from the source. Photoreal, cinematic. 16:9, anamorphic widescreen feel. 8s. Rich filmic blockbuster grade — golden volumetric light, gentle haze, subtle lens flare, deep contrast, natural film grain, high dynamic range, shallow depth on the subject against the immense backdrop. NON-IP — original non-branded biplane, no livery or recognizable IP. SFX only. Continuous with the source — the same camera starting position and full movement, frame-for-frame. Keep the man in his exact action, body stance, movement, timing, facial expression and mimicry, his face and identity intact, now in a crisp tailored white suit with a bright red bow tie. His preserved stance and movement now read as a wing-walker standing on top of a flying biplane, secured to the upright wing frame by a minimal harness — just a chest and shoulder strap and a waist buckle clipped to the frame, light and clean, not heavily rigged. The aircraft is a classic propeller biplane — twin stacked wings, radial engine, spinning propeller, fixed landing gear — painted a single solid glossy lime-yellow, #d1fe17, uniform across the entire plane with no patterns or livery. Reskin the world into a surreal highland plateau that lands a wow reveal: a vast dreamlike expanse with colossal floating monoliths and mirror-still reflective salt flats stretching to the horizon, oversized snow-capped peaks rising impossibly steep and close, ribbons of low cloud threading between them, the sky graded into a soft gradient of amber-gold into deep teal. The biplane banks across this otherworldly scope, the vast scale dwarfing the plane for an epic, awe-inducing feel. Light the whole frame under one look — the man, the plane and the terrain sharing the same warm low golden sun and volumetric beams against the cool teal sky, gentle haze thickening with distance, subtle flare across the lens. Match exposure, color temperature, anamorphic lens character, bloom, film grain and the shallow depth of field so the subject sits crisp against the soft immense backdrop and nothing reads pasted, brighter or a different color temp than the haze. Drive realistic high-altitude aerodynamics and strong wind: his suit, bow tie and hair whip and flutter in the slipstream, the propeller spins with motion blur, clouds and terrain stream past in convincing parallax, and the plane subtly pitches and banks with the air. Face and identity unchanged; his action, body stance, movement, timing, expression and mimicry identical to the source; the camera's starting position and full movement identical frame-for-frame; only the wardrobe, placement, aircraft, environment and grade are new. No on-screen text or watermark. SFX only: rushing wind, the deep drone of the radial engine and propeller, fabric flutter in the slipstream, airy high-altitude ambience. No music, no vocals, no dialogue.
+~~~~
+
+### viral effect #16 — Collapsing jungle temple
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — a man traversing an overhead ladder rig hand-over-hand, with grip transitions and shifting body stance, shot handheld. Preserve his action, body stance, grip transitions and timing exactly, and the camera exactly: its movement, framing, shot scale and shake. Change only the setting, his wardrobe and the grade. Do not reinterpret, re-frame, re-time or re-angle any motion. Photoreal, cinematic. 16:9. 5s. Filmic teal-and-amber blockbuster grade — deep shadows, warm golden highlight pools from sunbeams, rich contrast, subtle film grain, anamorphic-style soft edge falloff and gentle bloom on the light rays, humid atmospheric haze for depth. NON-IP — original treasure-hunting adventure look, no branded logos, named characters or recognizable IP. SFX only. Continuous with the source — the same handheld move, framing, shot scale and shake, frame-for-frame. Keep the man in his exact action, body stance, grip transitions and timing, now in a rugged explorer's outfit — a sweat-stained linen shirt with a leather strap across his chest — his face, hair and proportions intact. Reskin the environment into a collapsing ancient jungle temple corridor: the overhead ladder rig becomes a row of ancient rusted iron rungs bolted into a cracked stone ceiling, the ground beneath becomes a deep bottomless chasm, the grey concrete becomes weathered moss-covered carved stone blocks etched with worn glyphs, and crumbling pillars and toppled stone columns replace the metal posts. Dense jungle fills the background — hanging vines, dripping ferns, shafts of humid sunlight piercing gaps in the broken stone canopy, drifting dust and pollen, with faint mist and floating debris adding danger and depth. He traverses hand-over-hand along the rungs over the chasm, the same path and blocking as the source. Relight the whole frame under the one teal-and-amber look — the man, the rungs, the stone and the jungle sharing the same warm directional sunbeams from above against cool teal shadow, golden pools where the beams land, the humidity haze thickening with distance so the far jungle goes softer. Match exposure, color temperature, anamorphic lens character, bloom, film grain and depth of field across the whole frame so nothing reads pasted, crisper or a different color temp than the haze. Face, hair and proportions unchanged; his action, body stance, grip transitions and timing identical to the source; the handheld camera, framing, shot scale and shake identical frame-for-frame; only the setting, wardrobe and grade are new. No on-screen text or watermark. SFX only: a tense low ambient drone, water dripping and echoing in stone, distant jungle birds and insects, the metallic creak and strain of the old iron rungs, crumbling pebbles falling away into the chasm, and the man's strained breaths and grunts, building subtle suspense. No music, no dialogue.
+~~~~
+
+### viral effect #17 — Sauropods in the rain
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — a man in a forest filmed on a handheld follow, who turns and looks back at around 2 to 3 seconds. Preserve his identity, face, pose, exact performance, reaction and timing, and the camera exactly: the handheld follow move, framing, shot scale, wide lens, pan and tilt, speed and the source edit and cuts. Change only his wardrobe and the atmosphere; add the sauropods. Do not re-frame, re-time, re-angle or re-cut. Photoreal. 16:9. 11s. Flat overcast rainy daylight, cool desaturated blue-green forest grade, heavy mist and steady rain. NON-IP — generic sauropod, not based on any franchise creature. Diegetic SFX only. Continuous with the source — the same handheld follow, framing, wide lens, pan, tilt, speed and cuts, frame-for-frame. Keep the man in his exact pose, movement and timing, now in a wet yellow hooded rain slicker, glossy, rain-beaded and streaming with water, hood up, fully covering his shirt so no striped shirt shows; his face real human skin with pores, stubble, a wet rain sheen, real catchlights and blinking, never waxy, smoothed or warped. Two to three colossal long-necked sauropods stand in the dark misty pine forest, all the same species and build — a generic Brontosaurus/Apatosaurus-type long-neck, the head tiny relative to a bulky barrel-chested body, the same head shape and proportions on every one. Each has a small, blunt, domed head on a very long thick columnar neck; a broad rounded muzzle with a closed, faintly down-curved mouthline; one large eye each side, dark with a warm amber-brown iris and a round pupil, set high on the skull under a heavy wrinkled brow, fine creases radiating around it. The hide is heavily textured — tessellated polygonal pebble-scales across the crown and snout breaking into deep horizontal wrinkle folds and loose sagging skin down the throat and the full length of the neck, a dewlap of ribbed creases under the jaw. Color is desaturated mottled olive grey-green with patches of yellow-ochre lichen-like mottling over the head and back, paler grey-tan on the lower jaw, throat, belly and inner legs. Bulky barrel torso, deep ribcage, rounded belly; four thick elephantine pillar legs with broad rounded feet and flat soles, loose creased skin folding at the shoulders, elbows, hips and knees; a long tail thick at the base tapering to a whip-thin tip, carried off the ground. No plates, spikes or osteoderms — smooth-backed, just wrinkled hide and real mass. Shot from a low angle looking up, the man tiny beneath them, necks rising above the treeline into the fog, legs like tree trunks, building-sized bodies, with the trees and the man as scale reference. They read as real living animals in a wildlife documentary, never clean CGI: hide like a wet elephant or rhino — deeply wrinkled, cracked, sagging, asymmetric, mud-caked and matte, never smooth, glossy or inflated; eyes alive and wet with catchlights, blinking. They stay veiled by drifting mist and partly hidden behind tree trunks so we never see a whole crisp creature, shot as if on a telephoto lens with shallow depth of field, grain, rain and mist between camera and animal, motion blur and handheld softness. Motion is slow, heavy and minimal — neck sway, blink, nostril flare, breathing, weighty footfalls, real mass; nothing fast, floaty, rubbery or looping. Lock the man's existing forest lighting and grade the sauropods fully into it: the same flat overcast rainy daylight, soft top skylight with no hard key, the same cool desaturated blue-green forest grade, the same mist and rain wrapping them, aerial perspective so the farther ones go hazier and softer rather than crisp, a wet rain sheen and running water on the hide, real soft-edged contact shadows on the wet ground, puddle reflections, matching exposure, color temperature, lens character, atmospheric haze and film grain. They must look filmed in this forest — never lit differently, never pasted, never crisper or a different color temp than the fog. At about 2 to 3 seconds, exactly as the man turns and looks back, one sauropod moves in closer to camera — its huge head lowering and leaning in toward him with curious, menacing intent, filling more of the frame and delivering the scare, his reaction reading as a recoil from the approaching giant. The others stay back in the fog. Location holds throughout: dark misty pine forest, steady rain, drifting fog, dripping foliage, puddles, soaked moss, deep atmospheric depth. Face and identity unchanged; his pose, movement, performance and timing identical to the source; the handheld camera, framing, lens, pan, tilt, speed and cuts identical frame-for-frame; only the wardrobe and the added sauropods are new. No on-screen text or watermark. Diegetic SFX only: heavy rain drumming on leaves, his slicker hood and the mud, dripping water, wind hissing through the pines, his footsteps squelching and an awed, startled gasp on the turn, deep low sauropod rumbles and groans and chesty breathing, a heavy ground-shaking footfall and a closer guttural exhale as one leans in at 2 to 3 seconds, distant calls, rain intensifying on the beat. Everything reacts to what is on screen. No music, no dialogue.
+~~~~
+
+### viral effect #18 — Kraken storm
+
+- Source: https://higgsfield.ai/blog/vfx_4k ([notes](vfx_4k.md))
+- Model / settings: Seedance 2.0 4K video-to-video on real footage; prompts written by the "higgsfield-seedance-footage-vfx" Claude Skill
+
+~~~~text
+@source: Original clip — a man descending a staircase on a handheld low-angle follow, glancing back anxiously, then quickening in panic. Preserve his identity, face, pose, exact performance and timing, and the camera exactly: the handheld follow, low angle, framing, shot scale, lens, whips, turns and speed, and the source edit and cuts. Change only his wardrobe, the environment and the lighting; add the kraken. Do not re-frame, re-time, re-angle or re-cut. Photoreal, cinematic. 16:9. 11s. Violent night storm — near-black blue-teal palette, low-key, lightning-flashed. NON-IP — generic kraken, not based on any franchise creature. Diegetic SFX only. Continuous with the source — the same handheld low-angle follow, framing, lens, whips, turns, speed and cuts, frame-for-frame. Keep the man in his exact pose, blocking, movement, performance and timing, his anxious-then-panicked descent now reading as a reaction to the attack, now dressed as a storm seafarer in a soaked dark oilskin or canvas storm coat or hooded rain cloak, drenched and clinging with water streaming off. His face stays real human skin with pores, stubble, a wet sheen, real catchlights and blinking — never waxy, smoothed or warped. Transform the modern stairs and building into the wooden deck and steps of an old ship at sea in a violent night storm: handrails become rigging, rope and wooden rails, the floor becomes wet timber deck. He descends the same path toward the deck. The whole frame sits in a cold, near-black blue-teal palette, low-key and desaturated, the ocean and horizon swallowed into blackness. Heavy driving rain sheets diagonally across the entire frame; low churning storm clouds press down; a stark forked lightning bolt cracks down off to one side, for an instant lighting the rain streaks and a wedge of churning foam before the dark closes back in. Build deep layered space — foreground deck and rigging, the man in the midground, and a vast stormy sea stretching far behind, towering dark waves with white-blue foam exploding up and crashing over the deck and around the hull, sea mist and spray hazing low over the black water, the ship pitching and rolling hard, small and battered and dwarfed by the ocean. Wide scope with atmospheric haze and rain receding into the distance and strong foreground-to-background separation so the danger reads as enormous and far-reaching. A colossal kraken attacks — we never see its full body, only enormous tentacles, but they dominate the frame and must read as massive and real. Each tentacle is thicker than the ship's mast, rising hundreds of feet out of the black sea, towering over and dwarfing the whole ship, water cascading off it: real wet muscular flesh, glistening dark skin, huge suckers, veins, writhing muscle, slime and seawater sheeting off, lit in the lightning flashes. Some rise far in the background out of the waves to show scale while others crash down onto the deck and coil around the mast and hull, splintering wood and sweeping crew. They move with immense weight and menace — slow heavy rises and sudden violent whips, photoreal and terrifying, never small, toy-like, thin, rubbery or floaty, never CG, cartoon or game-engine. The deck is full of panicking sailors running, shouting, slipping, grabbing ropes and scrambling from the tentacles in terror. On a hard storm beat one giant tentacle whips across the deck and seizes a crewman, coiling around him and yanking him off his feet and over the side into the black sea as the others scream — brutal, fast and visceral, and the hero recoils from it. Light the whole frame under one storm look — man, crew, tentacles and ship all lit by the same cold dark blue-teal storm light, soaked and glistening, flashed by lightning, the same low-key exposure, color temperature, grade and grain, real rain and spray on everyone, the giant tentacles wrapped in the same rain, haze and aerial perspective so the far ones go hazier. Everything fully embedded, never pasted, never brighter or a different color temp than the storm. Keep the motion relentless and weighty: the ship heaving and tilting, water sheeting across the deck, foam and spray with real mass, ropes swinging, lightning flashing the rain, tentacles crashing with real force and splintering timber, the seized man yanked hard, the crowd in genuine panic. Face and identity unchanged; the hero's movement, performance and timing identical to the source; the handheld camera, framing, lens, whips, turns, speed and cuts identical frame-for-frame; only the wardrobe, the environment and the added kraken are new. No on-screen text or watermark. Diegetic SFX only: howling gale, relentless rain on deck, hood and timber, big waves crashing and foam hissing, hull and rigging groaning, ropes snapping, deep rolling thunder with sharp lightning cracks on each flash, massive wet booming slaps and slithering as the huge tentacles crash and coil, wood splintering, a deep subsonic monster groan from the deep, crew shouts and screams, the seized man's cut-off scream, the hero's strained breath and scrambling steps, all synced to the action and the lightning. No music, no dialogue beyond crew shouts and screams.
 ~~~~
 
 ## transitions
@@ -4127,7 +4365,25 @@ Design a logo animation for @Image1. Specific requirements: The logo's appearanc
 Create an elegant dynamic logo reveal animation for the logo in Image 1. The overall visual style should follow a Liquid Glass aesthetic. Detailed requirements: The logo material should present a highly transparent liquid glass texture, featuring realistic refraction, transmission, and reflection effects. Inside the glass, flowing liquid light and subtle air bubbles move organically. The edges display characteristic glass dispersion, splitting light into a subtle rainbow spectrum. The logo should emerge from nothing through a transformation process where liquid glass material floats and flows in midair, then gradually solidifies into the final logo shape. Surface tension effects must be visibly realistic during the formation process. The overall animation rhythm should be extremely dynamic and powerful. The camera should switch angles multiple times throughout the sequence — from extreme close-up detail shots to full wide shots, from low-angle to high-angle views, including 360-degree orbital rotations around the logo. The camera movement enhances spatial depth and dimensionality, showcasing how refraction and internal light flow change from different perspectives. Transitions between shots should be smooth and fluid. Light passing through the glass logo should create caustic effects and colorful projections. The pacing should feel impactful and energetic, supported by fast, precise editing. The background should remain clean and dark to emphasize the glass material. At the end of the animation, the logo stabilizes in the center of the frame, with the glass surface maintaining a subtle, breathing-like liquid motion loop.
 ~~~~
 
-### other #3 — Workflow A: Higgsfield Genjutsu
+### other #3 — Stage 2 — The Prompting Framework
+
+- Source: https://higgsfield.ai/blog/cinematic ([notes](cinematic.md))
+- Model / settings: Assets: Soul Cinema (character/robots/props) + GPT Image 2 (product sheet, location scheme); scenes: Seedance 2.0, prompts written by a Claude Skill (15 s multishot, 16:9)
+
+~~~~text
+@adils-topup — Adil, civilian outfit @city-location — Deserted NYC avenue, midday sun @adils-robot — Adil, full exo-armor (human-scale) @robo-player-2 — Opponent robot, black + gunmetal @ball-prop — Regulation football, 22cm @topup — Soda can, product prop @goal-shield — Electric round shield, energy-field goal
+~~~~
+
+### other #4 — Stage 2 — The Prompting Framework
+
+- Source: https://higgsfield.ai/blog/cinematic_headphones ([notes](cinematic_headphones.md))
+- Model / settings: Assets: GPT Image 2 (product sheets, edits, schematic maps) + Soul Cinema / Cinematic Locations (character, locations); scenes: Seedance 2.0 via the "higgsfield-seedance-shotlist-director" Claude Skill (16:9)
+
+~~~~text
+@hero — main character@boss — the boss, side character @headphones — the product, cream with the orange ring @sneakers — prop @bag — prop @skydancer — inflatable tube dancer @kitchen — apartment kitchen, stove + door @stadium — running track @street — Brooklyn corner @office — the boss's office
+~~~~
+
+### other #5 — Workflow A: Higgsfield Genjutsu
 
 - Source: https://higgsfield.ai/blog/edit-ai-video-without-regenerating ([notes](edit-ai-video-without-regenerating.md))
 - Model / settings: Genjutsu (Object Swap / Motion Transfer) and Seedance 2.5 Edit
@@ -4296,7 +4552,7 @@ across every cut. All vehicles and signage are generic and unbranded with no rea
 logos. 16:9, photoreal sunny street look, real-time motion.
 ~~~~
 
-### other #4 — Workflow B: Seedance 2.5 Edit
+### other #6 — Workflow B: Seedance 2.5 Edit
 
 - Source: https://higgsfield.ai/blog/edit-ai-video-without-regenerating ([notes](edit-ai-video-without-regenerating.md))
 - Model / settings: Genjutsu (Object Swap / Motion Transfer) and Seedance 2.5 Edit
@@ -4431,7 +4687,7 @@ every cut. All gear is generic and unbranded with no readable real logos. 16:9, 
 alpine look, real-time motion.
 ~~~~
 
-### other #5 — Step 2: Let Claude pick the topic
+### other #7 — Step 2: Let Claude pick the topic
 
 - Source: https://higgsfield.ai/blog/faceless-channel-one-prompt ([notes](faceless-channel-one-prompt.md))
 - Model / settings: Claude (Fable 5) + Higgsfield MCP + higgsfield-explainer skill (Shorts Studio for shorts)
@@ -4440,7 +4696,7 @@ alpine look, real-time motion.
 What's actually working in explainer videos right now?
 ~~~~
 
-### other #6 — Step 5: Translate it — in your own voice
+### other #8 — Step 5: Translate it — in your own voice
 
 - Source: https://higgsfield.ai/blog/faceless-channel-one-prompt ([notes](faceless-channel-one-prompt.md))
 - Model / settings: Claude (Fable 5) + Higgsfield MCP + higgsfield-explainer skill (Shorts Studio for shorts)
@@ -4449,7 +4705,7 @@ What's actually working in explainer videos right now?
 Translate the video into Spanish.
 ~~~~
 
-### other #7 — Step 6: Package it
+### other #9 — Step 6: Package it
 
 - Source: https://higgsfield.ai/blog/faceless-channel-one-prompt ([notes](faceless-channel-one-prompt.md))
 - Model / settings: Claude (Fable 5) + Higgsfield MCP + higgsfield-explainer skill (Shorts Studio for shorts)
@@ -4458,7 +4714,7 @@ Translate the video into Spanish.
 Give me titles and thumbnails for this video.
 ~~~~
 
-### other #8 — Step 7: Turn it into twenty shorts
+### other #10 — Step 7: Turn it into twenty shorts
 
 - Source: https://higgsfield.ai/blog/faceless-channel-one-prompt ([notes](faceless-channel-one-prompt.md))
 - Model / settings: Claude (Fable 5) + Higgsfield MCP + higgsfield-explainer skill (Shorts Studio for shorts)
@@ -4467,7 +4723,7 @@ Give me titles and thumbnails for this video.
 Create shorts from this video with Shorts Studio.
 ~~~~
 
-### other #9 — Step 8: Plan the month — then run it in parallel
+### other #11 — Step 8: Plan the month — then run it in parallel
 
 - Source: https://higgsfield.ai/blog/faceless-channel-one-prompt ([notes](faceless-channel-one-prompt.md))
 - Model / settings: Claude (Fable 5) + Higgsfield MCP + higgsfield-explainer skill (Shorts Studio for shorts)
@@ -4476,7 +4732,7 @@ Create shorts from this video with Shorts Studio.
 Plan my first 30 days: eight long videos, topics ranked by search volume.
 ~~~~
 
-### other #10 — Step 8: Plan the month — then run it in parallel
+### other #12 — Step 8: Plan the month — then run it in parallel
 
 - Source: https://higgsfield.ai/blog/faceless-channel-one-prompt ([notes](faceless-channel-one-prompt.md))
 - Model / settings: Claude (Fable 5) + Higgsfield MCP + higgsfield-explainer skill (Shorts Studio for shorts)
@@ -4485,7 +4741,7 @@ Plan my first 30 days: eight long videos, topics ranked by search volume.
 Start videos two and three from the plan.
 ~~~~
 
-### other #11 — The Script Prompt:
+### other #13 — The Script Prompt:
 
 - Source: https://higgsfield.ai/blog/faceless-channel ([notes](faceless-channel.md))
 - Model / settings: Claude (Fable 5) in Claude Code + Higgsfield MCP; video via Seedance 2.0 1080p
@@ -4494,7 +4750,7 @@ Start videos two and three from the plan.
 Analyze the channel, scenarios, hooks and write me a script for a similar video: https://www.youtube.com/@BRIGHTSIDEOFFICIAL/videos
 ~~~~
 
-### other #12 — The Video Prompt:
+### other #14 — The Video Prompt:
 
 - Source: https://higgsfield.ai/blog/faceless-channel ([notes](faceless-channel.md))
 - Model / settings: Claude (Fable 5) in Claude Code + Higgsfield MCP; video via Seedance 2.0 1080p
@@ -4503,7 +4759,7 @@ Analyze the channel, scenarios, hooks and write me a script for a similar video:
 make a 5 minutes video like on the reference account using Seedance 2.0. 1080p. It's going on a faceless youtube channel.
 ~~~~
 
-### other #13 — The Packaging Prompt:
+### other #15 — The Packaging Prompt:
 
 - Source: https://higgsfield.ai/blog/faceless-channel ([notes](faceless-channel.md))
 - Model / settings: Claude (Fable 5) in Claude Code + Higgsfield MCP; video via Seedance 2.0 1080p
@@ -4512,7 +4768,7 @@ make a 5 minutes video like on the reference account using Seedance 2.0. 1080p. 
 Put together a complete YouTube video package for me: prepare the thumbnails, title, and everything else needed to upload it.
 ~~~~
 
-### other #14 — The Packaging Prompt:
+### other #16 — The Packaging Prompt:
 
 - Source: https://higgsfield.ai/blog/faceless-channel ([notes](faceless-channel.md))
 - Model / settings: Claude (Fable 5) in Claude Code + Higgsfield MCP; video via Seedance 2.0 1080p
@@ -4521,7 +4777,7 @@ Put together a complete YouTube video package for me: prepare the thumbnails, ti
 Make me 2 more videos. Pick topics that would perform well on YouTube for the same channel
 ~~~~
 
-### other #15 — What This Looks Like on a Real Shot
+### other #17 — What This Looks Like on a Real Shot
 
 - Source: https://higgsfield.ai/blog/gemini-omni-flash-vfx-video-editing ([notes](gemini-omni-flash-vfx-video-editing.md))
 - Model / settings: Gemini Omni Flash (V2V add-element VFX pass, ~10 s, 16:9, 30fps)
@@ -4530,7 +4786,7 @@ Make me 2 more videos. Pick topics that would perform well on YouTube for the sa
 === BIRD LEAVES THE SCREEN — V2V on video_1 (~10s, 16:9, 30fps) === SOURCE LOCK: This is an ADD-ELEMENT VFX pass on video_1, NOT a new generation. Keep 1:1 everything already in the plate—the black monitor, the desk setup, the hand and its motion/timing, and the exact CAMERA path (the initial hold, the pan to the right, and the slow sweep across the office space) and the EDIT. Do NOT re-frame, re-time, re-angle, re-cut, or change the hand's positioning. Only ADD the live bird and animate it. SUBJECT: One real Common Kingfisher—bright blue plumage on the back, vibrant orange-rufous underparts, long black bill, short red legs. It must 100% match the appearance and proportions of the kingfisher shown on the monitor screen. THE MECHANIC (mapped onto the plate's own beats): 0–1.5s: The bird stays perched on the branch inside the monitor image (screen image unchanged), then subtly comes alive—a quick head twitch, blink, and slight breathing movement. 1.5–2.5s: As the hand waits, the bird leans forward and flutters out of the display plane, crossing from the flat screen into real 3D space in front of the monitor with rapid, sharp wingbeats. Behind it, the image on the monitor screen seamlessly shows the same branch but empty. 2.5–3.5s: The bird alights on the open palm—real weight settles, feet grip the hand, wings fold tight, it glances around. 3.5–5.5s: As the camera begins to pan to the right, the bird stays perched on the hand, tracking with the hand's motion through the frame. 5.5–7s: As the hand remains extended and the camera continues scanning the office, the bird crouches and launches with a sharp, fast downstroke, taking off into the open office space. 7–10s: The camera completes its pan across the office desks, partitions, and curtains. The bird is seen flying dynamically through this background 3D space, darting between the workstations before exiting the frame or fading into the distance near the background curtains. LIGHT-MATCH / INTEGRATION (top priority): The real bird is lit by the room—the bright overhead LED panel light and ambient warm office lights. It must reflect the same exposure, color grade, and grain as the plate, not the outdoor lighting from the original screen image. Precise soft contact shadows of the bird and its feet must cast onto the palm. Feathers should catch the cool overhead glare as it moves. ANTI-SLOP: Real feather texture with high detail; lively eyes with a sharp catchlight; convincing flight physics with proper weight, acceleration, and air resistance. No robotic/CGI look, no floating, and no morphing shapes or extra limbs.FORBIDDEN: Changing the original camera pan, altering the hand's position, modifying the office background, or changing the timing of the camera movement.Diegetic SFX only: Rapid, high-pitched wingbeats, a sharp kingfisher whistle chirp, and the ambient office hum from the plate. No music. No on-screen text.
 ~~~~
 
-### other #16 — Make Money With AI
+### other #18 — Make Money With AI
 
 - Source: https://higgsfield.ai/blog/make-many-with-ai ([notes](make-many-with-ai.md))
 - Model / settings: Supercomputer (agent prompts)
@@ -4539,7 +4795,7 @@ Make me 2 more videos. Pick topics that would perform well on YouTube for the sa
 Scan top-performing products across Amazon, Etsy, Shopify, and Meta ads and find me the best one for a content-driven business, optimized for high margin and easy distribution
 ~~~~
 
-### other #17 — Make Money With AI
+### other #19 — Make Money With AI
 
 - Source: https://higgsfield.ai/blog/make-many-with-ai ([notes](make-many-with-ai.md))
 - Model / settings: Supercomputer (agent prompts)
@@ -4548,7 +4804,7 @@ Scan top-performing products across Amazon, Etsy, Shopify, and Meta ads and find
 What kind of content actually wins in this niche right now?
 ~~~~
 
-### other #18 — Make Money With AI
+### other #20 — Make Money With AI
 
 - Source: https://higgsfield.ai/blog/make-many-with-ai ([notes](make-many-with-ai.md))
 - Model / settings: Supercomputer (agent prompts)
@@ -4557,7 +4813,7 @@ What kind of content actually wins in this niche right now?
 Build a waitlist landing page for our lipstick brand, optimized for mobile conversions, matching the brand style we've built so far.
 ~~~~
 
-### other #19 — The Actual Workflow: Step-by-Step Guide
+### other #21 — The Actual Workflow: Step-by-Step Guide
 
 - Source: https://higgsfield.ai/blog/restore-old-photos-ai ([notes](restore-old-photos-ai.md))
 - Model / settings: Nano Banana Pro or GPT Image 2 (prompt-based restoration; output 1K/2K/4K)
@@ -4566,7 +4822,7 @@ Build a waitlist landing page for our lipstick brand, optimized for mobile conve
 Restore this old photograph while preserving the original person's identity, facial structure, expression, clothing, and historical authenticity. Remove scratches, dust, tears, stains, fading, discoloration, creases, mold, film grain, noise, blur, and compression artifacts. Reconstruct damaged or missing areas seamlessly using surrounding context without inventing new facial features or altering the person's appearance. Recover fine details in the eyes, skin, hair, clothing, and background. Correct exposure, contrast, white balance, and tonal range for a clean, natural result. Enhance sharpness and clarity while maintaining realistic textures and avoiding over-processing, oversharpening, plastic skin, or AI artifacts. Preserve the original composition, perspective, lighting, and vintage character.
 ~~~~
 
-### other #20 — Scene 4 - The wildlife documentary
+### other #22 — Scene 4 - The wildlife documentary
 
 - Source: https://higgsfield.ai/blog/seedance4k-breakdown ([notes](seedance4k-breakdown.md))
 - Model / settings: Assets: GPT Image 2 (4K sheets), Nano Banana Pro (props), Soul Cinema (locations/characters); video: Seedance 2.0 4K; prompts written by a Claude "prompt-writer" skill
@@ -4575,7 +4831,16 @@ Restore this old photograph while preserving the original person's identity, fac
 Analyze the video and create a voiceover for it in the style of wildlife documentaries
 ~~~~
 
-### other #21 — Scene 7 - Flipping the channels
+### other #23 — Scene 6 - The close-up on the remote
+
+- Source: https://higgsfield.ai/blog/seedance4k-breakdown ([notes](seedance4k-breakdown.md))
+- Model / settings: Assets: GPT Image 2 (4K sheets), Nano Banana Pro (props), Soul Cinema (locations/characters); video: Seedance 2.0 4K; prompts written by a Claude "prompt-writer" skill
+
+~~~~text
+Describe exactly where the red arrow is pointing. And specify that the left thumb is pressing right there above the 'CH' button, exactly where the red arrow is pointing.
+~~~~
+
+### other #24 — Scene 7 - Flipping the channels
 
 - Source: https://higgsfield.ai/blog/seedance4k-breakdown ([notes](seedance4k-breakdown.md))
 - Model / settings: Assets: GPT Image 2 (4K sheets), Nano Banana Pro (props), Soul Cinema (locations/characters); video: Seedance 2.0 4K; prompts written by a Claude "prompt-writer" skill
@@ -4584,7 +4849,7 @@ Analyze the video and create a voiceover for it in the style of wildlife documen
 Write a prompt for the next scene. The main character is sitting on the couch watching the news, seen from behind, the TV fully in frame. The broadcaster on screen says that Seedance 4K is unreal. Then the hero clicks through the channels three times using his remote and lands on different ads each time. Hard cut to his face: surprise, he says "Wow." First shot static. 10 seconds total.
 ~~~~
 
-### other #22 — Scene 7 - Flipping the channels
+### other #25 — Scene 7 - Flipping the channels
 
 - Source: https://higgsfield.ai/blog/seedance4k-breakdown ([notes](seedance4k-breakdown.md))
 - Model / settings: Assets: GPT Image 2 (4K sheets), Nano Banana Pro (props), Soul Cinema (locations/characters); video: Seedance 2.0 4K; prompts written by a Claude "prompt-writer" skill
@@ -4593,7 +4858,7 @@ Write a prompt for the next scene. The main character is sitting on the couch wa
 let's specify what's on the TV: after the news anchor, first channel is a perfume commercial, second is a car commercial - both with no text or logos on screen. Third click switches to @Image 4. Then the cut to his reaction.
 ~~~~
 
-### other #23 — Scene 8 - The epic battle
+### other #26 — Scene 8 - The epic battle
 
 - Source: https://higgsfield.ai/blog/seedance4k-breakdown ([notes](seedance4k-breakdown.md))
 - Model / settings: Assets: GPT Image 2 (4K sheets), Nano Banana Pro (props), Soul Cinema (locations/characters); video: Seedance 2.0 4K; prompts written by a Claude "prompt-writer" skill
@@ -4602,7 +4867,7 @@ let's specify what's on the TV: after the news anchor, first channel is a perfum
 Write me a prompt for a fantasy video. There should be a massive battle between elf troops and an orc army, and then the camera slowly dives downward, revealing a flower-warrior and a troll dueling with weapons.
 ~~~~
 
-### other #24 — Full Workflow: Testing the Same Prompt on Both Models
+### other #27 — Full Workflow: Testing the Same Prompt on Both Models
 
 - Source: https://higgsfield.ai/blog/soul-2-vs-nano-banana-pro ([notes](soul-2-vs-nano-banana-pro.md))
 - Model / settings: Soul 2.0 (preset + Soul HEX) vs Nano Banana Pro, same prompt, 16:9 editorial still
@@ -4627,5 +4892,65 @@ modelling on her face, soft short shadows under her jaw and lapels, a thin brigh
 shadow. Hold every colour to its own surface: turquoise and cyan in the backdrop alone, coral-salmon in the poppies, lime green in their centres, violet in the agapanthus and allium, spring green in her hair, pure black in the suit and boots, crisp white in the shirt, and brushed silver in the laptop and
 jewellery. Keep saturation high and clean with no single tint washing the frame. Differentiate materials clearly: dense matte wool with visible twill, crisp cotton poplin, satin silk tie, brushed aluminium, polished silver, papery crepe petals and smooth green stems. Finish with a clean modern digital capture character, restrained contrast and a faint soft glow in the brightest corner.
 Exactly one person is present, and every surface in the frame is free of text, logos, numbers and signage. The laptop lid stays a blank unmarked silver panel with nothing on it. Her hands have five fingers each, her arms are correctly proportioned to the high viewpoint, the laptop stays whole and firmly in her grip, and each flower connects to one continuous stem.
+~~~~
+
+### other #28 — Full Workflow: Step by Step
+
+- Source: https://higgsfield.ai/blog/video-relight-color-palette-higgsfield ([notes](video-relight-color-palette-higgsfield.md))
+- Model / settings: Video Relight (custom light description)
+
+~~~~text
+Window left, cool blue, medium brightness, soft diffused. Fill: camera right, neutral white, low
+~~~~
+
+### other #29 — Reason 1: Prompts Built One Detail at a Time
+
+- Source: https://higgsfield.ai/blog/why-ai-video-credits-run-out ([notes](why-ai-video-credits-run-out.md))
+- Model / settings: Higgsfield prompt engineers' block templates (fill the brackets)
+
+~~~~text
+SCENE CONTEXT
+[What happens, in one or two sentences. Duration in seconds, aspect ratio, single continuous shot or the number of cuts. State "real time" if you don't want slow motion.]
+
+SUBJECT
+[Who or what is in the frame. Lock everything that must not change between frames: face, hair, wardrobe, colors, props.]
+
+LOCATION
+[The setting and the objects in it that matter for the shot.]
+
+CAMERA
+[Position, height, and one movement: static, push-in, orbit, tracking. For multiple shots, list them by seconds: 0-3s wide static, 3-6s close-up, and so on.]
+
+OPTICS
+[Lens or field of view, focus behavior, depth of field.]
+
+ACTION
+[What the subject does, beat by beat, tied to seconds. Include the small movements: a blink, a head turn, one gesture per line of dialogue.]
+
+PHYSICS
+[How things carry weight and react: fabric in wind, water breaking into droplets, feet gripping the ground. Real-world motion, nothing floats.]
+
+LIGHTING
+[The main light source, its direction and color temperature, and what stays constant for the whole shot.]
+
+AUDIO
+[Dialogue lines in quotes if any, the ambient sounds, and what should stay out: no music, no narration, no subtitles.]
+
+STYLE
+[The overall look: photoreal or stylized, color grade, grain. Close with what must not appear: no text, no logos, no watermarks.]
+~~~~
+
+### other #30 — Reason 3: Character Faces That Drift Between Generations
+
+- Source: https://higgsfield.ai/blog/why-ai-video-credits-run-out ([notes](why-ai-video-credits-run-out.md))
+- Model / settings: Higgsfield prompt engineers' block templates (fill the brackets)
+
+~~~~text
+REFERENCES
+<<image 1>>: THE WOMAN. [List what the model takes from this reference: face, hair, wardrobe. Close with: closely matches the reference.]
+<<image 2>>: THE MAN. [Same: everything to inherit from his reference. Closely matches the reference.]
+
+ACTION
+The woman <<image 1>> sits across from the man <<image 2>> at a cafe table and delivers her line; both faces match their references in every frame.
 ~~~~
 

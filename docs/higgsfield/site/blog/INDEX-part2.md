@@ -10,8 +10,8 @@ Second half of the blog crawl (tutorials, prompt libraries, guides, launches). O
 | 4 | Cinema Studio 3.0: The Most Powerful AI Film Studio We've Ever Built | https://higgsfield.ai/blog/cinema-studio-3 | [cinema-studio-3.md](cinema-studio-3.md) | 0 |
 | 5 | Meet Cinema Studio 4.0: New Generation of AI Filmmaking | https://higgsfield.ai/blog/cinema-studio-4-0 | [cinema-studio-4-0.md](cinema-studio-4-0.md) | 2 |
 | 6 | Cinema Studio 2.0: The Most Professional Cinematic AI Video Generator | https://higgsfield.ai/blog/cinema-studio-guide | [cinema-studio-guide.md](cinema-studio-guide.md) | 0 |
-| 7 | How To Make Cinematic Football Ads With AI (Full Workflow) | https://higgsfield.ai/blog/cinematic | [cinematic.md](cinematic.md) | 22 |
-| 8 | 3-Step Workflow To Make Ultra-Realistic AI Ads | https://higgsfield.ai/blog/cinematic_headphones | [cinematic_headphones.md](cinematic_headphones.md) | 25 |
+| 7 | How To Make Cinematic Football Ads With AI (Full Workflow) | https://higgsfield.ai/blog/cinematic | [cinematic.md](cinematic.md) | 23 |
+| 8 | 3-Step Workflow To Make Ultra-Realistic AI Ads | https://higgsfield.ai/blog/cinematic_headphones | [cinematic_headphones.md](cinematic_headphones.md) | 26 |
 | 9 | How to Run Ad Production End to End With Claude: From Idea to Published Ads | https://higgsfield.ai/blog/claude-ad-production-end-to-end | [claude-ad-production-end-to-end.md](claude-ad-production-end-to-end.md) | 4 |
 | 10 | How to Turn Claude Into a Full Creative Studio With Higgsfield | https://higgsfield.ai/blog/claude-higgsfield-mcp-creative-studio | [claude-higgsfield-mcp-creative-studio.md](claude-higgsfield-mcp-creative-studio.md) | 3 |
 | 11 | How to Keep the Same AI Voice Across Every Video: Consistent AI Audio Explained | https://higgsfield.ai/blog/consistent-ai-voice-across-videos | [consistent-ai-voice-across-videos.md](consistent-ai-voice-across-videos.md) | 0 |
@@ -108,13 +108,26 @@ Second half of the blog crawl (tutorials, prompt libraries, guides, launches). O
 | 102 | Seedance 4K Unlimited: 11 Days, Plus Free Generations | https://higgsfield.ai/blog/seedance-4k-unlimited-11-days | [seedance-4k-unlimited-11-days.md](seedance-4k-unlimited-11-days.md) | 0 |
 | 103 | Seedance 2.0 — Complete Prompting Guide (Full Prompt Library) | https://higgsfield.ai/blog/seedance-prompting-guide | [seedance-prompting-guide.md](seedance-prompting-guide.md) | 10 |
 | 104 | 30-Day Seedance Unlimited on Higgsfield in 2026: What You Get and How It Works | https://higgsfield.ai/blog/seedance-unlimited | [seedance-unlimited.md](seedance-unlimited.md) | 1 |
-| 105 | Recreate Our 1-Minute Seedance 4K Film - The Full Seedance 4K Breakdown With All Prompts | https://higgsfield.ai/blog/seedance4k-breakdown | [seedance4k-breakdown.md](seedance4k-breakdown.md) | 29 |
+| 105 | Recreate Our 1-Minute Seedance 4K Film - The Full Seedance 4K Breakdown With All Prompts | https://higgsfield.ai/blog/seedance4k-breakdown | [seedance4k-breakdown.md](seedance4k-breakdown.md) | 30 |
 | 106 | Soul 2.0 vs Nano Banana Pro: Which AI Image Model Should You Use? | https://higgsfield.ai/blog/soul-2-vs-nano-banana-pro | [soul-2-vs-nano-banana-pro.md](soul-2-vs-nano-banana-pro.md) | 1 |
 | 107 | Soul Cast: How To Make Your Next Award-Worthy AI Movie | https://higgsfield.ai/blog/soul-cast-ai-filmmaking | [soul-cast-ai-filmmaking.md](soul-cast-ai-filmmaking.md) | 0 |
 | 108 | Soul Cinema Preview: Cinematic-Grade Visuals In One Click | https://higgsfield.ai/blog/soul-cinema-preview | [soul-cinema-preview.md](soul-cinema-preview.md) | 0 |
 | 109 | How to Keep Your AI Character Consistent Across Every Generation: Soul ID Explained | https://higgsfield.ai/blog/sould-id-best-character-consistency | [sould-id-best-character-consistency.md](sould-id-best-character-consistency.md) | 0 |
 | 110 | How to Turn Sports Product Photos into AI Video Ads in 2026 | https://higgsfield.ai/blog/sports-product-video-ads-ai-2026 | [sports-product-video-ads-ai-2026.md](sports-product-video-ads-ai-2026.md) | 0 |
+| 111 | How to Start a Faceless Channel with AI: Tools, Workflow, and Automation | https://higgsfield.ai/blog/start-faceless-channel-with-ai | [start-faceless-channel-with-ai.md](start-faceless-channel-with-ai.md) | 0 |
+| 112 | How To Create a Talking AI Avatar in Claude with Higgsfield MCP (Full Workflow + Prompts) | https://higgsfield.ai/blog/talking-ai-avatar-inside-claude | [talking-ai-avatar-inside-claude.md](talking-ai-avatar-inside-claude.md) | 12 |
+| 113 | Updates to Higgsfield's Terms of Use and Privacy Policy | https://higgsfield.ai/blog/terms-of-use-privacy-policy-update | [terms-of-use-privacy-policy-update.md](terms-of-use-privacy-policy-update.md) | 0 |
+| 114 | 7 Tools for Consistent AI Characters Across Every Scene in 2026 | https://higgsfield.ai/blog/tools-for-consistent-ai-characters | [tools-for-consistent-ai-characters.md](tools-for-consistent-ai-characters.md) | 0 |
+| 115 | How to Make AI Video Look Like It Was Actually Filmed: WAN Camera Control Guide | https://higgsfield.ai/blog/turn-your-video-into-cinema-using-wan-camera-control | [turn-your-video-into-cinema-using-wan-camera-control.md](turn-your-video-into-cinema-using-wan-camera-control.md) | 1 |
+| 116 | Emerging Trend: Side-Hustle with AI Videos Through Higgsfield in 2026 | https://higgsfield.ai/blog/uVZgCaZTenC8R7iXtQr8R | [uVZgCaZTenC8R7iXtQr8R.md](uVZgCaZTenC8R7iXtQr8R.md) | 0 |
+| 117 | Meet Higgsfield Unlimited MCP: How It Works and What You Get | https://higgsfield.ai/blog/unlimited-mcp | [unlimited-mcp.md](unlimited-mcp.md) | 0 |
+| 118 | Where to Get Unlimited Nano Banana 2 in 2026: Plans, Daily Caps, and Cost per Image | https://higgsfield.ai/blog/unlimited-nano-banana-2-plans | [unlimited-nano-banana-2-plans.md](unlimited-nano-banana-2-plans.md) | 0 |
+| 119 | AI VFX Just Got Insane — Seedance 2.0 in 4K Turns Real Footage Into Movies | https://higgsfield.ai/blog/vfx_4k | [vfx_4k.md](vfx_4k.md) | 11 |
+| 120 | Video Relight and Color Palette: Two Standalone Editing Tools on Higgsfield | https://higgsfield.ai/blog/video-relight-color-palette-higgsfield | [video-relight-color-palette-higgsfield.md](video-relight-color-palette-higgsfield.md) | 1 |
+| 121 | Why Do Your AI Characters Look Weird? 7 Tools That Actually Fix It | https://higgsfield.ai/blog/why-ai-characters-look-weird | [why-ai-characters-look-weird.md](why-ai-characters-look-weird.md) | 0 |
+| 122 | Why Your AI Video Credits Run Out Faster Than You Expect | https://higgsfield.ai/blog/why-ai-video-credits-run-out | [why-ai-video-credits-run-out.md](why-ai-video-credits-run-out.md) | 2 |
+| 123 | Why AI Video Generations Fail And How to Fix Every Common Error | https://higgsfield.ai/blog/why-ai-video-generations-fail | [why-ai-video-generations-fail.md](why-ai-video-generations-fail.md) | 0 |
 
-Total prompts: 279
+Total prompts: 309
 
-Coverage: 110/123 pages processed
+Coverage: 123/123 pages processed
