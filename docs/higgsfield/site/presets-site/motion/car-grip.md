@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Attaches the camera to a car, capturing dynamic driving shots with smooth motion. Perfect for action scenes or showing movement from the vehicle’s perspective.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16 | `b7334ffd-a260-42a5-8911-714bcc541b16` | 58 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=b7334ffd-a260-42a5-8911-714bcc541b16 |
 | https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0 | `d4c62a9d-df77-4222-af4e-5645b81844e0` | -181 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=d4c62a9d-df77-4222-af4e-5645b81844e0 |
+| https://higgsfield.ai/motion/7c174c3f-7d11-451c-b7da-03be50f7d010 | `7c174c3f-7d11-451c-b7da-03be50f7d010` | -333 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=7c174c3f-7d11-451c-b7da-03be50f7d010 |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 4 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -59,7 +62,20 @@ Use it as: upload a start image that matches the scene, select motion preset **C
 | 13 | https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/d0678d84-a410-43a7-9be6-f78d1b7fd675 | https://static.higgsfield.ai/d0678d84-a410-43a7-9be6-f78d1b7fd675.mp4 | https://static.higgsfield.ai/d0678d84-a410-43a7-9be6-f78d1b7fd675.webp | https://d1xarpci4ikg0w.cloudfront.net/b451ade7-e0ec-42cf-b038-9721a979bab6.webp (320×562) |
 | 14 | https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16/a291cb02-85f0-4ddf-b694-8dc37610a600 | https://static.higgsfield.ai/a291cb02-85f0-4ddf-b694-8dc37610a600.mp4 | https://static.higgsfield.ai/a291cb02-85f0-4ddf-b694-8dc37610a600.webp | https://d1xarpci4ikg0w.cloudfront.net/80f9131f-0b6c-45b7-a3df-1b113aea5460.webp (320×424) |
 
-Source pages: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16, https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0. Crawled 2026-09.
+- Card preview, round-2 variant `7c174c3f` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/6b901f5d-400b-43be-ba23-47edecefec44.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/68c07b4f-8a7a-42a2-8a09-697c0173655b.webp (600×800)
+
+### Sample videos, round-2 variant `7c174c3f` (Wan 2.5) (4 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/efe48261-e0bb-4d4e-aa87-0dee57929c4c_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/e46429a4-8c54-4ea8-b6f4-8a000042ab2b.jpg | wan2_5_video · 5 s · 1080p · 1536×2048 | The scene starts with a close-up shot of a spinning car tire taken from a fixed, slightly shaky camera mounted low on the car's frame near the wheel, using a wide-angle lens to capture dynamic speed motion. The environment is a bright, bustling race track with blurred grandstands and asphalt streaking past underneath, filled with roaring engine sounds and rushing wind noise emphasizing high velocity. The car accelerates rapidly down the straight, causing visible vibration that subtly shakes the camera. The tire spins fast, dirt and rubber particles trace fleeting behind it as the car speeds forward. Engine roars and tire screeches rise in volume, immersing in the thrill of rapid motion. The camera remains locked to the car, capturing the forward rush and the powerful energy of racing. |
+| 2 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/01c77eeb-fe4a-4abf-9e0a-d1d1a7ac350f_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/a38e09dc-3bbb-48d3-937d-2191966c114d.jpg | wan2_5_video · 5 s · 1080p · 1536×2048 | The scene starts with a medium close-up shot from a fixed camera mounted on the side of a vintage car's front right, angled slightly forward to capture the road ahead. The environment is a calm urban street lined with colorful brick buildings and parked cars on both sides, under a softly overcast sky with muted sunlight. The street is quiet except for the gentle sounds of the car engine and distant city ambiance. The car drives steadily straight down the street, passing by the parked cars and buildings in a smooth, continuous motion. The camera remains fixed and locked to the car’s frame, providing an immersive forward-facing perspective of the car’s journey through the city street, emphasizing the linear motion and urban setting with a natural, warm visual tone. |
+| 3 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/0f5b966a-7226-46d9-8ab8-ad4364add52e_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/d0c58136-210c-4edd-aee2-4999f0f27af4.jpg | wan2_5_video · 5 s · 1080p · 2048×1536 | The scene starts with a medium close-up shot from a fixed, static camera mounted inside a black car, focused on a man wearing a hood sitting inside the backseat at night. The city street outside is vividly lit with green and neon lights creating a dynamic urban nightscape with blurred vehicles and glowing signs rushing past. Inside the car, the man is handed a cigarette by an unseen passenger. He takes it, lights it, inhales deeply, and exhales smoke slowly while smiling and speaking softly about the cigarette. The car moves steadily through the city streets, the camera locked to the car's frame, capturing the changing neon-lit environment. Ambient city sounds mix with the quiet dialogue and the subtle crackle of cigarette smoke, creating an intimate yet vibrant urban night atmosphere. |
+| 4 | https://cdn.higgsfield.ai/user_2zXu7DqFkwehcyw88RKxU8RZnH2/464fbfe5-1e3a-46b4-85dd-44dfa47101ad_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/39b445fd-8b40-4816-8d86-551386fe254b.jpg | wan2_5_video · 5 s · 1080p · 2048×1152 | The scene starts with a medium close-up shot from the passenger side inside the car, capturing the young woman wearing sunglasses driving at high speed. The camera is fixed and static, mounted inside the car, capturing her profile and hands on the steering wheel. The environment is a sunny, warm late afternoon with golden light casting shadows inside the car, while the sound of rushing wind and the hum of tires on the road fill the air. The woman drives attentively, her hair flowing wildly in the breeze coming through the open window, then she glances confidently ahead and adjusts her grip on the wheel. The visual tone is cinematic and vibrant, emphasizing motion and the feeling of freedom on the open road. |
+
+Source pages: https://higgsfield.ai/motion/b7334ffd-a260-42a5-8911-714bcc541b16, https://higgsfield.ai/motion/d4c62a9d-df77-4222-af4e-5645b81844e0, https://higgsfield.ai/motion/7c174c3f-7d11-451c-b7da-03be50f7d010. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

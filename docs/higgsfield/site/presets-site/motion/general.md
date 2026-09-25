@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** A balanced, all-purpose camera style with natural movement and clean framing. Works well for any scene, offering a neutral look without dramatic effects.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 4
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,10 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/6e4e30fb-fe99-4df7-b3ab-10e16c6e0218 | `6e4e30fb-fe99-4df7-b3ab-10e16c6e0218` | 83 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=6e4e30fb-fe99-4df7-b3ab-10e16c6e0218 |
 | https://higgsfield.ai/motion/d2389a9a-91c2-4276-bc9c-c9e35e8fb85a | `d2389a9a-91c2-4276-bc9c-c9e35e8fb85a` | -262 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=d2389a9a-91c2-4276-bc9c-c9e35e8fb85a |
+| https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e | `86530ac6-10ed-42fe-b460-4c093bc2e69e` | -266 | none | none published (empty `settings`); model Seedance Pro | https://higgsfield.ai/ai/video?model=seedance_pro&presetMotionId=86530ac6-10ed-42fe-b460-4c093bc2e69e |
+| https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc | `446b5239-4281-4a2c-a353-0de562e405bc` | -265 | none | none published (empty `settings`); model Minimax Hailuo 2.3 | https://higgsfield.ai/ai/video?model=minimax-2.3&presetMotionId=446b5239-4281-4a2c-a353-0de562e405bc |
+
+Round 2 (non-sitemap pages): 2 more variant(s) of this name run on a different model: Seedance Pro — family `seedance`, Generate button opens `/ai/video?model=seedance_pro&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`); Minimax Hailuo 2.3 — family `minimax`, Generate button opens `/ai/video?model=minimax-2.3&presetMotionId=<id>` (the page's samples block reports model `minimax_hailuo`). These pages publish no settings.
 
 ## Prompts
 
@@ -53,7 +57,37 @@ Use it as: upload a start image that matches the scene, select motion preset **G
 | 7 | https://higgsfield.ai/motion/6e4e30fb-fe99-4df7-b3ab-10e16c6e0218/7d448a9d-eb7c-4084-9c91-0945e9c67d7e | https://static.higgsfield.ai/7d448a9d-eb7c-4084-9c91-0945e9c67d7e.mp4 | https://static.higgsfield.ai/7d448a9d-eb7c-4084-9c91-0945e9c67d7e.webp | https://d1xarpci4ikg0w.cloudfront.net/df2b3126-46bf-4af2-bb8e-9248bbddcaa5.webp (320×182) |
 | 8 | https://higgsfield.ai/motion/6e4e30fb-fe99-4df7-b3ab-10e16c6e0218/f6fdc7ec-d2a9-4b39-b564-081decfc0b15 | https://static.higgsfield.ai/f6fdc7ec-d2a9-4b39-b564-081decfc0b15.mp4 | https://static.higgsfield.ai/f6fdc7ec-d2a9-4b39-b564-081decfc0b15.webp | https://d1xarpci4ikg0w.cloudfront.net/2cc45ca4-f121-4c2b-ade6-6383d5537e4e.webp (320×210) |
 
-Source pages: https://higgsfield.ai/motion/6e4e30fb-fe99-4df7-b3ab-10e16c6e0218, https://higgsfield.ai/motion/d2389a9a-91c2-4276-bc9c-c9e35e8fb85a. Crawled 2026-09.
+- Card preview, round-2 variant `86530ac6` (Seedance Pro): https://cdn.higgsfield.ai/seedance_motion/78bc2a8b-ffcb-4f25-9bcf-1828424f4471.mp4 · thumbnail https://cdn.higgsfield.ai/seedance_motion/1e8a545d-628d-4b9a-8d73-62d980c7146f.webp (600×800)
+- Card preview, round-2 variant `446b5239` (Minimax Hailuo 2.3): https://cdn.higgsfield.ai/minimax_hailuo_motion/d0028591-db56-4d8e-9fc0-d77efc18d018.mp4 · thumbnail https://cdn.higgsfield.ai/minimax_hailuo_motion/f98d97d8-3352-4d91-a325-e2ccdf44321d.webp (600×800)
+
+### Sample videos, round-2 variant `86530ac6` (Seedance Pro) (9)
+
+| # | Sample page | MP4 | Size |
+|---|---|---|---|
+| 1 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/0780974e-0396-46f1-a2a9-93c99d93e557 | https://cdn.higgsfield.ai/seedance_sample/0780974e-0396-46f1-a2a9-93c99d93e557.mp4 | 1664×1248 |
+| 2 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/5beec619-77eb-4f7a-ac44-710a6e7609ca | https://cdn.higgsfield.ai/seedance_sample/5beec619-77eb-4f7a-ac44-710a6e7609ca.mp4 | 1440×1440 |
+| 3 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/4b24b113-d674-4647-b267-2ab2aa611b86 | https://cdn.higgsfield.ai/seedance_sample/4b24b113-d674-4647-b267-2ab2aa611b86.mp4 | 1248×1664 |
+| 4 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/f0384738-ea50-44bc-938e-1c03df308196 | https://cdn.higgsfield.ai/seedance_sample/f0384738-ea50-44bc-938e-1c03df308196.mp4 | 1664×1248 |
+| 5 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/d14fe984-7eac-4108-937a-400c6bc76306 | https://cdn.higgsfield.ai/seedance_sample/d14fe984-7eac-4108-937a-400c6bc76306.mp4 | 1440×1440 |
+| 6 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/b11de073-6d73-4da8-b2d2-5682a52362ce | https://cdn.higgsfield.ai/seedance_sample/b11de073-6d73-4da8-b2d2-5682a52362ce.mp4 | 1248×1664 |
+| 7 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/8fbe4c76-3d68-4d71-ab78-2647fef27230 | https://cdn.higgsfield.ai/seedance_sample/8fbe4c76-3d68-4d71-ab78-2647fef27230.mp4 | 1664×1248 |
+| 8 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/9fabeefa-33b9-4382-bae3-5243259dfd3a | https://cdn.higgsfield.ai/seedance_sample/9fabeefa-33b9-4382-bae3-5243259dfd3a.mp4 | 1664×1248 |
+| 9 | https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e/744ae560-7484-4a1b-8917-4aea0fc2d736 | https://cdn.higgsfield.ai/seedance_sample/744ae560-7484-4a1b-8917-4aea0fc2d736.mp4 | 1920×1088 |
+
+### Sample videos, round-2 variant `446b5239` (Minimax Hailuo 2.3) (8)
+
+| # | Sample page | MP4 | Size |
+|---|---|---|---|
+| 1 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/30efb532-7f6e-44c4-9f4a-cf4f38721b63 | https://cdn.higgsfield.ai/minimax_hailuo_sample/30efb532-7f6e-44c4-9f4a-cf4f38721b63.mp4 | 1438×1080 |
+| 2 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/bfb72d1a-24ec-41bd-9dc4-92da8c2e58fd | https://cdn.higgsfield.ai/minimax_hailuo_sample/bfb72d1a-24ec-41bd-9dc4-92da8c2e58fd.mp4 | 1438×1080 |
+| 3 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/dfee44a9-83d3-4892-bcb4-836ae7c461be | https://cdn.higgsfield.ai/minimax_hailuo_sample/dfee44a9-83d3-4892-bcb4-836ae7c461be.mp4 | 1438×1080 |
+| 4 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/c4686b91-8dd9-4146-9001-53fa328aa1b6 | https://cdn.higgsfield.ai/minimax_hailuo_sample/c4686b91-8dd9-4146-9001-53fa328aa1b6.mp4 | 1438×1080 |
+| 5 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/35db5cf3-2bc2-4c2f-af4c-1e9991844f22 | https://cdn.higgsfield.ai/minimax_hailuo_sample/35db5cf3-2bc2-4c2f-af4c-1e9991844f22.mp4 | 1620×1080 |
+| 6 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/d3f14381-aadd-45a5-8362-b6e47ca6484e | https://cdn.higgsfield.ai/minimax_hailuo_sample/d3f14381-aadd-45a5-8362-b6e47ca6484e.mp4 | 1080×1438 |
+| 7 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/f233a506-4b51-41a4-9697-99cb29234eba | https://cdn.higgsfield.ai/minimax_hailuo_sample/f233a506-4b51-41a4-9697-99cb29234eba.mp4 | 1438×1080 |
+| 8 | https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc/05bcad7e-649c-4622-8174-fa16e3898f4a | https://cdn.higgsfield.ai/minimax_hailuo_sample/05bcad7e-649c-4622-8174-fa16e3898f4a.mp4 | 1080×1438 |
+
+Source pages: https://higgsfield.ai/motion/6e4e30fb-fe99-4df7-b3ab-10e16c6e0218, https://higgsfield.ai/motion/d2389a9a-91c2-4276-bc9c-c9e35e8fb85a, https://higgsfield.ai/motion/86530ac6-10ed-42fe-b460-4c093bc2e69e, https://higgsfield.ai/motion/446b5239-4281-4a2c-a353-0de562e405bc. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

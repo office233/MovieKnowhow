@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Zooms swiftly into the character’s mouth for a fun, quirky, or surreal transition. Ideal for adding humor or exaggerating expressions.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588 | `7351a8ad-9754-4844-94f1-00baf293d588` | -341 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=7351a8ad-9754-4844-94f1-00baf293d588 |
 | https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2 | `dfeb0656-5d12-474c-87cd-1c80e94abdf2` | 59 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=dfeb0656-5d12-474c-87cd-1c80e94abdf2 |
+| https://higgsfield.ai/motion/dedd087c-c446-462c-a670-5f915f622f3e | `dedd087c-c446-462c-a670-5f915f622f3e` | 2 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=dedd087c-c446-462c-a670-5f915f622f3e |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 1 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -61,7 +64,17 @@ Use it as: upload a start image that matches the scene, select motion preset **M
 | 15 | https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/3b3fae5b-d811-4d1d-b980-9e630487e187 | https://static.higgsfield.ai/3b3fae5b-d811-4d1d-b980-9e630487e187.mp4 | https://static.higgsfield.ai/3b3fae5b-d811-4d1d-b980-9e630487e187.webp | https://d1xarpci4ikg0w.cloudfront.net/77e291b0-d9cd-423a-89c4-b477ff102ca5.webp (320×180) |
 | 16 | https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588/1b129bdb-9808-4941-ad9c-a84dcbc2f817 | https://static.higgsfield.ai/1b129bdb-9808-4941-ad9c-a84dcbc2f817.mp4 | https://static.higgsfield.ai/1b129bdb-9808-4941-ad9c-a84dcbc2f817.webp | https://d1xarpci4ikg0w.cloudfront.net/b827cc34-844e-45e4-8c22-5887f266ec8e.webp (320×210) |
 
-Source pages: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588, https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2. Crawled 2026-09.
+- Card preview, round-2 variant `dedd087c` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/b76de52b-5be7-43ef-9576-b38ea83bd741.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/c85c6542-35ed-455b-bf39-52adfee0769c.webp (600×800)
+
+### Sample videos, round-2 variant `dedd087c` (Wan 2.5) (1 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_3262uqBpOaCby92z8zqMPv0oYEr/2edf4156-04e9-434b-a3a2-ca338192d0a7_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/72de54ed-7ef6-4f31-a676-22a377ec50dc.jpg | wan2_5_video · 5 s · 1080p · 1728×2304 | A medium frontal shot of a young woman sitting at a wooden table indoors dressed in a black bikini top adorned with layered gold necklaces and bracelets, a white flower tucked behind her ear, and long braided hair framing her face. Her expression is fierce and defiant, lips parting as the mouth widens aggressively, eyes scrunching in intensity under warm, golden ambient light that bathes her skin and jewelry. The camera rushes forward swiftly toward her face, then slows and glides smoothly through the opened mouth, passing jagged teeth into the deep, shadowed throat where the vivid reality dissolves into a surreal inner darkness. |
+
+Source pages: https://higgsfield.ai/motion/7351a8ad-9754-4844-94f1-00baf293d588, https://higgsfield.ai/motion/dfeb0656-5d12-474c-87cd-1c80e94abdf2, https://higgsfield.ai/motion/dedd087c-c446-462c-a670-5f915f622f3e. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Mimics natural, shaky camera movement for a raw and realistic feel. Great for intense scenes, vlogs, or making viewers feel like they're in the moment.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f | `15e8358d-335d-4e7a-8eaa-277325ab728f` | 66 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=15e8358d-335d-4e7a-8eaa-277325ab728f |
 | https://higgsfield.ai/motion/36e6e450-52d9-484f-bfbe-f069e06a1530 | `36e6e450-52d9-484f-bfbe-f069e06a1530` | -258 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=36e6e450-52d9-484f-bfbe-f069e06a1530 |
+| https://higgsfield.ai/motion/cf529456-6478-4622-a572-052f0d8ae378 | `cf529456-6478-4622-a572-052f0d8ae378` | -339 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=cf529456-6478-4622-a572-052f0d8ae378 |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 2 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -55,7 +58,18 @@ Use it as: upload a start image that matches the scene, select motion preset **H
 | 9 | https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/26ea4fba-245f-4821-9f21-dba38e052527 | https://static.higgsfield.ai/26ea4fba-245f-4821-9f21-dba38e052527.mp4 | https://static.higgsfield.ai/26ea4fba-245f-4821-9f21-dba38e052527.webp | https://d1xarpci4ikg0w.cloudfront.net/93a07a28-aa0d-4996-bcde-c6a915c57613.webp (320×210) |
 | 10 | https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f/e6c0a05a-7d4e-4c87-b922-ab24673b29ce | https://static.higgsfield.ai/e6c0a05a-7d4e-4c87-b922-ab24673b29ce.mp4 | https://static.higgsfield.ai/e6c0a05a-7d4e-4c87-b922-ab24673b29ce.webp | https://d1xarpci4ikg0w.cloudfront.net/c0b1196d-4b9e-4de2-8c85-f331faa32421.webp (320×320) |
 
-Source pages: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f, https://higgsfield.ai/motion/36e6e450-52d9-484f-bfbe-f069e06a1530. Crawled 2026-09.
+- Card preview, round-2 variant `cf529456` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/6817450f-cfdc-48f9-ba77-8d4137c9a888.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/77c8b736-47e2-4dcb-ab53-10c172e034c8.webp (600×822)
+
+### Sample videos, round-2 variant `cf529456` (Wan 2.5) (2 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_309aC2afXq3AoRo5kggIaZqZuMv/30079efb-fd06-4873-86cb-515741c129d4_min.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_309aC2afXq3AoRo5kggIaZqZuMv/9d9c447a-ff12-4dd0-860d-184cd2997711.png | wan2_5_video · 10 s · 1080p · 2048×1152 | The scene starts with a medium shot of a woman standing in an urban alley at night, illuminated by warm orange street lighting, holding a cigarette near her lips while simultaneously glancing down and interacting with her smartphone in her other hand. The gritty environment surrounds her with graffiti-covered walls and large industrial pipes, emitting faint ambient city sounds and distant traffic. She inhales from the cigarette and exhales smoke slowly, then looks thoughtfully at her phone. The handheld camera gently tracks forward, with a soft, fluid trembling effect that mimics subtle hand movement, capturing the raw and intimate mood of the moment in a cinematic and atmospheric style. |
+| 2 | https://cdn.higgsfield.ai/user_309aC2afXq3AoRo5kggIaZqZuMv/941cd92e-dbfe-4cd4-8a60-46bce20dafa5_min.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_309aC2afXq3AoRo5kggIaZqZuMv/e5a83f31-6fe9-48c7-bd01-69c03bfe96fd.png | wan2_5_video · 10 s · 1080p · 4096×2304 | The scene starts with a medium shot of a man and woman walking side by side along a bridge at sunset, captured through a handheld camera with a slightly soft lens to create a gentle depth of field. The background shows warm pink and orange tones reflecting softly on their faces, complemented by street lamps casting a mild glow. They casually walk together, the man in a white shirt with a mustard-yellow tie carrying a brown jacket over his arm, while the woman wears a coral-pink sleeveless dress and holds a small beige clutch. A gentle breeze moves her hair slightly as they exchange natural smiles and gestures, engaging in intimate conversation. The camera moves steadily alongside them with subtle handheld trembles, slightly swaying and adjusting focus between their expressive close-ups and broader framing, capturing the rhythm of their interaction. The overall visual tone is cinematic and intimate, with realistic lighting, soft motion blur, and a smooth, immersive handheld tracking shot emphasizing the natural mood and warmth of the moment. |
+
+Source pages: https://higgsfield.ai/motion/15e8358d-335d-4e7a-8eaa-277325ab728f, https://higgsfield.ai/motion/36e6e450-52d9-484f-bfbe-f069e06a1530, https://higgsfield.ai/motion/cf529456-6478-4622-a572-052f0d8ae378. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Moves the camera close to the subject’s eyes, creating an intense and emotional connection with the viewer
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/0ab33462-481e-4c78-8ffc-086bebd84187 | `0ab33462-481e-4c78-8ffc-086bebd84187` | -263 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=0ab33462-481e-4c78-8ffc-086bebd84187 |
 | https://higgsfield.ai/motion/f226ac67-43d3-4726-ad9c-132608bda8b3 | `f226ac67-43d3-4726-ad9c-132608bda8b3` | 90 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=f226ac67-43d3-4726-ad9c-132608bda8b3 |
+| https://higgsfield.ai/motion/3afdf962-2709-44a9-a41c-6565e6998529 | `3afdf962-2709-44a9-a41c-6565e6998529` | -346 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=3afdf962-2709-44a9-a41c-6565e6998529 |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 1 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -54,7 +57,17 @@ Use it as: upload a start image that matches the scene, select motion preset **E
 | 11 | https://higgsfield.ai/motion/0ab33462-481e-4c78-8ffc-086bebd84187/c9aebe22-9cae-4eec-87ce-a29a715e4bb7 | https://static.higgsfield.ai/c9aebe22-9cae-4eec-87ce-a29a715e4bb7.mp4 | https://static.higgsfield.ai/c9aebe22-9cae-4eec-87ce-a29a715e4bb7.webp | https://d1xarpci4ikg0w.cloudfront.net/86c8497d-717c-4b02-a701-99cc5c95fd51.webp (320×218) |
 | 12 | https://higgsfield.ai/motion/0ab33462-481e-4c78-8ffc-086bebd84187/2c53a2b3-6882-4b33-83c7-79df6b264c1d | https://static.higgsfield.ai/2c53a2b3-6882-4b33-83c7-79df6b264c1d.mp4 | https://static.higgsfield.ai/2c53a2b3-6882-4b33-83c7-79df6b264c1d.webp | https://d1xarpci4ikg0w.cloudfront.net/e3da31fe-2dcd-46f8-8f5c-c486e3d84949.webp (320×176) |
 
-Source pages: https://higgsfield.ai/motion/0ab33462-481e-4c78-8ffc-086bebd84187, https://higgsfield.ai/motion/f226ac67-43d3-4726-ad9c-132608bda8b3. Crawled 2026-09.
+- Card preview, round-2 variant `3afdf962` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/7bbe18f1-b0d9-4d0d-bb28-2b63a800be75.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/15741d28-1cd2-4674-b32f-75b0f193b1d7.webp (600×800)
+
+### Sample videos, round-2 variant `3afdf962` (Wan 2.5) (1 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_3262uqBpOaCby92z8zqMPv0oYEr/131f3ef6-61e2-4f09-9d49-dd0faeda0483_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/2f6ff163-07da-473f-a6e6-de0e4eaba33a.jpg | wan2_5_video · 5 s · 1080p · 2048×1536 | The camera opens on the young woman's intense expression, her naturally lit face glowing with warm shadows playing across her cheeks and nose. Her right dark brown eye reflects the ambient light, shimmering with slight moistness and vivid detail. A cool denim jacket and a camo cap frame her face, while her hand, adorned with rings and long pale nails, partially veils her lips, adding tension. The lens glides smoothly closer, narrowing focus to her right eye's iris, rich and deep in color, every micro-movement and reflection palpable. The progression is seamless and steady, advancing into a macro shot of the iris, before crossing the pupil's edge. The frame dissolves gently into pitch black inside the pupil void. |
+
+Source pages: https://higgsfield.ai/motion/0ab33462-481e-4c78-8ffc-086bebd84187, https://higgsfield.ai/motion/f226ac67-43d3-4726-ad9c-132608bda8b3, https://higgsfield.ai/motion/3afdf962-2709-44a9-a41c-6565e6998529. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

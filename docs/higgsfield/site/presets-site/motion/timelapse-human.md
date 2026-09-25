@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Speeds up human motion while the environment stays natural, showing quick movements like walking, dressing, or dancing. Adds energy, urgency, or a surreal, fast-forwarded feel.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db | `b8789aa0-bced-4d69-9eca-7245ee9ce7db` | 94 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=b8789aa0-bced-4d69-9eca-7245ee9ce7db |
 | https://higgsfield.ai/motion/c4ce82e4-1426-46b4-b184-db8f7fe41a5f | `c4ce82e4-1426-46b4-b184-db8f7fe41a5f` | -182 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=c4ce82e4-1426-46b4-b184-db8f7fe41a5f |
+| https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e | `b4ba822f-9171-4547-997e-c86de335385e` | -283 | none | none published (empty `settings`); model Minimax Hailuo 2.3 | https://higgsfield.ai/ai/video?model=minimax-2.3&presetMotionId=b4ba822f-9171-4547-997e-c86de335385e |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Minimax Hailuo 2.3 — family `minimax`, Generate button opens `/ai/video?model=minimax-2.3&presetMotionId=<id>` (the page's samples block reports model `minimax_hailuo`). These pages publish no settings.
 
 ## Prompts
 
@@ -51,7 +54,21 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 5 | https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/0382dc1a-f2fa-42dd-ae98-0f3d3c00d2de | https://static.higgsfield.ai/0382dc1a-f2fa-42dd-ae98-0f3d3c00d2de.mp4 | https://static.higgsfield.ai/0382dc1a-f2fa-42dd-ae98-0f3d3c00d2de.webp | https://d1xarpci4ikg0w.cloudfront.net/066a26c5-6222-4a1a-85c3-b3b371e1bc67.webp (320×182) |
 | 6 | https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db/2c13bf69-591d-4274-9c0e-f8780fb4bc16 | https://static.higgsfield.ai/2c13bf69-591d-4274-9c0e-f8780fb4bc16.mp4 | https://static.higgsfield.ai/2c13bf69-591d-4274-9c0e-f8780fb4bc16.webp | https://d1xarpci4ikg0w.cloudfront.net/0b1a536a-b532-46ae-b502-f832d5ced5de.webp (320×136) |
 
-Source pages: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db, https://higgsfield.ai/motion/c4ce82e4-1426-46b4-b184-db8f7fe41a5f. Crawled 2026-09.
+- Card preview, round-2 variant `b4ba822f` (Minimax Hailuo 2.3): https://cdn.higgsfield.ai/minimax_hailuo_motion/74e763e5-c743-4693-a011-aba749b72e06.mp4 · thumbnail https://cdn.higgsfield.ai/minimax_hailuo_motion/ed316e7c-b598-4744-91cb-b4c0da090acd.webp (600×800)
+
+### Sample videos, round-2 variant `b4ba822f` (Minimax Hailuo 2.3) (7)
+
+| # | Sample page | MP4 | Size |
+|---|---|---|---|
+| 1 | https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e/adf8fec2-5d9d-485c-a814-5c8cede2c308 | https://cdn.higgsfield.ai/minimax_hailuo_sample/adf8fec2-5d9d-485c-a814-5c8cede2c308.mp4 | 1080×1438 |
+| 2 | https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e/48f58e7f-fe26-40e5-b5be-fa0b4fcdc271 | https://cdn.higgsfield.ai/minimax_hailuo_sample/48f58e7f-fe26-40e5-b5be-fa0b4fcdc271.mp4 | 1438×1080 |
+| 3 | https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e/6a0cb012-f408-458e-9e7b-943c55939cfe | https://cdn.higgsfield.ai/minimax_hailuo_sample/6a0cb012-f408-458e-9e7b-943c55939cfe.mp4 | 1080×1438 |
+| 4 | https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e/2bfd9995-c9d3-4984-ac42-7e2bb5a96216 | https://cdn.higgsfield.ai/minimax_hailuo_sample/2bfd9995-c9d3-4984-ac42-7e2bb5a96216.mp4 | 1080×1620 |
+| 5 | https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e/955cc983-de34-42ff-836e-3dfa5f5f26c6 | https://cdn.higgsfield.ai/minimax_hailuo_sample/955cc983-de34-42ff-836e-3dfa5f5f26c6.mp4 | 1438×1080 |
+| 6 | https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e/b86ec0a0-b415-4db1-b52e-8a3f21a3d272 | https://cdn.higgsfield.ai/minimax_hailuo_sample/b86ec0a0-b415-4db1-b52e-8a3f21a3d272.mp4 | 1438×1080 |
+| 7 | https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e/0b3f11c1-1576-4c30-8719-8ead5bafafa1 | https://cdn.higgsfield.ai/minimax_hailuo_sample/0b3f11c1-1576-4c30-8719-8ead5bafafa1.mp4 | 1438×1080 |
+
+Source pages: https://higgsfield.ai/motion/b8789aa0-bced-4d69-9eca-7245ee9ce7db, https://higgsfield.ai/motion/c4ce82e4-1426-46b4-b184-db8f7fe41a5f, https://higgsfield.ai/motion/b4ba822f-9171-4547-997e-c86de335385e. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

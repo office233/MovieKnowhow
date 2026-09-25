@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Moves the camera outward through an object, revealing the scene behind it. Creates a smooth, creative transition and adds depth to your storytelling.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/0b75acee-a00e-4009-a7a3-8fe394f13864 | `0b75acee-a00e-4009-a7a3-8fe394f13864` | 70 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=0b75acee-a00e-4009-a7a3-8fe394f13864 |
 | https://higgsfield.ai/motion/3e217f3c-5133-4e83-ab6c-afb35d1c5852 | `3e217f3c-5133-4e83-ab6c-afb35d1c5852` | 47 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=3e217f3c-5133-4e83-ab6c-afb35d1c5852 |
+| https://higgsfield.ai/motion/510d88f9-d640-494c-b891-7446ca5cab40 | `510d88f9-d640-494c-b891-7446ca5cab40` | -330 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=510d88f9-d640-494c-b891-7446ca5cab40 |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 2 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -59,7 +62,18 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 13 | https://higgsfield.ai/motion/0b75acee-a00e-4009-a7a3-8fe394f13864/0113adcc-cea1-4275-872c-3733d9a2b434 | https://static.higgsfield.ai/0113adcc-cea1-4275-872c-3733d9a2b434.mp4 | https://static.higgsfield.ai/0113adcc-cea1-4275-872c-3733d9a2b434.webp | https://d1xarpci4ikg0w.cloudfront.net/62f6c675-b36c-487f-86fc-b9afcd596c14.webp (320×210) |
 | 14 | https://higgsfield.ai/motion/0b75acee-a00e-4009-a7a3-8fe394f13864/22aa78ad-1f31-4b1c-8d06-f213d769ee0d | https://static.higgsfield.ai/22aa78ad-1f31-4b1c-8d06-f213d769ee0d.mp4 | https://static.higgsfield.ai/22aa78ad-1f31-4b1c-8d06-f213d769ee0d.webp | https://d1xarpci4ikg0w.cloudfront.net/46ff1a61-f421-44eb-80bc-3e2da291021e.webp (320×182) |
 
-Source pages: https://higgsfield.ai/motion/0b75acee-a00e-4009-a7a3-8fe394f13864, https://higgsfield.ai/motion/3e217f3c-5133-4e83-ab6c-afb35d1c5852. Crawled 2026-09.
+- Card preview, round-2 variant `510d88f9` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/bd21a466-5129-4f94-8695-5da82fa82ab2.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/120ddde0-b23b-406d-b06b-c52b3b142208.webp (600×800)
+
+### Sample videos, round-2 variant `510d88f9` (Wan 2.5) (2 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/c118dae0-628c-4a7f-81b7-94518336f2e9_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/1fbec993-8bba-4c89-939c-ed707b94dbc7.jpg | wan2_5_video · 5 s · 1080p · 1536×2048 | A group of four diverse young people posing in an industrial warehouse bathed in warm, late afternoon sunlight. A tall young man stands confidently on a rusted metal platform railing, wearing a white T-shirt, black cap, and white sneakers, holding a vibrant green, yellow, and black jacket draped over the railing. Nearby, a young woman with voluminous curly hair sits on the metal stairs, dressed in a denim jacket, white socks, and black shoes, calm and self-assured. Below them, a crouching tattooed young man in a black sleeveless shirt, black shorts, white sneakers, and a bright orange beanie stares intently toward the camera, while beside him, a young woman with shoulder-length black hair wears black overalls over a white T-shirt and black boots, hands in pockets, looking contemplative. The dimly lit background shows corrugated metal walls and scattered industrial elements. The camera fast dollies out backward through emerging new narrow, rust-colored metal gaps appearing close to its sides, revealing more of the gritty warehouse space and emphasizing strong structural lines. All figures move at normal speed. |
+| 2 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/492909ff-b3e5-4be8-9e1b-e746a949215a_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/b6601723-eb3a-448b-9ec2-bbc3f24c3d38.jpg | wan2_5_video · 5 s · 1080p · 1536×1152 | A stylish young man sits on a white tiled laundromat floor, legs spread casually, wearing black trousers, a patterned white shirt, a black and white scarf wrapped around his head, dark sunglasses, and shiny black dress shoes. He holds a yellow lollipop to his lips with one hand while the other lightly rests on the floor, his relaxed posture conveying calm confidence as he moves at normal speed. Behind him, three large industrial silver washing machines line the wall, their circular doors reflecting soft, cool ambient lighting that emphasizes the metallic surfaces and textured dials. A crumpled black leather jacket lies beside him on the floor, from which a small narrow gap near the jacket's edge appears from the left side of the frame, revealing new space close to the camera. The camera quickly dollies out backward through this little open gap, revealing more of the shiny laundromat machines and tiled floor, as ambient light creates subtle reflections and shadows enhancing the industrial setting's cool, modern aesthetic. |
+
+Source pages: https://higgsfield.ai/motion/0b75acee-a00e-4009-a7a3-8fe394f13864, https://higgsfield.ai/motion/3e217f3c-5133-4e83-ab6c-afb35d1c5852, https://higgsfield.ai/motion/510d88f9-d640-494c-b891-7446ca5cab40. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

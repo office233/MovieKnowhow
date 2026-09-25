@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Moves the camera inward through an object to focus on the subject behind it. Perfect for creative reveals and smooth, immersive transitions.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 4
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,10 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/2b353671-da2e-4c9e-841d-b7af200ceadb | `2b353671-da2e-4c9e-841d-b7af200ceadb` | 45 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=2b353671-da2e-4c9e-841d-b7af200ceadb |
 | https://higgsfield.ai/motion/ae7a6c18-0db0-4c17-817b-fe73b10da520 | `ae7a6c18-0db0-4c17-817b-fe73b10da520` | 87 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=ae7a6c18-0db0-4c17-817b-fe73b10da520 |
+| https://higgsfield.ai/motion/7fd00618-aa73-4fae-adb7-98ed16773eaa | `7fd00618-aa73-4fae-adb7-98ed16773eaa` | -334 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=7fd00618-aa73-4fae-adb7-98ed16773eaa |
+| https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd | `1e970d8b-74a3-4af7-a84c-6ae33830c1fd` | -250 | none | none published (empty `settings`); model Minimax Hailuo 2.3 | https://higgsfield.ai/ai/video?model=minimax-2.3&presetMotionId=1e970d8b-74a3-4af7-a84c-6ae33830c1fd |
+
+Round 2 (non-sitemap pages): 2 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`); Minimax Hailuo 2.3 — family `minimax`, Generate button opens `/ai/video?model=minimax-2.3&presetMotionId=<id>` (the page's samples block reports model `minimax_hailuo`). These pages publish no settings. Their community publications carry 3 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -56,7 +60,35 @@ Use it as: upload a start image that matches the scene, select motion preset **T
 | 10 | https://higgsfield.ai/motion/2b353671-da2e-4c9e-841d-b7af200ceadb/ab74806f-d19a-4ff0-8833-8b98eb00b4c9 | https://static.higgsfield.ai/ab74806f-d19a-4ff0-8833-8b98eb00b4c9.mp4 | https://static.higgsfield.ai/ab74806f-d19a-4ff0-8833-8b98eb00b4c9.webp | https://d1xarpci4ikg0w.cloudfront.net/9f78f945-6594-404e-8d96-cbd8c071cf38.webp (320×210) |
 | 11 | https://higgsfield.ai/motion/2b353671-da2e-4c9e-841d-b7af200ceadb/3095e3b6-b619-465f-87e8-e0fa02bc09d9 | https://static.higgsfield.ai/3095e3b6-b619-465f-87e8-e0fa02bc09d9.mp4 | https://static.higgsfield.ai/3095e3b6-b619-465f-87e8-e0fa02bc09d9.webp | https://d1xarpci4ikg0w.cloudfront.net/91df6ee7-a0e2-43cf-90a0-4c42f0868b07.webp (320×210) |
 
-Source pages: https://higgsfield.ai/motion/2b353671-da2e-4c9e-841d-b7af200ceadb, https://higgsfield.ai/motion/ae7a6c18-0db0-4c17-817b-fe73b10da520. Crawled 2026-09.
+- Card preview, round-2 variant `7fd00618` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/987bb527-6afd-4c09-9215-89914c536cff.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/f5f35522-c1b5-4009-b1df-858ac72346af.webp (600×800)
+- Card preview, round-2 variant `1e970d8b` (Minimax Hailuo 2.3): https://cdn.higgsfield.ai/minimax_hailuo_motion/0012373b-47f7-4dc1-9349-1be0badc79f8.mp4 · thumbnail https://cdn.higgsfield.ai/minimax_hailuo_motion/238534d8-050b-44f5-96be-08f6fc2a2826.webp (600×800)
+
+### Sample videos, round-2 variant `7fd00618` (Wan 2.5) (3 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_309aC2afXq3AoRo5kggIaZqZuMv/88ba6a4f-a400-4d13-8750-e85a3892b8dc_min.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_309aC2afXq3AoRo5kggIaZqZuMv/78754b57-048b-4a59-9365-9a1a9806f969.png | wan2_5_video · 10 s · 1080p · 5120×2880 | A sharply dressed young man in a black suit and white shirt sits thoughtfully on a vintage, worn leather armchair with visible tears on the cushion, his right hand resting near his chin and left hand relaxed on his lap, his expression serious and composed as he looks forward. The background reveals a warm terracotta-hued wall illuminated by a shaft of sunlight forming a clear geometric pattern. The camera moves fast straight forward through a circular aperture in the foreground, the edges of the aperture leaving the frame quickly as the scene opens into a spacious, quietly lit room with wooden furniture subtly blurred in the background, adding depth and texture. The young man remains still at normal speed, bathed in soft natural light highlighting his features and the texture of his clothes and chair, creating a cinematic atmosphere of quiet intensity. |
+| 2 | https://cdn.higgsfield.ai/user_309aC2afXq3AoRo5kggIaZqZuMv/fb9c339b-d876-4413-a8c1-a0dec7da4513_min.mp4 | https://d8j0ntlcm91z4.cloudfront.net/user_309aC2afXq3AoRo5kggIaZqZuMv/eda93ddf-98d7-4ede-b6af-396caa771f69.png | wan2_5_video · 10 s · 1080p · 2048×1152 | The camera moves fast straight forward, flying through a smooth keyhole-shaped opening, leaving the edges of the door frame behind as it reveals a clear view of a man in a sleek black suit with white cuffs, seated on and leaning against a vintage brown leather chair inside a cozy room with a deep red wall and soft curtain light filtering in. The man rests his chin thoughtfully on his hand, his dark hair slicked back and his expression concentrated and serene as he remains still at normal speed. Brightly colored butterflies flutter gently near the chair, adding delicate, natural movement to the warm, intimate interior scene lit by soft, warm light casting subtle shadows. The camera continues past the keyhole, fully unveiling the scene beyond the narrow doorway. |
+| 3 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/f87bd88f-588f-4f6d-a37d-085132fc8fa4_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/c14940ff-c82b-4619-8b45-7e121bb1636c.jpg | wan2_5_video · 5 s · 1080p · 2048×1536 | A young woman with long black hair and expressive glasses stands confidently within a large circular frame, wearing a white cropped tank top, dark blue cargo jeans, and colorful sneakers, adorned with chunky jewelry including a necklace, bracelet, and earrings, she moves her hands at normal speed adjusting her pants' belt. The camera moves fast straight forward through the circular frame, passing it to reveal a softly gradient pastel background with hues of pink, purple, and blue, the circular frame leaving the frame as the camera advances, capturing a clear view of the fashionably styled subject standing still at normal speed in a bright, modern studio setting illuminated by smooth, diffused lighting enhancing the colors and textures. |
+
+### Sample videos, round-2 variant `1e970d8b` (Minimax Hailuo 2.3) (10)
+
+| # | Sample page | MP4 | Size |
+|---|---|---|---|
+| 1 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/19604c66-80aa-48ff-8773-5016e09ad48b | https://cdn.higgsfield.ai/minimax_hailuo_sample/19604c66-80aa-48ff-8773-5016e09ad48b.mp4 | 1080×1080 |
+| 2 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/c6ffc9e0-135c-43ae-ae7e-5a7c44d7b7e2 | https://cdn.higgsfield.ai/minimax_hailuo_sample/c6ffc9e0-135c-43ae-ae7e-5a7c44d7b7e2.mp4 | 1080×1438 |
+| 3 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/c75b35e4-a665-4a5d-a0dc-0207b120d108 | https://cdn.higgsfield.ai/minimax_hailuo_sample/c75b35e4-a665-4a5d-a0dc-0207b120d108.mp4 | 1080×1620 |
+| 4 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/625a9384-2342-4263-8179-cc943bcc55b4 | https://cdn.higgsfield.ai/minimax_hailuo_sample/625a9384-2342-4263-8179-cc943bcc55b4.mp4 | 1080×1438 |
+| 5 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/99e92b46-461d-4bfd-988b-77d5f56924e9 | https://cdn.higgsfield.ai/minimax_hailuo_sample/99e92b46-461d-4bfd-988b-77d5f56924e9.mp4 | 1620×1080 |
+| 6 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/1edce2a3-f4eb-4d99-859b-3effffc1565a | https://cdn.higgsfield.ai/minimax_hailuo_sample/1edce2a3-f4eb-4d99-859b-3effffc1565a.mp4 | 1152×768 |
+| 7 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/335b95a3-0697-4ba2-847a-7691a70918f4 | https://cdn.higgsfield.ai/minimax_hailuo_sample/335b95a3-0697-4ba2-847a-7691a70918f4.mp4 | 768×1152 |
+| 8 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/aa5caeb3-3112-4b95-9366-0ea10dc89212 | https://cdn.higgsfield.ai/minimax_hailuo_sample/aa5caeb3-3112-4b95-9366-0ea10dc89212.mp4 | 1080×1620 |
+| 9 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/430b1b72-6a5e-453a-9f78-b3b67a2afbc6 | https://cdn.higgsfield.ai/minimax_hailuo_sample/430b1b72-6a5e-453a-9f78-b3b67a2afbc6.mp4 | 1080×1620 |
+| 10 | https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd/8983265d-e738-4ef2-8f23-74eac030adba | https://cdn.higgsfield.ai/minimax_hailuo_sample/8983265d-e738-4ef2-8f23-74eac030adba.mp4 | 1080×1438 |
+
+Source pages: https://higgsfield.ai/motion/2b353671-da2e-4c9e-841d-b7af200ceadb, https://higgsfield.ai/motion/ae7a6c18-0db0-4c17-817b-fe73b10da520, https://higgsfield.ai/motion/7fd00618-aa73-4fae-adb7-98ed16773eaa, https://higgsfield.ai/motion/1e970d8b-74a3-4af7-a84c-6ae33830c1fd. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

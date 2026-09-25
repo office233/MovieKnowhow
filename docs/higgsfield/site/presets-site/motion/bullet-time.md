@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Freezes or slows down the action while the camera moves around the subject. Creates a dramatic, cinematic effect often seen in action or sci-fi scenes.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/855c5272-8f39-48b7-a362-e1337590387f | `855c5272-8f39-48b7-a362-e1337590387f` | 56 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=855c5272-8f39-48b7-a362-e1337590387f |
 | https://higgsfield.ai/motion/9312c53a-f191-4aab-94fb-6b1dbdfdc946 | `9312c53a-f191-4aab-94fb-6b1dbdfdc946` | -243 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=9312c53a-f191-4aab-94fb-6b1dbdfdc946 |
+| https://higgsfield.ai/motion/bb341c21-9548-4efb-8a91-b6202167b344 | `bb341c21-9548-4efb-8a91-b6202167b344` | -336 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=bb341c21-9548-4efb-8a91-b6202167b344 |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 3 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -55,7 +58,19 @@ Use it as: upload a start image that matches the scene, select motion preset **B
 | 9 | https://higgsfield.ai/motion/855c5272-8f39-48b7-a362-e1337590387f/cdc43aca-2323-4ccd-8da9-5eccbc7f7e9c | https://static.higgsfield.ai/cdc43aca-2323-4ccd-8da9-5eccbc7f7e9c.mp4 | https://static.higgsfield.ai/cdc43aca-2323-4ccd-8da9-5eccbc7f7e9c.webp | https://d1xarpci4ikg0w.cloudfront.net/21c5d2e1-91b9-4fb2-b8f4-84b31eef31ac.webp (320×320) |
 | 10 | https://higgsfield.ai/motion/855c5272-8f39-48b7-a362-e1337590387f/78add2fc-e067-439d-9ff0-89e204889348 | https://static.higgsfield.ai/78add2fc-e067-439d-9ff0-89e204889348.mp4 | https://static.higgsfield.ai/78add2fc-e067-439d-9ff0-89e204889348.webp | https://d1xarpci4ikg0w.cloudfront.net/8d47195b-7263-4d25-9fc3-29cddf8bd6c7.webp (320×182) |
 
-Source pages: https://higgsfield.ai/motion/855c5272-8f39-48b7-a362-e1337590387f, https://higgsfield.ai/motion/9312c53a-f191-4aab-94fb-6b1dbdfdc946. Crawled 2026-09.
+- Card preview, round-2 variant `bb341c21` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/0cf0f3a2-626e-47d6-8ab1-d40de8cee818.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/38372692-0e01-42e5-9f79-a5928f021372.webp (600×800)
+
+### Sample videos, round-2 variant `bb341c21` (Wan 2.5) (3 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_2zXu7DqFkwehcyw88RKxU8RZnH2/18127fe7-bae9-4f7a-b52f-c00195b09088_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/b5bc0bd3-99d6-4571-8053-deb9445530b4.jpg | wan2_5_video · 5 s · 1080p · 1536×2048 | The camera orbits smoothly from left to right around a male skateboarder frozen mid-jump against a vivid blue sky, with the bright sun casting sharp lens flares and warm highlights on his plaid shirt and the skateboard beneath him. His body hangs suspended in perfect freeze, with clear details in his facial expression and the graphic underside of the board visible. The orbit spans about 270 degrees at a mid-range distance, capturing dramatic parallax shifts with the suburban houses and parked cars below that move subtly in the background. A 24mm lens with moderate depth of field isolates the subject crisply while slightly softening the distant neighborhood, and subtle airborne dust and lens flare particles float near the camera, emphasizing the suspended, bullet-time moment. The lighting is natural and bright from the sun above, casting realistic shadows and highlights that enrich the scene’s dynamic energy. The shot ends as it settles on a heroic three-quarter profile of the skateboarder mid-air, the wheels of the board passing just in front as a small foreground occluder to deepen the immersive effect. |
+| 2 | https://cdn.higgsfield.ai/user_2zXu7DqFkwehcyw88RKxU8RZnH2/aeeec00d-cdc2-458a-81ee-b51f9f5a635d_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/9b9c1674-079a-4bff-b8d6-5684e274cbce.jpg | wan2_5_video · 5 s · 1080p · 2048×1536 | The camera gently arcs from left to right in a 270-degree smooth orbit around the athletic soccer player frozen in mid-air executing a high kick, the ball hovering just inches from his neon cleats. Time is suspended flawlessly, with drifting dust motes and grass blades floating motionless in the warm sunlight that backlights his focused expression and dynamic pose. The camera maintains medium distance, showcasing the player's full figure against the softly blurred soccer field, goalposts, and a row of leafless trees that shift with subtle parallax. A 35mm lens with shallow depth of field crisply isolates the player's form and neon shoes, while the background remains pleasantly out of focus. The shot concludes by moving past slight foreground occluders of grass, settling on a commanding three-quarter profile that captures the frozen intensity of the moment in perfect bullet-time style. |
+| 3 | https://cdn.higgsfield.ai/user_2zXu7DqFkwehcyw88RKxU8RZnH2/1a4f97fd-89d5-4a2f-b3f4-681b448f11e9_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/2b9933d3-350b-449d-85ab-2ecfdc47eee6.jpg | wan2_5_video · 5 s · 1080p · 2048×1536 | The camera orbits smoothly from left to right around a BMX rider caught mid-air over an urban street, suspended frozen in time with clear, crisp detail on his red bike and athletic pose. Ultra-slow motion cues like drifting dust and faint airborne particles linger in the dusky street environment, enhancing the frozen moment beneath the deepening blue sky. The orbit spans about 270 degrees at a steady pace with near buildings, streetlights, and utility poles providing layered parallax and occasional near foreground occluders. Using a 35mm lens with shallow depth of field, the rider and bike remain sharply isolated against the gently blurred street and sky backdrop. Evening light blends with subtle streetlamp glows that cast soft highlights on the bike frame and rider’s clothes. The shot finishes on a dynamic three-quarter angle emphasizing both the action and environment, anchored by floating dust particles that read clearly in the ultra-slow frozen scene. |
+
+Source pages: https://higgsfield.ai/motion/855c5272-8f39-48b7-a362-e1337590387f, https://higgsfield.ai/motion/9312c53a-f191-4aab-94fb-6b1dbdfdc946, https://higgsfield.ai/motion/bb341c21-9548-4efb-8a91-b6202167b344. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

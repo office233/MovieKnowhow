@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Pulls the camera smoothly away from the subject, revealing more of the scene. Great for emotional distance, dramatic exits, or cinematic reveals.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543 | `96e95a3c-ad0e-49ee-84e3-a39e0f13b543` | 50 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=96e95a3c-ad0e-49ee-84e3-a39e0f13b543 |
 | https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17 | `c1a8c847-4ea8-4d31-9cec-ef62897a2d17` | -214 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=c1a8c847-4ea8-4d31-9cec-ef62897a2d17 |
+| https://higgsfield.ai/motion/a787450c-b2d8-4321-967a-8c302da05949 | `a787450c-b2d8-4321-967a-8c302da05949` | -335 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=a787450c-b2d8-4321-967a-8c302da05949 |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 2 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -54,7 +57,18 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 8 | https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543/e9e19d6c-463b-42dd-aa33-e72712e42e95 | https://static.higgsfield.ai/e9e19d6c-463b-42dd-aa33-e72712e42e95.mp4 | https://static.higgsfield.ai/e9e19d6c-463b-42dd-aa33-e72712e42e95.webp | https://d1xarpci4ikg0w.cloudfront.net/e2fd0895-fb35-4766-81a7-8faf04dfba5d.webp (320×210) |
 | 9 | https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543/5027149a-a009-4d30-bf72-cb46e7006af7 | https://static.higgsfield.ai/5027149a-a009-4d30-bf72-cb46e7006af7.mp4 | https://static.higgsfield.ai/5027149a-a009-4d30-bf72-cb46e7006af7.webp | https://d1xarpci4ikg0w.cloudfront.net/205838b7-f812-4d95-b5ce-8f9c635309ea.webp (320×182) |
 
-Source pages: https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543, https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17. Crawled 2026-09.
+- Card preview, round-2 variant `a787450c` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/53c993e7-645f-49f8-aa71-086514547065.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/90eaee2a-9a69-4704-8789-2a553ec8a2b3.webp (600×800)
+
+### Sample videos, round-2 variant `a787450c` (Wan 2.5) (2 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/28384c7b-9fff-4dc3-b19d-9677bb2e1ac0_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/8a016110-2ec6-4338-8e1b-e042325e563c.jpg | wan2_5_video · 5 s · 1080p · 1536×1152 | The scene starts with a medium shot at a slight angle, captured by a steady camera using a DSLR with a 50mm lens, focusing on a group of four friends standing on a rooftop during sunset. The environment features a sprawling city skyline under a warm, orange-hued sunset sky, creating a lively and free atmosphere filled with the soft sounds of distant city life and gentle evening breeze. The friends are talking and laughing animatedly, with the girl holding the bottle taking a sip from her drink while the others engage in warm conversations. The camera smoothly moves backward in a precise, shake-free, and uniform motion, gradually revealing more of the panoramic city view and the beautiful sunset sky. The overall visual tone is warm, vibrant, and inviting, enhancing the feeling of warmth and friendship. |
+| 2 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/719b296e-4a3a-4ab9-aaa0-d7cb730bf4e0_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/5f635b16-69fa-46ad-a366-423e9e2d645b.jpg | wan2_5_video · 5 s · 1080p · 1536×2048 | The scene starts with a medium shot of a woman standing inside a moving subway train, framed from slightly below eye level, captured with a high-quality digital cinema camera and a 50mm lens. She wears a glossy, vibrant red jacket and skirt, gripping polished metal poles on either side, her intense gaze directly facing the camera. The environment is a modern subway car illuminated by cool blue fluorescent lights that flicker subtly, creating a moody atmosphere. The sound of the train gently rolling on the tracks complements the faint flickering of the overhead lights. The woman slightly sways as the train moves, her expression serious and captivating. The camera smoothly and steadily performs a precise dolly out, gradually expanding the frame backward without any shakiness, revealing more of the subway interior while maintaining focus on her. The visual tone contrasts the cool blues of the train with the striking red of her outfit for a dramatic, stylish, and cinematic effect. |
+
+Source pages: https://higgsfield.ai/motion/96e95a3c-ad0e-49ee-84e3-a39e0f13b543, https://higgsfield.ai/motion/c1a8c847-4ea8-4d31-9cec-ef62897a2d17, https://higgsfield.ai/motion/a787450c-b2d8-4321-967a-8c302da05949. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

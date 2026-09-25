@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** The camera remains completely still, with no motion or shake. Clean, neutral, and steady—ideal for dialogue scenes or minimalist aesthetics.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 4
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,10 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/aab8440c-0d65-4554-b88a-7a9a5e084b6e | `aab8440c-0d65-4554-b88a-7a9a5e084b6e` | -261 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=aab8440c-0d65-4554-b88a-7a9a5e084b6e |
 | https://higgsfield.ai/motion/fffe5dfd-f63b-4659-b7dd-e45f9c7d4ea2 | `fffe5dfd-f63b-4659-b7dd-e45f9c7d4ea2` | 68 | isTopChoice | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=fffe5dfd-f63b-4659-b7dd-e45f9c7d4ea2 |
+| https://higgsfield.ai/motion/c43e6d97-a55a-45d7-b5bc-b3a55d3a6e8e | `c43e6d97-a55a-45d7-b5bc-b3a55d3a6e8e` | -337 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=c43e6d97-a55a-45d7-b5bc-b3a55d3a6e8e |
+| https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7 | `f0eac9cc-08ff-4b00-856e-3de0dad2d8b7` | -160 | none | none published (empty `settings`); model Minimax Hailuo 2.3 | https://higgsfield.ai/ai/video?model=minimax-2.3&presetMotionId=f0eac9cc-08ff-4b00-856e-3de0dad2d8b7 |
+
+Round 2 (non-sitemap pages): 2 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`); Minimax Hailuo 2.3 — family `minimax`, Generate button opens `/ai/video?model=minimax-2.3&presetMotionId=<id>` (the page's samples block reports model `minimax_hailuo`). These pages publish no settings. Their community publications carry 2 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -54,7 +58,34 @@ Use it as: upload a start image that matches the scene, select motion preset **S
 | 12 | https://higgsfield.ai/motion/aab8440c-0d65-4554-b88a-7a9a5e084b6e/04271eef-84c5-47c2-9a88-6a52cad9b1ac | https://static.higgsfield.ai/04271eef-84c5-47c2-9a88-6a52cad9b1ac.mp4 | https://static.higgsfield.ai/04271eef-84c5-47c2-9a88-6a52cad9b1ac.webp | https://d1xarpci4ikg0w.cloudfront.net/0aab473d-029a-4fc3-8575-3d4e93f8a18c.webp (320×320) |
 | 13 | https://higgsfield.ai/motion/aab8440c-0d65-4554-b88a-7a9a5e084b6e/bd5d9a44-7bcb-404b-b886-75df2876e3ce | https://static.higgsfield.ai/bd5d9a44-7bcb-404b-b886-75df2876e3ce.mp4 | https://static.higgsfield.ai/bd5d9a44-7bcb-404b-b886-75df2876e3ce.webp | https://d1xarpci4ikg0w.cloudfront.net/c6584d1b-2de9-4bf6-ab5f-544611e3dbfe.webp (320×424) |
 
-Source pages: https://higgsfield.ai/motion/aab8440c-0d65-4554-b88a-7a9a5e084b6e, https://higgsfield.ai/motion/fffe5dfd-f63b-4659-b7dd-e45f9c7d4ea2. Crawled 2026-09.
+- Card preview, round-2 variant `c43e6d97` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/98017730-c6d8-430a-a27c-7dab27abaa15.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/8d2fc8b8-0788-4eab-a36d-04e9839a4bdd.webp (600×800)
+- Card preview, round-2 variant `f0eac9cc` (Minimax Hailuo 2.3): https://cdn.higgsfield.ai/minimax_hailuo_motion/b0f4f744-9707-4fb4-84ca-1897f78cfe04.mp4 · thumbnail https://cdn.higgsfield.ai/minimax_hailuo_motion/bc2ef60a-cbaa-4367-8461-59bfd0404f2b.webp (600×800)
+
+### Sample videos, round-2 variant `c43e6d97` (Wan 2.5) (2 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_3262uqBpOaCby92z8zqMPv0oYEr/4ae36f79-1493-44be-b828-cde69b2918c9_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/10870e44-02c1-4898-82f9-d8ef09e7a902.jpg | wan2_5_video · 5 s · 1080p · 2304×1728 | Two dark silhouettes of dancers stand side by side in front of a bright white background, their heads swinging gently to an African-inspired rhythm. The camera remains static, fixed in position for the entire shot, capturing their simple and natural body language as they move in smooth, flowing motions. Their movements blend subtle head nods and slight sways, creating a rhythmic dance alive within the still frame. The static perspective emphasizes the stark contrast formed by the cinematic backlight, highlighting the contours and shapes of their bodies against the luminous backdrop. The scene is rendered with realistic atmosphere in deep focus, with soft shadows framing this intimate and expressive dance moment. |
+| 2 | https://cdn.higgsfield.ai/user_3262uqBpOaCby92z8zqMPv0oYEr/4b6ca2c3-607b-4786-915c-feccc849dece_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/474004c1-08e1-40e8-85df-b56703e4ca49.jpg | wan2_5_video · 5 s · 1080p · 2048×1152 | A middle-aged man stands outdoors in a park with autumnal trees around him. The static camera remains fixed on his face and upper body capturing the moment in a close-up shot. He smoothly and naturally lifts his beige hat off his head with a realistic gesture, his expression calm and focused. The warm, cinematic lighting highlights the texture of his skin and the details of his striped suit and white tie, while the background softly blurs into golden hues of fall foliage. The stable frame emphasizes the intimacy of his action and the rich photorealistic quality of the scene. |
+
+### Sample videos, round-2 variant `f0eac9cc` (Minimax Hailuo 2.3) (10)
+
+| # | Sample page | MP4 | Size |
+|---|---|---|---|
+| 1 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/73b3bbcc-31d6-409d-8944-740eeb297c92 | https://cdn.higgsfield.ai/minimax_hailuo_sample/73b3bbcc-31d6-409d-8944-740eeb297c92.mp4 | 1080×1620 |
+| 2 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/044dfa29-1516-4fda-a40e-cddbb809911c | https://cdn.higgsfield.ai/minimax_hailuo_sample/044dfa29-1516-4fda-a40e-cddbb809911c.mp4 | 1438×1080 |
+| 3 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/deb481a5-99b5-4fb5-a7c8-03f5c1c7244c | https://cdn.higgsfield.ai/minimax_hailuo_sample/deb481a5-99b5-4fb5-a7c8-03f5c1c7244c.mp4 | 1080×1620 |
+| 4 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/41399e86-bbc8-4455-bbf6-171ba7745e74 | https://cdn.higgsfield.ai/minimax_hailuo_sample/41399e86-bbc8-4455-bbf6-171ba7745e74.mp4 | 1438×1080 |
+| 5 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/cdd03f49-5f05-48ca-9312-43852c50d6df | https://cdn.higgsfield.ai/minimax_hailuo_sample/cdd03f49-5f05-48ca-9312-43852c50d6df.mp4 | 1918×1080 |
+| 6 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/34167b94-7efd-47fb-8270-92cb7240851a | https://cdn.higgsfield.ai/minimax_hailuo_sample/34167b94-7efd-47fb-8270-92cb7240851a.mp4 | 1438×1080 |
+| 7 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/b5051a79-ec8b-4c8f-b767-cd2cb98393d7 | https://cdn.higgsfield.ai/minimax_hailuo_sample/b5051a79-ec8b-4c8f-b767-cd2cb98393d7.mp4 | 1080×1080 |
+| 8 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/0e15fda5-a3b7-427d-be1b-081c91619a33 | https://cdn.higgsfield.ai/minimax_hailuo_sample/0e15fda5-a3b7-427d-be1b-081c91619a33.mp4 | 1080×1620 |
+| 9 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/32ba43ea-a2e7-4a6e-94c9-c045c1beb72a | https://cdn.higgsfield.ai/minimax_hailuo_sample/32ba43ea-a2e7-4a6e-94c9-c045c1beb72a.mp4 | 1620×1080 |
+| 10 | https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7/1e60f980-ac0e-492a-899f-175f1edec730 | https://cdn.higgsfield.ai/minimax_hailuo_sample/1e60f980-ac0e-492a-899f-175f1edec730.mp4 | 1080×1620 |
+
+Source pages: https://higgsfield.ai/motion/aab8440c-0d65-4554-b88a-7a9a5e084b6e, https://higgsfield.ai/motion/fffe5dfd-f63b-4659-b7dd-e45f9c7d4ea2, https://higgsfield.ai/motion/c43e6d97-a55a-45d7-b5bc-b3a55d3a6e8e, https://higgsfield.ai/motion/f0eac9cc-08ff-4b00-856e-3de0dad2d8b7. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

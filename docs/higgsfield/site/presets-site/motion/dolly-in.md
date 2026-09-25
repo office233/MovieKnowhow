@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Moves the camera smoothly toward the subject, drawing viewers closer and building focus or emotion. Ideal for intense or intimate moments.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3 | `06463063-551a-4cbb-abc0-0ff1007784b3` | 57 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=06463063-551a-4cbb-abc0-0ff1007784b3 |
 | https://higgsfield.ai/motion/8d582076-10e2-40f7-bbef-6384532147c2 | `8d582076-10e2-40f7-bbef-6384532147c2` | -205 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=8d582076-10e2-40f7-bbef-6384532147c2 |
+| https://higgsfield.ai/motion/1438937c-a220-4859-93f4-f373da3f73fb | `1438937c-a220-4859-93f4-f373da3f73fb` | -329 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=1438937c-a220-4859-93f4-f373da3f73fb |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings. Their community publications carry 2 user prompt(s), listed verbatim under Preview media.
 
 ## Prompts
 
@@ -52,7 +55,18 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 6 | https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/88fd0e5e-2e8d-4bb8-9456-a2f51e6243e6 | https://static.higgsfield.ai/88fd0e5e-2e8d-4bb8-9456-a2f51e6243e6.mp4 | https://static.higgsfield.ai/88fd0e5e-2e8d-4bb8-9456-a2f51e6243e6.webp | https://d1xarpci4ikg0w.cloudfront.net/1c55504f-d9fc-4e9b-8ffe-86cd6f9614e4.webp (320×242) |
 | 7 | https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3/fa658788-d7d1-442d-9afb-ffd3222bfad0 | https://static.higgsfield.ai/fa658788-d7d1-442d-9afb-ffd3222bfad0.mp4 | https://static.higgsfield.ai/fa658788-d7d1-442d-9afb-ffd3222bfad0.webp | https://d1xarpci4ikg0w.cloudfront.net/81fe7c1f-b607-4924-8dff-5636a1f12402.webp (320×242) |
 
-Source pages: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3, https://higgsfield.ai/motion/8d582076-10e2-40f7-bbef-6384532147c2. Crawled 2026-09.
+- Card preview, round-2 variant `1438937c` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/80f7f16b-acb1-4300-810d-3ad9453a43cd.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/20054468-7620-469a-9a89-ace3b09a3e42.webp (600×800)
+
+### Sample videos, round-2 variant `1438937c` (Wan 2.5) (2 listed; the page loads more on scroll)
+
+Community publications shown on the page (user generations with this preset; prompt copied verbatim, empty = none typed):
+
+| # | Output MP4 | Input image | Model · duration · resolution | Prompt (verbatim) |
+|---|---|---|---|---|
+| 1 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/f3a27a40-14ed-4805-a1e1-990aea8da6ff_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/5e368557-768b-4f4e-9d85-bf2f2402f2f8.jpg | wan2_5_video · 5 s · 1080p · 1536×2048 | The scene starts with a medium shot from the side, capturing two stylishly dressed people in the foreground engaged in quiet conversation, their faces partially in profile, wearing dark suits and sunglasses under soft lighting. The background features a smooth blue backdrop. The camera performs a slow, steady dolly-in, smoothly advancing straight ahead toward the two individuals standing behind them. These two people, dressed in fashionable business attire, casually hold red lollipops and exchange subtle, playful glances as if quietly interacting. Soft ambient sounds and distant conversation murmurs fill the space, emphasizing the stylish, modern, and slightly mysterious atmosphere of the scene. |
+| 2 | https://cdn.higgsfield.ai/user_2woJMxSXFH2QGGlMdyBq7q6ld4K/e82ca455-1484-4811-a526-f04d4848d8d0_min.mp4 | https://d2ol7oe51mr4n9.cloudfront.net/anon_user_id/0a15efd3-c43b-4e7f-9150-15249d792eac.jpg | wan2_5_video · 5 s · 1080p · 2048×1536 | The scene starts with a medium-wide shot from a straight-on angle using a professional camera with a standard lens, showing a group of six young people sitting and standing confidently on and around a bright turquoise sports car inside an industrial garage with textured concrete walls and a semi-transparent roof letting in natural light. The group all looks directly into the camera with confident expressions. The camera smoothly performs a slow dolly in, gradually moving closer to the central figure seated on top of the car, highlighting their intense gaze. The shot captures the detailed urban grunge atmosphere with ambient industrial sounds and muted city noises. The overall visual tone is modern, stylish, and edgy, emphasizing coolness and group unity. |
+
+Source pages: https://higgsfield.ai/motion/06463063-551a-4cbb-abc0-0ff1007784b3, https://higgsfield.ai/motion/8d582076-10e2-40f7-bbef-6384532147c2, https://higgsfield.ai/motion/1438937c-a220-4859-93f4-f373da3f73fb. Crawled 2026-09.
 
 
 ## Real sample prompts (site)

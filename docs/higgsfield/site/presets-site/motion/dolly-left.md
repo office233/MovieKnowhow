@@ -5,7 +5,7 @@
 - **What it does (site description, verbatim):** Moves the camera smoothly to the left, following or revealing the scene. Perfect for tracking shots, transitions, or adding visual interest.
 - **Model (site data):** `wan2_5_video` (Wan 2.5 video) — every Higgsfield Motion page reports this model. The page's Generate button opens `/ai/video?model=standard&presetMotionId=<id>`.
 - **Inputs:** one start image + optional text prompt, generated with this motion preset applied (image-to-video). The page gives no duration or aspect-ratio settings; 81 frames is about 5 s at Wan's 16 fps (an inference).
-- **Preset family:** `higgsfield` · **Variants on site:** 2
+- **Preset family:** `higgsfield` · **Variants on site:** 3
 - **Best model:** wan2_5_video per site. Local KB guidance: for film work, free-prompt the move by name on a `Camera:` line (Kling 2.6/3.0, Seedance 2.0) or use Cinema Studio camera dropdowns; see ../../../presets/camera-motion.md.
 
 ## Variants (one per page URL)
@@ -14,6 +14,9 @@
 |---|---|---|---|---|---|
 | https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab | `36186f21-e20f-479f-a7b9-f7f12354a4ab` | 79 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=36186f21-e20f-479f-a7b9-f7f12354a4ab |
 | https://higgsfield.ai/motion/b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba | `b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba` | -167 | none | steps 20, frames 81, strength 1, guide_scale 6 | https://higgsfield.ai/ai/video?model=standard&presetMotionId=b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba |
+| https://higgsfield.ai/motion/6d7fbb57-6008-4db4-a65c-56a10fc37969 | `6d7fbb57-6008-4db4-a65c-56a10fc37969` | -331 | none | none published (empty `settings`); model Wan 2.5 | https://higgsfield.ai/ai/video?model=wan2_5_video&presetMotionId=6d7fbb57-6008-4db4-a65c-56a10fc37969 |
+
+Round 2 (non-sitemap pages): 1 more variant(s) of this name run on a different model: Wan 2.5 — family `wan2_5_video`, Generate button opens `/ai/video?model=wan2_5_video&presetMotionId=<id>` (the page's samples block reports model `wan2_5_video`). These pages publish no settings.
 
 ## Prompts
 
@@ -51,7 +54,13 @@ Use it as: upload a start image that matches the scene, select motion preset **D
 | 5 | https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab/52d84f61-e6ce-4290-a177-95d1119ada3a | https://static.higgsfield.ai/52d84f61-e6ce-4290-a177-95d1119ada3a.mp4 | https://static.higgsfield.ai/52d84f61-e6ce-4290-a177-95d1119ada3a.webp | https://d1xarpci4ikg0w.cloudfront.net/b4beac8a-d858-4eca-921c-acefdadb3318.webp (320×182) |
 | 6 | https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab/00ee75e4-6abc-484c-8ef9-1300789c5f09 | https://static.higgsfield.ai/00ee75e4-6abc-484c-8ef9-1300789c5f09.mp4 | https://static.higgsfield.ai/00ee75e4-6abc-484c-8ef9-1300789c5f09.webp | https://d1xarpci4ikg0w.cloudfront.net/248151b0-bf22-4348-bafa-377e0beee6be.webp (320×424) |
 
-Source pages: https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab, https://higgsfield.ai/motion/b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba. Crawled 2026-09.
+- Card preview, round-2 variant `6d7fbb57` (Wan 2.5): https://cdn.higgsfield.ai/wan2_5_motion/f9c6722c-746d-4a93-826c-c056514a575f.mp4 · thumbnail https://cdn.higgsfield.ai/wan2_5_motion/1277099a-f9ee-4303-a554-9c08709290f7.webp (600×800)
+
+### Sample videos, round-2 variant `6d7fbb57` (Wan 2.5) (0)
+
+None listed on the page.
+
+Source pages: https://higgsfield.ai/motion/36186f21-e20f-479f-a7b9-f7f12354a4ab, https://higgsfield.ai/motion/b03fa9e3-8e69-4fa2-bcc2-b18e362f9fba, https://higgsfield.ai/motion/6d7fbb57-6008-4db4-a65c-56a10fc37969. Crawled 2026-09.
 
 
 ## Real sample prompts (site)
