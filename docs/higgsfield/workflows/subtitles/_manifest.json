@@ -1,0 +1,21 @@
+{
+  "mode": "workflow",
+  "source": "bundled_resource",
+  "workflow": "subtitles",
+  "version": "1.0",
+  "scripts_dir": "/home/user/.higgsfield/workflows/subtitles",
+  "available_paths": [
+    "SKILL.md",
+    "scripts/audio_to_captions.py",
+    "scripts/burn_caps_clean.sh",
+    "scripts/fetch_fonts.sh",
+    "scripts/fonts/README.md",
+    "scripts/subtitle_paper_burn.py"
+  ],
+  "available_directories": [
+    ".",
+    "scripts",
+    "scripts/fonts"
+  ],
+  "how_to_load_more": "Call get_workflow_bundle_file with { workflow: \"subtitles\", path } when the SKILL.md asks for a resource file."
+}
