@@ -1,0 +1,24 @@
+{
+ "mode": "workflow",
+ "source": "bundled_resource",
+ "workflow": "ugc-tutorial-video",
+ "version": "1.0",
+ "scripts_dir": "/home/user/.higgsfield/workflows/ugc-tutorial-video",
+ "available_paths": [
+  "SKILL.md",
+  "references/product-intake.md",
+  "references/soul-v2-ugc-character.md",
+  "references/subtitles.md",
+  "references/ugc-tutorial-boards.md",
+  "references/ugc-tutorial-clip-prompt.md",
+  "scripts/group_captions.py",
+  "scripts/make_captions.py",
+  "scripts/transcribe_words.py"
+ ],
+ "available_directories": [
+  ".",
+  "references",
+  "scripts"
+ ],
+ "how_to_load_more": "Call get_workflow_bundle_file with { workflow: \"ugc-tutorial-video\", path } when the SKILL.md asks for a resource file."
+}

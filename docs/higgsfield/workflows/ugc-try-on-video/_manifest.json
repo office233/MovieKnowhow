@@ -1,0 +1,24 @@
+{
+ "mode": "workflow",
+ "source": "bundled_resource",
+ "workflow": "ugc-try-on-video",
+ "version": "1.0",
+ "scripts_dir": "/home/user/.higgsfield/workflows/ugc-try-on-video",
+ "available_paths": [
+  "SKILL.md",
+  "references/product-intake.md",
+  "references/subtitles.md",
+  "references/ugc-character.md",
+  "references/ugc-try-board.md",
+  "references/ugc-try-clip.md",
+  "scripts/group_captions.py",
+  "scripts/make_captions.py",
+  "scripts/transcribe_words.py"
+ ],
+ "available_directories": [
+  ".",
+  "references",
+  "scripts"
+ ],
+ "how_to_load_more": "Call get_workflow_bundle_file with { workflow: \"ugc-try-on-video\", path } when the SKILL.md asks for a resource file."
+}

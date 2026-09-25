@@ -1,0 +1,15 @@
+SKILL.md	16923
+references/saas-clip-prompt.md	5233
+references/saas-monologue.md	11090
+references/saas-ugc-character.md	6482
+references/screen-broll-and-composite.md	7728
+references/subtitles.md	5842
+references/ugc-character.md	63852
+references/website-capture.md	6068
+scripts/capture_site.mjs	9075
+scripts/group_captions.py	8598
+scripts/make_captions.py	7115
+scripts/transcribe_words.py	1904
+ui.yaml	321
+
+# SKILL.md = bundle SKILL.md + server-appended 'Bundled scripts' and 'Unlimited generations' sections (template checked against the live get_workflow_instructions response for ugc-product-video). Nothing left unfetched.

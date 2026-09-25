@@ -3,13 +3,12 @@
 ## Resolved on the second pass (2026-09-25, Higgsfield MCP reconnected)
 - **Marketing Studio: 649/649** presets (`raw/presets/marketing_studio_list_c*.json` → `presets/marketing-studio/<type>/`). Per-type input schema in `raw/presets/marketing_studio_schema_<type>.json`: every type needs `product_media_id`; `product_shots_people` adds `avatar`; `saas_motion` adds `brand_url`. The detail endpoint exposes **no prompt template** for these presets, only the input schema.
 - **Recipes: 63/63** full, verbatim (`presets/recipes/*.md`, parameters in `raw/recipes/*.params.json`). Plus 3 commands not listed in the catalog: `/genjutsu`, `/use-after-effects`, `/use-blender` (`presets/commands/`).
-- **Workflows: 16/16**, with all bundle files (`workflows/INDEX.md`).
+- **Workflows: 16/16**, with all bundle files, `SKILL.md` (as returned by the server), `_manifest.json` and `_files.txt` (`workflows/INDEX.md`).
 - **New:** 22 explainer styles and the only Marketplace app (Match Cut + Tracelab): `presets/explainer-and-apps.md`.
 
 ## Still open after the second pass
 - **Community projects' prompts (Hell Grind etc.):** the MCP does **not** expose them. `get_presets(query:'hell grind')` and `apps_search` return nothing. `show_generations` and `list_websites` only show the account's own content. They remain reachable only through a headless browser on higgsfield.ai.
-- **`ugc-*` workflows (6):** the bundle files are complete, but `SKILL.md` exists only as the bundle's own version (`_bundle_SKILL.md`), without the sections the server appends, `_manifest.json` or `_files.txt`. The permission check blocked the agent's write step for those files.
-- **Exact verbatim check for the recipes:** the text was copied from the tool responses. There is no automatic byte comparison against the server; `hero-shot` and `luxury` were checked by hand and match. The workflow bundles *were* size-checked against `size_bytes`.
+- **Exact verbatim check for the recipes:** the text was copied from the tool responses. There is no automatic byte comparison against the server; `hero-shot`, `luxury` (image) and `whip-pan` (video) were checked against the live response and match. The workflow bundles *were* size-checked against `size_bytes`.
 - **Viral Hub:** the internal model/prompt behind the 87 chain presets is still not exposed.
 - **Not re-attempted:** 3D animation actions (300/678), voices, own generations, balance.
 

@@ -1,0 +1,25 @@
+{
+ "mode": "workflow",
+ "source": "bundled_resource",
+ "workflow": "ugc-review-video",
+ "version": "1.1",
+ "scripts_dir": "/home/user/.higgsfield/workflows/ugc-review-video",
+ "available_paths": [
+  "SKILL.md",
+  "references/monologue-craft.md",
+  "references/product-intake.md",
+  "references/subtitles.md",
+  "references/ugc-board.md",
+  "references/ugc-character.md",
+  "references/ugc-clip.md",
+  "scripts/group_captions.py",
+  "scripts/make_captions.py",
+  "scripts/transcribe_words.py"
+ ],
+ "available_directories": [
+  ".",
+  "references",
+  "scripts"
+ ],
+ "how_to_load_more": "Call get_workflow_bundle_file with { workflow: \"ugc-review-video\", path } when the SKILL.md asks for a resource file."
+}

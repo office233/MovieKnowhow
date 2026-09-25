@@ -1,0 +1,28 @@
+{
+ "mode": "workflow",
+ "source": "bundled_resource",
+ "workflow": "ugc-website-video",
+ "version": "1.0",
+ "scripts_dir": "/home/user/.higgsfield/workflows/ugc-website-video",
+ "available_paths": [
+  "SKILL.md",
+  "references/saas-clip-prompt.md",
+  "references/saas-monologue.md",
+  "references/saas-ugc-character.md",
+  "references/screen-broll-and-composite.md",
+  "references/subtitles.md",
+  "references/ugc-character.md",
+  "references/website-capture.md",
+  "scripts/capture_site.mjs",
+  "scripts/group_captions.py",
+  "scripts/make_captions.py",
+  "scripts/transcribe_words.py",
+  "ui.yaml"
+ ],
+ "available_directories": [
+  ".",
+  "references",
+  "scripts"
+ ],
+ "how_to_load_more": "Call get_workflow_bundle_file with { workflow: \"ugc-website-video\", path } when the SKILL.md asks for a resource file."
+}

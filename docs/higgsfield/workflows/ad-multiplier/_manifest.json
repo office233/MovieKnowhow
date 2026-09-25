@@ -1,0 +1,17 @@
+{
+ "mode": "workflow",
+ "source": "bundled_resource",
+ "workflow": "ad-multiplier",
+ "version": "1.4",
+ "available_paths": [
+  "SKILL.md",
+  "references/media-pipeline.md",
+  "references/prompt-writer.md",
+  "ui.yaml"
+ ],
+ "available_directories": [
+  ".",
+  "references"
+ ],
+ "how_to_load_more": "Call get_workflow_bundle_file with { workflow: \"ad-multiplier\", path } when the SKILL.md asks for a resource file."
+}

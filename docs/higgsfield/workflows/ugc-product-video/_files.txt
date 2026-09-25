@@ -1,0 +1,10 @@
+SKILL.md	15942
+references/product-intake.md	5885
+references/subtitles.md	5461
+references/ugc-product-boards.md	61139
+references/ugc-product-clip-prompt.md	57676
+scripts/group_captions.py	8598
+scripts/make_captions.py	7115
+scripts/transcribe_words.py	1904
+
+# SKILL.md = bundle SKILL.md + server-appended 'Bundled scripts' and 'Unlimited generations' sections (template checked against the live get_workflow_instructions response for ugc-product-video). Nothing left unfetched.
