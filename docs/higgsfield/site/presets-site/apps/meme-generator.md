@@ -1,8 +1,8 @@
-# AI Meme Generator: Create Memes Instantly
+# AI Meme Generator
 
 - **Site page:** https://higgsfield.ai/apps/meme-generator
 - **Page title:** AI Meme Generator: Create Memes Instantly | Higgsfield
-- **Category:** not listed on category pages crawled
+- **Category:** Extras
 - **Page kind:** custom/stepper tool page
 - **Model:** not disclosed on the public page
 
@@ -33,4 +33,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Fun one-off social images.

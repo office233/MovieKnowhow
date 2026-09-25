@@ -1,8 +1,8 @@
-# AI Camera Angles — Change Image Perspective
+# Angles 2.0
 
 - **Site page:** https://higgsfield.ai/apps/angles
 - **Page title:** AI Camera Angles — Change Image Perspective | Higgsfield
-- **Category:** not listed on category pages crawled
+- **Category:** Professional
 - **Page kind:** custom/stepper tool page
 - **Model:** not disclosed on the public page
 
@@ -22,4 +22,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Pre-production and finishing: coverage, angles, transitions, grading.

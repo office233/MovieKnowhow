@@ -1,4 +1,4 @@
-# Micro-Beasts
+# Micro-Beasts (Surrounded by Animals)
 
 - **Site page:** https://higgsfield.ai/apps/surrounded-by-animals
 - **Page title:** Micro-Beasts Pack | Higgsfield

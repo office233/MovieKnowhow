@@ -1,4 +1,4 @@
-# On Fire
+# On Fire (This is Fine)
 
 - **Site page:** https://higgsfield.ai/apps/this-is-fine
 - **Page title:** On Fire: 'This Is Fine' AI Meme Effect | Higgsfield

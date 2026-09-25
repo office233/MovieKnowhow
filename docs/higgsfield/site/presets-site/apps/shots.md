@@ -1,8 +1,8 @@
-# Shots: Generate Storyboard Angles from One Image • Higgsfield
+# Shots
 
 - **Site page:** https://higgsfield.ai/apps/shots
 - **Page title:** Shots: Generate Storyboard Angles from One Image • Higgsfield
-- **Category:** not listed on category pages crawled
+- **Category:** Professional
 - **Page kind:** client-rendered tool page (only meta tags in static HTML)
 - **Model:** not disclosed on the public page
 
@@ -22,4 +22,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Pre-production and finishing: coverage, angles, transitions, grading.

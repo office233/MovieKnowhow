@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/click-to-ad
 - **Page title:** Marketing Studio • Higgsfield
-- **Category:** not listed on category pages crawled
+- **Category:** Ads & Products
 - **Page kind:** custom/stepper tool page
 - **Model:** not disclosed on the public page
 
@@ -22,4 +22,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Product ad / packshot / social ad creative from a single product photo.

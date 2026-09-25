@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/mugshot
 - **Page title:** Mugshot
-- **Category:** not listed on category pages crawled
+- **Category:** (not on crawled category pages; likely Trending Templates)
 - **Page kind:** app preset · **preset id:** `mugshot` · **routing slugType:** `nano_banana`
 - **Author (preset creator):** venquira
 - **Output type:** video

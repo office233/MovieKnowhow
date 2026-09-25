@@ -1,8 +1,8 @@
-# Urban Cuts: AI Beat-Synced Outfit Video
+# Urban Cuts
 
 - **Site page:** https://higgsfield.ai/apps/urban-cuts
 - **Page title:** Urban Cuts: AI Beat-Synced Outfit Video | Higgsfield
-- **Category:** not listed on category pages crawled
+- **Category:** Video Editing
 - **Page kind:** client-rendered tool page (only meta tags in static HTML)
 - **Model:** not disclosed on the public page
 
@@ -22,4 +22,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Short-form edit utilities (cutouts, beat-synced reels, panels).

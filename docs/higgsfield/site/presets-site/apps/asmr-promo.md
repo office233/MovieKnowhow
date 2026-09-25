@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/asmr-promo
 - **Page title:** ASMR Promo
-- **Category:** not listed on category pages crawled
+- **Category:** (not on crawled category pages; likely Ads & Products)
 - **Page kind:** app preset · **preset id:** `asmr-promo` · **routing slugType:** `nano_banana`
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)

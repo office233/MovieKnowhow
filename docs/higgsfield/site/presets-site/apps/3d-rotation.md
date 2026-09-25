@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/3d-rotation
 - **Page title:** 3D Rotation
-- **Category:** not listed on category pages crawled
+- **Category:** (not on crawled category pages; likely Games & Characters)
 - **Page kind:** app preset · **preset id:** `3d-rotation` · **routing slugType:** `nano_banana`
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)

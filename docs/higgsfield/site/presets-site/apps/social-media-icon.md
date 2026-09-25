@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/social-media-icon
 - **Page title:** Social Media Icon
-- **Category:** not listed on category pages crawled
+- **Category:** (not on crawled category pages; likely Trending Templates)
 - **Page kind:** app preset · **preset id:** `social-media-icon` · **routing slugType:** `nano_banana`
 - **Author (preset creator):** lomzaro
 - **Output type:** video

@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/idol
 - **Page title:** Idol: AI K-Pop Performance Video Effect | Higgsfield
-- **Category:** not listed on category pages crawled
+- **Category:** Trending Templates
 - **Page kind:** app preset · **preset id:** `idol` · **routing slugType:** `nano_banana`
 - **Author (preset creator):** xandora
 - **Output type:** video
@@ -28,4 +28,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Viral meme/trend clip from a selfie or portrait.

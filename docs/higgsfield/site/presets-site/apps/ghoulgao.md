@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/ghoulgao
 - **Page title:** Ghoulgao
-- **Category:** not listed on category pages crawled
+- **Category:** (not on crawled category pages; likely Trending Templates)
 - **Page kind:** app preset · **preset id:** `ghoulgao` · **routing slugType:** `nano_banana`
 - **Author (preset creator):** trovaka
 - **Output type:** video

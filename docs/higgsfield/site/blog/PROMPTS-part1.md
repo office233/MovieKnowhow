@@ -2,7 +2,21 @@
 
 All generation prompts found in the part-1 blog articles, copied verbatim and grouped by use-case. Each entry names the source article, model and settings where given.
 
-## Cinematic film scene (4)
+## Cinematic film scene (9)
+
+### First prompt: neon Tokyo alley (model specified) — [How To Generate AI Videos Straight From Claude with Higgsfield's MCP](Generate-AI-Videos-From-Claude-with-Higgsfield-MCP.md) P1
+- Source: https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP | Model: Seedance 2.0 via Claude + Higgsfield MCP | Settings: 5 s wide shot
+
+```text
+Generate a cinematic 5-second wide shot of a neon-lit Tokyo alley at night, rain on the pavement, one figure walking away from camera. Use Seedance 2.0.
+```
+
+### Single-asset render — [How To Generate AI Videos Straight From Claude with Higgsfield's MCP](Generate-AI-Videos-From-Claude-with-Higgsfield-MCP.md) P2
+- Source: https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP | Model: Claude picks model via Higgsfield MCP | Settings: 5 s wide shot
+
+```text
+Generate a cinematic 5-second wide shot of a neon-lit Tokyo alley at night.
+```
 
 ### "Backstage" reveal of an existing shot — [Nano Banana Pro Has Arrived. How Google's Latest Image Model Will Change The Game?](How-Nano-Banana-Pro-Changing-The-Game.md) P1
 - Source: https://higgsfield.ai/blog/How-Nano-Banana-Pro-Changing-The-Game | Model: Nano Banana Pro | Settings: image edit on an uploaded shot
@@ -25,6 +39,27 @@ A woman running through an alley chased by light reflections
 Cinematic lighting, wide-angle shot, soft backlight.
 ```
 
+### Neon Tokyo rain walk with umbrella — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P2
+- Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: multi-reference (3 images); cinematic
+
+```text
+“Cinematic style. A woman from image one walking through a neon-lit Tokyo street from image three, holding the umbrella from image two, slow rain, reflections on asphalt, shallow depth of field.”
+```
+
+### Film-noir detective storyboard (Auto mode) — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P3
+- Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: Auto mode, multi-frame
+
+```text
+The woman detective searches for the clues in an unsolved murder case. Film noir, vintage cinema in black and white style.
+```
+
+### Futuristic armor walk through fire — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P7
+- Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: action-over-category example
+
+```text
+a man in futuristic armor walks through fire as the city collapses behind him
+```
+
 ### Cinematic neon portrait of young woman — [Meet Z-Image: What's New from Alibaba in AI Image Generation?](Z-Image-New-from-Alibaba-in-AI-Image-Generation.md) P2
 - Source: https://higgsfield.ai/blog/Z-Image-New-from-Alibaba-in-AI-Image-Generation | Model: Z-Image | Settings: text-to-image
 
@@ -32,7 +67,14 @@ Cinematic lighting, wide-angle shot, soft backlight.
 " Cinematic portrait: Young woman (windswept dark hair) leans on a railing in a dim underground space. Lit by moody green and red neon backlighting, creating dynamic motion. Confident, mysterious expression. High realism, shallow depth of field, futuristic urban photography. "
 ```
 
-## Character / consistency (6)
+## Character / consistency (12)
+
+### Per-element reference mapping — [How We Created Higgsfield Popcorn? An AI Tool That Allows You to Replace Faces in a Movie Scene](AI-Tool-That-Allows-You-to-Replace-Faces-in-a-Movie-Scene.md) P1
+- Source: https://higgsfield.ai/blog/AI-Tool-That-Allows-You-to-Replace-Faces-in-a-Movie-Scene | Model: Higgsfield Popcorn | Settings: up to 4 reference images
+
+```text
+Character from image one, lighting from image three, outfit from image four
+```
 
 ### Multi-image reference composition — [How to Use AI for Storyboards? Generate with Higgsfield Popcorn](How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn.md) P1
 - Source: https://higgsfield.ai/blog/How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: multi-reference (images 1–3)
@@ -69,6 +111,34 @@ Replace the man from image two with the woman from image three, same camera angl
 the same woman from the first image walks from a cafe to a crowded street
 ```
 
+### Character + location + outfit mapping — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P1
+- Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: multi-reference (images 1,3,4)
+
+```text
+“Man from image one in the location from image three wearing the outfit from image four.”
+```
+
+### Couple placed in setting IMG1 — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P4
+- Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: Manual mode, frame 1
+
+```text
+Put a man with a woman in the setting from IMG1 with similar poses
+```
+
+### Couple placed in setting IMG2 — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P5
+- Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: Manual mode, frame 2
+
+```text
+Put a man with a woman in the setting from IMG2 with similar poses
+```
+
+### Pose transfer onto character — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P6
+- Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: 2 input images + prompt -> 1 output
+
+```text
+Do the same action pose as in the IMG2 for the character in IMG1, the background is plain white.
+```
+
 ### Face fix — [#1 Editing Tool in 2025: Meet Nano Banana Pro Inpaint](Top-Editing-Tool-in-2025-Nano-Banana-Pro-Inpaint.md) P4
 - Source: https://higgsfield.ai/blog/Top-Editing-Tool-in-2025-Nano-Banana-Pro-Inpaint | Model: Nano Banana Pro Inpaint | Settings: mask only the area needing correction
 
@@ -76,7 +146,15 @@ the same woman from the first image walks from a cafe to a crowded street
 Smooth skin naturally, remove blemishes, keep identity.
 ```
 
-## Product ad (8)
+### Character replacement edit preserving shot, timing and audio (1980s suit, leopard tie) — [5 Best Ways to Access Gemini Omni Flash in 2026: Platforms and Plans](best-ways-to-access-gemini-omni-flash-2026.md) P1
+- Source: https://higgsfield.ai/blog/best-ways-to-access-gemini-omni-flash-2026 | Model: Gemini Omni Flash | Settings: video edit (character replacement), 720p, up to 10 s, static camera
+
+```text
+" Preserve everything about the scene exactly as it is: the static medium shot of a character sitting behind a white office desk, waist-up framing, in front of a large floor-to-ceiling window overlooking a dense sunny city skyline. Preserve the desk setup untouched, the black rotary telephone, the folded newspaper with a yellow pencil resting on it, the small black leather notebook, and the desk pad. Preserve the exact timing and actions: the character holds the phone receiver to their ear from the start, hangs it up at the same moment, then turns toward the window, exhales, and leans back with arms settling in a relaxed, satisfied posture. Preserve the camera, which stays completely static throughout, the bright natural daylight pouring in from the window, and the soft shadows across the office. Preserve the audio exactly the same spoken line, the same phone-hang-up sound, and the same exhale.
+Replace the character entirely with a new one: swap the previous figure for a young man with dark curly hair and a chiseled jawline, wearing an oversized tan/beige retro 1980s business suit over a light blue button-up shirt, finished with a bold leopard-print silk tie. Give him the same confident, corporate energy, focused and slightly tense while on the call, then relieved and smirking as he leans back. Every other element of the shot, motion, timing, lighting, and sound must remain identical to the original."
+```
+
+## Product ad (9)
 
 ### Brand book generation — [Nano Banana Pro Has Arrived. How Google's Latest Image Model Will Change The Game?](How-Nano-Banana-Pro-Changing-The-Game.md) P2
 - Source: https://higgsfield.ai/blog/How-Nano-Banana-Pro-Changing-The-Game | Model: Nano Banana Pro | Settings: text-to-image
@@ -120,6 +198,13 @@ Perfume bottle melting into gold.
 Create a flat lay product shot with three objects arranged symmetrically, warm lighting, handwritten typography, and a visible infographic overlay.
 ```
 
+### Light cue for Day-in-the-Life format — [How to Make Product Videos for TikTok and Reels Without Filming: 10 AI Formats That Work](Product-Videos-TikTok-Reels-Without-Filming.md) P1
+- Source: https://higgsfield.ai/blog/Product-Videos-TikTok-Reels-Without-Filming | Model: Seedance 2.0 preset: Dynamic Sport Ad | Settings: 9:16
+
+```text
+Morning glow through window
+```
+
 ### Replacement (clothing) — [#1 Editing Tool in 2025: Meet Nano Banana Pro Inpaint](Top-Editing-Tool-in-2025-Nano-Banana-Pro-Inpaint.md) P2
 - Source: https://higgsfield.ai/blog/Top-Editing-Tool-in-2025-Nano-Banana-Pro-Inpaint | Model: Nano Banana Pro Inpaint | Settings: masked garment
 
@@ -134,7 +219,14 @@ Turn the T-shirt into a black leather jacket.
 Add a golden watch to the wrist.
 ```
 
-## UGC (1)
+## UGC (2)
+
+### Train character then 6-shot UGC product reel — [How To Generate AI Videos Straight From Claude with Higgsfield's MCP](Generate-AI-Videos-From-Claude-with-Higgsfield-MCP.md) P4
+- Source: https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP | Model: Claude + Higgsfield MCP (Soul Character + UGC preset) | Settings: 6 shots, TikTok vertical
+
+```text
+Train a character from these photos, then generate a 6-shot product reel for TikTok using the UGC preset.
+```
 
 ### Change background to bedroom (UGC) — [Next-Gen AI Photo Editing Tool: Build Storyboards with Higgsfield Popcorn](Next-Gen-AI-Photo-Editing-Tool-Higgsfield-Popcorn.md) P1
 - Source: https://higgsfield.ai/blog/Next-Gen-AI-Photo-Editing-Tool-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: 2 input images + prompt -> 1 output
@@ -172,7 +264,14 @@ Human transforming into werewolf under moonlight.
 Anime girl turning into a light spirit.
 ```
 
-## Other (14)
+## Other (15)
+
+### Multi-model showdown — [How To Generate AI Videos Straight From Claude with Higgsfield's MCP](Generate-AI-Videos-From-Claude-with-Higgsfield-MCP.md) P3
+- Source: https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP | Model: Veo, Kling, Seedance via MCP | Settings: parallel multi-model
+
+```text
+Run this scene on Veo, Kling, and Seedance and show me the best result.
+```
 
 ### Game 1 — Pirates first-person game — [Build Multiplayer Games With AI](Higgsfield-Games.md) P1
 - Source: https://higgsfield.ai/blog/Higgsfield-Games | Model: Claude Fable 5 + Higgsfield MCP + Game Studio skill | Settings: one-sentence game prompt

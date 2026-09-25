@@ -1,8 +1,8 @@
-# AI Skin Enhancer
+# Skin Enhancer
 
 - **Site page:** https://higgsfield.ai/apps/skin-enhancer
 - **Page title:** AI Skin Enhancer | Retouch Portraits Online
-- **Category:** not listed on category pages crawled
+- **Category:** Enhance & Style
 - **Page kind:** client-rendered tool page (only meta tags in static HTML)
 - **Model:** not disclosed on the public page
 
@@ -22,4 +22,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Fashion/lookbook, outfit content, photo polish.

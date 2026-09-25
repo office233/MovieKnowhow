@@ -1,8 +1,8 @@
-# AI Image Relighter — Change Lighting on Any Photo
+# Relight
 
 - **Site page:** https://higgsfield.ai/apps/relight
 - **Page title:** AI Image Relighter — Change Lighting on Any Photo | Higgsifled
-- **Category:** not listed on category pages crawled
+- **Category:** Enhance & Style
 - **Page kind:** custom/stepper tool page
 - **Model:** not disclosed on the public page
 
@@ -22,4 +22,4 @@ Prompt-free one-click preset: no text prompt field; you only upload media (and p
 
 ## Use-cases
 
-Social / viral content from one upload.
+Fashion/lookbook, outfit content, photo polish.

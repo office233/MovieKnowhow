@@ -2,7 +2,7 @@
 
 - **Site page:** https://higgsfield.ai/apps/gtai
 - **Page title:** GTAI
-- **Category:** not listed on category pages crawled
+- **Category:** (not on crawled category pages; likely Games & Characters)
 - **Page kind:** app preset · **preset id:** `gtai` · **routing slugType:** `nano_banana`
 - **Author (preset creator):** bravonoir
 - **Output type:** video
