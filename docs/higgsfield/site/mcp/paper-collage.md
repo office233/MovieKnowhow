@@ -61,3 +61,7 @@ Help me create an editable paper-collage animation in Adobe After Effects. Check
 Copy the connector URL → Connect Higgsfield in Claude → Start with your prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Motion Design in After Effects (`/use-after-effects`), Localization Motion in After Effects (`/localization-motion`), Whiteboard Animation in After Effects (`/whiteboard-animation`), Illustration Animation in After Effects (`/illustration-animation`), SaaS Animation in After Effects (`/saas-animation`), Presentation Animation in After Effects (`/presentation-animation`)

@@ -52,3 +52,7 @@ Reference media:
 Copy the connector URL → Connect Higgsfield in Claude → Start with your prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Localization Motion in After Effects (`/localization-motion`), SaaS Animation in After Effects (`/saas-animation`), Illustration Animation in After Effects (`/illustration-animation`), Whiteboard Animation in After Effects (`/whiteboard-animation`), Motion Design in After Effects (`/use-after-effects`), Paper Collage in After Effects (`/paper-collage`)

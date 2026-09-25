@@ -52,3 +52,7 @@ Reference media:
 Copy the connector URL → Connect Higgsfield in Claude → Start with your prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Ad Recreator (`/marketing-adapt-video`), Campaign Analyst (`/marketing-campaign-manager`), Headline Multiplier (`/marketing-headline-variants`)

@@ -53,3 +53,7 @@ Reference media:
 Copy the Higgsfield connector URL → Connect Higgsfield in Claude → Run your first prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Unboxing UGC (`/unboxing-ugc-skill`), Product review UGC (`/ugc-flow`)

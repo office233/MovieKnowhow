@@ -16,3 +16,16 @@ Research your market, create static and video ads, and plan your next campaign t
 ```text
 /marketing Help me plan, create, or improve my ads. Choose a workflow based on my product, audience, goals, and assets.
 ```
+
+## Workflows inside this bundle
+
+| Preset | Command | Tags |
+|---|---|---|
+| Campaign Analyst | `/marketing-campaign-manager` | Paid Ads |
+| Ad Strategist | `/marketing-research-to-ads` | Paid Ads |
+| Customer Voice Ads | `/marketing-feedback-to-ads` | Paid Ads |
+| Headline Multiplier | `/marketing-headline-variants` | Paid Ads |
+| Ad Resizer | `/marketing-resize-ads` | Paid Ads |
+| Ad Localizer | `/marketing-localize-ads` | Paid Ads |
+| Ad Recreator | `/marketing-adapt-video` | Paid Ads |
+| Hook Multiplier | `/marketing-hook-variants` | Paid Ads |

@@ -64,3 +64,7 @@ Use the installed integration and its matching workflow instructions. Verify the
 Open Claude Desktop → Connect Higgsfield → Install Adobe Premiere Pro → Start your first workflow
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Create VFX composites in After Effects (`/Shot-Composer`), Remove unwanted objects in After Effects (`/Shot-Cleanup`), Convert images to vectors in Illustrator (`/Vectorize`), Clean up images in Photoshop (`/Image-fixer`)

@@ -64,3 +64,7 @@ Check that the required local tools and workflow instructions are available befo
 Open Claude Desktop → Connect Higgsfield → Install TouchDesigner → Start your first workflow
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Color grade footage in DaVinci Resolve (`/color-grading`), Simulate destruction in Blender (`/Destruction-Studio`), Animate object assembly in Blender (`/Exploded-view`), Build 3D scenes in Blender (`/Scene-Builder`)

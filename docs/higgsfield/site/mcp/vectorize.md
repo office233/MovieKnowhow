@@ -64,3 +64,7 @@ Use the installed integration and its matching workflow instructions. Verify the
 Open Claude Desktop → Connect Higgsfield → Install Adobe Illustrator → Start your first workflow
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Clean up images in Photoshop (`/Image-fixer`), Create visual effects in TouchDesigner (`/use-touchdesigner`), Color grade footage in DaVinci Resolve (`/color-grading`), Simulate destruction in Blender (`/Destruction-Studio`)

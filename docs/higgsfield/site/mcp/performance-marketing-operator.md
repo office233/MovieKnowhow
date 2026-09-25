@@ -41,3 +41,7 @@ Review the supplied 14 days of campaign data. Group recommendations into scale, 
 Copy the connector URL → Connect Higgsfield in Claude → Start with your prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Hook Multiplier (`/marketing-hook-variants`), Headline Multiplier (`/marketing-headline-variants`), Ad Strategist (`/marketing-research-to-ads`)

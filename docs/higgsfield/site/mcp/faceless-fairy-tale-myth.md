@@ -41,3 +41,7 @@ Create a faceless explainer about how airplanes fly in a fairy-tale and myth-ins
 Copy the Higgsfield connector URL → Connect Higgsfield in Claude → Run your first prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Stickman cartoon (`/stickman-explainer`)

@@ -49,3 +49,7 @@ Create a stickman cartoon faceless video showing Odysseus
 Copy the Higgsfield connector URL → Connect Higgsfield in Claude → Run your first prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Mannequin (`/faceless-mannequin`)

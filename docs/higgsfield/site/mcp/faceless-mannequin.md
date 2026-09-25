@@ -41,3 +41,7 @@ Create a landscape faceless explainer about the beginnings of film and how early
 Copy the Higgsfield connector URL → Connect Higgsfield in Claude → Run your first prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Hand Drawn (`/faceless-hand-drawn`), Paper Diorama (`/faceless-paper-diorama`), Pastel Flat 2D (`/faceless-pastel-flat-2d`)

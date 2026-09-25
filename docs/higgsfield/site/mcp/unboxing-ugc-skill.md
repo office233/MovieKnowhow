@@ -41,3 +41,7 @@ Create a lifestyle-product unboxing UGC video with a clear package opening and p
 Copy the Higgsfield connector URL → Connect Higgsfield in Claude → Run your first prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Product review UGC (`/ugc-flow`), Physical UGC video (`/physical-ugc-skill`)

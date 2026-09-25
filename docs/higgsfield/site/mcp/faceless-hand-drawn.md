@@ -41,3 +41,7 @@ Create a landscape faceless explainer showing how an idea becomes printed book p
 Copy the Higgsfield connector URL → Connect Higgsfield in Claude → Run your first prompt
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Paper Diorama (`/faceless-paper-diorama`), Pastel Flat 2D (`/faceless-pastel-flat-2d`), Whiteboard Doodle (`/faceless-whiteboard-doodle`)

@@ -64,3 +64,7 @@ Use the installed integration and its matching workflow instructions. Verify the
 Open Claude Desktop → Connect Higgsfield → Install Blender → Start your first workflow
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Simulate destruction in Blender (`/Destruction-Studio`), Animate object assembly in Blender (`/Exploded-view`), Build 3D scenes in Blender (`/Scene-Builder`), Organize footage in Premiere Pro (`/Project-sorter`)

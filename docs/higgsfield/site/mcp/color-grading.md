@@ -61,3 +61,7 @@ Check that the required local tools and workflow instructions are available befo
 Open Claude Desktop → Connect Higgsfield → Install DaVinci Resolve Studio → Start your first workflow
 
 See [INDEX.md](INDEX.md#how-to-connect-common-to-every-mcp-preset-page) for the full connection options.
+
+## Recommended presets (cross-links)
+
+Simulate destruction in Blender (`/Destruction-Studio`), Animate object assembly in Blender (`/Exploded-view`), Build 3D scenes in Blender (`/Scene-Builder`), Create cartoon materials in Blender (`/Cartoon-shaders`)

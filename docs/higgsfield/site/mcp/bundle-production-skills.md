@@ -52,3 +52,19 @@ Available workflows:
 
 Ask me for the source assets and project files. Verify the required local tools before editing. Use /use-blender, /use-premiere, /use-after-effects, /use-illustrator, or /use-photoshop for the chosen application when setup is needed. Check available workflow instructions for TouchDesigner and DaVinci Resolve. Do not treat the bundle banner as source artwork.
 ```
+
+## Workflows inside this bundle
+
+| Preset | Command | Tags |
+|---|---|---|
+| Simulate destruction in Blender | `/Destruction-Studio` | Production |
+| Animate object assembly in Blender | `/Exploded-view` | Production |
+| Build 3D scenes in Blender | `/Scene-Builder` | Production |
+| Create cartoon materials in Blender | `/Cartoon-shaders` | Production |
+| Organize footage in Premiere Pro | `/Project-sorter` | Production |
+| Create VFX composites in After Effects | `/Shot-Composer` | Production |
+| Remove unwanted objects in After Effects | `/Shot-Cleanup` | Production |
+| Convert images to vectors in Illustrator | `/Vectorize` | Production |
+| Clean up images in Photoshop | `/Image-fixer` | Production |
+| Create visual effects in TouchDesigner | `/use-touchdesigner` | Production |
+| Color grade footage in DaVinci Resolve | `/color-grading` | Production |
