@@ -1,0 +1,27 @@
+{
+ "type": "product_shots",
+ "sample_preset_id": "941ef07a-c2ab-5a0e-ac67-4e6c762c8ef2",
+ "execution": {
+  "available": true,
+  "tool": "execute_preset",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "product_media_id": {
+     "type": "string",
+     "title": "Product image",
+     "x-media": "image"
+    },
+    "prompt": {
+     "type": "string",
+     "title": "Describe your result",
+     "maxLength": 5000
+    }
+   },
+   "required": [
+    "product_media_id"
+   ],
+   "additionalProperties": false
+  }
+ }
+}

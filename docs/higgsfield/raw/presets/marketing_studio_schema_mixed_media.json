@@ -1,0 +1,27 @@
+{
+ "type": "mixed_media",
+ "sample_preset_id": "000b690e-7f6d-4a7c-9196-a90f15494bb6",
+ "execution": {
+  "available": true,
+  "tool": "execute_preset",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "product_media_id": {
+     "type": "string",
+     "title": "Product image",
+     "x-media": "image"
+    },
+    "prompt": {
+     "type": "string",
+     "title": "Describe your result",
+     "maxLength": 5000
+    }
+   },
+   "required": [
+    "product_media_id"
+   ],
+   "additionalProperties": false
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "type": "2d_motion",
+ "sample_preset_id": "3a97fb7e-b95b-45f7-b19b-73cdabeaf0b9",
+ "execution": {
+  "available": true,
+  "tool": "execute_preset",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "product_media_id": {
+     "type": "string",
+     "title": "Product image",
+     "x-media": "image"
+    },
+    "prompt": {
+     "type": "string",
+     "title": "Describe your result",
+     "maxLength": 5000
+    }
+   },
+   "required": [
+    "product_media_id"
+   ],
+   "additionalProperties": false
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "type": "product_shots_people",
+ "sample_preset_id": "5c8a57f4-8339-5570-bb75-c68c722890a8",
+ "execution": {
+  "available": true,
+  "tool": "execute_preset",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "product_media_id": {
+     "type": "string",
+     "title": "Product image",
+     "x-media": "image"
+    },
+    "avatar": {
+     "type": "object",
+     "title": "Avatar",
+     "x-avatar": true,
+     "x-avatar-value": "entity",
+     "properties": {
+      "id": {
+       "type": "string",
+       "minLength": 1
+      },
+      "type": {
+       "type": "string",
+       "enum": [
+        "preset",
+        "custom"
+       ]
+      }
+     },
+     "required": [
+      "id",
+      "type"
+     ]
+    },
+    "avatar_media_id": {
+     "type": "string",
+     "title": "Avatar media ID",
+     "x-hidden": true
+    },
+    "prompt": {
+     "type": "string",
+     "title": "Describe your result",
+     "maxLength": 5000
+    }
+   },
+   "required": [
+    "product_media_id"
+   ],
+   "additionalProperties": false
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "type": "hypermotion",
+ "sample_preset_id": "46406130-acc3-43f0-b6fe-554a22cad279",
+ "execution": {
+  "available": true,
+  "tool": "execute_preset",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "product_media_id": {
+     "type": "string",
+     "title": "Product image",
+     "x-media": "image"
+    },
+    "prompt": {
+     "type": "string",
+     "title": "Describe your result",
+     "maxLength": 5000
+    }
+   },
+   "required": [
+    "product_media_id"
+   ],
+   "additionalProperties": false
+  }
+ }
+}

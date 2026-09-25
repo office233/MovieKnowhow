@@ -1,0 +1,32 @@
+{
+ "type": "saas_motion",
+ "sample_preset_id": "0b6c3265-7a2f-45e1-9441-9f34cd4fde7a",
+ "execution": {
+  "available": true,
+  "tool": "execute_preset",
+  "input_schema": {
+   "type": "object",
+   "properties": {
+    "product_media_id": {
+     "type": "string",
+     "title": "Product image",
+     "x-media": "image"
+    },
+    "prompt": {
+     "type": "string",
+     "title": "Describe your result",
+     "maxLength": 5000
+    },
+    "brand_url": {
+     "type": "string",
+     "title": "Brand website",
+     "format": "uri"
+    }
+   },
+   "required": [
+    "product_media_id"
+   ],
+   "additionalProperties": false
+  }
+ }
+}
