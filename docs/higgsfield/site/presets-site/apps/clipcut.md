@@ -14,7 +14,7 @@ ClipCut AI outfit reel — upload one selfie, get a beat-synced fashion montage 
 
 ## Inputs
 
-- video mode: image
+- See notes above (input fields not exposed in static HTML).
 
 ## Prompt
 

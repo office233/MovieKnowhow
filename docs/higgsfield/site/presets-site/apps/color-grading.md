@@ -16,7 +16,7 @@ Apply professional cinematic color grades to your photos. Adjust temperature, hu
 
 ## Inputs
 
-- image mode: image
+- See notes above (input fields not exposed in static HTML).
 
 ## Prompt
 

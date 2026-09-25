@@ -16,7 +16,7 @@ Predict how viral your video hook is before you post
 
 ## Inputs
 
-- image mode: image
+- See notes above (input fields not exposed in static HTML).
 
 ## Prompt
 

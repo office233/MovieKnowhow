@@ -7,7 +7,7 @@
 - **Author (preset creator):** bravonoir
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `gtai-image`); Video: 23 credits (template `gtai-video`) · button shown on page: "Generate Video 23"
+- **Cost:** Image: 1 credit (template `gtai-image`); Video: 23 credits (template `gtai-video`) · button shown on page: "Generate Video 23"
 
 ## What it does
 

@@ -6,7 +6,7 @@
 - **Page kind:** app preset · **preset id:** `3d-rotation` · **routing slugType:** `nano_banana`
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `3d-rotation-image`); Video: 15 credits (template `3d-rotation-video`) · button shown on page: "Generate Video 15"
+- **Cost:** Image: 1 credit (template `3d-rotation-image`); Video: 15 credits (template `3d-rotation-video`) · button shown on page: "Generate Video 15"
 
 ## What it does
 

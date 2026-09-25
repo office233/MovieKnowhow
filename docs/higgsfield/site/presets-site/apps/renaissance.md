@@ -7,7 +7,7 @@
 - **Author (preset creator):** plixora
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `renaissance-image`); Video: 15 credits (template `renaissance-video`) · button shown on page: "Generate Video 15"
+- **Cost:** Image: 1 credit (template `renaissance-image`); Video: 15 credits (template `renaissance-video`) · button shown on page: "Generate Video 15"
 
 ## What it does
 

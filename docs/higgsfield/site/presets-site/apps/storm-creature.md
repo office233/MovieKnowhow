@@ -7,7 +7,7 @@
 - **Author (preset creator):** vornica
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `storm-creature-image`); Video: 26 credits (template `storm-creature-video`) · button shown on page: "Generate Video 26"
+- **Cost:** Image: 1 credit (template `storm-creature-image`); Video: 26 credits (template `storm-creature-video`) · button shown on page: "Generate Video 26"
 
 ## What it does
 

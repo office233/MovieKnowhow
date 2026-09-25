@@ -6,7 +6,7 @@
 - **Page kind:** app preset · **preset id:** `kick-ad` · **routing slugType:** `nano_banana`
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `kick-ad-image`); Video: 16 credits (template `kick-ad-video`) · button shown on page: "Generate Video 16"
+- **Cost:** Image: 1 credit (template `kick-ad-image`); Video: 16 credits (template `kick-ad-video`) · button shown on page: "Generate Video 16"
 
 ## What it does
 

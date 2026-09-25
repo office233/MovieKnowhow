@@ -6,7 +6,7 @@
 - **Page kind:** app preset · **preset id:** `magic-button` · **routing slugType:** `nano_banana`
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `magic-button-image`); Video: 26 credits (template `magic-button-video`) · button shown on page: "Generate Video 26"
+- **Cost:** Image: 1 credit (template `magic-button-image`); Video: 26 credits (template `magic-button-video`) · button shown on page: "Generate Video 26"
 
 ## What it does
 

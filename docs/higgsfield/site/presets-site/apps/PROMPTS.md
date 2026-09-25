@@ -19,7 +19,7 @@ Input: one strong keyframe (a Soul/Nano Banana still). Run Shots, Angles and Zoo
 | Relight | [relight.md](relight.md) | — |
 | Color Grading | [color-grading.md](color-grading.md) | — |
 | Skin Enhancer | [skin-enhancer.md](skin-enhancer.md) | — |
-| Sketch-to-Real | [sketch-to-real.md](sketch-to-real.md) | Image: 1 credits (template `sketch-to-real-image`) / Video: 16 credits (template `sketch-to-real-video`) |
+| Sketch-to-Real | [sketch-to-real.md](sketch-to-real.md) | Image: 1 credit (template `sketch-to-real-image`) / Video: 16 credits (template `sketch-to-real-video`) |
 
 ## Character / consistency
 
@@ -36,7 +36,7 @@ Input: a clear, front-lit, unobstructed face or character image plus the target 
 | Outfit Swap | [outfit-swap.md](outfit-swap.md) | Image: 2 credits (template `outfit-swap-image`) |
 | Style Snap | [style-snap.md](style-snap.md) | Image: 2 credits (template `face-swap`) |
 | AI Stylist | [ai-stylist.md](ai-stylist.md) | — |
-| Outfit Shot | [outfit-shot.md](outfit-shot.md) | Image: 1 credits (template `outfit-photoset-image`) / Video: 19 credits (template `outfit-photoset-video`) |
+| Outfit Shot | [outfit-shot.md](outfit-shot.md) | Image: 1 credit (template `outfit-photoset-image`) / Video: 19 credits (template `outfit-photoset-video`) |
 
 ## Product ad
 
@@ -45,22 +45,22 @@ Input: one clean product photo (ideally a cutout from Background Remover). Chain
 | App | Local file | Cost |
 |---|---|---|
 | Click to Ad (Marketing Studio) | [click-to-ad.md](click-to-ad.md) | — |
-| Billboard Ad | [billboard.md](billboard.md) | Image: 1 credits (template `billboard-image`) / Video: 16 credits (template `billboard-video`) |
-| Truck Ad | [truck-ad.md](truck-ad.md) | Image: 1 credits (template `truck-ad-image`) / Video: 19 credits (template `truck-ad-video`) |
-| Bullet Time Scene | [bullet-time-scene.md](bullet-time-scene.md) | Image: 1 credits (template `bullet-time-scene-image`) / Video: 15 credits (template `bullet-time-scene-video`) |
-| Bullet Time White | [bullet-time-white.md](bullet-time-white.md) | Image: 1 credits (template `bullet-time-white-image`) / Video: 15 credits (template `bullet-time-white-video`) |
-| Bullet Time Splash | [bullet-time-splash.md](bullet-time-splash.md) | Image: 1 credits (template `bullet-time-splash-image`) / Video: 16 credits (template `bullet-time-splash-video`) |
-| Giant Product | [giant-product.md](giant-product.md) | Image: 1 credits (template `giant-product-image`) / Video: 19 credits (template `giant-product-video`) |
-| Kick Ad | [kick-ad.md](kick-ad.md) | Image: 1 credits (template `kick-ad-image`) / Video: 16 credits (template `kick-ad-video`) |
-| Graffiti Ad | [graffiti-ad.md](graffiti-ad.md) | Image: 1 credits (template `graffiti-ad-image`) / Video: 16 credits (template `graffiti-ad-video`) |
-| Fridge Ad | [fridge-ad.md](fridge-ad.md) | Image: 1 credits (template `fridge-ad-image`) / Video: 15 credits (template `fridge-ad-video`) |
-| Volcano Ad | [volcano-ad.md](volcano-ad.md) | Image: 1 credits (template `volcano-ad-image`) / Video: 16 credits (template `volcano-ad-video`) |
-| Macroshot product | [macroshot-product.md](macroshot-product.md) | Image: 1 credits (template `macroshot-product-image`) / Video: 15 credits (template `macroshot-product-video`) |
-| Macro Scene | [macroshot-scene.md](macroshot-scene.md) | Image: 1 credits (template `macroshot-scene-image`) / Video: 15 credits (template `macroshot-scene-video`) |
-| Magic button | [magic-button.md](magic-button.md) | Image: 1 credits (template `magic-button-image`) / Video: 26 credits (template `magic-button-video`) |
-| Chameleon | [chameleon.md](chameleon.md) | Image: 1 credits (template `chameleon-image`) / Video: 16 credits (template `chameleon-video`) |
-| Poster | [poster.md](poster.md) | Image: 1 credits (template `poster-image`) / Video: 15 credits (template `poster-video`) |
-| Packshot | [packshot.md](packshot.md) | Image: 1 credits (template `packshot-image`) / Video: 16 credits (template `packshot-video`) |
+| Billboard Ad | [billboard.md](billboard.md) | Image: 1 credit (template `billboard-image`) / Video: 16 credits (template `billboard-video`) |
+| Truck Ad | [truck-ad.md](truck-ad.md) | Image: 1 credit (template `truck-ad-image`) / Video: 19 credits (template `truck-ad-video`) |
+| Bullet Time Scene | [bullet-time-scene.md](bullet-time-scene.md) | Image: 1 credit (template `bullet-time-scene-image`) / Video: 15 credits (template `bullet-time-scene-video`) |
+| Bullet Time White | [bullet-time-white.md](bullet-time-white.md) | Image: 1 credit (template `bullet-time-white-image`) / Video: 15 credits (template `bullet-time-white-video`) |
+| Bullet Time Splash | [bullet-time-splash.md](bullet-time-splash.md) | Image: 1 credit (template `bullet-time-splash-image`) / Video: 16 credits (template `bullet-time-splash-video`) |
+| Giant Product | [giant-product.md](giant-product.md) | Image: 1 credit (template `giant-product-image`) / Video: 19 credits (template `giant-product-video`) |
+| Kick Ad | [kick-ad.md](kick-ad.md) | Image: 1 credit (template `kick-ad-image`) / Video: 16 credits (template `kick-ad-video`) |
+| Graffiti Ad | [graffiti-ad.md](graffiti-ad.md) | Image: 1 credit (template `graffiti-ad-image`) / Video: 16 credits (template `graffiti-ad-video`) |
+| Fridge Ad | [fridge-ad.md](fridge-ad.md) | Image: 1 credit (template `fridge-ad-image`) / Video: 15 credits (template `fridge-ad-video`) |
+| Volcano Ad | [volcano-ad.md](volcano-ad.md) | Image: 1 credit (template `volcano-ad-image`) / Video: 16 credits (template `volcano-ad-video`) |
+| Macroshot product | [macroshot-product.md](macroshot-product.md) | Image: 1 credit (template `macroshot-product-image`) / Video: 15 credits (template `macroshot-product-video`) |
+| Macro Scene | [macroshot-scene.md](macroshot-scene.md) | Image: 1 credit (template `macroshot-scene-image`) / Video: 15 credits (template `macroshot-scene-video`) |
+| Magic button | [magic-button.md](magic-button.md) | Image: 1 credit (template `magic-button-image`) / Video: 26 credits (template `magic-button-video`) |
+| Chameleon | [chameleon.md](chameleon.md) | Image: 1 credit (template `chameleon-image`) / Video: 16 credits (template `chameleon-video`) |
+| Poster | [poster.md](poster.md) | Image: 1 credit (template `poster-image`) / Video: 15 credits (template `poster-video`) |
+| Packshot | [packshot.md](packshot.md) | Image: 1 credit (template `packshot-image`) / Video: 16 credits (template `packshot-video`) |
 | ASMR Add-On | [asmr-add-on.md](asmr-add-on.md) | Video: 23 credits (template `asmr-add-on-video`) |
 | ASMR Promo | [asmr-promo.md](asmr-promo.md) | Video: 23 credits (template `asmr-promo-video`) |
 | Background Remover | [image-background-remover.md](image-background-remover.md) | Image 1 |
@@ -74,9 +74,9 @@ Input: a selfie or creator photo. Use ASMR Host or Mukbang for creator-style for
 |---|---|---|
 | ASMR Host | [asmr-host.md](asmr-host.md) | Video: 23 credits (template `asmr-host-video`) |
 | ASMR Classic | [asmr-classic.md](asmr-classic.md) | Video: 23 credits (template `asmr-classic-video`) |
-| Mukbang | [mukbang.md](mukbang.md) | Image: 1 credits (template `mukbang-image`) / Video: 16 credits (template `mukbang-video`) |
-| Banana Eating | [banana-eating.md](banana-eating.md) | Image: 1 credits (template `banana-eating-image`) / Video: 15 credits (template `banana-eating-video`) |
-| Social Media Icon | [social-media-icon.md](social-media-icon.md) | Image: 1 credits (template `social-media-icon-image`) / Video: 15 credits (template `social-media-icon-video`) |
+| Mukbang | [mukbang.md](mukbang.md) | Image: 1 credit (template `mukbang-image`) / Video: 16 credits (template `mukbang-video`) |
+| Banana Eating | [banana-eating.md](banana-eating.md) | Image: 1 credit (template `banana-eating-image`) / Video: 15 credits (template `banana-eating-video`) |
+| Social Media Icon | [social-media-icon.md](social-media-icon.md) | Image: 1 credit (template `social-media-icon-image`) / Video: 15 credits (template `social-media-icon-video`) |
 | AI Meme Generator | [meme-generator.md](meme-generator.md) | — |
 | Virality Predictor | [virality-predictor.md](virality-predictor.md) | — |
 
@@ -86,38 +86,38 @@ Input: one well-lit portrait with the subject centered (waist-up) on a simple ba
 
 | App | Local file | Cost |
 |---|---|---|
-| Yes Kiss | [yes-kiss.md](yes-kiss.md) | Image: 1 credits (template `yes-kiss-image`) / Video: 19 credits (template `yes-kiss-video`) |
-| Latex | [latex.md](latex.md) | Image: 1 credits (template `latex-image`) / Video: 19 credits (template `latex-video`) |
-| J-Magazine | [j-magazine.md](j-magazine.md) | Image: 1 credits (template `j-magazine-image`) / Video: 16 credits (template `j-magazine-video`) |
-| J-Poster | [j-poster.md](j-poster.md) | Image: 1 credits (template `j-poster-image`) / Video: 16 credits (template `j-poster-video`) |
-| Roller Coaster | [roller-coaster.md](roller-coaster.md) | Image: 1 credits (template `roller-coaster-image`) / Video: 15 credits (template `roller-coaster-video`) |
-| 60s Cafe | [60s-cafe.md](60s-cafe.md) | Image: 1 credits (template `60s-cafe-image`) / Video: 16 credits (template `60s-cafe-video`) |
-| Victory Card | [victory-card.md](victory-card.md) | Image: 1 credits (template `victory-card-image`) / Video: 15 credits (template `victory-card-video`) |
-| Sand Worm | [sand-worm.md](sand-worm.md) | Image: 1 credits (template `sand-worm-image`) / Video: 26 credits (template `sand-worm-video`) |
-| Skibidi | [skibidi.md](skibidi.md) | Image: 1 credits (template `skibidi-image`) / Video: 23 credits (template `skibidi-video`) |
-| Mascot | [mascot.md](mascot.md) | Image: 1 credits (template `mascot-image`) / Video: 16 credits (template `mascot-video`) |
-| Storm Creature | [storm-creature.md](storm-creature.md) | Image: 1 credits (template `storm-creature-image`) / Video: 26 credits (template `storm-creature-video`) |
-| Burning Sunset | [burning-sunset.md](burning-sunset.md) | Image: 1 credits (template `burning-sunset-image`) / Video: 16 credits (template `burning-sunset-video`) |
-| On Fire (This is Fine) | [this-is-fine.md](this-is-fine.md) | Image: 1 credits (template `this-is-fine-image`) / Video: 19 credits (template `this-is-fine-video`) |
-| Comic Book | [comic-book.md](comic-book.md) | Image: 1 credits (template `comic-book-image`) / Video: 15 credits (template `comic-book-video`) |
-| Cloud Surf | [cloud-surf.md](cloud-surf.md) | Image: 1 credits (template `cloud-surf-image`) / Video: 16 credits (template `cloud-surf-video`) |
-| Melting Doodle | [melting-doodle.md](melting-doodle.md) | Image: 1 credits (template `melting-doodle-image`) / Video: 16 credits (template `melting-doodle-video`) |
-| Giallo Horror | [giallo-horror.md](giallo-horror.md) | Image: 1 credits (template `giallo-horror-image`) / Video: 19 credits (template `giallo-horror-video`) |
-| Renaissance | [renaissance.md](renaissance.md) | Image: 1 credits (template `renaissance-image`) / Video: 15 credits (template `renaissance-video`) |
-| Idol | [idol.md](idol.md) | Image: 1 credits (template `idol-image`) / Video: 15 credits (template `idol-video`) |
-| Ghoulgao | [ghoulgao.md](ghoulgao.md) | Image: 1 credits (template `ghoulgao-image`) / Video: 15 credits (template `ghoulgao-video`) |
-| Mugshot | [mugshot.md](mugshot.md) | Image: 1 credits (template `mugshot-image`) / Video: 16 credits (template `mugshot-video`) |
-| 3D Figure | [3d-figure.md](3d-figure.md) | Image: 1 credits (template `3d-figure-image`) / Video: 15 credits (template `3d-figure-video`) |
-| 3D Render | [3d-render.md](3d-render.md) | Image: 1 credits (template `3d-render-image`) / Video: 16 credits (template `3d-render-video`) |
-| 3D Rotation | [3d-rotation.md](3d-rotation.md) | Image: 1 credits (template `3d-rotation-image`) / Video: 15 credits (template `3d-rotation-video`) |
-| Brick Cube | [brick-cube.md](brick-cube.md) | Image: 1 credits (template `brick-cube-image`) / Video: 19 credits (template `brick-cube-video`) |
-| Pixel Game | [pixel-game.md](pixel-game.md) | Image: 1 credits (template `pixel-game-image`) / Video: 16 credits (template `pixel-game-video`) |
+| Yes Kiss | [yes-kiss.md](yes-kiss.md) | Image: 1 credit (template `yes-kiss-image`) / Video: 19 credits (template `yes-kiss-video`) |
+| Latex | [latex.md](latex.md) | Image: 1 credit (template `latex-image`) / Video: 19 credits (template `latex-video`) |
+| J-Magazine | [j-magazine.md](j-magazine.md) | Image: 1 credit (template `j-magazine-image`) / Video: 16 credits (template `j-magazine-video`) |
+| J-Poster | [j-poster.md](j-poster.md) | Image: 1 credit (template `j-poster-image`) / Video: 16 credits (template `j-poster-video`) |
+| Roller Coaster | [roller-coaster.md](roller-coaster.md) | Image: 1 credit (template `roller-coaster-image`) / Video: 15 credits (template `roller-coaster-video`) |
+| 60s Cafe | [60s-cafe.md](60s-cafe.md) | Image: 1 credit (template `60s-cafe-image`) / Video: 16 credits (template `60s-cafe-video`) |
+| Victory Card | [victory-card.md](victory-card.md) | Image: 1 credit (template `victory-card-image`) / Video: 15 credits (template `victory-card-video`) |
+| Sand Worm | [sand-worm.md](sand-worm.md) | Image: 1 credit (template `sand-worm-image`) / Video: 26 credits (template `sand-worm-video`) |
+| Skibidi | [skibidi.md](skibidi.md) | Image: 1 credit (template `skibidi-image`) / Video: 23 credits (template `skibidi-video`) |
+| Mascot | [mascot.md](mascot.md) | Image: 1 credit (template `mascot-image`) / Video: 16 credits (template `mascot-video`) |
+| Storm Creature | [storm-creature.md](storm-creature.md) | Image: 1 credit (template `storm-creature-image`) / Video: 26 credits (template `storm-creature-video`) |
+| Burning Sunset | [burning-sunset.md](burning-sunset.md) | Image: 1 credit (template `burning-sunset-image`) / Video: 16 credits (template `burning-sunset-video`) |
+| On Fire (This is Fine) | [this-is-fine.md](this-is-fine.md) | Image: 1 credit (template `this-is-fine-image`) / Video: 19 credits (template `this-is-fine-video`) |
+| Comic Book | [comic-book.md](comic-book.md) | Image: 1 credit (template `comic-book-image`) / Video: 15 credits (template `comic-book-video`) |
+| Cloud Surf | [cloud-surf.md](cloud-surf.md) | Image: 1 credit (template `cloud-surf-image`) / Video: 16 credits (template `cloud-surf-video`) |
+| Melting Doodle | [melting-doodle.md](melting-doodle.md) | Image: 1 credit (template `melting-doodle-image`) / Video: 16 credits (template `melting-doodle-video`) |
+| Giallo Horror | [giallo-horror.md](giallo-horror.md) | Image: 1 credit (template `giallo-horror-image`) / Video: 19 credits (template `giallo-horror-video`) |
+| Renaissance | [renaissance.md](renaissance.md) | Image: 1 credit (template `renaissance-image`) / Video: 15 credits (template `renaissance-video`) |
+| Idol | [idol.md](idol.md) | Image: 1 credit (template `idol-image`) / Video: 15 credits (template `idol-video`) |
+| Ghoulgao | [ghoulgao.md](ghoulgao.md) | Image: 1 credit (template `ghoulgao-image`) / Video: 15 credits (template `ghoulgao-video`) |
+| Mugshot | [mugshot.md](mugshot.md) | Image: 1 credit (template `mugshot-image`) / Video: 16 credits (template `mugshot-video`) |
+| 3D Figure | [3d-figure.md](3d-figure.md) | Image: 1 credit (template `3d-figure-image`) / Video: 15 credits (template `3d-figure-video`) |
+| 3D Render | [3d-render.md](3d-render.md) | Image: 1 credit (template `3d-render-image`) / Video: 16 credits (template `3d-render-video`) |
+| 3D Rotation | [3d-rotation.md](3d-rotation.md) | Image: 1 credit (template `3d-rotation-image`) / Video: 15 credits (template `3d-rotation-video`) |
+| Brick Cube | [brick-cube.md](brick-cube.md) | Image: 1 credit (template `brick-cube-image`) / Video: 19 credits (template `brick-cube-video`) |
+| Pixel Game | [pixel-game.md](pixel-game.md) | Image: 1 credit (template `pixel-game-image`) / Video: 16 credits (template `pixel-game-video`) |
 | Plushies | [plushies.md](plushies.md) | Video: 25 credits (template `video-face-swap`) |
 | Game Dump | [game-dump.md](game-dump.md) | Image: 2 credits (template `test-game-dump`) |
 | Nano Strike | [nano-strike.md](nano-strike.md) | Image: 2 credits (template `nano-strike-image`) / Video: 6 credits (template `nano-strike-video`) |
 | Nano Theft | [nano-theft.md](nano-theft.md) | Image: 2 credits (template `nano-theft-image`) / Video: 6 credits (template `nano-theft-video`) |
 | Simlife | [simlife.md](simlife.md) | Image: 2 credits (template `simlife-image`) / Video: 6 credits (template `simlife-video`) |
-| GTAI | [gtai.md](gtai.md) | Image: 1 credits (template `gtai-image`) / Video: 23 credits (template `gtai-video`) |
+| GTAI | [gtai.md](gtai.md) | Image: 1 credit (template `gtai-image`) / Video: 23 credits (template `gtai-video`) |
 | Glitter Sticker | [glitter-sticker.md](glitter-sticker.md) | Image: 2 credits (template `glitter-sticker-image`) |
 | Signboard | [signboard.md](signboard.md) | Image: 2 credits (template `banan-build-image`) |
 | Paint App | [paint-app.md](paint-app.md) | Image: 2 credits (template `paint-app-image`) |
@@ -143,5 +143,5 @@ Input: a face or character photo plus an outfit image and a music track (Urban C
 | App | Local file | Cost |
 |---|---|---|
 | Urban Cuts | [urban-cuts.md](urban-cuts.md) | — |
-| Rap God | [rapgod.md](rapgod.md) | Image: 1 credits (template `rapgod-image`) / Video: 23 credits (template `rapgod-video`) |
+| Rap God | [rapgod.md](rapgod.md) | Image: 1 credit (template `rapgod-image`) / Video: 23 credits (template `rapgod-video`) |
 

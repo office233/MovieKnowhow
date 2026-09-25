@@ -7,7 +7,7 @@
 - **Author (preset creator):** cravoxa
 - **Output type:** static
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `yes-kiss-image`); Video: 19 credits (template `yes-kiss-video`) · button shown on page: "Generate Video 19"
+- **Cost:** Image: 1 credit (template `yes-kiss-image`); Video: 19 credits (template `yes-kiss-video`) · button shown on page: "Generate Video 19"
 
 ## What it does
 

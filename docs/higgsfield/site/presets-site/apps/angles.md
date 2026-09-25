@@ -14,7 +14,7 @@ Generate new camera angles from a single photo
 
 ## Inputs
 
-- image mode: image
+- See notes above (input fields not exposed in static HTML).
 
 ## Prompt
 

@@ -7,7 +7,7 @@
 - **Author (preset creator):** velquix
 - **Output type:** video
 - **Model:** not disclosed on the public page (routing key `nano_banana` suggests the still-image step runs on Nano Banana; the video step model is not named)
-- **Cost:** Image: 1 credits (template `sketch-to-real-image`); Video: 16 credits (template `sketch-to-real-video`) · button shown on page: "Generate Video 16"
+- **Cost:** Image: 1 credit (template `sketch-to-real-image`); Video: 16 credits (template `sketch-to-real-video`) · button shown on page: "Generate Video 16"
 
 ## What it does
 
