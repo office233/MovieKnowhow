@@ -12,6 +12,8 @@ Create cinematic destruction in Blender with fractured structures, simulated deb
 
 Demo on page: See the destruction studio workflow in Blender.
 
+**Notes / technique:** Blender destruction: the agent first asks what breaks, what triggers it and how long the shot is. It then sets up fractures, breakable constraints, debris physics, dust and a camera that reads the action, previews the sim, and saves an editable .blend. Requires Claude Desktop and Blender on the same machine.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

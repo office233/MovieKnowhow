@@ -15,13 +15,13 @@ Pattern: fast drafts -> refine with other tools -> animate -> repeat.
 - Use-case: Other | Model: Z-Image | Settings: text-to-image
 
 ```text
-" Hyper-realistic wildlife close-up: Tiger head emerging from bright green duckweed. Wet fur, intense amber eyes focused on the camera. Smooth vibrant green water background contrast. Sharp details, soft natural light. "
+Hyper-realistic wildlife close-up: Tiger head emerging from bright green duckweed. Wet fur, intense amber eyes focused on the camera. Smooth vibrant green water background contrast. Sharp details, soft natural light.
 ```
 
 ### P2. Cinematic neon portrait of young woman
 - Use-case: Cinematic film scene | Model: Z-Image | Settings: text-to-image
 
 ```text
-" Cinematic portrait: Young woman (windswept dark hair) leans on a railing in a dim underground space. Lit by moody green and red neon backlighting, creating dynamic motion. Confident, mysterious expression. High realism, shallow depth of field, futuristic urban photography. "
+Cinematic portrait: Young woman (windswept dark hair) leans on a railing in a dim underground space. Lit by moody green and red neon backlighting, creating dynamic motion. Confident, mysterious expression. High realism, shallow depth of field, futuristic urban photography.
 ```
 

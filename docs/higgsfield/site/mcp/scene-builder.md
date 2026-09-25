@@ -12,6 +12,8 @@ Build editable Blender scenes from characters, architecture, and props, with roo
 
 Demo on page: See the scene builder workflow in Blender.
 
+**Notes / technique:** Blender set-dressing from a brief plus an asset library of characters, architecture and props. The agent asks for setting, action and style, poses rigged characters, and proposes camera angles. Useful as previs or as 3D layouts to feed image-to-video.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

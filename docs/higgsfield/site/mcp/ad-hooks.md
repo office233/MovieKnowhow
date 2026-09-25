@@ -10,6 +10,8 @@
 
 Give one video multiple opening hooks. Get complete edited versions ready to test different ways of grabbing attention.
 
+**Notes / technique:** Keep the body of the ad fixed and vary only the first seconds, so the test isolates the hook. The example makes three hook types: a surprising moment, a curiosity reveal, and a direct question. It keeps the original footage, pacing, audio and CTA, and the output is 9:16 with the original audio. Test the variants on the same audience and placement. Pair with the Virality Predictor app to pre-screen them.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

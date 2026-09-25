@@ -10,6 +10,8 @@
 
 Create a creator-style tutorial that demonstrates how a physical product works. Share product and presenter references, along with the features or steps the video should explain.
 
+**Notes / technique:** Tutorial-style UGC: creator reference + product reference → intro, hands-on demo, closing reaction, in 9:16 at natural pacing. Preserve both identities.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

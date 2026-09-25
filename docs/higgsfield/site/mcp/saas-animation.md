@@ -12,6 +12,8 @@ Animate SaaS interfaces in After Effects with smooth transitions, clear typograp
 
 Demo on page: See the workflow behind the Passo SaaS animation in After Effects.
 
+**Notes / technique:** SaaS product video in AE from app screens: feature highlights, interface transitions, animated type, final logo reveal. The demo is 'Passo'.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

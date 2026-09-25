@@ -23,7 +23,7 @@ Caveat: scraping/mass-emailing must respect platform ToS and anti-spam law (not 
 - Use-case: Product ad | Model: Claude + Higgsfield MCP (Motion Design Skill) -> Seedance 2.0 | Settings: starts storyboard; then approve
 
 ```text
-"Make a motion design video."
+Make a motion design video.
 ```
 
 ### P2. Approve storyboard
@@ -37,7 +37,7 @@ Approve and generate.
 - Use-case: Product ad | Model: Claude + Higgsfield MCP -> Seedance 2.0 | Settings: batch 2 niche videos
 
 ```text
-"Create motion designs for Beverage and Education niches. Use Hyper-Motion style for a 'Slake' iced-tea ad, and a 2D paper style for an educational explainer on the history of pizza. Make all creative decisions yourself."
+Create motion designs for Beverage and Education niches. Use Hyper-Motion style for a 'Slake' iced-tea ad, and a 2D paper style for an educational explainer on the history of pizza. Make all creative decisions yourself.
 ```
 
 ### P4. Lead source 1: Google Maps SMBs
@@ -72,6 +72,6 @@ Copy all 200 emails into a clean block and send out this personalized partnershi
 - Use-case: Other | Model: Claude + Gmail connector | Settings: email template
 
 ```text
-“ Subject: Partnership Proposal / [Brand Name]Hello! I came across your product and it really caught my attention. My name is [X] and I'm writing to you with a collaboration proposal.I noticed a huge opportunity to increase your product’s sales through motion design (63% of people worldwide prefer watching a short video about a product before buying it). I specialize in motion design and I’d love to create a high-converting video for you.Here's my portfolio: [Link to your 3 AI-generated videos]If you're interested, I'd be happy to discuss the details.Best regards, [Your Name]”
+Subject: Partnership Proposal / [Brand Name]Hello! I came across your product and it really caught my attention. My name is [X] and I'm writing to you with a collaboration proposal.I noticed a huge opportunity to increase your product’s sales through motion design (63% of people worldwide prefer watching a short video about a product before buying it). I specialize in motion design and I’d love to create a high-converting video for you.Here's my portfolio: [Link to your 3 AI-generated videos]If you're interested, I'd be happy to discuss the details.Best regards, [Your Name]
 ```
 

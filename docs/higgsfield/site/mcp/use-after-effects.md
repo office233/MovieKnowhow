@@ -12,6 +12,8 @@ Create and refine motion design in After Effects with animated typography, expre
 
 Demo on page: Follow a brief from the first prompt to an editable After Effects composition, with a look at the layers, motion preview, and saved project.
 
+**Notes / technique:** General AE motion design from a brief and assets, with clear timing, smooth transitions and expressive type. The example animates illustrated characters (gestures, blinks, flowing hair) and keeps layers and keyframes editable.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -10,6 +10,8 @@
 
 Explain a topic with whiteboard-style sketches, symbols, and simple drawings. Provide your key points or script to build a faceless video that develops the idea step by step.
 
+**Notes / technique:** Whiteboard doodle explainer that builds the idea step by step with sketches and symbols. The example topic is why we yawn.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

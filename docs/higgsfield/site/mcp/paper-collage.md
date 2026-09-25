@@ -12,6 +12,8 @@ Animate paper collages in After Effects with textured cutouts, layered depth, an
 
 Demo on page: See how textured cutouts become an editable paper-collage animation in After Effects.
 
+**Notes / technique:** Hybrid pipeline: generate the collage assets with Higgsfield, then assemble in After Effects with layered parallax and stepped (limited-frame) motion. Output is 10 s with an editable rig and keyframes. The story has three beats: bridge, fall, and paper-plane escape.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

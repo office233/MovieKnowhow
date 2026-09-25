@@ -10,6 +10,8 @@
 
 Create a creator-style try-on video that shows how a product looks and fits. Provide product and presenter references, plus the styling details and features you want to highlight.
 
+**Notes / technique:** Fashion try-on UGC: creator + outfit references → before/after, fit close-ups, styling moments, confident reaction, in 9:16. Keep the outfit's color, shape and details.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -10,6 +10,8 @@
 
 Turn a story or concept into an animated explainer with simple stickman characters. Share your topic and key points to build clear scenes that make the narrative easy to follow.
 
+**Notes / technique:** Faceless stickman cartoon in 16:9. Structure the story as departure → conflict → obstacles → homecoming. Keep character designs consistent across scenes and captions readable.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

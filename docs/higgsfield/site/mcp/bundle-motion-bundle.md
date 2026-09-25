@@ -9,6 +9,8 @@
 
 Bring your ideas to life with editable animation workflows.
 
+**Notes / technique:** The `/use-after-effects` router covers the 7 After Effects motion workflows.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -10,6 +10,8 @@
 
 Animate presentations in After Effects with expressive typography, smooth transitions, and editable layers.
 
+**Notes / technique:** Turn slides into motion in AE: text reveals, slide transitions, and image motion timed to the music.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

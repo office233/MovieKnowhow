@@ -12,6 +12,8 @@ Combine footage and visual layers into editable VFX shots in After Effects, with
 
 Demo on page: See the shot composer workflow in Adobe After Effects.
 
+**Notes / technique:** After Effects VFX compositing: keying, tracking and cleanup, then matching lighting, atmosphere, depth of field, motion blur and grain. Only missing layers are generated. Delivers a preview and an editable AE project.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

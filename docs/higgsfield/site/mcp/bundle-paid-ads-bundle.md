@@ -9,6 +9,8 @@
 
 Research your market, create static and video ads, and plan your next campaign test.
 
+**Notes / technique:** The `/marketing` router picks one of the 8 Paid Ads workflows based on product, audience, goals and assets.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -10,6 +10,8 @@
 
 Create a creator-style product review from your product brief and reference images. Develop the concept and script, then show the product in use with a clear message for your audience.
 
+**Notes / technique:** Full product-review UGC pipeline: concept → script → a 9:16 video from a creator avatar image plus a product image. The generation prompt keeps the creator's look and the product's shape and colors, uses natural delivery and close-ups, ends with a short closing line, and bans invented specs or claims.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

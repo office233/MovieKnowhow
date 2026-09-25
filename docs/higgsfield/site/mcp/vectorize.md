@@ -12,6 +12,8 @@ Turn raster illustrations into editable Illustrator artwork with organized paths
 
 Demo on page: See the vectorize workflow in Adobe Illustrator.
 
+**Notes / technique:** Raster to vector in Illustrator: keep composition and palette, group paths into meaningful groups and layers, remove strays. The agent asks which details must stay most faithful.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

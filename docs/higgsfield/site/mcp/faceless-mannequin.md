@@ -10,6 +10,8 @@
 
 Tell a story with stylized mannequin figures instead of an on-camera presenter. Provide the topic and key moments to shape a faceless video around simple characters and visual scenes.
 
+**Notes / technique:** Faceless story told with stylized mannequin figures in place of a presenter. The example topic is the first film in history.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -12,6 +12,8 @@ Create stylized Blender materials with toon shading, expressive outlines, and ad
 
 Demo on page: See the cartoon shaders workflow in Blender.
 
+**Notes / technique:** Reusable toon materials in Blender: adjustable shadow bands, color transitions, texture and outlines. Keep the original object colors and verify with a render.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -10,6 +10,8 @@
 
 Create a faceless explainer with soft pastel colors and simple flat illustrations. Share your topic and main points to turn the explanation into an approachable animated story.
 
+**Notes / technique:** Soft pastel flat-2D explainer. The example topic is how a lighthouse guides ships at night.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

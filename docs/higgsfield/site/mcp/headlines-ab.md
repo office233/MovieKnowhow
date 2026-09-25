@@ -10,6 +10,8 @@
 
 Turn one static ad into multiple headline variations. Keep the visuals consistent so you can test different messages.
 
+**Notes / technique:** Headline-only A/B: 10 variants that change only the headline, exploring benefit-, curiosity- and problem-led angles. Keep every other design element identical and add no unsupported claims. Test under comparable conditions.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

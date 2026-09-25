@@ -9,6 +9,8 @@
 
 Turn creative ideas into finished visuals with 11 workflows for 3D, VFX, editing, and design.
 
+**Notes / technique:** One prompt that routes to any of the 11 production workflows. The agent chooses the workflow from the brief and uses /use-blender, /use-premiere, /use-after-effects, /use-illustrator or /use-photoshop for app setup.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

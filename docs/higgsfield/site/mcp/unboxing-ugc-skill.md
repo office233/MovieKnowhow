@@ -10,6 +10,8 @@
 
 Create a creator-style unboxing video with a product reveal and close-up details. Share product and packaging references, along with the features the presenter should highlight.
 
+**Notes / technique:** Unboxing UGC: package opening → reveal → detail close-ups → natural reactions → simple CTA, in 9:16. Keep product details consistent with the brief.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

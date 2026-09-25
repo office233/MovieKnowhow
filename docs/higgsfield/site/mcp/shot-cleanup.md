@@ -12,6 +12,8 @@ Clean up unwanted elements in After Effects while preserving the shot’s moveme
 
 Demo on page: See the shot cleanup workflow in Adobe After Effects.
 
+**Notes / technique:** After Effects object removal with tracked masks and cleanup layers. Keep the texture, lighting and camera motion, and check the whole shot for patches or flicker.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

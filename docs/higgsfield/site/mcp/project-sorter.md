@@ -12,6 +12,8 @@ Organize footage, synchronize sound, and prepare editable sequences in Adobe Pre
 
 Demo on page: See the project sorter workflow in Adobe Premiere Pro.
 
+**Notes / technique:** Premiere Pro prep: bins by shoot day and media type, auto-sync to external audio where reliable, clearly named sequences, and flags for clips that need manual review. Original files are kept.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

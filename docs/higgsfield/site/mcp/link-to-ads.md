@@ -12,6 +12,8 @@ Turn product and competitor research into static ads tailored to your market. Ex
 
 Demo on page: See how Ad Strategist turns product research into static ads for Guava Day sparkling soda.
 
+**Notes / technique:** Research the product and its competitors, then produce 5 static Meta ad concepts, each with its own angle, headline, visual composition and CTA. Every claim must be grounded in supplied evidence. The demo product is 'Guava Day / Sorbet' soda.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

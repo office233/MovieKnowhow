@@ -12,6 +12,8 @@ Refine generated locations in Photoshop by fixing textures, removing unwanted ob
 
 Demo on page: See the image fixer workflow in Adobe Photoshop.
 
+**Notes / technique:** Photoshop cleanup of AI-generated location plates: remove objects, repair textures, and blend only the needed generated changes through editable masks. Saves a layered PSD.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

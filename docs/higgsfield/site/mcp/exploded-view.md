@@ -12,6 +12,8 @@ Animate objects assembling in Blender with coordinated parts, clear camera stagi
 
 Demo on page: See the exploded view workflow in Blender.
 
+**Notes / technique:** Blender exploded-view and assembly: pull the parts apart to show how they fit, then animate the assembly in sequence. Keep the key connections visible to camera and the final geometry, materials and positions intact.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

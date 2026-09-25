@@ -51,28 +51,38 @@ Articles from the first half of the higgsfield.ai/blog crawl. Each row links to 
 | 45 | Meet Z-Image: What's New from Alibaba in AI Image Generation? | https://higgsfield.ai/blog/Z-Image-New-from-Alibaba-in-AI-Image-Generation | [Z-Image-New-from-Alibaba-in-AI-Image-Generation.md](Z-Image-New-from-Alibaba-in-AI-Image-Generation.md) | 2 |
 | 46 | Your Simple Guide to the Next-Gen Face Swap & Its Best Use Cases | https://higgsfield.ai/blog/a-simple-guide-to-face-swap | [a-simple-guide-to-face-swap.md](a-simple-guide-to-face-swap.md) | 0 |
 | 47 | AI Avatars vs UGC Creators for Ads in 2026: Which Performs Better | https://higgsfield.ai/blog/ai-avatars-vs-ugc-creators-2026 | [ai-avatars-vs-ugc-creators-2026.md](ai-avatars-vs-ugc-creators-2026.md) | 0 |
-| 48 | How to Generate Fashion and Aesthetic AI Photos That Stay On-Brand | https://higgsfield.ai/blog/ai-fashion-photo-generator | [ai-fashion-photo-generator.md](ai-fashion-photo-generator.md) | 0 |
-| 49 | AI Motion Designer: Higgsfield Meets After Effects Through GPT | https://higgsfield.ai/blog/ai-motion-designer-after-effects-gpt | [ai-motion-designer-after-effects-gpt.md](ai-motion-designer-after-effects-gpt.md) | 0 |
-| 50 | How to Make AI Product Videos Without a Studio in 2026 | https://higgsfield.ai/blog/ai-product-videos-no-studio | [ai-product-videos-no-studio.md](ai-product-videos-no-studio.md) | 0 |
-| 51 | What's the Best AI to Storyboard a Video (Higgsfield Popcorn) | https://higgsfield.ai/blog/ai-storyboard-higgsfield-popcorn-best-tool | [ai-storyboard-higgsfield-popcorn-best-tool.md](ai-storyboard-higgsfield-popcorn-best-tool.md) | 0 |
-| 52 | How to Localize Video Ads Into Every Language With AI: Dubbing, Lip-Sync, and Reframe | https://higgsfield.ai/blog/ai-video-ad-localization | [ai-video-ad-localization.md](ai-video-ad-localization.md) | 0 |
-| 53 | AI Video Credits Explained: Why They Run Out So Fast and How to Stop Wasting Them | https://higgsfield.ai/blog/ai-video-credits-explained | [ai-video-credits-explained.md](ai-video-credits-explained.md) | 0 |
-| 54 | Why AI Video Still Gets Hands and Faces Wrong (And How to Fix It) | https://higgsfield.ai/blog/ai-video-hands-faces | [ai-video-hands-faces.md](ai-video-hands-faces.md) | 0 |
-| 55 | The Global State of AI Video (Q2 2026 report) | https://higgsfield.ai/blog/ai-video-report | [ai-video-report.md](ai-video-report.md) | 0 |
-| 56 | AI Video Restoration: How to Enhance and Restore Old Footage to High Quality | https://higgsfield.ai/blog/ai-video-restoration-high-quality | [ai-video-restoration-high-quality.md](ai-video-restoration-high-quality.md) | 0 |
-| 57 | Author page — David Matamoros | https://higgsfield.ai/blog/author/David-Matamoros | [author_David-Matamoros.md](author_David-Matamoros.md) | 0 |
-| 58 | Author page — Mariam Barova | https://higgsfield.ai/blog/author/Mariam-Barova | [author_Mariam-Barova.md](author_Mariam-Barova.md) | 0 |
-| 59 | Author page — Rus Syzdykov | https://higgsfield.ai/blog/author/Rus-Syzdykov | [author_Rus-Syzdykov.md](author_Rus-Syzdykov.md) | 0 |
-| 60 | Author page — Ilyas Issa | https://higgsfield.ai/blog/author/ilyas-issa | [author_ilyas-issa.md](author_ilyas-issa.md) | 0 |
-| 61 | How to Automate Product Videos From Your Ecommerce Catalog With AI | https://higgsfield.ai/blog/automate-ecommerce-catalog-video-ai | [automate-ecommerce-catalog-video-ai.md](automate-ecommerce-catalog-video-ai.md) | 0 |
-| 62 | Best 5 Platforms to Access Seedance 2.5 in 2026 | https://higgsfield.ai/blog/best-5-platforms-seedance-2-5-2026 | [best-5-platforms-seedance-2-5-2026.md](best-5-platforms-seedance-2-5-2026.md) | 0 |
-| 63 | 8 Best AI Platforms to Create Ads from URL in 2026 | https://higgsfield.ai/blog/best-ai-platforms-create-ads-from-url | [best-ai-platforms-create-ads-from-url.md](best-ai-platforms-create-ads-from-url.md) | 0 |
-| 64 | The Best AI Text-to-Video Platform for Consistent Characters and Locations | https://higgsfield.ai/blog/best-ai-video-consistent-characters | [best-ai-video-consistent-characters.md](best-ai-video-consistent-characters.md) | 0 |
-| 65 | 7 Best Creatify Alternatives in 2026 (Tested & Compared) | https://higgsfield.ai/blog/best-creatify-alternatives | [best-creatify-alternatives.md](best-creatify-alternatives.md) | 0 |
-| 66 | 7 Best Pika Alternatives for AI Video (Tested & Compared) | https://higgsfield.ai/blog/best-pika-alternatives | [best-pika-alternatives.md](best-pika-alternatives.md) | 0 |
-| 67 | 5 Best Ways to Access Gemini Omni Flash in 2026: Platforms and Plans | https://higgsfield.ai/blog/best-ways-to-access-gemini-omni-flash-2026 | [best-ways-to-access-gemini-omni-flash-2026.md](best-ways-to-access-gemini-omni-flash-2026.md) | 1 |
-| 68 | Higgsfield Original Series: The First Complete AI Streaming Platform | https://higgsfield.ai/blog/blog-original-series | [blog-original-series.md](blog-original-series.md) | 0 |
+| 48 | How to Create AI Content for TikTok in 2026: Step-by-Step Guide | https://higgsfield.ai/blog/ai-content-for-tiktok-2026 | [ai-content-for-tiktok-2026.md](ai-content-for-tiktok-2026.md) | 0 |
+| 49 | How to Generate Fashion and Aesthetic AI Photos That Stay On-Brand | https://higgsfield.ai/blog/ai-fashion-photo-generator | [ai-fashion-photo-generator.md](ai-fashion-photo-generator.md) | 0 |
+| 50 | AI Motion Designer: Higgsfield Meets After Effects Through GPT | https://higgsfield.ai/blog/ai-motion-designer-after-effects-gpt | [ai-motion-designer-after-effects-gpt.md](ai-motion-designer-after-effects-gpt.md) | 0 |
+| 51 | How to Make AI Product Videos Without a Studio in 2026 | https://higgsfield.ai/blog/ai-product-videos-no-studio | [ai-product-videos-no-studio.md](ai-product-videos-no-studio.md) | 0 |
+| 52 | How to Make a Short Film With AI: The Full Pipeline From Script to Final Cut | https://higgsfield.ai/blog/ai-short-film-pipeline | [ai-short-film-pipeline.md](ai-short-film-pipeline.md) | 0 |
+| 53 | AI Short Film – Full Prompt Library (YouTube video) | https://higgsfield.ai/blog/ai-short-film-youtube-guide | [ai-short-film-youtube-guide.md](ai-short-film-youtube-guide.md) | 25 |
+| 54 | What's the Best AI to Storyboard a Video (Higgsfield Popcorn) | https://higgsfield.ai/blog/ai-storyboard-higgsfield-popcorn-best-tool | [ai-storyboard-higgsfield-popcorn-best-tool.md](ai-storyboard-higgsfield-popcorn-best-tool.md) | 0 |
+| 55 | How to Build an AI-Powered TikTok Content Pipeline in 2026 (Step by Step) | https://higgsfield.ai/blog/ai-tiktok-pipeline-2026 | [ai-tiktok-pipeline-2026.md](ai-tiktok-pipeline-2026.md) | 0 |
+| 56 | How to Localize Video Ads Into Every Language With AI: Dubbing, Lip-Sync, and Reframe | https://higgsfield.ai/blog/ai-video-ad-localization | [ai-video-ad-localization.md](ai-video-ad-localization.md) | 0 |
+| 57 | AI Video Credits Explained: Why They Run Out So Fast and How to Stop Wasting Them | https://higgsfield.ai/blog/ai-video-credits-explained | [ai-video-credits-explained.md](ai-video-credits-explained.md) | 0 |
+| 58 | Why AI Video Still Gets Hands and Faces Wrong (And How to Fix It) | https://higgsfield.ai/blog/ai-video-hands-faces | [ai-video-hands-faces.md](ai-video-hands-faces.md) | 0 |
+| 59 | The Global State of AI Video (Q2 2026 report) | https://higgsfield.ai/blog/ai-video-report | [ai-video-report.md](ai-video-report.md) | 0 |
+| 60 | AI Video Restoration: How to Enhance and Restore Old Footage to High Quality | https://higgsfield.ai/blog/ai-video-restoration-high-quality | [ai-video-restoration-high-quality.md](ai-video-restoration-high-quality.md) | 0 |
+| 61 | 7 Best All-in-One AI Tools for Video, Audio & Editing in 2026 | https://higgsfield.ai/blog/all-in-one-ai-video-tools | [all-in-one-ai-video-tools.md](all-in-one-ai-video-tools.md) | 0 |
+| 62 | Author page — David Matamoros | https://higgsfield.ai/blog/author/David-Matamoros | [author_David-Matamoros.md](author_David-Matamoros.md) | 0 |
+| 63 | Author page — Mariam Barova | https://higgsfield.ai/blog/author/Mariam-Barova | [author_Mariam-Barova.md](author_Mariam-Barova.md) | 0 |
+| 64 | Author page — Rus Syzdykov | https://higgsfield.ai/blog/author/Rus-Syzdykov | [author_Rus-Syzdykov.md](author_Rus-Syzdykov.md) | 0 |
+| 65 | Author page — Ilyas Issa | https://higgsfield.ai/blog/author/ilyas-issa | [author_ilyas-issa.md](author_ilyas-issa.md) | 0 |
+| 66 | How to Automate Product Videos From Your Ecommerce Catalog With AI | https://higgsfield.ai/blog/automate-ecommerce-catalog-video-ai | [automate-ecommerce-catalog-video-ai.md](automate-ecommerce-catalog-video-ai.md) | 0 |
+| 67 | Best 5 Platforms to Access Seedance 2.5 in 2026 | https://higgsfield.ai/blog/best-5-platforms-seedance-2-5-2026 | [best-5-platforms-seedance-2-5-2026.md](best-5-platforms-seedance-2-5-2026.md) | 0 |
+| 68 | Best AI Ad Generators in 2026: 6 Platforms for Video Ads Without a Production Team | https://higgsfield.ai/blog/best-ai-ad-generators-2026 | [best-ai-ad-generators-2026.md](best-ai-ad-generators-2026.md) | 1 |
+| 69 | 8 Best AI Platforms to Create Ads from URL in 2026 | https://higgsfield.ai/blog/best-ai-platforms-create-ads-from-url | [best-ai-platforms-create-ads-from-url.md](best-ai-platforms-create-ads-from-url.md) | 0 |
+| 70 | The Best AI Text-to-Video Platform for Consistent Characters and Locations | https://higgsfield.ai/blog/best-ai-video-consistent-characters | [best-ai-video-consistent-characters.md](best-ai-video-consistent-characters.md) | 0 |
+| 71 | Best All-in-One AI Video Subscriptions in 2026: One Plan Instead of Five Tools | https://higgsfield.ai/blog/best-all-in-one-ai-video-subscriptions-2026 | [best-all-in-one-ai-video-subscriptions-2026.md](best-all-in-one-ai-video-subscriptions-2026.md) | 0 |
+| 72 | Best All-in-One Subscription for AI Images and Video | https://higgsfield.ai/blog/best-all-in-one-subscription-ai-images-video | [best-all-in-one-subscription-ai-images-video.md](best-all-in-one-subscription-ai-images-video.md) | 0 |
+| 73 | 7 Best Creatify Alternatives in 2026 (Tested & Compared) | https://higgsfield.ai/blog/best-creatify-alternatives | [best-creatify-alternatives.md](best-creatify-alternatives.md) | 0 |
+| 74 | 7 Best Pika Alternatives for AI Video (Tested & Compared) | https://higgsfield.ai/blog/best-pika-alternatives | [best-pika-alternatives.md](best-pika-alternatives.md) | 0 |
+| 75 | Best 5 Platforms to Access Seedance 2.0 in 2026 (Tested and Compared) | https://higgsfield.ai/blog/best-platforms-to-access-seedance-2-0 | [best-platforms-to-access-seedance-2-0.md](best-platforms-to-access-seedance-2-0.md) | 1 |
+| 76 | 7 Best Veo Alternatives to Keep Consistency In Your Generations | https://higgsfield.ai/blog/best-veo-alternatives-character-consistency | [best-veo-alternatives-character-consistency.md](best-veo-alternatives-character-consistency.md) | 0 |
+| 77 | 5 Best Ways to Access Gemini Omni Flash in 2026: Platforms and Plans | https://higgsfield.ai/blog/best-ways-to-access-gemini-omni-flash-2026 | [best-ways-to-access-gemini-omni-flash-2026.md](best-ways-to-access-gemini-omni-flash-2026.md) | 1 |
+| 78 | Higgsfield Original Series: The First Complete AI Streaming Platform | https://higgsfield.ai/blog/blog-original-series | [blog-original-series.md](blog-original-series.md) | 0 |
 
-Total prompts: 50
+Total prompts: 77
 
-Coverage: 68/122 pages processed
+Coverage: 78/122 pages processed

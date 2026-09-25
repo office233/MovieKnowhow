@@ -12,6 +12,8 @@ Grade footage in DaVinci Resolve Studio with balanced shots, natural skin tones,
 
 Demo on page: See the color-grading workflow in DaVinci Resolve Studio.
 
+**Notes / technique:** DaVinci Resolve Studio grade: balance exposure and white balance, then contrast and saturation, protect skin tones, and match shots across the sequence. Uses an organized node tree and keeps the original grade as a separate version.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -23,7 +23,7 @@ Best practices: high-res refs; match input and output aspect ratios; define mult
 - Use-case: Character / consistency | Model: Higgsfield Popcorn | Settings: multi-reference (images 1–3)
 
 ```text
-“The man from image one standing in the forest from image two, holding the object from image three.”
+The man from image one standing in the forest from image two, holding the object from image three.
 ```
 
 ### P2. Detailed action beat

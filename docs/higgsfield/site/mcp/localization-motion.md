@@ -12,6 +12,8 @@ Localize motion design in After Effects while preserving the layout, timing, and
 
 Demo on page: Preview a language-swipe animation switching between English, Japanese, German, and Spanish.
 
+**Notes / technique:** Localize an animated design into Japanese, German and Spanish in AE. Adapt the typography to each script while keeping layout and timing.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

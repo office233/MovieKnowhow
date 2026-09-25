@@ -10,6 +10,8 @@
 
 Create static ads from real customer feedback. Build your message around the needs, concerns, and language of your audience.
 
+**Notes / technique:** Voice-of-customer ads: mine reviews for recurring needs, objections and phrases, then build 5 static Meta ad angles. Never invent testimonials, and keep the customers' meaning intact.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

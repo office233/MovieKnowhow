@@ -20,14 +20,14 @@ Manual storyboard beat example: close-up of the face under morning light -> medi
 - Use-case: Character / consistency | Model: Higgsfield Popcorn | Settings: multi-reference (images 1,3,4)
 
 ```text
-“Man from image one in the location from image three wearing the outfit from image four.”
+Man from image one in the location from image three wearing the outfit from image four.
 ```
 
 ### P2. Neon Tokyo rain walk with umbrella
 - Use-case: Cinematic film scene | Model: Higgsfield Popcorn | Settings: multi-reference (3 images); cinematic
 
 ```text
-“Cinematic style. A woman from image one walking through a neon-lit Tokyo street from image three, holding the umbrella from image two, slow rain, reflections on asphalt, shallow depth of field.”
+Cinematic style. A woman from image one walking through a neon-lit Tokyo street from image three, holding the umbrella from image two, slow rain, reflections on asphalt, shallow depth of field.
 ```
 
 ### P3. Film-noir detective storyboard (Auto mode)

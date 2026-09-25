@@ -10,6 +10,8 @@
 
 Explain an idea through hand-drawn illustrations and animated scenes. Provide a topic or short script to create a faceless video with a sketched, storybook-like look.
 
+**Notes / technique:** Hand-drawn storybook explainer in 16:9 with visible sketch textures and a consistent palette. Show each stage of the process as a clear scene with labels.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

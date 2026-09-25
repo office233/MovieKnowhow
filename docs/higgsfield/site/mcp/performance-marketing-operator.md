@@ -10,6 +10,8 @@
 
 Analyze campaign results to find what needs improvement. Get practical recommendations and a clear plan for what to test next.
 
+**Notes / technique:** Analyse 14 days of campaign data and sort the recommendations into Scale / Pause / Test next. Separate strong signals from low-volume noise, flag missing data, and label hypotheses separately from observed results.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

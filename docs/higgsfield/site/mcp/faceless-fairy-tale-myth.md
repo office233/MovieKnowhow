@@ -10,6 +10,8 @@
 
 Explain a subject through imaginative scenes inspired by fairy tales and mythology. Provide your topic or story to shape a faceless video with a magical visual style.
 
+**Notes / technique:** Explain a technical topic (the example is how airplanes fly: lift, thrust, drag, weight) as a myth or fairy-tale story with illustrated scenes and accessible narration.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

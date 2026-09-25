@@ -10,6 +10,8 @@
 
 Tell a story through layered paper-like scenes and cutout characters. Share your topic and key events to create a faceless video with depth and a handmade visual style.
 
+**Notes / technique:** Layered paper diorama scenes with cutout characters, which give depth and a handmade look. The example topic is Magellan's circumnavigation.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

@@ -2,7 +2,7 @@
 
 All generation prompts found in the part-1 blog articles, copied verbatim and grouped by use-case. Each entry names the source article, model and settings where given.
 
-## Cinematic film scene (9)
+## Cinematic film scene (32)
 
 ### First prompt: neon Tokyo alley (model specified) — [How To Generate AI Videos Straight From Claude with Higgsfield's MCP](Generate-AI-Videos-From-Claude-with-Higgsfield-MCP.md) P1
 - Source: https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP | Model: Seedance 2.0 via Claude + Higgsfield MCP | Settings: 5 s wide shot
@@ -43,7 +43,7 @@ Cinematic lighting, wide-angle shot, soft backlight.
 - Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: multi-reference (3 images); cinematic
 
 ```text
-“Cinematic style. A woman from image one walking through a neon-lit Tokyo street from image three, holding the umbrella from image two, slow rain, reflections on asphalt, shallow depth of field.”
+Cinematic style. A woman from image one walking through a neon-lit Tokyo street from image three, holding the umbrella from image two, slow rain, reflections on asphalt, shallow depth of field.
 ```
 
 ### Film-noir detective storyboard (Auto mode) — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P3
@@ -64,10 +64,171 @@ a man in futuristic armor walks through fire as the city collapses behind him
 - Source: https://higgsfield.ai/blog/Z-Image-New-from-Alibaba-in-AI-Image-Generation | Model: Z-Image | Settings: text-to-image
 
 ```text
-" Cinematic portrait: Young woman (windswept dark hair) leans on a railing in a dim underground space. Lit by moody green and red neon backlighting, creating dynamic motion. Confident, mysterious expression. High realism, shallow depth of field, futuristic urban photography. "
+Cinematic portrait: Young woman (windswept dark hair) leans on a railing in a dim underground space. Lit by moody green and red neon backlighting, creating dynamic motion. Confident, mysterious expression. High realism, shallow depth of field, futuristic urban photography.
 ```
 
-## Character / consistency (12)
+### Location: locker room — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P4
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema | Settings: location still
+
+```text
+A wide shot of a locker room with blue lockers
+```
+
+### Location reference sheet — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P5
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Nano Banana Pro | Settings: upload reference image
+
+```text
+Create a professional location reference sheet based strictly on the uploaded reference image. Match the exact realistic visual style, lighting quality, color treatment, and texture of the reference. Arrange into two horizontal rows. Top row: straight-on frontal view, left angled perspective, right angled perspective, reverse wide view. Bottom row: three detailed close-ups of key environmental elements. Maintain architectural consistency, accurate proportions, and consistent lighting across all panels. Output a crisp, ultra-realistic, print-ready location sheet.
+```
+
+### Location: police cruiser interior (dashcam aesthetic) — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P6
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema | Settings: location still, DVR look
+
+```text
+Police cruiser interior, static wide shot from the dashboard facing the passenger seats, empty front seats with gray fabric upholstery, metal police partition cage behind the seats, a shotgun mounted vertically in the center of the partition, bright midday sunlight blasting through the windshield creating harsh overexposed highlights and lens artifacts, suburban houses visible through the windows, slightly washed-out colors, flat digital sensor look, DVR/security camera aesthetic, cheap wide-angle lens distortion, mild compression artifacts, low dynamic range, subtle digital noise, slightly blown highlights, surveillance style framing, raw ungraded footage.
+```
+
+### Location: dark hallway with light leaking around door — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P7
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema | Settings: location still
+
+```text
+A dark interior hallway with a single closed door at the end of the corridor. The room is almost completely dark. From the edges of the doorframe a thin, intense strip of light leaks out along the entire perimeter of the door, forming a sharp rectangular outline against the surrounding darkness. Dust particles drift slowly in the air. The light feels unnatural and powerful, as if something extremely bright exists beyond the door. The composition centers the door in frame.
+```
+
+### Scene 1 Shot 1 — Adil enters locker room — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P8
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: 7 s, handheld
+
+```text
+A policeman in uniform @Adil-Cop enters the locker room with blue lockers @Locker-Room. The policeman stops in front of one of the lockers with his back to the camera.
+```
+
+### Scene 1 Shot 2 — POV from bottle inside locker — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P9
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: 5 s, static
+
+```text
+POV shot from the bottle inside the locker. A policeman opens the locker, reaches for the bottle and then stops.
+```
+
+### Scene 1 — locker POV with Dave's line — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P10
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: handheld; dialogue
+
+```text
+POV shot inside the locker. A policeman @Adil-Cop opens the locker and reaches for a bottle. He stops as he touches it — and we hear @Dave-Cop saying loudly: "Happy birthday, my little princess!"
+```
+
+### Scene 1 — locker shut reveals Dave — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P11
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: handheld; dialogue
+
+```text
+Profile close up of @Adil-Cop who shuts the locker door quickly. As the door closes, the camera captures @Dave-Cop standing right in front of it. Dave continues teasing: "You want a cupcake or a parade maybe?"
+```
+
+### Scene 1 — Adil's dry reply (wide) — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P12
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: handheld; dialogue
+
+```text
+Wide shot of @Dave-Cop and @Adil-Cop. Adil replies dryly: "It's just a regular day, man. Nothing special."
+```
+
+### Scene 1 — full banter shot — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P13
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: single shot, handheld; multi-line dialogue
+
+```text
+@Dave-Cop teasing: "Yeah? Don't sound too excited. We can call dispatch, have 'em sing for you." @Adil-Cop: "Please don't. I'm trying to keep a low profile today." @Dave: "Too late. Princess turns a year older. That's paperwork." @Adil: "Great. Add it to the report. Subject survived another year."
+```
+
+### Scene 2 Shot 1 — patrol car start — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P14
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: static, dashcam look; dialogue
+
+```text
+Interior police cruiser, daytime, DVR dashcam look, soft overexposed sunlight. @Adil-Cop leans in, pulls the door shut, starts the engine. @Dave looks forward and says sarcastically: "You know where I celebrate my birthday every year?" Adil, eyes on the road: "No. Why should I?"
+```
+
+### Scene 2 Shot 2 — noodles — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P15
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: static, dashcam look; dialogue
+
+```text
+Interior police cruiser, daytime, DVR dashcam look. @Dave looks forward: "Best noodles you ever had. You know what they call 'em?" Adil, dryly: "Noodles??"
+```
+
+### Scene 2 Shot 3 — lagman exchange — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P16
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: handheld dialogue
+
+```text
+Dave: "Little Kazakh spot on 5th. Plastic tables. Soup so hot it files a complaint." Adil: "Sounds nice!" Dave: "Best noodles you ever had. You know what they call 'em?" Adil: "Noodles?" Dave (side-eye): "Nah, man. They got a name. Fancy. Cultural." Adil: "Lagman." Dave: "Lag-whaat?"
+```
+
+### B-roll 1 — dashcam driving LA suburb — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P17
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema | Settings: B-roll plate
+
+```text
+Dash-mounted police cruiser DVR perspective, hood of the patrol car visible at the bottom. Driving forward along a narrow residential street in LA – small houses, palm trees, wooden fences, telephone poles, dry vegetation, hot California midday sunlight. Police dashcam aesthetic: cheap digital sensor, mild motion blur, washed-out colors, low dynamic range, compression artifacts, no text overlays.
+```
+
+### B-roll 2 — radio mic extreme close-up — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P18
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema | Settings: B-roll detail
+
+```text
+Extreme close-up of a handheld radio mic clipped to a dark police uniform. Coiled cord descends into shadow. Interior of a patrol car, early morning. Backlight from the windshield creates warm rim highlights. Very shallow depth of field. Fine film grain. Teal shadows, warm highlights. Quiet, tense, documentary feel.
+```
+
+### B-roll 3 — side window street — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P19
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema | Settings: B-roll
+
+```text
+Quiet suburban street in an LA-style neighborhood, viewed from the side window of a moving car. Single-story houses, wooden fences, dry grass, trash bins, telephone poles. Harsh midday California sun, washed highlights, dusty atmosphere. Slight motion blur on foreground. Dashboard camera lens with subtle 70s film grain, faded colors, documentary police-procedural realism.
+```
+
+### Radio interruption (tonal shift) — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P20
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: close-up; dispatch audio
+
+```text
+Close-up of a police radio clipped to an officer's vest inside a moving patrol car. The radio crackles and dispatch comes through: "Unit 12, we got a 17 in progress. Possible homicide. Seventeen thirty eight on scene."
+```
+
+### Scene close A — hard turn — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P21
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: dynamic shot, sudden shake; dialogue
+
+```text
+@Adil-Cop turns the wheel hard, making a sharp turn. Dynamic shot, sudden shake. @Dave holds the radio and says: "Seventeen thirty eight, roger that."
+```
+
+### Scene close B — car speeds and stops — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P22
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: dashcam, camera shake
+
+```text
+Dashcam perspective, hood of the patrol car visible. The car accelerates at high speed down a narrow street and stops diagonally in front of a house. Slight camera shake while driving.
+```
+
+### Scene 3 Shot 1 — enters dark house with shotgun — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P23
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: —
+
+```text
+@Adil-Cop enters the door slowly like on a mission, police shotgun raised. Lights inside the house are off.
+```
+
+### Scene 3 Shot 2 — lights on, surprise party — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P24
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: —
+
+```text
+Lights switch on quickly. Camera captures a surprise party in the house. Close up of @Selena holding a cake with candles.
+```
+
+### Scene 3 Shot 3 — "Surprise, honey!" — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P25
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Cinema Studio | Settings: close-up; dialogue
+
+```text
+Close up of @Selena with a cake and candles saying: "Surprise, honey!" People in the background congratulating and celebrating.
+```
+
+### Sky-leviathan glider chase (reference-definitions format) — [Best 5 Platforms to Access Seedance 2.0 in 2026 (Tested and Compared)](best-platforms-to-access-seedance-2-0.md) P1
+- Source: https://higgsfield.ai/blog/best-platforms-to-access-seedance-2-0 | Model: Seedance 2.0 | Settings: 16:9, 10 s, SFX only no music, 8K filmic
+
+```text
+REFERENCE DEFINITIONS @glider_pilot: A pilot on a small winged glider-skiff, scarf streaming, leaning into the turns. Original character, not a real person. Appearance reference. @leviathan: A colossal serene sky-leviathan, a whale-like creature with long fins and glowing markings, gliding through clouds. Original creature, not from any franchise. Appearance reference. @floating_isles: A vast sky of floating rock islands with waterfalls spilling into clouds, warm golden sunlight, no structures or logos. Location and mood reference. TECHNICAL BLOCK Cinematic. 16:9. 10s. SFX only, no music. Ultra filmic, natural grain, warm golden light, soft contrast, epic scale, 8K. Dynamic cinematic editing, sweeping aerial moves, NON-IP, no logos. PROMPT @glider_pilot races a small glider between the @floating_isles, banking hard around a waterfall-spilling rock, camera chasing close as cloud and spray streak past. Beside them, vast and serene, the @leviathan glides through the clouds, glowing markings pulsing along its flank, dwarfing the tiny glider. The pilot dives under its huge sweeping fin, camera arcing to take in the full scale of the creature against the golden sky. The leviathan rolls slowly, its wake of cloud tumbling; the glider threads a gap between two islands and bursts out into open golden air, soaring high, camera pulling back wide to reveal the pilot, the leviathan, and the endless floating world.SFX only: rushing wind, creaking glider, spray and waterfall hiss, the deep resonant song of the leviathan, low cloud rumble, the soft boom of its passing, warm open-air ambience.
+```
+
+## Character / consistency (15)
 
 ### Per-element reference mapping — [How We Created Higgsfield Popcorn? An AI Tool That Allows You to Replace Faces in a Movie Scene](AI-Tool-That-Allows-You-to-Replace-Faces-in-a-Movie-Scene.md) P1
 - Source: https://higgsfield.ai/blog/AI-Tool-That-Allows-You-to-Replace-Faces-in-a-Movie-Scene | Model: Higgsfield Popcorn | Settings: up to 4 reference images
@@ -80,14 +241,14 @@ Character from image one, lighting from image three, outfit from image four
 - Source: https://higgsfield.ai/blog/How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: multi-reference (images 1–3)
 
 ```text
-“The man from image one standing in the forest from image two, holding the object from image three.”
+The man from image one standing in the forest from image two, holding the object from image three.
 ```
 
 ### Subject-first multi-image composition — [Next-Gen AI Photo Editing Tool: Build Storyboards with Higgsfield Popcorn](Next-Gen-AI-Photo-Editing-Tool-Higgsfield-Popcorn.md) P2
 - Source: https://higgsfield.ai/blog/Next-Gen-AI-Photo-Editing-Tool-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: multi-reference (3 images)
 
 ```text
-“The man from image one walks through the forest from image two, holding the camera from image three.”
+The man from image one walks through the forest from image two, holding the camera from image three.
 ```
 
 ### Move character to neon Tokyo street — [Next-Gen AI Photo Editing Tool: Build Storyboards with Higgsfield Popcorn](Next-Gen-AI-Photo-Editing-Tool-Higgsfield-Popcorn.md) P3
@@ -115,7 +276,7 @@ the same woman from the first image walks from a cafe to a crowded street
 - Source: https://higgsfield.ai/blog/The-AI-Storyboard-Generator-That-Feels-Like-Directing | Model: Higgsfield Popcorn | Settings: multi-reference (images 1,3,4)
 
 ```text
-“Man from image one in the location from image three wearing the outfit from image four.”
+Man from image one in the location from image three wearing the outfit from image four.
 ```
 
 ### Couple placed in setting IMG1 — [The AI Storyboard Generator That Feels Like Directing: Meet Higgsfield Popcorn](The-AI-Storyboard-Generator-That-Feels-Like-Directing.md) P4
@@ -146,6 +307,27 @@ Do the same action pose as in the IMG2 for the character in IMG1, the background
 Smooth skin naturally, remove blemishes, keep identity.
 ```
 
+### Character #1 Adil (hero cop) — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P1
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema (+ Soul ID) | Settings: character still
+
+```text
+A close up of an American policeman
+```
+
+### Character #3 Selena (wife) — Dave uses the same prompt as Adil — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P2
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Soul Cinema | Settings: character still
+
+```text
+A close up of a woman in her mid-twenties
+```
+
+### Character reference sheet (turnaround) — [AI Short Film – Full Prompt Library (YouTube video)](ai-short-film-youtube-guide.md) P3
+- Source: https://higgsfield.ai/blog/ai-short-film-youtube-guide | Model: Nano Banana Pro | Settings: upload reference image
+
+```text
+Create a professional character reference sheet based strictly on the uploaded reference image. Use a clean, neutral plain background and present the sheet as a technical model turnaround while matching the exact realistic visual style of the reference. Arrange the composition into two horizontal rows. Top row: four full-body standing views – front, left profile, right profile, back. Bottom row: three close-up portraits – front, left profile, right profile. Maintain perfect identity consistency across every panel. Keep the subject in a relaxed A-pose with consistent scale and alignment, accurate anatomy, and clear silhouette. Lighting should be consistent across all panels. Output a crisp, ultra-realistic, print-ready reference sheet.
+```
+
 ### Character replacement edit preserving shot, timing and audio (1980s suit, leopard tie) — [5 Best Ways to Access Gemini Omni Flash in 2026: Platforms and Plans](best-ways-to-access-gemini-omni-flash-2026.md) P1
 - Source: https://higgsfield.ai/blog/best-ways-to-access-gemini-omni-flash-2026 | Model: Gemini Omni Flash | Settings: video edit (character replacement), 720p, up to 10 s, static camera
 
@@ -167,7 +349,7 @@ Create a short Brand Book for HiggsfieldAI.
 - Source: https://higgsfield.ai/blog/MCP-For-Motion-Designers | Model: Claude + Higgsfield MCP (Motion Design Skill) -> Seedance 2.0 | Settings: starts storyboard; then approve
 
 ```text
-"Make a motion design video."
+Make a motion design video.
 ```
 
 ### Approve storyboard — [Claude Fable 5 + Higgsfield MCP = $38,400/Month (motion design side business)](MCP-For-Motion-Designers.md) P2
@@ -181,7 +363,7 @@ Approve and generate.
 - Source: https://higgsfield.ai/blog/MCP-For-Motion-Designers | Model: Claude + Higgsfield MCP -> Seedance 2.0 | Settings: batch 2 niche videos
 
 ```text
-"Create motion designs for Beverage and Education niches. Use Hyper-Motion style for a 'Slake' iced-tea ad, and a 2D paper style for an educational explainer on the history of pizza. Make all creative decisions yourself."
+Create motion designs for Beverage and Education niches. Use Hyper-Motion style for a 'Slake' iced-tea ad, and a 2D paper style for an educational explainer on the history of pizza. Make all creative decisions yourself.
 ```
 
 ### Perfume melting into gold — [Minimax Hailuo 2.3: A Creative Guide Including What's New](Minimax-Hailuo-2.3-A-Creative-Guide.md) P2
@@ -219,7 +401,7 @@ Turn the T-shirt into a black leather jacket.
 Add a golden watch to the wrist.
 ```
 
-## UGC (2)
+## UGC (3)
 
 ### Train character then 6-shot UGC product reel — [How To Generate AI Videos Straight From Claude with Higgsfield's MCP](Generate-AI-Videos-From-Claude-with-Higgsfield-MCP.md) P4
 - Source: https://higgsfield.ai/blog/Generate-AI-Videos-From-Claude-with-Higgsfield-MCP | Model: Claude + Higgsfield MCP (Soul Character + UGC preset) | Settings: 6 shots, TikTok vertical
@@ -233,6 +415,15 @@ Train a character from these photos, then generate a 6-shot product reel for Tik
 
 ```text
 Create a hyper-realistic image. Make it UGC content. Change the background to the bedroom
+```
+
+### VELORA lip-tint balm UGC ad with second-by-second timeline — [Best AI Ad Generators in 2026: 6 Platforms for Video Ads Without a Production Team](best-ai-ad-generators-2026.md) P1
+- Source: https://higgsfield.ai/blog/best-ai-ad-generators-2026 | Model: Seedance 2.0 / Marketing Studio | Settings: 9:16, realistic 4K, 7 s timeline, music no speech
+
+```text
+"Vertical 9:16, realistic 4K, "clean girl" / Y2K beauty aesthetic, TikTok/Reels style. Young woman, fair freckled skin, long wavy blonde hair, fluffy lavender fur hat, white long-sleeve under a light-blue strappy top, light-blue jeans. Stacked silver rings, thin chain with a blue heart pendant, French manicure with lilac tips. Pink blush, glossy lips. Minimalist studio, clean bright-white background, soft studio lighting. Cool pastel palette: lilac, sky-blue, white, soft pink.
+Timeline: (0–0.5s) medium shot, smiling, holding a closed pink lip-balm tube; (0.5–1.5s) extreme close-up of lips applying the pink balm, glossy finish; (1.5–2.5s) close-up of hands showing the open tube reading "VELORA Botanical Lip Tint Balm"; (2.5–4.5s) close-up face, pressing the tube to her cheek, flirty smile, applying again, looking at camera; (4.5–5.5s) medium shot, wide smile; (5.5–6.5s) extreme close-up, duck-face blowing a kiss with a subtle punch-in zoom; (6.5–7s) waist-up, extending the product toward the lens.
+Music: upbeat indie-pop instrumental (acoustic guitar, light beat). No speech."
 ```
 
 ## Viral effect (2)
@@ -319,7 +510,7 @@ Copy all 200 emails into a clean block and send out this personalized partnershi
 - Source: https://higgsfield.ai/blog/MCP-For-Motion-Designers | Model: Claude + Gmail connector | Settings: email template
 
 ```text
-“ Subject: Partnership Proposal / [Brand Name]Hello! I came across your product and it really caught my attention. My name is [X] and I'm writing to you with a collaboration proposal.I noticed a huge opportunity to increase your product’s sales through motion design (63% of people worldwide prefer watching a short video about a product before buying it). I specialize in motion design and I’d love to create a high-converting video for you.Here's my portfolio: [Link to your 3 AI-generated videos]If you're interested, I'd be happy to discuss the details.Best regards, [Your Name]”
+Subject: Partnership Proposal / [Brand Name]Hello! I came across your product and it really caught my attention. My name is [X] and I'm writing to you with a collaboration proposal.I noticed a huge opportunity to increase your product’s sales through motion design (63% of people worldwide prefer watching a short video about a product before buying it). I specialize in motion design and I’d love to create a high-converting video for you.Here's my portfolio: [Link to your 3 AI-generated videos]If you're interested, I'd be happy to discuss the details.Best regards, [Your Name]
 ```
 
 ### Count accuracy test — [Nano Banana Pro is Here: Full Review with a Guide](Nano-Banana-Pro-is-Here-Full-Review-and-Guide.md) P1
@@ -368,6 +559,6 @@ Add warm sunset lighting on the masked area.
 - Source: https://higgsfield.ai/blog/Z-Image-New-from-Alibaba-in-AI-Image-Generation | Model: Z-Image | Settings: text-to-image
 
 ```text
-" Hyper-realistic wildlife close-up: Tiger head emerging from bright green duckweed. Wet fur, intense amber eyes focused on the camera. Smooth vibrant green water background contrast. Sharp details, soft natural light. "
+Hyper-realistic wildlife close-up: Tiger head emerging from bright green duckweed. Wet fur, intense amber eyes focused on the camera. Smooth vibrant green water background contrast. Sharp details, soft natural light.
 ```
 

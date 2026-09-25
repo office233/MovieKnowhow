@@ -12,6 +12,8 @@ Animate whiteboards in After Effects with moving cursors, sticky notes, and edit
 
 Demo on page: See the workflow behind the Purr whiteboard animation in After Effects.
 
+**Notes / technique:** Animate a collaboration whiteboard in AE with moving cursors, sticky-note reveals, hand-drawn annotations and arrows that guide attention.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

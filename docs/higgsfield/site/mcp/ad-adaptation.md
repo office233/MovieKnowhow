@@ -10,6 +10,8 @@
 
 Turn a reference video’s storytelling and sales structure into an original video ad for your product.
 
+**Notes / technique:** Reverse-engineer a reference ad into its beats (hook → product demo → proof → CTA) and rebuild an original concept on that skeleton. Do not copy the reference's wording or branding. The demo uses a 'Gulpo' reference video.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

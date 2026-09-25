@@ -12,6 +12,8 @@ Build visual effects for images and video in TouchDesigner, then preview, refine
 
 Demo on page: See the touchdesigner effects workflow in TouchDesigner.
 
+**Notes / technique:** TouchDesigner VFX network for an image or video: the agent asks for a style reference, format and duration, exposes clear controls, previews with the source media, and saves the .toe project.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

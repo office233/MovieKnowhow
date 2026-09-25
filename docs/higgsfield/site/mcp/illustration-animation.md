@@ -12,6 +12,8 @@ Animate illustrations in After Effects with expressive motion and editable layer
 
 Demo on page: Preview illustrated characters brought to life with expressive motion in After Effects.
 
+**Notes / technique:** Animate flat illustrations in AE (drifting cards, circling koi, rotating shapes) while keeping the original colors and editable layers.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

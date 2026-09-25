@@ -10,6 +10,8 @@
 
 Adapt your static ads for different placements and aspect ratios. Adjust the layout to keep your product and message in focus.
 
+**Notes / technique:** Re-layout one static ad for 1:1, 4:5 and 9:16 placements. Re-arrange the layout (don't just crop) so the product and copy stay legible in each ratio.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

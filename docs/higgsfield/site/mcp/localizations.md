@@ -10,6 +10,8 @@
 
 Translate and adapt your ads for new languages and markets. Keep your brand’s message consistent while making the copy feel natural.
 
+**Notes / technique:** Localize static ads (the example uses Spanish and German) while keeping the offer and brand voice. The copy should read naturally rather than as a literal translation.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)

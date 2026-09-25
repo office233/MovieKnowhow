@@ -26,7 +26,7 @@ Create a hyper-realistic image. Make it UGC content. Change the background to th
 - Use-case: Character / consistency | Model: Higgsfield Popcorn | Settings: multi-reference (3 images)
 
 ```text
-“The man from image one walks through the forest from image two, holding the camera from image three.”
+The man from image one walks through the forest from image two, holding the camera from image three.
 ```
 
 ### P3. Move character to neon Tokyo street

@@ -10,6 +10,8 @@
 
 Explain a story using editorial motion graphics and mixed visual media. Provide your subject and source facts to organize the narrative and bring key moments to life.
 
+**Notes / technique:** Vox-style editorial explainer in 16:9 landscape: mixed-media collage, animated headlines, image cutouts and purposeful transitions. Fact-check historical claims before using them.
+
 ## Verbatim prompts
 
 ### Example prompt shown on the page (copy button)
