@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Built skill zips (users build these on demand per platform)
+*.zip
+
+# Per-project workspaces — entire projects/ folder is gitignored by default.
+# Each project is the producer's personal workspace (bibles, references, clips,
+# audio, QC reports). Not for public sharing. If you want to commit an example
+# project to the repo intentionally, use `git add -f projects/<name>/...`
+projects/
+
+# Legacy: per-project content at the repo root (deprecated — use projects/<name>/ instead).
+# Kept here for backwards-compat with projects created before the multi-project convention.
+references/
+clips/
+audio/
+prompts/
+qc-reports/
+/character-bible-*.md
+/environment-bible-*.md
+/prop-bible.md
+/shot-list.md
+/generation-log.md

@@ -1,0 +1,19 @@
+# secrets — never commit your keys
+.env.local
+.env
+
+# the polish step's local working files
+**/enhance/video.mp4
+**/enhance/music.mp3
+**/enhance/transcript.json
+node_modules/
+
+# generated ad output folder
+out/
+
+# rendered video masters (kept out to stay light; artifacts tell the story)
+*.mp4
+
+# os cruft
+.DS_Store
+Thumbs.db

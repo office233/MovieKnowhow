@@ -1,0 +1,29 @@
+{
+  "name": "creativly-higgsfield-recreation",
+  "version": "1.0.0",
+  "description": "Creativly.ai brand film - Higgsfield launch video recreated frame-for-frame in Remotion.",
+  "author": "Naveen Annam (https://www.creativly.ai)",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts --hostname 0.0.0.0",
+    "studio": "remotion studio src/index.ts --hostname 0.0.0.0",
+    "render": "remotion render src/index.ts VideoComposition out/final.mp4",
+    "still": "remotion still src/index.ts VideoComposition out/still.png",
+    "compositions": "remotion compositions src/index.ts",
+    "check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.415",
+    "@remotion/google-fonts": "4.0.415",
+    "@remotion/transitions": "4.0.415",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.415"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/react": "19.2.4",
+    "typescript": "5.9.3"
+  },
+  "packageManager": "pnpm@9.15.3"
+}

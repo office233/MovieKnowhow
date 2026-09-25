@@ -1,0 +1,8 @@
+# Pink Eyeshadow
+
+- **id:** `6c8021ea-5376-5c82-ad9e-ce3eae4418d6`
+- **source:** marketing_studio
+- **type:** product_shots_people
+- **preview (image):** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-product-shots-people/065e1dbd-75eb-43b4-8850-c4275a087e7c.webp
+
+Open with `get_presets(source:'marketing_studio', preset_id:'6c8021ea-5376-5c82-ad9e-ce3eae4418d6')`. Execution consumes credits.

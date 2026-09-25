@@ -1,0 +1,32 @@
+name: Report a source or rights problem
+description: Flag attribution, model evidence, prompt fidelity, or media rights issues
+title: "[Source report]: "
+labels:
+  - source-review
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID
+      placeholder: video-001
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Problem type
+      options:
+        - Incorrect MiniMax H3 attribution
+        - Prompt is incomplete or altered
+        - Author or source is incorrect
+        - Media rights or rehosting concern
+        - Broken result
+        - Other evidence problem
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details and supporting links
+    validations:
+      required: true

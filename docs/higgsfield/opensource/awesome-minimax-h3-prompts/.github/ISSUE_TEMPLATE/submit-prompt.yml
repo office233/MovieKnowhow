@@ -1,0 +1,84 @@
+name: Submit a real MiniMax H3 generation
+description: Propose a source-verifiable MiniMax H3 video example
+title: "[Example]: "
+labels:
+  - prompt-submission
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Proposed category
+      options:
+        - Brand Films & Cinematic Content
+        - Motion Design & AI Storytelling
+        - Product, UI & Game Concepts
+        - Animation & Stylized Visuals
+        - Omni Reference & Performance Transfer
+        - Precise Multimodal Editing
+        - Other existing category
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Exact published prompt or request
+      description: Preserve spelling and punctuation. If only an excerpt is public, explain that limitation for review.
+      render: text
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Direct original source
+      description: Link to the creator's specific post or the official H3 guide, not a profile, repost, or aggregator.
+      placeholder: https://x.com/creator/status/...
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator
+      placeholder: "@creator"
+    validations:
+      required: true
+  - type: textarea
+    id: model_evidence
+    attributes:
+      label: MiniMax H3 evidence
+      description: Quote or link to where the direct source identifies the result as MiniMax H3.
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Output and input references
+      description: Link the output and every relevant input image, video, or audio file. Do not upload third-party files without permission.
+    validations:
+      required: true
+  - type: dropdown
+    id: ownership
+    attributes:
+      label: Did you create the prompt and result?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: permission
+    attributes:
+      label: Media rehosting permission
+      description: State the rights holder and the permission or reusable license for GitHub Attachment hosting.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Checklist
+      options:
+        - label: The direct source explicitly identifies this result as MiniMax H3.
+          required: true
+        - label: I supplied the exact prompt/request or clearly identified incomplete published text.
+          required: true
+        - label: Attribution, source links, input bindings, and media rights are accurate to the best of my knowledge.
+          required: true

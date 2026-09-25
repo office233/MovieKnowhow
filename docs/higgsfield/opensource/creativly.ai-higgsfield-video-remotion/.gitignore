@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.turbo/
+dist/
+build/
+out/
+.cache/
+.tmp/
+*.log
+.DS_Store
+.env
+.env.local
+.vscode/
+.idea/
+*.ipynb_checkpoints/
+__pycache__/

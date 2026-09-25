@@ -1,0 +1,178 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      #root {
+        position: relative;
+        overflow: hidden;
+        background: #000;
+        font-family: "Montserrat", sans-serif;
+      }
+      .video-wrap {
+        position: absolute;
+        inset: 0;
+        transform-origin: 50% 50%;
+        will-change: transform;
+      }
+      .video-wrap video {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+      }
+      .scrim {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 46%;
+        z-index: 5;
+        background: linear-gradient(
+          to top,
+          rgba(8, 17, 28, 0.78),
+          rgba(8, 17, 28, 0.32) 55%,
+          rgba(8, 17, 28, 0)
+        );
+        pointer-events: none;
+      }
+      .cap-wrap {
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 520px;
+        z-index: 10;
+        text-align: center;
+        pointer-events: none;
+      }
+      .cap-group {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+        max-width: 940px;
+        padding: 0 60px;
+        opacity: 0;
+        visibility: hidden;
+        box-sizing: border-box;
+      }
+      .word {
+        display: inline-block;
+        margin: 0 0.16em;
+        font-weight: 800;
+        font-size: 58px;
+        line-height: 1.18;
+        color: #ffffff;
+        opacity: 0.5;
+        transform-origin: 50% 60%;
+        text-shadow:
+          0 4px 20px rgba(0, 0, 0, 0.6),
+          0 2px 4px rgba(0, 0, 0, 0.85);
+      }
+      .word.num {
+        font-variant-numeric: tabular-nums;
+      }
+      .cap-close .word {
+        font-weight: 700;
+        font-size: 44px;
+        letter-spacing: 0.02em;
+      }
+      .flash {
+        position: absolute;
+        inset: 0;
+        z-index: 30;
+        background: #ffffff;
+        opacity: 0;
+        pointer-events: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="root" data-start="0" data-width="1080" data-height="1920">
+      <div class="video-wrap">
+        <video id="vid" data-start="0" data-duration="{{DURATION}}" data-track-index="0"
+          src="video.mp4" muted playsinline></video>
+      </div>
+
+      <!-- native VO + ambient from the source video -->
+      <audio id="vo" data-start="0" data-duration="{{DURATION}}" data-track-index="1"
+        src="video.mp4" data-volume="1"></audio>
+
+      <!-- ducked music bed -->
+      <audio id="music" data-start="0" data-duration="{{DURATION}}" data-media-start="0"
+        data-track-index="2" src="music.mp3" data-volume="{{MUSIC_VOL}}"></audio>
+
+      <div class="scrim"></div>
+      <div class="cap-wrap" id="capwrap"></div>
+      <div class="flash" id="flash"></div>
+
+      <!-- captions-data.js sets window.__CAPTIONS (groups), window.__CUTS, window.__ACCENT -->
+      <script src="captions-data.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+      <script>
+        var ACCENT = window.__ACCENT || "#2BA8E0";
+        var GROUPS = window.__CAPTIONS || [];
+        var CUTS = window.__CUTS || [];
+
+        var capwrap = document.getElementById("capwrap");
+        GROUPS.forEach(function (g, gi) {
+          var grp = document.createElement("div");
+          grp.className = "cap-group" + (g.close ? " cap-close" : "");
+          grp.id = "cg-" + gi;
+          g.words.forEach(function (w, wi) {
+            var sp = document.createElement("span");
+            sp.className = "word" + (w.num ? " num" : "");
+            sp.id = "w-" + gi + "-" + wi;
+            sp.textContent = w.w;
+            grp.appendChild(sp);
+            grp.appendChild(document.createTextNode(" "));
+          });
+          capwrap.appendChild(grp);
+        });
+
+        var tl = gsap.timeline({ paused: true });
+
+        // opening zoom settle
+        tl.fromTo(".video-wrap", { scale: 1.06 }, { scale: 1.0, duration: 1.3, ease: "power3.out" }, 0);
+
+        // cut transitions: white flash + zoom punch
+        CUTS.forEach(function (ct) {
+          tl.fromTo(".video-wrap", { scale: 1.07 }, { scale: 1.0, duration: 0.9, ease: "power3.out" }, ct);
+          tl.fromTo("#flash", { opacity: 0 }, { opacity: 0.82, duration: 0.07, ease: "power2.out" }, ct - 0.05);
+          tl.to("#flash", { opacity: 0, duration: 0.22, ease: "power2.in" }, ct + 0.02);
+        });
+
+        // captions: group scale-pop entrance + per-word karaoke light-up + hard kill
+        GROUPS.forEach(function (g, gi) {
+          var el = document.getElementById("cg-" + gi);
+          tl.fromTo(el, { autoAlpha: 0, y: 46, scale: 0.92 },
+            { autoAlpha: 1, y: 0, scale: 1.0, duration: 0.34, ease: "back.out(1.5)" }, g.s);
+          g.words.forEach(function (w, wi) {
+            var wel = document.getElementById("w-" + gi + "-" + wi);
+            tl.to(wel, { opacity: 1, duration: 0.14, ease: "power2.out" }, w.t);
+            if (w.accent) {
+              tl.to(wel, { color: ACCENT, scale: 1.12, duration: 0.16, ease: "back.out(2)" }, w.t);
+              tl.to(wel, { scale: 1.0, duration: 0.2, ease: "power2.out" }, w.t + 0.16);
+            }
+          });
+          tl.to(el, { autoAlpha: 0, scale: 0.97, duration: 0.12, ease: "power2.in" }, g.e);
+          tl.set(el, { visibility: "hidden" }, g.e + 0.001);
+        });
+
+        // self-lint: every group gone after its end
+        GROUPS.forEach(function (g, gi) {
+          var el = document.getElementById("cg-" + gi);
+          tl.seek(g.e + 0.05);
+          var c = window.getComputedStyle(el);
+          if (c.visibility !== "hidden" && c.opacity !== "0") {
+            console.warn("[caption-lint] group " + gi + " visible at " + (g.e + 0.05).toFixed(2) + "s");
+          }
+        });
+        tl.seek(0);
+
+        window.__timelines = window.__timelines || {};
+        window.__timelines["root"] = tl;
+      </script>
+    </div>
+  </body>
+</html>

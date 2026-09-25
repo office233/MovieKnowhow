@@ -1,0 +1,84 @@
+name: Submit a real Seedance 2.5 generation
+description: Propose a source-verifiable Seedance 2.5 video example
+title: "[Example]: "
+labels:
+  - prompt-submission
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Proposed category
+      options:
+        - One-take & Camera Choreography
+        - Narrative & Multi-scene
+        - VFX, Transformation & Reference Editing
+        - Brand, Product & Fashion
+        - Animation, Culture & Typography
+        - Worldbuilding & Spectacle
+        - Other existing category
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Exact published prompt or request
+      description: Preserve spelling and punctuation. If the source provides only an excerpt, explain that context for maintainer review.
+      render: text
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Direct original source
+      description: Link to the creator's specific post or the official preview page, not a profile, repost, or aggregator.
+      placeholder: https://x.com/creator/status/...
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator
+      placeholder: "@creator"
+    validations:
+      required: true
+  - type: textarea
+    id: model_evidence
+    attributes:
+      label: Seedance 2.5 evidence
+      description: Quote or point to where the original source identifies the result as Seedance 2.5.
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Result media and input references
+      description: Link the result and every relevant input image, video, or audio file. Do not upload third-party files without permission.
+    validations:
+      required: true
+  - type: dropdown
+    id: ownership
+    attributes:
+      label: Did you create the prompt and result?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: permission
+    attributes:
+      label: Media rehosting permission
+      description: State the rights holder and permission or reusable license for GitHub Attachment hosting.
+    validations:
+      required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Checklist
+      options:
+        - label: The original source explicitly identifies this result as Seedance 2.5.
+          required: true
+        - label: I supplied the exact prompt/request or clearly labeled incomplete published text.
+          required: true
+        - label: Attribution, source links, and media rights are accurate to the best of my knowledge.
+          required: true

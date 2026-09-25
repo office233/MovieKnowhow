@@ -1,0 +1,27 @@
+{
+  "name": "carousel-builder",
+  "version": "1.0.0",
+  "description": "Build branded Instagram carousels end-to-end in Claude Code: Higgsfield generates a theme-locked cover + middle images, character budgets keep the copy on-template, and Canva assembles the deck. Ships with /short-form-caption for the post copy.",
+  "author": {
+    "name": "Charles J Dove",
+    "url": "https://charlieautomates.com"
+  },
+  "homepage": "https://github.com/charlesdove977/carousel-builder",
+  "repository": "https://github.com/charlesdove977/carousel-builder",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "instagram",
+    "carousel",
+    "higgsfield",
+    "canva",
+    "mcp",
+    "content",
+    "social-media",
+    "caption"
+  ],
+  "commands": [
+    "./commands/carousel.md",
+    "./commands/short-form-caption.md"
+  ]
+}
