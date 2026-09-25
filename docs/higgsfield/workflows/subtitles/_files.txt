@@ -1,0 +1,14 @@
+# Captured files for Higgsfield workflow 'subtitles' (read-only extraction, 2026-09-25)
+# Source: get_workflow_instructions + get_workflow_bundle_file(path='.', include_contents=true)
+# SKILL.md = instructions_markdown from get_workflow_instructions (bundle SKILL.md + server-appended 'Bundled scripts' and 'Unlimited generations' sections)
+# All bundle files verified byte-for-byte against the tool's size_bytes; none truncated. No ui.yaml exists in this bundle.
+
+SKILL.md
+_manifest.json
+scripts/audio_to_captions.py
+scripts/burn_caps_clean.sh
+scripts/fetch_fonts.sh
+scripts/fonts/README.md
+scripts/subtitle_paper_burn.py
+
+# Not fetched: none

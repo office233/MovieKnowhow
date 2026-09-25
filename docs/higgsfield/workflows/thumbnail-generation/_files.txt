@@ -1,0 +1,12 @@
+# Captured files for Higgsfield workflow 'thumbnail-generation' (read-only extraction, 2026-09-25)
+# Source: get_workflow_instructions + get_workflow_bundle_file(path='.', include_contents=true)
+# SKILL.md = instructions_markdown from get_workflow_instructions (bundle SKILL.md + server-appended 'Bundled scripts' and 'Unlimited generations' sections)
+# All bundle files verified byte-for-byte against the tool's size_bytes; none truncated. No ui.yaml exists in this bundle.
+
+SKILL.md
+_manifest.json
+references/text-overlay-bake.md
+references/thumbnail-frameworks.md
+scripts/bake_text_overlay.mjs
+
+# Not fetched: none
