@@ -1,0 +1,32 @@
+# Captured files for Higgsfield workflow 'brand-asset-creation' (read-only extraction via get_workflow_instructions + get_workflow_bundle_file, 2026-09-25)
+# SKILL.md = instructions_markdown from get_workflow_instructions (bundle SKILL.md body + server-appended shared sections, e.g. 'Unlimited generations'); _manifest.json = remaining response metadata.
+# Every bundle file below was byte-count verified against the server-reported size_bytes; directory totals match the server's total_bytes.
+SKILL.md	24291 bytes
+_manifest.json	1345 bytes
+references/asset-analysis.md	7657 bytes
+references/brand-lock.md	6175 bytes
+references/brandbook.md	8912 bytes
+references/brandkit-design-brain.md	8236 bytes
+references/concept-boards.md	7685 bytes
+references/handoff.md	6782 bytes
+references/inline-widgets.md	6394 bytes
+references/intake.md	7230 bytes
+references/logo-export-payloads.md	749 bytes
+references/logo-prompt-enhancer.md	9773 bytes
+references/logo.md	10573 bytes
+references/merchandise.md	1512 bytes
+references/mockups.md	10683 bytes
+references/packaging.md	2106 bytes
+references/palette.md	1145 bytes
+references/posters-banners.md	1376 bytes
+references/presentation-deck.md	1707 bytes
+references/preview-payloads.md	3120 bytes
+references/qa-and-iteration.md	7067 bytes
+references/signage.md	1001 bytes
+references/social-templates.md	3424 bytes
+references/state-payloads.md	2891 bytes
+references/typography.md	4397 bytes
+scripts/brandkit.py	57177 bytes
+scripts/build_brandbook.py	36850 bytes
+scripts/render_brandbook_pdf.py	4989 bytes
+# Not fetched: none

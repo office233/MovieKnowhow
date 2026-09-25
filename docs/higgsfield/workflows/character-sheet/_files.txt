@@ -1,0 +1,6 @@
+# Captured files for Higgsfield workflow 'character-sheet' (read-only extraction via get_workflow_instructions + get_workflow_bundle_file, 2026-09-25)
+# SKILL.md = instructions_markdown from get_workflow_instructions (bundle SKILL.md body + server-appended shared sections, e.g. 'Unlimited generations'); _manifest.json = remaining response metadata.
+# Every bundle file below was byte-count verified against the server-reported size_bytes; directory totals match the server's total_bytes.
+SKILL.md	18173 bytes
+_manifest.json	338 bytes
+# Not fetched: none

@@ -1,0 +1,22 @@
+# Captured files for Higgsfield workflow 'product-photoshoot' (read-only extraction via get_workflow_instructions + get_workflow_bundle_file, 2026-09-25)
+# SKILL.md = instructions_markdown from get_workflow_instructions (bundle SKILL.md body + server-appended shared sections, e.g. 'Unlimited generations'); _manifest.json = remaining response metadata.
+# Every bundle file below was byte-count verified against the server-reported size_bytes; directory totals match the server's total_bytes.
+SKILL.md	15856 bytes
+_manifest.json	947 bytes
+references/ad-creative-pack.md	6511 bytes
+references/closeup-product-with-person.md	7437 bytes
+references/conceptual-product.md	9347 bytes
+references/hero-banner.md	5482 bytes
+references/lifestyle-scene.md	4728 bytes
+references/negative-prompts.md	3101 bytes
+references/photographer-references.md	5870 bytes
+references/photography-vocabulary.md	5524 bytes
+references/pinterest-pin.md	5249 bytes
+references/product-shot.md	3875 bytes
+references/refinement-pass.md	6400 bytes
+references/restyle.md	8227 bytes
+references/social-carousel.md	5992 bytes
+references/typography.md	1988 bytes
+references/virtual-model-tryout.md	7123 bytes
+ui.yaml	1614 bytes
+# Not fetched: none

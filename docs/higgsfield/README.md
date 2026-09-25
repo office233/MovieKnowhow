@@ -7,8 +7,8 @@ A knowledge base on generating clips, ads and full films on Higgsfield, focused 
 |---|---|---|
 | [presets/INDEX.md](presets/INDEX.md) | Index of all presets | — |
 | [presets/viral/](presets/viral/) | Viral Hub (effects) presets, with description and preview, plus open-source equivalents | **87/87** |
-| [presets/marketing-studio/](presets/marketing-studio/) | Marketing Studio presets (first page) | 50/649 |
-| [presets/recipes/](presets/recipes/) | Bundled recipes (hero-shot, crane-reveal, whip-pan…) | 63 |
+| [presets/marketing-studio/](presets/marketing-studio/) | Marketing Studio presets, with input schema per type | **649/649** |
+| [presets/recipes/](presets/recipes/) | Bundled recipes, full verbatim (model, parameters, master prompt) + 3 commands (/genjutsu, /use-after-effects, /use-blender) | **63/63** |
 | [presets/shorts-studio.md](presets/shorts-studio.md) | Shorts Studio styles | 32 |
 | [presets/camera-motion.md](presets/camera-motion.md) | Camera moves, angles, shot sizes, speed ramps | 63 moves |
 | [presets/cinema-studio.md](presets/cinema-studio.md) | Camera bodies, lenses, genres, color grading, lighting | — |
@@ -19,7 +19,8 @@ A knowledge base on generating clips, ads and full films on Higgsfield, focused 
 | [films/INDEX.md](films/INDEX.md) | How films, ads and UGC were made, shot by shot (20 projects) | 21 |
 | [films/cli-and-api.md](films/cli-and-api.md) | Official Higgsfield CLI and API, credit costs | — |
 | [models.md](models.md) | All models: parameters, durations, resolutions, inputs | **99** |
-| [workflows/ad-multiplier/](workflows/ad-multiplier/) | Official Ad Multiplier workflow (SKILL + references) | 1/16 |
+| [workflows/INDEX.md](workflows/INDEX.md) | Official MCP workflows with all bundle files (SKILL, references, scripts): faceless video, UGC ×6, thumbnails, product photoshoot, brand assets, website builder… | **16/16** |
+| [presets/explainer-and-apps.md](presets/explainer-and-apps.md) | Explainer/faceless styles + Marketplace app Match Cut + Tracelab | 22 + 1 |
 | [guides/](guides/) | Summaries of public guides | 5 |
 | [opensource/](opensource/) | Full copies of 20 open-source projects (MIT/CC-BY/ISC), see SOURCES.tsv | 20 |
 | [open-questions.md](open-questions.md) | Gaps and what was blocked | — |
