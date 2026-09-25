@@ -1,12 +1,12 @@
 # Higgsfield presets — index
 
-Collected 2026-09-25 via the Higgsfield MCP `get_presets` (read-only browsing) before the connector was disconnected.
+Collected 2026-09-25 via the Higgsfield MCP `get_presets` (read-only browsing) (first pass), then completed on a second pass the same day: all 649 Marketing Studio presets, the 63 full recipes, 3 commands and 16 workflows.
 
 | Source | API total | Documented |
 |---|---|---|
 | Viral Hub (`source:viral`, effects/chain) | 87 | 87 |
 | Marketing Studio (`source:marketing_studio`) | 649 | 649 |
-| Bundled recipes (`get_preset_instructions` catalog) | 63 | 63 (catalog metadata only) |
+| Bundled recipes (`get_preset_instructions` catalog) | 63 | 63 (full verbatim recipes: model, parameters, master prompt) |
 
 Gallery categories: `all` (All), `motion` (Motion), `product-shot` (Product shot), `effects` (Effects)
 
@@ -772,70 +772,84 @@ By type: `2d_motion` 42 · `hypermotion` 82 · `mixed_media` 65 · `product_shot
 | 648 | [Golden Hour Pantry](marketing-studio/product_shots/golden-hour-pantry.md) | product_shots | [image](https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-product-shot/5e28e189-9c91-5d01-8c8b-f72a8ebd7de1.webp) |
 | 649 | [Good Boy Biscuits](marketing-studio/product_shots/good-boy-biscuits.md) | product_shots | [image](https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-product-shot/8b485fba-629b-5368-ad52-517880f1dd5a.webp) |
 
-## Bundled recipes (63) — `get_preset_instructions` catalog
+## Bundled recipes (63) — `get_preset_instructions`
 
-| id | Title | Output | Description |
-|---|---|---|---|
-| [`angles`](recipes/angles.md) | Angles | image | Multiple product angles in one frame. |
-| [`before-after`](recipes/before-after.md) | Before After | image | The product as a solution to a specific problem. |
-| [`benefits`](recipes/benefits.md) | Benefits | image | The product's key benefits. |
-| [`bundle`](recipes/bundle.md) | Bundle | image | Multiple products presented as a set. |
-| [`care-guide`](recipes/care-guide.md) | Care Guide | image | Product care instructions. |
-| [`color-pop`](recipes/color-pop.md) | Color Pop | image | Bold colorful shapes surrounding the product. |
-| [`crane-reveal`](recipes/crane-reveal.md) | Crane Reveal | video | A vertical camera move revealing the product. |
-| [`detail-scan`](recipes/detail-scan.md) | Detail Scan | video | Product details revealed in sequence. |
-| [`fabric-wave`](recipes/fabric-wave.md) | Fabric Wave | image | Fabric flowing around the product. |
-| [`feature-zoom`](recipes/feature-zoom.md) | Feature Zoom | image | A demonstration of the product's key feature. |
-| [`flatlay`](recipes/flatlay.md) | Flatlay | image | A neatly arranged overhead composition. |
-| [`floating-roll`](recipes/floating-roll.md) | Floating Roll | video | Slow product rotation in zero gravity. |
-| [`gym-bag`](recipes/gym-bag.md) | Gym Bag | image | The product as part of a gym kit. |
-| [`half-turn`](recipes/half-turn.md) | Half Turn | video | A smooth 180-degree product rotation. |
-| [`hero-shot`](recipes/hero-shot.md) | Hero Shot | image | The product as the hero of the frame. |
-| [`how-it-works`](recipes/how-it-works.md) | How It Works | image | An explanation of how the product works. |
-| [`ice-capsule`](recipes/ice-capsule.md) | Ice Capsule | image | The product encased in transparent ice. |
-| [`impact`](recipes/impact.md) | Impact | video | A burst of particles frozen around the product. |
-| [`in-hand`](recipes/in-hand.md) | In Hand | image | The product held in a hand. |
-| [`inside-pack`](recipes/inside-pack.md) | Inside Pack | image | The internal structure of the packaging. |
-| [`kitchen-scene`](recipes/kitchen-scene.md) | Kitchen Scene | image | The product in a kitchen setting. |
-| [`label-trace`](recipes/label-trace.md) | Label Trace | video | A camera move across the logo and label text. |
-| [`light-sweep`](recipes/light-sweep.md) | Light Sweep | video | A band of light sweeping across the product. |
-| [`liquid-wrap`](recipes/liquid-wrap.md) | Liquid Wrap | video | Liquid flowing around the product. |
-| [`luxury`](recipes/luxury.md) | Luxury | image | Premium lighting with a soft glow. |
-| [`macro-glide`](recipes/macro-glide.md) | Macro Glide | video | A smooth camera move across the product's surface. |
-| [`main-benefit`](recipes/main-benefit.md) | Main Benefit | image | The product's single most important benefit. |
-| [`minimalist-white`](recipes/minimalist-white.md) | Minimalist White | image | A clean product image for a store. |
-| [`moodboard`](recipes/moodboard.md) | Moodboard | image | A branded moodboard built around the product. |
-| [`myth-fact`](recipes/myth-fact.md) | Myth Fact | image | A myth paired with the actual fact. |
-| [`new-drop`](recipes/new-drop.md) | New Drop | image | A new product announcement. |
-| [`on-desk`](recipes/on-desk.md) | On Desk | image | The product on a work desk. |
-| [`paint-wave`](recipes/paint-wave.md) | Paint Wave | video | A wave of colorful paint. |
-| [`pedestal-shot`](recipes/pedestal-shot.md) | Pedestal Shot | image | The product at a monumental scale. |
-| [`powder-cloud`](recipes/powder-cloud.md) | Powder Cloud | image | A cloud of colored powder. |
-| [`power-angle`](recipes/power-angle.md) | Power Angle | image | A striking low-angle view. |
-| [`product-match`](recipes/product-match.md) | Product Match | image | A guide to choosing the right product. |
-| [`product-spin`](recipes/product-spin.md) | Product Spin | video | A clean 360-degree product rotation. |
-| [`pull-back`](recipes/pull-back.md) | Pull Back | video | A camera pullback revealing the scene. |
-| [`push-in`](recipes/push-in.md) | Push In | video | A smooth camera push-in. |
-| [`quick-steps`](recipes/quick-steps.md) | Quick Steps | image | A short step-by-step guide. |
-| [`reel-cover`](recipes/reel-cover.md) | Reel Cover | image | A static cover image for a Reel. |
-| [`retail-stack`](recipes/retail-stack.md) | Retail Stack | image | Multiple product packages grouped together. |
-| [`saveable-tip`](recipes/saveable-tip.md) | Saveable Tip | image | A useful tip card designed to be saved. |
-| [`shadow-motion`](recipes/shadow-motion.md) | Shadow Motion | video | Moving graphic shadows. |
-| [`share-card`](recipes/share-card.md) | Share Card | image | A visual designed for sharing. |
-| [`shelf-ready`](recipes/shelf-ready.md) | Shelf Ready | image | A product presentation on a shelf. |
-| [`signature-frame`](recipes/signature-frame.md) | Signature Frame | image | A signature brand visual. |
-| [`specs`](recipes/specs.md) | Specs | image | The product's key specifications. |
-| [`sunrise-pass`](recipes/sunrise-pass.md) | Sunrise Pass | video | A transition from darkness to warm light. |
-| [`swipe-opener`](recipes/swipe-opener.md) | Swipe Opener | image | The opening slide of a carousel. |
-| [`symmetry`](recipes/symmetry.md) | Symmetry | image | A perfectly symmetrical composition. |
-| [`texture-track`](recipes/texture-track.md) | Texture Track | video | A camera move along the material's texture. |
-| [`three-reasons`](recipes/three-reasons.md) | Three Reasons | image | Three reasons to choose the product. |
-| [`topdown-dive`](recipes/topdown-dive.md) | Topdown Dive | video | A transition from an overhead view to a close-up. |
-| [`travel-pack`](recipes/travel-pack.md) | Travel Pack | image | The product in a travel setting. |
-| [`unboxing`](recipes/unboxing.md) | Unboxing | image | An open box revealing its contents. |
-| [`usage-guide`](recipes/usage-guide.md) | Usage Guide | image | Ways to use the product. |
-| [`vertical-hook`](recipes/vertical-hook.md) | Vertical Hook | image | A vertical visual with a strong hook. |
-| [`water-splash`](recipes/water-splash.md) | Water Splash | image | Water forming a crown around the product. |
-| [`weekend-carry`](recipes/weekend-carry.md) | Weekend Carry | image | A collection of weekend essentials. |
-| [`whats-inside`](recipes/whats-inside.md) | Whats Inside | image | The product's contents or ingredients. |
-| [`whip-pan`](recipes/whip-pan.md) | Whip Pan | video | A fast whip-pan to the product. |
+Each file holds the full recipe verbatim. Every recipe is 3:4 by default. Image recipes run `generate_image` on `gpt_image_2_5` (2k, quality high, variant sunburst). Video recipes first make a hidden start frame with `nano_banana_pro`, then run `seedance_2_0` (6 s, 1080p, mode std, no audio). Parameters per recipe: `../raw/recipes/<id>.params.json`.
+
+| id | Title | Output | Model | Description |
+|---|---|---|---|---|
+| [`angles`](recipes/angles.md) | Angles | image | `gpt_image_2_5` | Multiple product angles in one frame. |
+| [`before-after`](recipes/before-after.md) | Before After | image | `gpt_image_2_5` | The product as a solution to a specific problem. |
+| [`benefits`](recipes/benefits.md) | Benefits | image | `gpt_image_2_5` | The product's key benefits. |
+| [`bundle`](recipes/bundle.md) | Bundle | image | `gpt_image_2_5` | Multiple products presented as a set. |
+| [`care-guide`](recipes/care-guide.md) | Care Guide | image | `gpt_image_2_5` | Product care instructions. |
+| [`color-pop`](recipes/color-pop.md) | Color Pop | image | `gpt_image_2_5` | Bold colorful shapes surrounding the product. |
+| [`crane-reveal`](recipes/crane-reveal.md) | Crane Reveal | video | `seedance_2_0` | A vertical camera move revealing the product. |
+| [`detail-scan`](recipes/detail-scan.md) | Detail Scan | video | `seedance_2_0` | Product details revealed in sequence. |
+| [`fabric-wave`](recipes/fabric-wave.md) | Fabric Wave | image | `gpt_image_2_5` | Fabric flowing around the product. |
+| [`feature-zoom`](recipes/feature-zoom.md) | Feature Zoom | image | `gpt_image_2_5` | A demonstration of the product's key feature. |
+| [`flatlay`](recipes/flatlay.md) | Flatlay | image | `gpt_image_2_5` | A neatly arranged overhead composition. |
+| [`floating-roll`](recipes/floating-roll.md) | Floating Roll | video | `seedance_2_0` | Slow product rotation in zero gravity. |
+| [`gym-bag`](recipes/gym-bag.md) | Gym Bag | image | `gpt_image_2_5` | The product as part of a gym kit. |
+| [`half-turn`](recipes/half-turn.md) | Half Turn | video | `seedance_2_0` | A smooth 180-degree product rotation. |
+| [`hero-shot`](recipes/hero-shot.md) | Hero Shot | image | `gpt_image_2_5` | The product as the hero of the frame. |
+| [`how-it-works`](recipes/how-it-works.md) | How It Works | image | `gpt_image_2_5` | An explanation of how the product works. |
+| [`ice-capsule`](recipes/ice-capsule.md) | Ice Capsule | image | `gpt_image_2_5` | The product encased in transparent ice. |
+| [`impact`](recipes/impact.md) | Impact | video | `seedance_2_0` | A burst of particles frozen around the product. |
+| [`in-hand`](recipes/in-hand.md) | In Hand | image | `gpt_image_2_5` | The product held in a hand. |
+| [`inside-pack`](recipes/inside-pack.md) | Inside Pack | image | `gpt_image_2_5` | The internal structure of the packaging. |
+| [`kitchen-scene`](recipes/kitchen-scene.md) | Kitchen Scene | image | `gpt_image_2_5` | The product in a kitchen setting. |
+| [`label-trace`](recipes/label-trace.md) | Label Trace | video | `seedance_2_0` | A camera move across the logo and label text. |
+| [`light-sweep`](recipes/light-sweep.md) | Light Sweep | video | `seedance_2_0` | A band of light sweeping across the product. |
+| [`liquid-wrap`](recipes/liquid-wrap.md) | Liquid Wrap | video | `seedance_2_0` | Liquid flowing around the product. |
+| [`luxury`](recipes/luxury.md) | Luxury | image | `gpt_image_2_5` | Premium lighting with a soft glow. |
+| [`macro-glide`](recipes/macro-glide.md) | Macro Glide | video | `seedance_2_0` | A smooth camera move across the product's surface. |
+| [`main-benefit`](recipes/main-benefit.md) | Main Benefit | image | `gpt_image_2_5` | The product's single most important benefit. |
+| [`minimalist-white`](recipes/minimalist-white.md) | Minimalist White | image | `gpt_image_2_5` | A clean product image for a store. |
+| [`moodboard`](recipes/moodboard.md) | Moodboard | image | `gpt_image_2_5` | A branded moodboard built around the product. |
+| [`myth-fact`](recipes/myth-fact.md) | Myth Fact | image | `gpt_image_2_5` | A myth paired with the actual fact. |
+| [`new-drop`](recipes/new-drop.md) | New Drop | image | `gpt_image_2_5` | A new product announcement. |
+| [`on-desk`](recipes/on-desk.md) | On Desk | image | `gpt_image_2_5` | The product on a work desk. |
+| [`paint-wave`](recipes/paint-wave.md) | Paint Wave | video | `seedance_2_0` | A wave of colorful paint. |
+| [`pedestal-shot`](recipes/pedestal-shot.md) | Pedestal Shot | image | `gpt_image_2_5` | The product at a monumental scale. |
+| [`powder-cloud`](recipes/powder-cloud.md) | Powder Cloud | image | `gpt_image_2_5` | A cloud of colored powder. |
+| [`power-angle`](recipes/power-angle.md) | Power Angle | image | `gpt_image_2_5` | A striking low-angle view. |
+| [`product-match`](recipes/product-match.md) | Product Match | image | `gpt_image_2_5` | A guide to choosing the right product. |
+| [`product-spin`](recipes/product-spin.md) | Product Spin | video | `seedance_2_0` | A clean 360-degree product rotation. |
+| [`pull-back`](recipes/pull-back.md) | Pull Back | video | `seedance_2_0` | A camera pullback revealing the scene. |
+| [`push-in`](recipes/push-in.md) | Push In | video | `seedance_2_0` | A smooth camera push-in. |
+| [`quick-steps`](recipes/quick-steps.md) | Quick Steps | image | `gpt_image_2_5` | A short step-by-step guide. |
+| [`reel-cover`](recipes/reel-cover.md) | Reel Cover | image | `gpt_image_2_5` | A static cover image for a Reel. |
+| [`retail-stack`](recipes/retail-stack.md) | Retail Stack | image | `gpt_image_2_5` | Multiple product packages grouped together. |
+| [`saveable-tip`](recipes/saveable-tip.md) | Saveable Tip | image | `gpt_image_2_5` | A useful tip card designed to be saved. |
+| [`shadow-motion`](recipes/shadow-motion.md) | Shadow Motion | video | `seedance_2_0` | Moving graphic shadows. |
+| [`share-card`](recipes/share-card.md) | Share Card | image | `gpt_image_2_5` | A visual designed for sharing. |
+| [`shelf-ready`](recipes/shelf-ready.md) | Shelf Ready | image | `gpt_image_2_5` | A product presentation on a shelf. |
+| [`signature-frame`](recipes/signature-frame.md) | Signature Frame | image | `gpt_image_2_5` | A signature brand visual. |
+| [`specs`](recipes/specs.md) | Specs | image | `gpt_image_2_5` | The product's key specifications. |
+| [`sunrise-pass`](recipes/sunrise-pass.md) | Sunrise Pass | video | `seedance_2_0` | A transition from darkness to warm light. |
+| [`swipe-opener`](recipes/swipe-opener.md) | Swipe Opener | image | `gpt_image_2_5` | The opening slide of a carousel. |
+| [`symmetry`](recipes/symmetry.md) | Symmetry | image | `gpt_image_2_5` | A perfectly symmetrical composition. |
+| [`texture-track`](recipes/texture-track.md) | Texture Track | video | `seedance_2_0` | A camera move along the material's texture. |
+| [`three-reasons`](recipes/three-reasons.md) | Three Reasons | image | `gpt_image_2_5` | Three reasons to choose the product. |
+| [`topdown-dive`](recipes/topdown-dive.md) | Topdown Dive | video | `seedance_2_0` | A transition from an overhead view to a close-up. |
+| [`travel-pack`](recipes/travel-pack.md) | Travel Pack | image | `gpt_image_2_5` | The product in a travel setting. |
+| [`unboxing`](recipes/unboxing.md) | Unboxing | image | `gpt_image_2_5` | An open box revealing its contents. |
+| [`usage-guide`](recipes/usage-guide.md) | Usage Guide | image | `gpt_image_2_5` | Ways to use the product. |
+| [`vertical-hook`](recipes/vertical-hook.md) | Vertical Hook | image | `gpt_image_2_5` | A vertical visual with a strong hook. |
+| [`water-splash`](recipes/water-splash.md) | Water Splash | image | `gpt_image_2_5` | Water forming a crown around the product. |
+| [`weekend-carry`](recipes/weekend-carry.md) | Weekend Carry | image | `gpt_image_2_5` | A collection of weekend essentials. |
+| [`whats-inside`](recipes/whats-inside.md) | Whats Inside | image | `gpt_image_2_5` | The product's contents or ingredients. |
+| [`whip-pan`](recipes/whip-pan.md) | Whip Pan | video | `seedance_2_0` | A fast whip-pan to the product. |
+
+## Commands (not listed in the catalog, resolved by name)
+
+| Command | What it does |
+|---|---|
+| [`/genjutsu`](commands/genjutsu.md) | Routes to `generate_video` with `hf_mult_motion_control` (motion transfer) or `hf_mult_replace_object` (object swap in a video). |
+| [`/use-after-effects`](commands/use-after-effects.md) | Setup for the local `fnf-after-effects-mcp` package (`higgsfield-use-after-effects`), with its installation and verification references. |
+| [`/use-blender`](commands/use-blender.md) | Setup for the local `fnf-blender-mcp` package (`higgsfield-use-blender`), with its installation and verification references. |
+
+## Explainer styles and Marketplace apps
+
+22 explainer/faceless styles and the Match Cut + Tracelab app (27 render actions): [explainer-and-apps.md](explainer-and-apps.md).

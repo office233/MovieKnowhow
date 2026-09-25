@@ -52,7 +52,7 @@ Create a clean, premium product-video start frame from the supplied image, treat
 
 ## From open-source
 
-> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own prompt template was **not** captured. These are equivalent or related open-source presets and templates, with exact phrasing.
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own master prompt is now captured verbatim above (`## Recipe (verbatim)`). These are equivalent or related open-source presets and templates, with exact phrasing.
 
 - **Template variation:** "360 product spin: Use 3D Rotation preset, pure black background, 'sharp product detail, 4K, 1:1'". Source: higgsfield-ai-prompt-skill · `templates/02-product-ugc-showcase.md` (line 55) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/templates/02-product-ugc-showcase.md#L55
 - **Cinema Studio 3.0 @reference (verbatim):** `@Image1 as the product. Smooth 360-degree orbit on a marble pedestal. Soft studio lighting catches the matte-black finish. Subtle reflection on surface. Camera: orbit. Style: clean white studio, shallow depth of field. Audio: soft surface contact, gentle mechanical click.` Source: higgsfield-ai-prompt-skill · `templates/02-product-ugc-showcase.md` — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/templates/02-product-ugc-showcase.md

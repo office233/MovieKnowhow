@@ -1,0 +1,9 @@
+{
+  "model": "seedance_2_0",
+  "aspect_ratio": "3:4",
+  "duration": 6,
+  "resolution": "1080p",
+  "mode": "std",
+  "bitrate_mode": "high",
+  "generate_audio": false
+}

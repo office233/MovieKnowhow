@@ -1,0 +1,7 @@
+{
+  "model": "gpt_image_2_5",
+  "aspect_ratio": "3:4",
+  "resolution": "2k",
+  "quality": "high",
+  "variant": "sunburst"
+}

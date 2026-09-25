@@ -42,6 +42,6 @@ Create a production-ready marketing still from the supplied image, treating it a
 
 ## From open-source
 
-> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own prompt template was **not** captured. These are equivalent or related open-source presets and templates, with exact phrasing.
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own master prompt is now captured verbatim above (`## Recipe (verbatim)`). These are equivalent or related open-source presets and templates, with exact phrasing.
 
 - **Related platform feature:** Moodboard (12 curated presets plus custom boards built from 20+ images) and Soul Hex palettes. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-moodboard/SKILL.md` — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-moodboard/SKILL.md. See `../effects-and-styles.md`.

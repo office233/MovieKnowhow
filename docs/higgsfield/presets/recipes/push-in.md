@@ -52,7 +52,7 @@ Create a clean, premium product-video start frame from the supplied image, treat
 
 ## From open-source
 
-> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own prompt template was **not** captured. These are equivalent or related open-source presets and templates, with exact phrasing.
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own master prompt is now captured verbatim above (`## Recipe (verbatim)`). These are equivalent or related open-source presets and templates, with exact phrasing.
 
 - **Higgsfield DoP template (Push In):** `Slow push in. Medium close-up of a woman with dark wet hair under a flickering streetlamp at night. Her eyes track something off-frame to the left. Rain falls steadily, lit only by the lamp.` (16:9, 5 s; short prompts beat long ones on DoP). Source: lanshu-awesome-ai-video-kit · `prompts/data/all-prompts.json` — https://github.com/cclank/lanshu-awesome-ai-video-kit/blob/b4ceecc/prompts/data/all-prompts.json (id `hg-001`)
 - **Reliable phrase (Cinema Studio 3.0):** `slow dolly push from medium shot to tight close-up over 8 seconds`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-camera/SKILL.md` — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-camera/SKILL.md

@@ -52,7 +52,7 @@ Create a clean, premium product-video start frame from the supplied image, treat
 
 ## From open-source
 
-> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own prompt template was **not** captured. These are equivalent or related open-source presets and templates, with exact phrasing.
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own master prompt is now captured verbatim above (`## Recipe (verbatim)`). These are equivalent or related open-source presets and templates, with exact phrasing.
 
 - **Pull-Back Reveal hook:** "Tight close-up on detail. Camera pulls back steadily over 2s revealing the full scene. The context changes the meaning of what was shown initially. Smooth dolly movement, no jitter." Source: ai-video-generator-claude · `skills/01-viral-hook/SKILL.md` — https://github.com/rediumvex/ai-video-generator-claude/blob/ffdad7d/skills/01-viral-hook/SKILL.md
 - **Precision phrasing:** "Camera pulls back 20 feet over 3 seconds. Maintain sharp focus throughout. Foreground subject stays anchored, background reveals environmental scale…" Source: higgsfield-skills · `skills/01-cinematic/references/camera.md` — https://github.com/pixelab-ch/higgsfield-skills/blob/2f6aa10/skills/01-cinematic/references/camera.md

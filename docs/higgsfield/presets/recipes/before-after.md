@@ -42,7 +42,7 @@ Create a production-ready marketing still from the supplied image, treating it a
 
 ## From open-source
 
-> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own prompt template was **not** captured. These are equivalent or related open-source presets and templates, with exact phrasing.
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own master prompt is now captured verbatim above (`## Recipe (verbatim)`). These are equivalent or related open-source presets and templates, with exact phrasing.
 
 - **ai-video-generator-claude skill 07 (before-after):** hook structures Flash Compare / Slow Morph / Destruction-to-Beauty / Timeline Collapse; transitions Hard Cut / Wipe / Morph Dissolve / Object Match / Time-Lapse Compress. Source: ai-video-generator-claude · `skills/07-before-after/SKILL.md` — https://github.com/rediumvex/ai-video-generator-claude/blob/ffdad7d/skills/07-before-after/SKILL.md
 - **Hook 3: Before/After Transformation:** "Dull/problem state shown in first second. Clean cut to radiant/solved state. Product revealed as the bridge between them." Source: higgsfield-skills · `skills/07-ecommerce-ad/references/hooks.md` (line 47) — https://github.com/pixelab-ch/higgsfield-skills/blob/2f6aa10/skills/07-ecommerce-ad/references/hooks.md#L47

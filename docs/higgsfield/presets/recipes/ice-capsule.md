@@ -42,6 +42,6 @@ Create a high-end conceptual product still using the supplied image as the autho
 
 ## From open-source
 
-> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own prompt template was **not** captured. These are equivalent or related open-source presets and templates, with exact phrasing.
+> Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). The bundled recipe's own master prompt is now captured verbatim above (`## Recipe (verbatim)`). These are equivalent or related open-source presets and templates, with exact phrasing.
 
 - **Related motion presets:** **Ice Rose** ("Rose or subject freezes in crystalline ice") and **Freezing**. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-motion/SKILL.md` — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-motion/SKILL.md
