@@ -14,3 +14,12 @@
 ## Excluded from open source (no license)
 - machina-exm/film-studio-skills and neurodropp/prompt-resources have no license, so they were summarised in my own words in `films/` rather than copied.
 - adlaiponderous700/claude-skill-cinematic-prompt: the clone asked for authentication (private or deleted).
+
+## Site crawl (2026-09-25): what could NOT be extracted
+- **Prompts and canvas of community projects** (Hell Grind, festival and showcase projects): they load client-side after render, from the project folders, and are missing from the HTML. A headless browser (Playwright/Chromium) was blocked by the session's permission system. Fix: the user adds a permission rule for a headless browser on higgsfield.ai.
+- **`/soul/...` pages** (~100): disallowed by robots.txt. Not crawled.
+- **Community feeds past the first batch** (Soul 79/148, Sora 15/132, camera prompt bank 10/46): loaded client-side.
+- **~45 model/tool pages and 4 app pages** (Shots, Zooms, What's Next?, Skin Enhancer) render only an app shell.
+- **Prompts behind the Viral/Effects presets**: the site does not publish them (the prompt field is empty).
+- **Videos**: only links were saved (tens of GB). Images were saved as 640px copies.
+- **Marketing Studio** 599/649, the full recipes and 15 workflows: available only through the Higgsfield MCP, which is no longer connected.

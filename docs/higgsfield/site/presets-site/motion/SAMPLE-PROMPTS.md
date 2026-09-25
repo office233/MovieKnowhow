@@ -13187,3 +13187,56 @@ The camera zooms out, revealing the artist, dressed in a bright yellow puffer ja
 A young man stands confidently on the roof of a skyscraper, wearing a striking neon green bomber jacket embellished with an intricate dragon design. The warm glow of the setting sun casts a golden light over the urban landscape, accentuating the glass facades of the skyscrapers surrounding him. As the camera gradually zooms out, the expansive cityscape reveals itself, showcasing the bustling streets below and the vast horizon beyond. His expression reflects a mix of defiance and introspection, embodying the spirit of ambition and youth. The vibrant colors and dramatic lighting create an electrifying atmosphere, resonating with the beat of city life.
 ```
 
+
+## Addendum — samples recovered on retry (HTTP 503 on first pass)
+
+### Powder Explosion
+
+- page: https://higgsfield.ai/motion/3ef68ba5-f61d-4e1b-8169-0910a10cf7b5/09e1ce1f-a8a8-4fd4-b799-6e6ae19b7aae
+
+```text
+An elegant dolly out drifts from a tight vantage, gradually unveiling the composition. A young woman’s face adorned with iridescent, mirror-like fragments that catch violet and teal highlights. The dark, minimalist backdrop is peppered with scattered reflective pieces under low-key colored lighting. Her visage fractures and melts into swirling pearlescent particles that lift and drift skyward. The shot transitions from extreme close-up to medium frame with a shallow depth of field and a gentle rack focus between her eyes and the drifting shards. A mesmerizing, ethereal mood emerges through cool blue and purple tones. The overall aesthetic is surreal and avant-garde, featuring glossy reflections, high-contrast color grading, subtle film grain, and a soft vignette.
+
+
+
+
+
+
+
+
+
+
+```
+
+### Freezing
+
+- page: https://higgsfield.ai/motion/777f1604-afee-406d-a711-bf1e0ea23c86/9fc91c5d-02e2-41be-8058-a4b7469ae3a9
+
+```text
+An older man with bold style stands confidently in a retro cigar shop, wearing a striped navy suit, gold jewelry, and a green cap that reads “Sweet.” As he grins with a cigar between his teeth, a sudden cold shimmer creeps across his body — starting from the fingers and spreading upward. His hands, chest, and face begin to crystallize into frosty ice, turning translucent with a blue tint. A visible freeze effect forms layer by layer, capturing the moment like a time-stop. His sunglasses and cigar slowly frost over, and his gold pendant glows faintly beneath the icy surface. Breath becomes visible as the air chills. The surrounding warm-toned room contrasts with his frozen transformation, creating a surreal cinematic tension. Slow motion, no levitation, realistic freezing texture with refracted light and sharp surface cracks.
+```
+
+### Crash Zoom In
+
+- page: https://higgsfield.ai/motion/a2dddb76-03fa-429e-9905-577bffdf9d38/10a12ce6-c759-4c0a-8323-eda064d5ac5a
+
+```text
+Fast zoom in to the man's face in the sky at the center of the frame—his expression calm but commanding, a thick cigar resting between his lips, black sunglasses hiding his eyes, contrasting against the divine radiance and ethereal presence surrounding him.
+```
+
+### Lens Crack
+
+- page: https://higgsfield.ai/motion/a7984a1f-f2ed-41a8-8a4c-4a66606ac6bb/d4c2b054-1f8a-4663-b88c-3df6a2c8b88b
+
+```text
+A young scientist stands at a cluttered laboratory table, her posture tense and focused as she holds a vial, staring intently. The dim room is saturated with red and blue light, each hue contrasting sharply against the rough, ancient stone walls adorned with mysterious symbols. As she pours, a sudden explosion sends chemicals cascading up into a plume of smoke, the air thick with tension and danger. Shattered glass from the lens crackles around her, reflecting the chaos. The vibrant blue liquid spills dramatically from the fragile beaker, swirling as it interacts with the heat. Her wide-eyed expression captures both excitement and fear, embodying the precarious balance of creation and destruction.
+```
+
+### Tentacles
+
+- page: https://higgsfield.ai/motion/df6600e1-387d-44e8-a8cb-96762a6ee8de/0e10f861-a0b8-46ee-be01-011939a74258
+
+```text
+Tentacles out of eyes
+```
+

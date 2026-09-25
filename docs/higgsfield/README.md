@@ -24,6 +24,24 @@ A knowledge base on generating clips, ads and full films on Higgsfield, focused 
 | [opensource/](opensource/) | Full copies of 20 open-source projects (MIT/CC-BY/ISC), see SOURCES.tsv | 20 |
 | [open-questions.md](open-questions.md) | Gaps and what was blocked | — |
 
+## higgsfield.ai site (crawled 2026-09-25, robots.txt respected)
+| Section | Contents |
+|---|---|
+| [site/presets-site/motion/](site/presets-site/motion/INDEX.md) | **245 Motion presets** (Wan 2.5 / Minimax Hailuo 2.3 / Seedance Pro / Kling 2.5 Turbo) + [**1,239 real sample prompts**](site/presets-site/motion/SAMPLE-PROMPTS.md) |
+| [site/presets-site/effects/](site/presets-site/effects/INDEX.md) · [mixed-media/](site/presets-site/mixed-media/INDEX.md) | 87 Effects (= Viral Hub) + 33 Mixed Media: inputs, settings, prices, examples |
+| [site/presets-site/apps/](site/presets-site/apps/INDEX.md) | 92 Apps (one-click), costs, inputs |
+| [site/academy/](site/academy/) | **16 Academy courses, 171 lessons**, ~250 prompts, official skills + scene frames in `assets/` |
+| [site/blog/](site/blog/) | 245 articles, ~640 prompts |
+| [site/creator-hub/](site/creator-hub/INDEX.md) | 96 pages (guides, help center, customer stories) |
+| [site/features/](site/features/INDEX.md) | Model/tool pages, [pricing](site/features/pricing.md), 506 prompts |
+| [site/mcp/](site/mcp/INDEX.md) | 41 MCP pages, 116 prompts |
+| [site/films-site/](site/films-site/INDEX.md) | Original Series + 28 showcase projects (model stack, credits, generations/second) |
+| [site/round2/](site/round2/INDEX.md) | Contests (23 winning films + jury notes), 38 skills, plugins, 166 prompts |
+| [site/media/](site/media/) | All ~12.5k images from the pages (input frames, previews, course frames) as 640px copies + `index.tsv` (URL → file) |
+| [site/crawl.py](site/crawl.py) | The crawler (reproducible) |
+
+**Total: ~5,300 public pages, ~2,650 real prompts on the site + 386 open-source templates.**
+
 ## Quick decision guide: "I want X"
 | I want | Model | Preset / recipe | Details |
 |---|---|---|---|
