@@ -15,3 +15,5 @@ A second, identical version walks in, sits down, takes a selfie, and vanishes. U
 Open with `get_presets(source:'viral', preset_id:'f9547ac5-21a8-4eb0-9312-12b62aec529c')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/selfie-twin.md](../../site/presets-site/effects/selfie-twin.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

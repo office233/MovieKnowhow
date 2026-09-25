@@ -22,3 +22,5 @@ Open with `get_presets(source:'viral', preset_id:'a6b66c57-2d6b-40cd-9bf3-c4f5dc
 
 - **Mixed Media preset: Sketch** (Hand-drawn pencil sketch, line weight variation — Concept art, storyboard, editorial). How to call it: `[scene prompt]` then `Mixed Media preset: Sketch`. To layer two: `Mixed Media presets: Sketch + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 37) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L37
 - **Stack suggestion:** Sketch + Particles gives "Drawing dissolving into dust". Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 154) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L154
+
+Site page: [effects/sketch.md](../../site/presets-site/effects/sketch.md) · [mixed-media/sketch.md](../../site/presets-site/mixed-media/sketch.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

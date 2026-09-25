@@ -22,3 +22,5 @@ Open with `get_presets(source:'viral', preset_id:'dfef0d55-b122-4727-aa3d-9fc9ff
 
 - **Mixed Media preset: Noir** (High-contrast black and white, deep shadows — Crime, drama, editorial). How to call it: `[scene prompt]` then `Mixed Media preset: Noir`. To layer two: `Mixed Media presets: Noir + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 49) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L49
 - **Stack suggestion:** Noir + Broken Mirror gives a "Psychological thriller fragment". Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 155) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L155
+
+Site page: [effects/noir.md](../../site/presets-site/effects/noir.md) · [mixed-media/noir.md](../../site/presets-site/mixed-media/noir.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

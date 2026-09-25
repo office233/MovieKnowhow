@@ -15,3 +15,5 @@ A cinematic scale-shifting effect that transforms you into a towering giant seam
 Open with `get_presets(source:'viral', preset_id:'c277871a-938b-4c09-b825-41c217e7f727')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/street-colossus.md](../../site/presets-site/effects/street-colossus.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

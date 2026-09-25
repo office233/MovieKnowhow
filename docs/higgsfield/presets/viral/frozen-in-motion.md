@@ -15,3 +15,5 @@ The subject freezes in midair while pedestrians and traffic continue moving natu
 Open with `get_presets(source:'viral', preset_id:'6e822598-7221-4f89-9a7d-81bb812433d9')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/frozen-in-motion.md](../../site/presets-site/effects/frozen-in-motion.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

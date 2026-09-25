@@ -15,3 +15,5 @@ A rider surfs on a dolphin as if it were a board. Surreal and absurd—built for
 Open with `get_presets(source:'viral', preset_id:'b7078c0c-2f92-49d4-a0ff-94aeb9e6f6fd')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/dolphin-ride.md](../../site/presets-site/effects/dolphin-ride.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

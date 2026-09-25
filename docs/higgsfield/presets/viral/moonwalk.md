@@ -15,3 +15,5 @@ Journey across the Moon, Sun, and Earth as a crowned cosmic wanderer. Whimsical 
 Open with `get_presets(source:'viral', preset_id:'7e2ea896-2c5b-42d8-9992-95ae24cae5cc')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/moonwalk.md](../../site/presets-site/effects/moonwalk.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

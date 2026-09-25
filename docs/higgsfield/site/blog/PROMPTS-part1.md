@@ -2,13 +2,27 @@
 
 All generation prompts found in the part-1 blog articles, copied verbatim and grouped by use-case. Each entry names the source article, model and settings where given.
 
-## Cinematic film scene (2)
+## Cinematic film scene (4)
 
 ### "Backstage" reveal of an existing shot — [Nano Banana Pro Has Arrived. How Google's Latest Image Model Will Change The Game?](How-Nano-Banana-Pro-Changing-The-Game.md) P1
 - Source: https://higgsfield.ai/blog/How-Nano-Banana-Pro-Changing-The-Game | Model: Nano Banana Pro | Settings: image edit on an uploaded shot
 
 ```text
 Show me the backstage of this shot.
+```
+
+### Detailed action beat — [How to Use AI for Storyboards? Generate with Higgsfield Popcorn](How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn.md) P2
+- Source: https://higgsfield.ai/blog/How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: action-detail example
+
+```text
+A woman running through an alley chased by light reflections
+```
+
+### Lighting + camera cue — [How to Use AI for Storyboards? Generate with Higgsfield Popcorn](How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn.md) P3
+- Source: https://higgsfield.ai/blog/How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: lighting/camera prefix example
+
+```text
+Cinematic lighting, wide-angle shot, soft backlight.
 ```
 
 ### Cinematic neon portrait of young woman — [Meet Z-Image: What's New from Alibaba in AI Image Generation?](Z-Image-New-from-Alibaba-in-AI-Image-Generation.md) P2
@@ -18,7 +32,14 @@ Show me the backstage of this shot.
 " Cinematic portrait: Young woman (windswept dark hair) leans on a railing in a dim underground space. Lit by moody green and red neon backlighting, creating dynamic motion. Confident, mysterious expression. High realism, shallow depth of field, futuristic urban photography. "
 ```
 
-## Character / consistency (5)
+## Character / consistency (6)
+
+### Multi-image reference composition — [How to Use AI for Storyboards? Generate with Higgsfield Popcorn](How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn.md) P1
+- Source: https://higgsfield.ai/blog/How-to-Use-AI-for-Storyboards-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: multi-reference (images 1–3)
+
+```text
+“The man from image one standing in the forest from image two, holding the object from image three.”
+```
 
 ### Subject-first multi-image composition — [Next-Gen AI Photo Editing Tool: Build Storyboards with Higgsfield Popcorn](Next-Gen-AI-Photo-Editing-Tool-Higgsfield-Popcorn.md) P2
 - Source: https://higgsfield.ai/blog/Next-Gen-AI-Photo-Editing-Tool-Higgsfield-Popcorn | Model: Higgsfield Popcorn | Settings: multi-reference (3 images)
@@ -151,7 +172,7 @@ Human transforming into werewolf under moonlight.
 Anime girl turning into a light spirit.
 ```
 
-## Other (10)
+## Other (14)
 
 ### Game 1 — Pirates first-person game — [Build Multiplayer Games With AI](Higgsfield-Games.md) P1
 - Source: https://higgsfield.ai/blog/Higgsfield-Games | Model: Claude Fable 5 + Higgsfield MCP + Game Studio skill | Settings: one-sentence game prompt
@@ -200,6 +221,34 @@ Copy all 200 emails into a clean block and send out this personalized partnershi
 
 ```text
 “ Subject: Partnership Proposal / [Brand Name]Hello! I came across your product and it really caught my attention. My name is [X] and I'm writing to you with a collaboration proposal.I noticed a huge opportunity to increase your product’s sales through motion design (63% of people worldwide prefer watching a short video about a product before buying it). I specialize in motion design and I’d love to create a high-converting video for you.Here's my portfolio: [Link to your 3 AI-generated videos]If you're interested, I'd be happy to discuss the details.Best regards, [Your Name]”
+```
+
+### Count accuracy test — [Nano Banana Pro is Here: Full Review with a Guide](Nano-Banana-Pro-is-Here-Full-Review-and-Guide.md) P1
+- Source: https://higgsfield.ai/blog/Nano-Banana-Pro-is-Here-Full-Review-and-Guide | Model: Nano Banana Pro | Settings: count-based instruction example
+
+```text
+three cups on the table, two books on the shelf
+```
+
+### Wardrobe attribute list — [Nano Banana Pro is Here: Full Review with a Guide](Nano-Banana-Pro-is-Here-Full-Review-and-Guide.md) P2
+- Source: https://higgsfield.ai/blog/Nano-Banana-Pro-is-Here-Full-Review-and-Guide | Model: Nano Banana Pro | Settings: attribute-list fragment
+
+```text
+blue jacket, red shoes, black cap
+```
+
+### Hand-action constraints — [Nano Banana Pro is Here: Full Review with a Guide](Nano-Banana-Pro-is-Here-Full-Review-and-Guide.md) P3
+- Source: https://higgsfield.ai/blog/Nano-Banana-Pro-is-Here-Full-Review-and-Guide | Model: Nano Banana Pro | Settings: per-hand action fragment
+
+```text
+left hand holding a cup, right hand pointing at the screen
+```
+
+### Focus and text-placement constraints — [Nano Banana Pro is Here: Full Review with a Guide](Nano-Banana-Pro-is-Here-Full-Review-and-Guide.md) P4
+- Source: https://higgsfield.ai/blog/Nano-Banana-Pro-is-Here-Full-Review-and-Guide | Model: Nano Banana Pro | Settings: composition fragment
+
+```text
+background out of focus, foreground sharp, text only at the top
 ```
 
 ### Removal — [#1 Editing Tool in 2025: Meet Nano Banana Pro Inpaint](Top-Editing-Tool-in-2025-Nano-Banana-Pro-Inpaint.md) P1

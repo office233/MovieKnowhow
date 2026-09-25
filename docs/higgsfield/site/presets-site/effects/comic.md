@@ -27,7 +27,7 @@ Graphic illustrated comic look
 - Pricing type: `frame_rate` — cost = number of output frames (clip seconds x target fps) x per-frame rate by resolution.
 - Per-frame rate by resolution: {"1k": 2, "2k": 2, "4k": 4} (unit_scale 100)
 - Limits: clip 1-10 s, 4-24 fps (trim via start_seconds/end_seconds)
-- Observed: 1k @ 8 fps, 4 s clip = 64 credits (32 frames x 2) in the sample jobs below.
+- Observed in sample/community jobs: 1k @ 8 fps, 4 s = 64 credits (32 frames x 2); 1k @ 10 fps, 5 s = 100 credits; 4k @ 10 fps, 5 s = 200 credits (x4 per frame). So credits = seconds x fps x per-frame rate (the per-frame numbers are already in credits).
 
 ## Prompt
 

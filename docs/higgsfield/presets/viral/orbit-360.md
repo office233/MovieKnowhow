@@ -24,3 +24,5 @@ Open with `get_presets(source:'viral', preset_id:'0d12822c-e095-43ec-a335-b4d335
 - **Motion preset: 3D Rotation** (Subject or object rotates in 3D space — Product, logo, artistic). How to call it: `[scene prompt]. Apply the 3D Rotation preset.`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-motion/SKILL.md` (line 128) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-motion/SKILL.md#L128
 - **Precision phrasing:** "Camera orbits 270 degrees counterclockwise around subject over 5 seconds. Maintain constant 8-foot distance. Subject always frame-center… Speed: 54 degrees per second." Source: higgsfield-skills · `skills/01-cinematic/references/camera.md` — https://github.com/pixelab-ch/higgsfield-skills/blob/2f6aa10/skills/01-cinematic/references/camera.md
 - **Best models:** Kling 2.6 / 3.0. Source: higgsfield-ai-prompt-skill · `model-guide.md` — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/model-guide.md
+
+Site page: [effects/orbit-360.md](../../site/presets-site/effects/orbit-360.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

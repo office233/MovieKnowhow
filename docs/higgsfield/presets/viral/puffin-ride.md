@@ -15,3 +15,5 @@ A rider glides through the city on puffins like roller skates, hovering two mete
 Open with `get_presets(source:'viral', preset_id:'af906dd9-af11-4a6d-a58e-ff8797e68813')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/puffin-ride.md](../../site/presets-site/effects/puffin-ride.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

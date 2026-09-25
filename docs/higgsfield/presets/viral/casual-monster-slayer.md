@@ -15,3 +15,5 @@ You transform into a cybernetic battle suit as a flaming giant crashes into the 
 Open with `get_presets(source:'viral', preset_id:'57757dbc-7669-4495-b158-3f0104c6c1c1')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/casual-monster-slayer.md](../../site/presets-site/effects/casual-monster-slayer.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

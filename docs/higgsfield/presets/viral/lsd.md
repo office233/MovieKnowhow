@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'16ac0b13-2e62-4764-9469-56ff28
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: LSD** (Strong psychedelic visual distortion — Abstract, experimental). How to call it: `[scene prompt]` then `Mixed Media preset: LSD`. To layer two: `Mixed Media presets: LSD + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 83) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L83
+
+Site page: [effects/lsd.md](../../site/presets-site/effects/lsd.md) · [mixed-media/lsd.md](../../site/presets-site/mixed-media/lsd.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

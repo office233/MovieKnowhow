@@ -15,3 +15,5 @@ Step into Monet’s world as a modern-day muse beneath an endless sky. Dreamy an
 Open with `get_presets(source:'viral', preset_id:'526f142a-42ce-4360-a353-ced1c7440234')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/monet-muse.md](../../site/presets-site/effects/monet-muse.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

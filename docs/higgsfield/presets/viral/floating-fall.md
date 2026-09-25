@@ -15,3 +15,5 @@ Falls backward as their belongings float in midair, with the camera moving throu
 Open with `get_presets(source:'viral', preset_id:'fb6ca8f7-493e-42e6-9e0d-f3e2e695825d')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/floating-fall.md](../../site/presets-site/effects/floating-fall.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

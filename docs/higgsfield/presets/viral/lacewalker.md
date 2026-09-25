@@ -15,3 +15,5 @@ A miniature version of the subject strolls past their giant counterpart before b
 Open with `get_presets(source:'viral', preset_id:'7ca07da7-5471-48fa-80a7-97a29a7ec2bc')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/lacewalker.md](../../site/presets-site/effects/lacewalker.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

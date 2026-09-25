@@ -15,3 +15,5 @@ The world tilts around the subject, sending loose objects sliding and tumbling p
 Open with `get_presets(source:'viral', preset_id:'ff501ca6-1d60-4ab4-8675-6273adfd977b')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/incline.md](../../site/presets-site/effects/incline.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

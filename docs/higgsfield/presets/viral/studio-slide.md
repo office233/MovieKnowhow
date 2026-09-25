@@ -15,3 +15,5 @@ Multiple copies of a single person appear simultaneously at varying scales, angl
 Open with `get_presets(source:'viral', preset_id:'568a5b0d-f82d-4441-b833-a14c48a0d815')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/studio-slide.md](../../site/presets-site/effects/studio-slide.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

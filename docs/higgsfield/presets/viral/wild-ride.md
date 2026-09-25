@@ -15,3 +15,5 @@ A high-speed, dynamic camera orbit that aggressively sweeps around a rapidly spi
 Open with `get_presets(source:'viral', preset_id:'23507548-cd71-423b-a5fd-0de1b0a09222')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/wild-ride.md](../../site/presets-site/effects/wild-ride.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

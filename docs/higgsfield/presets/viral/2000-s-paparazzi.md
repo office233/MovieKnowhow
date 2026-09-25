@@ -15,3 +15,5 @@ A retro VHS paparazzi clip — Y2K celebrity in graphic tee and low-rise jeans e
 Open with `get_presets(source:'viral', preset_id:'731211fd-ee97-463d-b279-4ca3259a5d29')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/2000-s-paparazzi.md](../../site/presets-site/effects/2000-s-paparazzi.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

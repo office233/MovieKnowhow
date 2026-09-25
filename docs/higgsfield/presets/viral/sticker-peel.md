@@ -15,3 +15,5 @@ A giant hand reaches in and peels the figure off the wall like a sticker, leavin
 Open with `get_presets(source:'viral', preset_id:'33f1fe65-287a-4711-ac37-0b88d5a56708')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/sticker-peel.md](../../site/presets-site/effects/sticker-peel.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

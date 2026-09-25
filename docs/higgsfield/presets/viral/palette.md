@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'3a4261c7-da21-4879-b4c1-f2516c
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Palette** (Restricted color palette, graphic — Illustration, brand, poster). How to call it: `[scene prompt]` then `Mixed Media preset: Palette`. To layer two: `Mixed Media presets: Palette + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 100) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L100
+
+Site page: [effects/palette.md](../../site/presets-site/effects/palette.md) · [mixed-media/palette.md](../../site/presets-site/mixed-media/palette.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

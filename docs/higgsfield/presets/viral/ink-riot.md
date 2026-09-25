@@ -15,3 +15,5 @@ Stacked mixed-media composition
 Open with `get_presets(source:'viral', preset_id:'aa5d78cc-00bf-466d-bb91-aff6ea79495c')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/ink-riot.md](../../site/presets-site/effects/ink-riot.md) · [mixed-media/layer-mixed-media.md](../../site/presets-site/mixed-media/layer-mixed-media.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

@@ -15,3 +15,5 @@ Briton Rivière’s "Ulysses and Argus" below, with you entering its most emotio
 Open with `get_presets(source:'viral', preset_id:'cf29938d-8033-4f25-bfb9-43d6b8c19e07')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/argus.md](../../site/presets-site/effects/argus.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

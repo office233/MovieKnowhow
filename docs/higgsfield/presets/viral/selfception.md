@@ -15,3 +15,5 @@ Endless versions of the subject repeat inside one another as the camera continuo
 Open with `get_presets(source:'viral', preset_id:'2e215b1a-7df1-4c96-a97a-baf611f7d38e')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/selfception.md](../../site/presets-site/effects/selfception.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

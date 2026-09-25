@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'9b3ff025-252e-40c5-bddb-97513d
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Hand Paint** (Loose gestural watercolor brushwork — Soft, artistic, romantic). How to call it: `[scene prompt]` then `Mixed Media preset: Hand Paint`. To layer two: `Mixed Media presets: Hand Paint + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 41) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L41
+
+Site page: [effects/hand-paint.md](../../site/presets-site/effects/hand-paint.md) · [mixed-media/hand-paint.md](../../site/presets-site/mixed-media/hand-paint.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

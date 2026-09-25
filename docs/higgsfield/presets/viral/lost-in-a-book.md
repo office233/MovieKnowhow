@@ -15,3 +15,5 @@
 Open with `get_presets(source:'viral', preset_id:'ccf1e30c-b2b7-4cec-ac06-e20a9745ec41')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/lost-in-a-book.md](../../site/presets-site/effects/lost-in-a-book.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

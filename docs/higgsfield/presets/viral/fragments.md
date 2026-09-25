@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'f41020a7-8f3d-46fa-9ef7-cd9660
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Fragments** (Subject broken into scattered pieces — Abstract, dramatic, impactful). How to call it: `[scene prompt]` then `Mixed Media preset: Fragments`. To layer two: `Mixed Media presets: Fragments + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 67) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L67
+
+Site page: [effects/fragments.md](../../site/presets-site/effects/fragments.md) · [mixed-media/fragments.md](../../site/presets-site/mixed-media/fragments.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

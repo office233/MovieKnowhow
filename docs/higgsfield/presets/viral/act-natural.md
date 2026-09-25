@@ -15,3 +15,5 @@ A cinematic time-manipulation effect that completely suspends your subject and s
 Open with `get_presets(source:'viral', preset_id:'d43818b0-7c5c-4c19-a67c-2b38beb5367c')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/act-natural.md](../../site/presets-site/effects/act-natural.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

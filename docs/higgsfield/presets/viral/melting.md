@@ -22,3 +22,5 @@ Open with `get_presets(source:'viral', preset_id:'bc0f007c-3319-405e-b1f4-341f65
 
 - **Mixed Media preset: Melting Doodle** (Subject melts into doodle strokes — Surreal, fun, artistic). How to call it: `[scene prompt]` then `Mixed Media preset: Melting Doodle`. To layer two: `Mixed Media presets: Melting Doodle + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 111) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L111 (related, not identical)
 - **App: Melting Doodle** (Subject melts into doodle — Image). How to call it: one-click; input: an image. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-apps/SKILL.md` (line 84) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-apps/SKILL.md#L84
+
+Site page: [effects/melting.md](../../site/presets-site/effects/melting.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

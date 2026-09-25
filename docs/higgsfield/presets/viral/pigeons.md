@@ -15,3 +15,5 @@ A rider glides through the city on pigeons like roller skates, hovering above th
 Open with `get_presets(source:'viral', preset_id:'e0da05ed-12ae-485b-93ac-939f885f314d')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/pigeons.md](../../site/presets-site/effects/pigeons.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

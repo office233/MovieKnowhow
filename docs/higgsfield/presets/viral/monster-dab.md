@@ -15,3 +15,5 @@ A colossal fantasy creature drops from the sky behind the subject, seamlessly ma
 Open with `get_presets(source:'viral', preset_id:'ddb12fd4-5bbf-4bb1-800b-7d409f3066b5')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/monster-dab.md](../../site/presets-site/effects/monster-dab.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

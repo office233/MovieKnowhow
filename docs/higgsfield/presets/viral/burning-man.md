@@ -15,3 +15,5 @@ A flaming double appears before the subject and reaches out for a handshake, bri
 Open with `get_presets(source:'viral', preset_id:'acc07eb5-2d40-4ace-9789-48d5bf19639c')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/burning-man.md](../../site/presets-site/effects/burning-man.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

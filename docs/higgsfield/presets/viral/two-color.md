@@ -22,3 +22,5 @@ Open with `get_presets(source:'viral', preset_id:'928dd98a-20e4-42f8-8772-0cb5c9
 
 - **Mixed Media preset: Two Color** (Bold two-tone duotone treatment — Graphic, poster, editorial). How to call it: `[scene prompt]` then `Mixed Media preset: Two Color`. To layer two: `Mixed Media presets: Two Color + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 99) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L99
 - **Worked example:** `Mixed Media preset: Two Color — black and vermillion.` Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 139) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L139
+
+Site page: [effects/two-color.md](../../site/presets-site/effects/two-color.md) · [mixed-media/two-color.md](../../site/presets-site/mixed-media/two-color.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

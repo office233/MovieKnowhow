@@ -28,3 +28,5 @@ Open with `get_presets(source:'viral', preset_id:'6626ad13-f00f-4b67-be41-c768b9
 - **Cinema Studio 3.0 speed ramp: Bullet Time** ("Ultra-slow at key moment, normal around it"; action hits, reveals, hero beats). Source: higgsfield-ai-prompt-skill · `skills/higgsfield-cinema/SKILL.md` (line 474) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-cinema/SKILL.md#L474
 - **Image-shot phrasing:** "Bullet time effect. Time is frozen with snowflakes suspended in mid-air, while the camera smoothly rotates 180 degrees around [img 1]." Source: higgsfield-ai-prompt-skill · `skills/higgsfield-image-shots/SKILL.md` — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-image-shots/SKILL.md
 - **Best models:** Kling 2.6, Sora 2 (UI-only). Source: higgsfield-ai-prompt-skill · `model-guide.md` (line 217) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/model-guide.md#L217
+
+Site page: [effects/bullet-time.md](../../site/presets-site/effects/bullet-time.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

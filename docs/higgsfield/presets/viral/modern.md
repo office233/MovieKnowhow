@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'744ebc4f-b323-47a0-aefe-560663
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Modern** (Clean contemporary minimal style — Commercial, brand, lifestyle). How to call it: `[scene prompt]` then `Mixed Media preset: Modern`. To layer two: `Mixed Media presets: Modern + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 101) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L101
+
+Site page: [effects/modern.md](../../site/presets-site/effects/modern.md) · [mixed-media/modern.md](../../site/presets-site/mixed-media/modern.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

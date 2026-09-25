@@ -15,3 +15,5 @@ Cabanel’s original "The Fallen Angel" below, your cinematic version of the por
 Open with `get_presets(source:'viral', preset_id:'463c5c9e-5980-46bd-a9be-ebb4b4a3add4')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/fallen-angel.md](../../site/presets-site/effects/fallen-angel.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

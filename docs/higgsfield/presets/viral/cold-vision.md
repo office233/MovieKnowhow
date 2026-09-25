@@ -22,3 +22,5 @@ Open with `get_presets(source:'viral', preset_id:'d5702ff7-e146-4369-bc84-881692
 
 - **Mixed Media preset: Cold Vision** (Ice-blue, clinical, cold atmospheric — Sci-fi, thriller, dystopian). How to call it: `[scene prompt]` then `Mixed Media preset: Cold Vision`. To layer two: `Mixed Media presets: Cold Vision + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 56) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L56
 - **Stack suggestion:** Wireframe + Cold Vision gives a "Sci-fi diagnostic overlay". Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 158) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L158
+
+Site page: [effects/cold-vision.md](../../site/presets-site/effects/cold-vision.md) · [mixed-media/cold-vision.md](../../site/presets-site/mixed-media/cold-vision.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

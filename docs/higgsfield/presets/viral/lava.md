@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'3f631876-f34e-499f-87e6-bc9ead
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Lava** (Molten rock texture and glow — Dramatic, volcanic, intense). How to call it: `[scene prompt]` then `Mixed Media preset: Lava`. To layer two: `Mixed Media presets: Lava + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 80) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L80
+
+Site page: [effects/lava.md](../../site/presets-site/effects/lava.md) · [mixed-media/lava.md](../../site/presets-site/mixed-media/lava.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'92e39a66-01a4-4f17-9b86-2ffd8c
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Acid** (Psychedelic acid-wash color distortion — 1960s, surreal, experimental). How to call it: `[scene prompt]` then `Mixed Media preset: Acid`. To layer two: `Mixed Media presets: Acid + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 82) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L82
+
+Site page: [effects/acid.md](../../site/presets-site/effects/acid.md) · [mixed-media/acid.md](../../site/presets-site/mixed-media/acid.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

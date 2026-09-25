@@ -22,3 +22,5 @@ Open with `get_presets(source:'viral', preset_id:'536da8e0-dbbc-4990-9bfc-5da9df
 
 - **Mixed Media preset: Broken Mirror** (Subject reflected in shattered fragments — Drama, psychological, horror). How to call it: `[scene prompt]` then `Mixed Media preset: Broken Mirror`. To layer two: `Mixed Media presets: Broken Mirror + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 109) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L109
 - **Stack suggestion:** Noir + Broken Mirror gives a "Psychological thriller fragment". Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 155) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L155
+
+Site page: [effects/broken-mirror.md](../../site/presets-site/effects/broken-mirror.md) · [mixed-media/broken-mirror.md](../../site/presets-site/mixed-media/broken-mirror.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

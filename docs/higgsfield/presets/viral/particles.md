@@ -22,3 +22,5 @@ Open with `get_presets(source:'viral', preset_id:'f1f09357-8db4-4932-b598-4b62e9
 
 - **Mixed Media preset: Particles** (Subject dissolves into floating particles — Sci-fi, abstract, ethereal). How to call it: `[scene prompt]` then `Mixed Media preset: Particles`. To layer two: `Mixed Media presets: Particles + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 63) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L63
 - **Stack suggestion:** Sketch + Particles gives "Drawing dissolving into dust". Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 154) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L154
+
+Site page: [effects/particles.md](../../site/presets-site/effects/particles.md) · [mixed-media/particles.md](../../site/presets-site/mixed-media/particles.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

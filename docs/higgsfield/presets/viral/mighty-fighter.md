@@ -15,3 +15,5 @@ Become a battle-worn knight in a misty field of red poppies. Melancholic and cin
 Open with `get_presets(source:'viral', preset_id:'ac033a3c-4a91-4340-b19f-c6df281c9e80')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/mighty-fighter.md](../../site/presets-site/effects/mighty-fighter.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'be3585f5-8246-4670-87a7-19c750
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Ultraviolet** (UV-reactive palette, neon on dark — Club, night, music). How to call it: `[scene prompt]` then `Mixed Media preset: Ultraviolet`. To layer two: `Mixed Media presets: Ultraviolet + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 51) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L51
+
+Site page: [effects/ultraviolet.md](../../site/presets-site/effects/ultraviolet.md) · [mixed-media/ultraviolet.md](../../site/presets-site/mixed-media/ultraviolet.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

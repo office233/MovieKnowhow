@@ -15,3 +15,5 @@ A hand lifts you out of the scene like a rigid plastic action figure and rotates
 Open with `get_presets(source:'viral', preset_id:'7608c318-2752-407b-acd6-6fd33732bdbf')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/action-figure.md](../../site/presets-site/effects/action-figure.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

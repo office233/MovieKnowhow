@@ -21,3 +21,5 @@ Open with `get_presets(source:'viral', preset_id:'4f46bb84-20f5-44d5-bee1-e1e2c0
 > Added 2026-09-25 from the cloned open-source repos (`../../opensource/`, MIT). **None of them contains the exact Viral Hub model or prompt template for this chain preset.** The entries below are same-name or related presets from the older named libraries, with their invocation phrasing.
 
 - **Mixed Media preset: Collage** (Subject reassembled as cut-paper collage — Editorial, zine, artistic). How to call it: `[scene prompt]` then `Mixed Media preset: Collage`. To layer two: `Mixed Media presets: Collage + [Other] (layered)`. Source: higgsfield-ai-prompt-skill · `skills/higgsfield-mixed-media/SKILL.md` (line 69) — https://github.com/OSideMedia/higgsfield-ai-prompt-skill/blob/c0b73ab/skills/higgsfield-mixed-media/SKILL.md#L69 (related)
+
+Site page: [effects/scrapbook-collage.md](../../site/presets-site/effects/scrapbook-collage.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

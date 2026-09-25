@@ -12,6 +12,8 @@
 
 The world tilts around the subject, sending loose objects sliding and tumbling past while they remain calmly in place. Built for surreal fashion edits, playful gravity distortions, and offbeat music videos.
 
+> Note: the site shows the **same description as Incline** for this preset, which looks like a copy-paste error on the page. Judging by the name and the preview, it is a LiDAR point-cloud scan transition between two images (inputs: Images + Prompt).
+
 ## Inputs
 
 | Label | Type | Min | Max | Required | Binds to |

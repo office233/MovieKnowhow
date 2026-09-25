@@ -15,3 +15,5 @@ The entire background environment lifts and folds inward around a stationary cen
 Open with `get_presets(source:'viral', preset_id:'262d1281-9e6e-4530-b1b2-ce74f7a33df9')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/world-morphing.md](../../site/presets-site/effects/world-morphing.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

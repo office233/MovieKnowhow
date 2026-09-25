@@ -15,3 +15,5 @@ An off-duty knight lounges above the Alps with a diary and a cat. Epic and cinem
 Open with `get_presets(source:'viral', preset_id:'18c71d5b-f702-47fd-99c8-ce8392265c70')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/knight-s-diary.md](../../site/presets-site/effects/knight-s-diary.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

@@ -15,3 +15,5 @@ Redon’s original "The Cyclops" below, an animated recreation starring you abov
 Open with `get_presets(source:'viral', preset_id:'d4dc70f8-def4-44b0-b507-82ef7c88971d')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/cyclope.md](../../site/presets-site/effects/cyclope.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

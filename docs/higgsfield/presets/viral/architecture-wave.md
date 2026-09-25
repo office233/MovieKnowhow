@@ -15,3 +15,5 @@ A massive architectural reality warp. While the subject moves naturally in the f
 Open with `get_presets(source:'viral', preset_id:'118138a4-5b5d-471e-a29f-69faa58aee5a')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/architecture-wave.md](../../site/presets-site/effects/architecture-wave.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)

@@ -15,3 +15,5 @@ Stadium lights, a sea of raised phones, and a face taking over the jumbotron—a
 Open with `get_presets(source:'viral', preset_id:'6551373d-7ad9-4f33-8bb1-9bb7b570cf6e')` to see its `execution.input_schema`; run only with explicit user approval via `execute_preset` (consumes credits).
 
 > Model, exact prompt template and input schema were not captured (detail view not exposed before the MCP connector was disconnected). See ../../open-questions.md.
+
+Site page: [effects/superstar.md](../../site/presets-site/effects/superstar.md) (input schema, settings, pricing, preview and example media from higgsfield.ai)
