@@ -1,0 +1,259 @@
+# Seedance 4K: Cinematic Realism
+
+- **URL:** https://higgsfield.ai/academy/courses/cinematic-realism-4k
+- **Taught by:** Higgsfield Creative (presenter: Adil)
+- **Level:** Intermediate · **Modules:** 8 · **Duration:** 14 min
+- **Note:** the "21:9 crowd" prompt text itself ends with "16:9, 10 seconds"; the 21:9 framing is stated only in the lesson text.
+- **Description (paraphrased):** stress-test **Seedance 2.0 native 4K** across hyper-detailed realism, 21:9 crowd shots, VFX on real footage, 2D/3D animation, ads with legible branding, game-trailer imagery and fast combat.
+- **Skills:** evaluate hyper-detailed images and impossible wides for stability; judge 4K integration with real footage, cartoons and CGI; test ads, branded text, game HUDs and high-speed combat for detail and motion clarity.
+- **Workflow:** ideas described to Claude with a "professional prompt-building skill", which outputs ready Seedance prompts (the long structured prompts below). Most clips are 15 s, 16:9 (one 21:9).
+- **Key claims:** native 4K fixes morphing/frozen poses in busy wides and crowds ("pixel soup" at 1080p); Seedance now outputs **10-bit color** (8-bit ≈ 16 M colors vs 10-bit > 1 B) → no banding in smoke/reds; set export **bitrate = High** to benefit. Image-model pairing: **Soul Cinema** for characters/locations/keyframes (8-image batches for 1 credit, cinematic default look); **GPT Image 2** for text, motion or storyboards.
+
+---
+
+## Lesson 1 — Cinematic realism & hyper-detail
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/cinematic-realism-and-hyper-detail
+- First test of native 4K; review at native 4K, not a 1080p upload. Dragon-rider shot was written by Claude via a prompt-builder skill — "no prompt-engineering experience required".
+- Texture payoff: individual dragon scales read as real skin.
+- Native 4K keeps detail across busy wide frames with many moving parts (where 720p/1080p morph or freeze).
+- Ocean test: whale-leviathan vs giant cephalopod at the sea surface — hard parts: splash physics, eye close-up detail, tentacles wrapping believably.
+- Prompt anatomy (dragon): comma-separated style header (single continuous shot, one take no cuts, cinematic oner, 8K, 35mm film, steadicam fluidity…) → world/character paragraph with a "hook" event → "Single continuous shot 15s:" beat-by-beat camera paragraph → `Total: 15s / 1 shot / 16:9`.
+- Prompt anatomy (leviathan): labeled blocks STYLE / LIGHTING / COLOR / CAMERA / MATERIAL / ACTING / PHYSICS / CHARACTER DESIGN (original, not franchise) / CONTINUITY / TECHNICAL / AUDIO / SCENE CONTEXT / FORMAT MODE / OPTICS (per-cut shot size + lens angle in degrees) / ACTION per cut / POSITIVE LOCKS.
+
+Dragon rider in a storm (Seedance 2.0 4K, 15 s, 1 shot, 16:9):
+```text
+single continuous shot, one take no cuts, cinematic oner, cinematic lighting, photorealistic, 8K ultra-high-definition, hyperdetailed, 35mm film quality, professional color grading, sharp focus, high detail texture, film grain, depth of field mastery, steadicam fluidity
+A lone rider tears through a violent storm across jagged snow-capped mountain peaks on the back of a flying dragon, shot in full third person. The rider is a wiry figure in layered fur-and-leather flight gear, a wind-torn dark cloak streaming behind, gloved hands gripping a harness strap, body pressed low against the creature's neck. The dragon is an original design — a sleek serpentine flier with charcoal-grey storm-scaled hide, broad membranous wings, ridged spine, and faint warm amber bioluminescence glowing along its scale-seams and throat, the only warmth in a frozen world. The storm rages in cold steel-blue and slate-grey: black thunderheads stacked between icy granite spires, snow and sleet streaking sideways, lightning forking through the cloud canyons. The hook arrives as a second, far larger leviathan-dragon erupting head-on from a wall of fog, triggering a held breath of extreme slow motion as the two near-collide, before reality snaps back into a screaming dive. The take is one unbroken oner, the camera orbiting and chasing as a second flyer, the only speed shift the slow-motion pass of the giant.
+Single continuous shot 15s: The camera chases low and tight behind the rider as the dragon banks hard between two icy granite spires, wings carving the storm, snow and sleet streaking sideways past the lens, the amber glow along its scales the only warmth against the slate-blue murk. The camera arcs around to the side, whipping through a curtain of driving snow as lightning forks across the black thunderheads behind, the rider hunched low and cloak lashing, the dragon folding its wings to knife into a narrow ravine between sheer cliffs. Without warning the colossal second dragon erupts head-on from a wall of fog directly ahead, and the camera flinches as time violently ramps into extreme slow motion — at near-standstill the giant's vast storm-scaled head fills the frame mere meters away, its enormous amber eye reflecting the tiny rider, breath steaming, snowflakes and ice shards hanging frozen between the two creatures as horizontal anamorphic flares rake the lens. Time cracks back to full speed with a thunderous roar as the rider's dragon rolls violently under the giant's jaw and dives, the camera pulling back into a vast wide as the small flier plummets down the ravine through swirling fog, the colossal silhouette banking away above into the storm as lightning floods the peaks.
+Total: 15s / 1 shot / 16:9
+```
+
+Sea leviathan vs cephalopod (6 cuts, 24 fps, slow-mo on breach only):
+```text
+STYLE: 8K photorealistic, anamorphic widescreen, original sea-kaiju blockbuster grade, fine grain, hyperdetailed.
+LIGHTING: cold deep-ocean blue-green key with surface god rays from above; hot bioluminescent glow from the creature as accent; bright overcast surface daylight when breaching; volumetric light through water; lens water-droplets refracting.
+COLOR: deep teal-and-black ocean as the dominant, the whale-leviathan's dark mottled hide and reflective eye as the saturated subject, glowing bio-light as accent; murky, no clean color.
+CAMERA: anamorphic cine optics, real motion blur, register shifts — slow eerie macro on the eye, then a HARD FAST ZOOM into the wild eye, explosive on the breach, water-on-lens on the dive, weighty in the fight. Never static.
+MATERIAL: material-level realism — wet barnacled whale-like hide, a huge glossy reflective eye with detailed iris, slick cephalopod tentacles, refracting water, foam, droplets clinging and streaking on the lens.
+ACTING: the leviathan's eye is shut, then SNAPS open with a wild, alert glare; the creature surges up, breaches, dives back, and grapples the cephalopod — the whole fight stays in and on the water, never lifting into the air.
+PHYSICS: true mass and fluid dynamics — the breach displaces a wall of water and spray; the dive-back collapses water inward with foam, droplets hitting the lens; tentacles whip with weight and drag; the grapple churns bubbles and particles. Both creatures stay at the water surface — they thrash, roll, and submerge, but never fly or lift fully out of the sea.
+CHARACTER DESIGN (original, not based on any franchise):
+- LEVIATHAN: a colossal whale-like sea-beast, dark mottled barnacled hide, a huge glossy reflective eye with a pale wild iris and dark pupil, broad fins, a long finned tail, faint bioluminescent veins.
+- CEPHALOPOD: a colossal deep-sea cephalopod, mottled red-brown skin, many long suckered tentacles, a bulbous mantle, large dark eyes.
+CONTINUITY: SAME leviathan eye and body, SAME cephalopod, SAME ocean across all cuts. The eye that opens in CUT 1 is the exact same eye zoomed into in CUT 2. The fight stays at the sea surface from start to finish.
+TECHNICAL: 24fps, slow-motion on the breach only, ultra high detail, motion accelerating from stillness into violent surface combat.
+AUDIO: diegetic only — muffled deep-ocean ambience, a rising rumble as the eye opens, a sharp sting on the eye-snap, a colossal water-burst on the breach, rushing spray, a heavy plunge on the dive, churning water and tentacle whips, two titanic roars, bubbles, subsonic boom.
+SCENE CONTEXT
+A colossal whale-leviathan's eye snaps open in the dark deep; a hard fast zoom hits its wild glare; it surges up and breaches the surface, dives back (water on the lens), and battles a colossal cephalopod — the entire fight staying in and on the water.
+FORMAT MODE: Sequence of 6 cuts, no timecodes.
+OPTICS: CUT 1 — ECU 18° macro, the closed eye. CUT 2 — ECU 14° HARD FAST ZOOM into the eye as it snaps open. CUT 3 — WS 63° slow-motion breach from just above the sea. CUT 4 — MS 47° handheld dive-back, water on lens. CUT 5 — WS 63° surface grapple. CUT 6 — EWS 84° wide on the churning surface fight.
+ACTION:
+CUT 1 — extreme macro: the leviathan's eye is shut in the dark water, still, bio-veins faintly pulsing.
+CUT 2 — the eye SNAPS open and a hard fast zoom punches in on its wild, alert glare — pale iris, dilating pupil, the same eye in sharp detail.
+CUT 3 — slow-motion: the leviathan breaches, exploding up through the surface in a wall of water and spray.
+CUT 4 — handheld: it dives back down, water crashing inward, droplets hitting and streaking across the lens, the frame foaming for a beat.
+CUT 5 — at the surface: the cephalopod lunges, tentacles whipping and coiling around the leviathan; they grapple, thrashing half-in the water.
+CUT 6 — wide just above the waves: the two colossal creatures roll and thrash in a storm of spray, foam and bubbles, then submerge together. Hold. Hard cut to black.
+POSITIVE LOCKS: SAME leviathan eye and body, SAME cephalopod, SAME ocean every cut. The closed eye in CUT 1 is the exact eye that snaps open and is zoomed into in CUT 2 — hold the detailed wild glare. The fight STAYS at the sea surface throughout — the creatures breach, dive, grapple and submerge, but NEVER fly or get carried up into the air. Deep teal dominant; the leviathan and its eye are the saturated subjects.
+```
+
+## Lesson 2 — The impossible shot: 21:9 crowds
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/the-impossible-shot
+- Army of thousands crossing an ultra-wide **21:9** frame below an ice titan; generated with **pure text-to-video**.
+- At 1080p background figures melted into pixel soup once the camera moved; at 4K ice cracks cleanly between individual soldiers, snow falls, nothing warps.
+```text
+Sweeping wide shot of a mountain-sized titan of ice and stone tearing itself free from a glacier as an army of armored warriors scrambles across the frozen valley below. Handheld camera shakes hard with each cracking movement, snapping from sheets of ice shattering off the titan's shoulders to soldiers diving from collapsing crevasses to a war-horn blaring across the field. Snow erupts in vast plumes, glowing runes flare along the titan's limbs, the whole glacier splinters apart. Stark whites and frozen blues, crushing primordial scale and chaos. 16:9, 10 seconds.
+```
+
+## Lesson 3 — Mixing 4K with real footage (VFX)
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/vfx-on-real-footage
+- Start from plain phone/laptop footage (`@video_1`), paint effects onto the real clip: no green screen, roto or hand masks.
+- Examples: creature pushing through a laptop screen as a membrane (room, light, handheld move untouched; only creature + contact shadows new); cybernetic hand transformation; molten-rock hand from tattoo lines; complete hand removal (model auto-tracks/masks frame-by-frame).
+- Same footage + different prompt = different effect. 1080p versions shifted small details (unusable); 4K adds the effect without altering the rest. Effects are parallax-locked with correct occlusion.
+
+Laptop-screen creature breach:
+```text
+Style: 8K cinematic, photorealistic — no 3D render, no game engine, no game-cutscene look. Practical creature-FX realism. Skin: pore-level — wet translucent dermis, visible dark capillaries, slick film catching light. Physics: real mass, gravity and inertia respected, correct contact shadows, no floating. Composition & grade INHERITED from <<<video_1>>>.
+INPUT LOCK — <<<video_1>>> matches input 100%. The entire source clip is preserved UNCHANGED: white desk, dark laptop, blue pen, switched-off external monitor with its golden lamp reflection, the teal anime figure by the wall, the room, the warm tungsten lighting, the color grade, and the exact handheld orbit. Do NOT re-grade, re-time, smooth, or re-frame anything. The ONLY additions are the creature, the light it emits/casts, its contact shadows, the wet film it leaves, and the laptop's slight physical reaction to its grip.
+SUBJECT — a gaunt, hairless humanoid creature emerging FROM the glowing laptop screen. Pallid grey translucent skin, slick and wet as if just pushed through a membrane; arms ~1.5× human length with an extra elbow joint, long bony fingers, blackened claw-nails; sunken eyeless-looking sockets, jaw slightly distended, slow living breath. It is mid-birth — anchored half-in / half-out of the display.
+ACTION — a creature breaching the screen into the real room.
+SHOT 1 (0:00–0:04) — open on the exact frame, but two long pallid arms have ALREADY breached the screen, the display surface stretched like wet cling-film around the wrists; fingers splayed, gripping the laptop bezel and the desk edge.
+SHOT 2 (0:04–0:08) — it pulls; the laptop shudders and tilts under the weight; the membrane bulges and a gaunt head forces halfway through, a translucent shoulder following; a second clawed hand plants flat on the desk, a contact shadow spreading.
+SHOT 3 (0:08–0:12) — torso emerges to the shoulders, dripping a clear viscous film; the head turns to track the lens, a slow faint exhale; it stays anchored half-out as the clip ends — NO full exit.
+CAMERA — INHERIT the source handheld orbit exactly. The creature is parallax-locked to the screen plane and the desk; correct occlusion.
+AUDIO — NO MUSIC. SFX ONLY: wet membrane stretch and tear, low guttural breath, claws scraping desk, laptop creak under strain, faint room tone.
+CONSTRAINTS — 16:9, match source duration (~12s). Footage 100% unchanged — only the creature and its physical effects added. Screen = physical membrane portal, NOT a flat decal. NO slow-motion. No CG/game look.
+```
+Cyber hand (Photoreal, 16:9, 10 s, SFX only):
+```text
+@video_1: same young man looking down at his bent right forearm and clenched fist, in a modern office. Subject, face, pose, office, camera and motion reference — preserve exactly.
+Photoreal. 16:9. 10s. Filmic look — natural grain, neutral cool indoor color, soft contrast, handheld. NON-IP — original cybernetic limb design. Preserve source subject, face, office and camera move; right-arm cybernetic transformation added as VFX, assembling part by part. SFX only.
+The transformation builds piece by piece across the shot. It starts at the tattoo: its lines light up with faint cyan. Then the skin opens in sequence — fine seams split one section at a time along the wrist and peel back like panels, revealing dark carbon-fibre and brushed-metal structure, servo joints and routed cabling. Components seat one at a time — a servo pivots, a cable plugs in, an actuator line lights cyan. Segmented metal plates fold out and lock up the forearm a single plate at a time. The reveal reaches the back of the hand, then sheaths each finger knuckle by knuckle in articulated metal, each joint locking and flexing to test. The tattoo's lines reflow into glowing cyan circuitry. By the end his right hand and forearm are a complete clean cybernetic limb; the rest of him and the office unchanged. Face and identity unchanged.
+SFX only: a faint rising electronic hum, skin seams parting with soft ticks, servos whirring and seating, connectors clicking, crisp snaps as finger segments lock, building to a steady resonant hum; low ambient office tone throughout.
+```
+Molten-rock hand (Photoreal, 16:9, 10 s, SFX only):
+```text
+@video_1: same young man looking down at his bent right forearm and clenched fist, in a modern office. Subject, face, pose, office, camera and motion reference — preserve exactly.
+Photoreal. 16:9. 10s. Filmic look — natural grain, neutral cool indoor color warming toward the hand, soft contrast, handheld. Preserve source subject, face, office and camera move; right-arm transformation added as VFX. SFX only.
+It begins at the tattoo: fine glowing-orange cracks open along the inked lines and spread through the skin like cooling lava, throwing warm light up onto his face against the cool office. The cracks widen into molten fissures; the surface darkens to charred crust between veins of bright magma that pulse and flow. Heat-haze shimmer rises and small embers lift away. The hand glows hottest — the clenched fist a core of molten rock, knuckles cracked and glowing white-hot, thin smoke curling between the fingers. By the end his right hand and forearm are blackened crust laced with flowing magma; the rest of him and the office unchanged. Face and identity unchanged.
+SFX only: low crackle as the cracks open, deep molten rumble, faint hiss and ember pops, soft heat roar at the hand, ambient office tone.
+```
+Arm invisibility / removal (Photoreal, 16:9, 10 s, SFX only):
+```text
+@video_1: same young man looking down at his bent right forearm and clenched fist, in a modern office. Subject, face, pose, office, camera and motion reference — preserve exactly.
+Photoreal. 16:9. 10s. Filmic look — natural grain, neutral cool indoor color, soft contrast, handheld. Preserve source subject, face, office and camera move; right-arm invisibility added as VFX. SFX only.
+The effect builds gradually, starting at the tattoo: its inked lines shimmer and turn translucent, then the skin turns glassy and refractive. The transparency spreads from the wrist up the forearm and across the hand — the limb bending the office behind it like warped glass, the table, glass partition and colleague visible and rippling through where the arm used to be. The arm fades toward fully see-through; only a faint shimmering ripple outline marks its edge and every flex of the fingers. The loose sleeve sags and shifts emptily. By the end his right hand and forearm are completely invisible — the office seen cleanly through the empty space, just a soft heat-haze shimmer. The rest of him and the office unchanged. Face and identity unchanged.
+SFX only: a soft crystalline shimmer, a low airy phasing hum sweeping up the arm, a faint glassy rippling, a thin high tone as the limb fades out, settling into near-silence; low ambient office tone throughout.
+```
+
+## Lesson 4 — Cartoon & 2D animation
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/cartoon-and-2d-animation
+- Painterly fantasy flight (girl on a cute creature over colossal tree-arches): one continuous flight; model must hold girl design, wing motion and palette while scale shifts. Stays sharp at high saturation.
+- First-person hoverbike POV with an iridescent insect jump-scare, speed-ramp 24→240→24 fps, macro freeze; SFX-only.
+- Clown-golem floating-carnival FPV oner: the model stages the scene and keeps the camera dynamic without hand-prompting every move.
+- Useful devices: "KEY LOCKS" (sell immensity, same design, no morphing, camera flies WITH the creature), "FORBIDDEN" list (no IP, no text/logos, no plastic CGI gloss…), 60:30:10 color ratio, timed action blocks, audio design including silence during slow-mo.
+
+Surreal fantasy flight (15 s, 16:9, 24 fps, SFX only):
+```text
+SURREAL FANTASY — GIRL FLIES HER COLORFUL WORLD ON A CUTE CREATURE (CINEMATIC, 15s)
+Lush cinematic fantasy, hyperreal yet painterly — like a living classic matte-painting brought to motion: rich, luminous, deeply SATURATED color, crisp detail, soft volumetric light, fine film grain, anamorphic widescreen. Awe and wonder, colossal surreal scale. A young woman flies on a small, cute, brightly colored creature, swooping around her impossible homeland to reveal its vastness. 16:9, 15s. Coherent, grounded flight physics, magical.
+THE WORLD: an impossible homeland of COLOSSAL natural cathedral arches — mile-high rows of giant trees fused into vaulted green archways marching to the horizon, sunlight and waterfall-mist pouring between them. Far below, a tiny vibrant civilization: patchwork emerald fields, white-and-terracotta towns, slender towers, orchards in red-and-gold bloom. At the edge of the world the land drops in a monumental city-cliff into a glittering turquoise sea dotted with white sailboats. Everything human is tiny.
+THE COLOR: maximum vibrancy — deep emerald greens, cobalt-to-turquoise sky and sea, warm golden sunlight, pops of flowering red, coral and gold. Rich, glowing, never muddy.
+THE GIRL: a joyful young woman, 20-25, windswept hair streaming, flowing earth-and-jewel-toned clothes, eyes wide with wonder, leaning with the creature's banks.
+THE CREATURE: a small friendly flying creature — soft rounded body, big soulful eyes, a gentle beaky face, iridescent rainbow plumage-scales (teal, magenta, gold), broad membranous-feathered wings, a long ribboned tail. Same design in every frame, no drift.
+KEY LOCKS: constantly sell the immensity — the girl and creature a tiny bright speck against mile-high arches and the world-edge cliff; deep parallax on every move. Keep color rich and glowing. The creature flaps, glides and banks with real wing dynamics and weight; wind ripples its plumage and her hair. Consistent design and same girl throughout — no morphing. Camera flies WITH the creature — banking alongside, dropping into dives, craning up for reveals. Solid architecture and real perspective, no warping or melting.
+SHOTS — ONE CONTINUOUS FLIGHT (or 2-3 clean cuts on motion)
+0–4s — UNDER THE GREEN ARCHES: the camera sweeps through a towering emerald cathedral-arch, light and mist pouring down, then finds the girl and her creature gliding through the vast green tunnel, tiny against the scale.
+4–9s — OVER THE HOMELAND: the creature banks and dives toward the tiny civilization — fields, towns, orchards rushing past below in deep parallax, the girl laughing; the camera soars alongside.
+9–15s — THE WORLD'S EDGE: they burst out into open sky — the land drops away in a monumental city-cliff into a turquoise sea with sailboats below; the creature spreads its wings and the camera cranes back into a colossal wide. Hold on the wonder.
+FORBIDDEN — no franchise or IP references, no recognizable characters, no readable text or logos, no desaturated grading, no warping or melting geometry, no design drift, no plastic CGI gloss, no neon eyes.
+15s. 16:9. 24fps. SFX only: wind and wing-beats, the creature's soft chirps, the girl's delighted laughter, faint birdsong, surf and a soft town hum far below. No dialogue.
+```
+Hoverbike POV + alien fly speed-ramp (15 s, one take):
+```text
+Cinematography: First-person POV, naturalistic unconstrained human vision. Authentic head movement with organic micro-tremor, subtle wind-shake, reactive eye-line tracking.
+Lighting: surrealistic alien twilight. High-contrast natural light through a dense canopy. Underlit by vibrant bioluminescent glow from the fungal forest.
+Color: 60:30:10 — dominant deep indigo and violet 60% / secondary neon magenta, cyan, toxic green 30% / accent warm amber-gold (hoverbike dashboard) 10%.
+Camera: wide-angle cine lens (24mm). 180° shutter motion blur. Speed-ramping (24fps to 240fps and back). Extreme macro depth-of-field transition.
+Physics: inertia and wind resistance felt through the camera. Particles and spores obey aerodynamic drag.
+SUBJECTS:
+@rider_pov: pure first-person vision, no helmet, no HUD. At the bottom of the frame the rider's hands grip the handlebars of a heavy hoverbike, fingers adjusting the throttle.
+@alien_fly: a surreal iridescent macro-insect — double-layered translucent oil-slick wings, a neon-cyan segmented body pulsing with bioluminescence, large multi-faceted magenta eyes.
+LOCATION: a bizarre fantasy jungle at twilight, towering twisted mega-mushrooms pulsing with toxic green and magenta light. Glowing spores drift like ash.
+ACTION — ONE CONTINUOUS TAKE, NO cuts. 15 seconds.
+0:00–0:04 — High-velocity real-time POV (24fps): the hoverbike flies low and fast, weaving through a narrow opening; the camera tilts into turns; spores streak past.
+0:04–0:05 — The jolt: as the bike clips a glowing stalk, the @alien_fly flashes in from camera-left — a sudden jump-scare. The camera flinches (a micro-jerk back and right). Time violently freezes into extreme slow-motion.
+0:05–0:11 — Ultra slow-motion macro (240fps): near standstill. The @alien_fly drifts past the lens at macro distance, centimeters from the eye — every microscopic detail visible, oil-slick wings scattering the neon light, spores parting around it, horizontal anamorphic magenta flares across the lens.
+0:11–0:15 — Instant speed-ramp back (24fps): the fly snaps past camera-right and vanishes; time cracks back with a rush of wind, the engine roars, the rider corrects and accelerates deeper into the forest.
+CONSTRAINTS: 16:9. ONE CONTINUOUS POV SHOT — no cuts. No screen borders or helmet graphics. Photoreal throughout.
+AUDIO (NO MUSIC): heavy mechanical hum and high-RPM whine, high-speed wind. At 0:04, a caught breath. During slow-mo, wind drops into a muffled vacuum replaced by the deep thump-thump of the fly's wings and the rider's heartbeat. At 0:11, a sonic whoosh as reality snaps back.
+```
+Clown golem FPV oner (15 s):
+```text
+single continuous shot, one take no cuts, cinematic FPV oner, 4K ultra-detailed, photorealistic macro detail, anamorphic film look, epic cinematic scale, playful whimsical tone, cinematic lighting, professional color grading, sharp focus, film grain, depth of field mastery, fluid drone flight
+A colossal wind-up clown golem — bright, cartoonish and goofy, not scary, its gaudy clockwork body of creaking gears and swinging arms — crashes through a floating carnival park in a brilliant blue sky, where a giant Ferris wheel, striped tents and candy-colored towers drift among the clouds in acid-bright color. Performer-warriors ride animal-shaped hot-air balloons and flying carousels, streamers and confetti trailing, swarming the golem with popper-blasts and bursts of magic. Hard high-key daylight, saturated candy red, yellow, teal and azure. The camera is an FPV presence flying with the golem — opening in extreme 4K macro against its painted clockwork shell, repeatedly diving into confetti and firework clouds, brushing close against performers and ride-metal, with a brief slow-motion macro beat on a performer at the three-second mark and a frozen bullet-time macro orbit on a strike at the seven-second mark, each returning to full speed, never stopping.
+Single continuous shot 15s: opens in razor-sharp 4K macro against the clown golem's painted clockwork shell — glossy enamel and turning brass gears grinding past the lens, confetti bursting. It dives into a billowing cloud of confetti and glitter in hyper-detailed macro, then bursts out alongside a diving performer where, at the three-second mark, time eases into a brief slow-motion macro hold — a sequined costume, face paint, the popping muzzle of a confetti-blaster, the stitched fabric of an animal-shaped balloon — before snapping back. The camera surfs the golem's flank as a giant arm swings through a striped tent, then plunges through another burst of confetti. At the seven-second mark a firework volley and a radiant magic burst strike the golem's chest together, and time freezes into an extreme-macro bullet-time orbit — cracking painted plating, crawling sparks suspended mid-air, the firework's blooming core, glitter hanging razor-crisp. Time snaps back and the camera dives between drifting balloons and candy towers, grazing the Ferris wheel and a carousel's gilded trim, before brushing the golem's grinning face once more, surging onward without ever pulling up.
+```
+
+## Lesson 5 — 3D cartoons & CGI
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/3d-cartoons-and-cgi
+- Seedance 2.0 4K also does full 3D CGI; the clown-golem clip was a second-try result. Fast camera + many particles usually breaks AI video; here color, smoke, reds and haze stay clean.
+- 10-bit output explains the clean gradients → set bitrate High on export.
+- Multi-shot pattern: style header ("montage, multi-shot … don't use one camera angle or single cut") + scene paragraph + numbered `Shot N:` lines with dialogue + `Total: 15s / 6 shots / 16:9`.
+
+Pixar-style jungle-temple trio (15 s, 6 shots, 16:9):
+```text
+montage, multi-shot 3D animated feature film, don't use one camera angle or single cut, vibrant glossy CGI render, Pixar-quality stylized animation, expressive cartoon performance, subsurface-scattered fur and skin, cinematic lighting, sharp focus, depth of field mastery, dappled bright daylight, lush saturated jungle palette
+In a lush overgrown jungle temple in dappled daylight, three goofy creatures stand among giant mushrooms and mossy ruins. A big shaggy orange horned monster with a bedroll on his backpack bounces with excitement, a small round blue scaly dragon with little dorsal spikes clutches a glowing treasure map, and a towering mossy tree-creature with a wide-eyed grin looms behind. A tiny green creature peeks from the ferns. Stylized 3D feature quality — vibrant, glossy, soft and warm, playful expressive animation.
+Shot 1: Medium shot with a playful push-in, the orange monster bounces and waves both arms with a huge toothy grin: "Okay — today's the day, I can feel it in my fur!"
+Shot 2: Close-up, the blue dragon holds the map up close as it glows gold, eyes snapping wide. He whispers: "Wait... the lost chamber — it's real."
+Shot 3: Wide shot, the trio reacts as the dragon thrusts a claw toward the temple, the others beaming, the tiny green creature popping up. They gasp: "WHOA!"
+Shot 4: Medium tracking shot, the trio surges forward in a huddle, the orange monster kicking up leaves. He shouts: "Last one there hatches a rotten egg!"
+Shot 5: Close-up insert, the tree-creature's giant mossy foot lifts to reveal a glowing golden treasure chest squashed into the moss underneath it.
+Shot 6: Wide shot, the orange monster and blue dragon freeze and stare slack-jawed at the chest, a beat of stunned silence, the tiny green creature face-palming. The tree-creature gives a sheepish wave: "...Was it important?"
+Total: 15s / 6 shots / 16:9
+```
+Product CGI commercial with an element reference:
+```text
+hypermotion, CGI commercial video of our products, about 15sec, 10 scenes / cuts with 3D CGI showing the product. @Supercomputer-Heroine
+```
+
+## Lesson 6 — Ads, brands & sharp text
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/ads-brands-and-sharp-text
+- Biggest ad upgrade: logos/labels stay sharp through fast cuts. Test = full skincare campaign from 4 reference images (3 characters + 1 product lineup) resolving on a hero packshot, names legible throughout.
+- Skin holds pores, grain and imperfections (beats the plastic "AI skin" look).
+- Prompt devices: timed sections with exact seconds, a single stylized transition (FILM BURN at 13.0 s, 10–14 frames), 0.3 s strobe-flash macro montage, "Logos read exactly …", POSITIVE LOCKS (serum stays green, cream white), audio list with "no voiceover, no music, no on-screen text".
+- Pairing: Soul Cinema for characters/locations/keyframes; GPT Image 2 for text/motion/storyboards.
+
+BEGIM skincare campaign (15 s, 8 sections, 16:9, 4 image refs):
+```text
+Style: 8K photorealistic editorial luxury skincare commercial, cinematic and moody, deep black crush, per-character colour worlds. The only stylized transition is a single FILM BURN from Section 7 into Section 8; all other cuts are hard match-cuts on action, sharp and instant.
+SCENE CONTEXT: BEGIM skincare campaign — 15-second continuous sequence, 8 internal sections. Three women each interact with BEGIM products, resolving on a hero packshot. 16:9.
+ACTIVE REFERENCES:
+@image_1 — character A: East Asian woman, short black bob, sparkly dark halter dress, on red-lit stairs with cyan backlight.
+@image_2 — character B: woman in a beige bikini top and flowing skirt, wide sun hat, paddleboarding on turquoise water.
+@image_3 — character C: woman with dark braids, red heart-shaped goggles on forehead, upside-down angle, neon cyan-pink glow, red heart balloon.
+@image_4 — BEGIM lineup: Hydra Memory cream jar, green Serum dropper bottle, frosted pump bottle, on black silk with lime-green fabric. Logos read exactly BEGIM, HYDRA MEMORY, SERUM.
+FORMAT MODE: Timed multishot, HARD CUTs on action. The single FILM BURN occurs only at 13.0s.
+[Section 1 — 0.0–2.0s] CHARACTER A, red-lit stairs. She pulls the BEGIM Serum dropper from a black clutch. ECU of fingers unscrewing the gold cap, cyan backlight on the green glass, one luminous drop hanging from the tip. Camera crash-zooms into the drop.
+[Section 2 — 2.0–4.0s] CHARACTER B, aerial drone. CU of her hands opening the Hydra Memory jar, scooping cream. Extreme macro: cream spreads across her collarbone in slow motion, golden-hour light, water droplets mixing with white cream.
+[Section 3 — 4.0–6.5s] CHARACTER C, upside-down, neon. She presses the frosted pump bottle — mist sprays across her face in slow motion. ECU: micro-droplets catch neon pink and cyan like prisms.
+[Section 4 — 6.5–8.0s] PRODUCT MONTAGE — four rapid macro cuts, 0.3s each with a strobe flash: dropper releasing serum onto a fingertip; cream swirl inside the jar; pump pressing in slow-mo; all three bottles lined up.
+[Section 5 — 8.0–9.5s] CHARACTER A — ECU of serum patted into the cheekbone, green-gold liquid absorbing, pores and fine texture, red staircase light pulsing.
+[Section 6 — 9.5–11.0s] CHARACTER B — CU of cream gliding down the forearm, turquoise water reflecting; slow dolly to her face, eyes closed in bliss, sun flare.
+[Section 7 — 11.0–13.0s] CHARACTER C — she catches the heart balloon string, the pump bottle against her chest; neon shifts pink→cyan→white; she looks into the lens. Slow push-in to her eyes.
+FILM BURN (13.0s, 10–14 frames, hard in and out): an amber-orange chemical burn ignites from the edges and crawls inward, emulsion bubbling, sprocket holes flashing, charring to embers, then burning through to Section 8.
+[Section 8 — 13.0–15.0s] HERO PACKSHOT — all three products on black silk with lime-green fabric. Slow dolly-in, products in the right third, clean dark negative space left, gold dust drifting, final micro-bounce settle. Hold.
+AUDIO: glass clink, wet cream texture, water splash, pump hiss, spray mist, ambient bass drone. Vinyl crackle and ember sizzle only on the film burn. No voiceover, no music, no on-screen text.
+POSITIVE LOCKS: each character and the products match their references exactly; logos stay sharp: BEGIM, HYDRA MEMORY, SERUM. Serum stays green, cream stays white. All internal cuts are hard match-cuts. The FILM BURN happens only once, at 13.0s.
+```
+
+## Lesson 7 — Gaming: next-gen trailers
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/next-gen-game-trailers
+- Wasteland trailer made with **image-to-video from a single reference frame** containing a full HUD (compass, minimap, quest log, hotbar, HP/stamina/rads bars) — HUD stays pinned and crisp.
+- Boss erupts and feels heavy: Seedance 4K models weight, avoiding the floaty AI look.
+```text
+Style: AAA video-game cinematic — Unreal Engine 5 real-time in-engine render, open-world cutscene aesthetic with LIVE GAMEPLAY HUD. Match @image_1 as the master visual + UI reference 100%. Lumen GI, Nanite micro-geometry, screen-space reflections. Hyperreal but unmistakably GAME-RENDERED. NOT live-action, NOT film.
+Lighting: dramatic sunset key, sun low, ray-traced shadows, volumetric god-rays through dust.
+Camera: virtual game-cinematic camera, third-person over-the-shoulder, 180° shutter motion blur.
+Continuity: character, props, environment AND every HUD element identical across every cut, matching @image_1.
+HUD LAYER — replicate the HUD from @image_1 exactly: flat 2D screen-space UI in chartreuse #d1ef17, crisp vector icons, semi-transparent panels. STAYS PINNED on every shot (numbers may tick, layout locked): TOP-CENTER compass bar; TOP-RIGHT circular minimap "WASTELAND E-5"; RIGHT EDGE quest log ("MAIN QUESTS", "SIDE QUESTS" with counters); BOTTOM-LEFT "LVL 18" badge, XP bar, HP/STAMINA/RADS bars; BOTTOM-CENTER hotbar of 10 slots; BOTTOM-RIGHT ammo counter + coin readout; CENTER-LOWER diegetic "[E] SURVEY" prompt.
+SUBJECT — @drifter (matches @image_1): third-person player-character, weathered duster coat, scavenger backpack, bolt-action rifle slung across the back, framed over-the-shoulder.
+LOCATION — @image_1 as STYLE REFERENCE: vast ruined metropolis at dusk, collapsed skyscrapers, fissured clay earth, burnt-orange-and-violet sky. Model extends the world; subject moves through space.
+Late beat: @horned-mutant — a hulking boss-mutant ~2.5 human-heights tall, thick curved horns, cracked ash-grey hide — erupts from the soil.
+SHOT 1 (0:00–0:05) — third-person wide over-the-shoulder: @drifter on the ridge surveying the dead city, coat lifting as a sandstorm sweeps in; "[E] SURVEY" prompt glows.
+SHOT 2 (0:05–0:10) — tighter over-the-shoulder: he braces, then freezes as cracked ground heaves and splits, dust punching up; a red "?" flares on the minimap; SPEED-RAMP into the first burst of soil.
+SHOT 3 (0:10–0:15) — low boss-reveal from the fissure: @horned-mutant tears upward, clods exploding off its shoulders, head snapping toward @drifter as it roars; a boss health-bar fades in; ramp back to normal speed on the roar.
+CONSTRAINTS: 16:9. Hold the AAA game-engine look + @image_1 HUD HARD throughout — NOT live-action. Full HUD screen-pinned in EVERY shot. Default NO slow-mo; SPEED-RAMP only on the soil burst and the roar. Mutant scale ~2.5 human-heights — a towering boss, NOT kaiju-giant. Contact shadows on all debris. NO eye glow.
+AUDIO — NO MUSIC, SFX ONLY: howling sandstorm, grit on fabric, a building subterranean rumble, the wet crack of splitting earth, a guttural mutant roar, subtle game-UI ticks.
+```
+
+## Lesson 8 — High-speed combat & final verdict
+URL: https://higgsfield.ai/academy/courses/cinematic-realism-4k/high-speed-combat-and-final-verdict
+- Canyon chase: hypercar drifting through a crystal canyon while giants' hands try to grab it; holds because the model understands 3D space/depth — 4K called "a necessity" for such shots.
+- Boss fight: fast unbroken take with a full HUD burned in; tests camera, impacts and legible UI together.
+- Verdict: 4K upgrade fully worth it, across any style (hyper-real, sci-fi, dark fantasy RPG, anime).
+
+Arcade racing / canyon chase:
+```text
+Style: AAA arcade racing-game gameplay footage — Forza Horizon / Need for Speed look. Hyper-saturated, glossy, high-contrast real-time render with crisp pinned UI. In-game gameplay, NOT a film plate.
+Cinematography: classic third-person chase-cam, rock-steady, locked to the car.
+Lighting: punchy golden-hour key down the canyon, neon rim on the giants and crystals, heavy bloom, atmospheric haze.
+Physics: arcade-racing feel — fast weighty drifts, instant grip, big volumetric tyre smoke. Giants move with ground-shaking mass.
+Technical: 60fps ultra-smooth, no jitter.
+REFERENCE — image1 is the MASTER STYLE REFERENCE (car, both foreground giants, distant violet giant, flower canyon, glowing portal, full HUD, grade and lighting). Match 100%. Set the scene in motion; the world extends forward as the car races on.
+SUBJECT — the carbon hypercar from image1, third-person chase view: big rear wing, twin red tail-lights, chartreuse #d1ef17 hero stripe, rear wheels drifting with a smoke plume.
+LOCATION — the flower canyon from image1 as style reference: iridescent crystal walls, glowing magenta flower banks, turquoise cascades, lantern-lined wet track winding to a glowing violet portal. Emerald giant on the left, bronze giant on the right, planted roadside but swinging their hands down into the track to block the car; the violet giant looms down-track.
+HUD — keep image1's racing UI pinned and LIVE, chartreuse #d1ef17: bottom-left RPM gauge + km/h speedometer (around 320–360); bottom-right gear number + BOOST bar; top-left mini-map with giant-hazard skull markers; top-center lap timer + position "1st". Flat on screen, never in the 3D world.
+SHOT 1 (0:00–0:05) — car drifting at full speed as both giant hands sweep down into the road ahead, smoke and petals exploding, screen shaking, speedometer climbing, BOOST charging.
+SHOT 2 (0:05–0:10) — car snap-drifts around the bronze giant's descending palm as it slams the track, threading the gap by inches; BOOST fires — speed-lines blast in, the world streaks.
+SHOT 3 (0:10–0:15) — car straightens and rockets toward the violet giant and the portal, weaving past the flower banks as the emerald giant swings behind, tail-lights blazing, giants blurring at the edges.
+CONSTRAINTS: 16:9. image1 is style reference not a keyframe — replicate car, giants, canyon, portal, palette, lighting and HUD, animated and moving forward. NO slow-motion — constant full speed. Camera locked to the car. Giants stay roadside but keep swinging hands down. HUD always visible and live. No real brand logos. No eye glow.
+AUDIO — NO MUSIC, SFX ONLY: screaming engine revs and gear shifts, BOOST whoosh, tyre screech and drift squeal, ground-shaking giant palm slams, UI beeps on boost and lap markers, wind and gravel spray.
+```
+Third-person boss fight oner:
+```text
+single continuous shot, one take no cuts, cinematic oner, third-person video-game camera with persistent in-game HUD, photorealistic, 35mm film quality, professional color grading, sharp focus, high detail texture, film grain, depth of field mastery, FPV quadcopter and robotic-arm fluidity, 30fps
+A flooded gothic cathedral drowned in teal water, stained-glass windows blazing magenta, violet and gold behind walls of candle-fire. A hooded swordsman in a dark blue cloak and leather armor stands waist-deep in the glowing water, his molten orange-red blade hissing at the surface. Above him towers the boss, The Hollow Cardinal: a colossal seated figure in tattered crimson and gold robes, a heavy silver cross at its chest, a cracked pale mask crowned with a halo of white-blue candles. The full game HUD stays burned into the frame — compass top-left, quest banner "The Exsanguinated Throne / Defeat the Hollow Cardinal" top-right, red and blue potion slots and health/stamina bars bottom-left, and the ornate boss health bar "The Hollow Cardinal" across the bottom center. One unbroken third-person move where the challenge begins, the Cardinal strikes back, the hero ignites and counters, the boss bar draining. Sound fully diegetic — hissing steam, roaring flame, groaning stone, no music.
+Single continuous shot 15s: the camera floats behind the swordsman's shoulder at a low third-person angle, the centered "Press □ to Challenge" prompt dissolving as he raises the molten blade and the boss bar fills. The Hollow Cardinal lurches awake — a vast pale hand sweeps down through the water and the camera whips sideways as he rolls clear, spray bursting across the HUD, stamina draining a notch. The camera snaps into a macro of the blade igniting, embers crawling along the steel, then orbits fast as fire races up his arm and engulfs his whole body. He launches forward and the camera tracks low beside him through burning spray as he drives the flaming blade up into the Cardinal's chest; the camera pushes into a macro of the cracked mask and candle crown catching alight while the boss bar drains. The camera drops and arcs wide, ramping to slow motion as the crimson robes ignite and the colossus buckles forward, gold vestments peeling into fire and debris raining into the teal water, the boss bar emptying behind the small burning silhouette of the swordsman.
+```
